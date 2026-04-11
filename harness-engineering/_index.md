@@ -10,6 +10,7 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[harnessing-claude-intelligence|Harnessing Claude's Intelligence — 3 Key Patterns]] — Use what Claude knows, ask what you can stop doing, set boundaries carefully (Anthropic)
 - [[subagents-in-claude-code|How and When to Use Subagents in Claude Code]] — Sub-agents as context firewalls, invocation paths, and when to skip them (Anthropic)
 - [[advisor-strategy|The Advisor Strategy — Opus Boost for Sonnet/Haiku]] — Small executor drives, Opus advises on demand via the beta `advisor_20260301` tool (Anthropic)
+- [[skill-creator-evals|Improving Skill-Creator — Test, Measure, Refine Skills]] — Eval authoring, benchmark mode, multi-agent parallel runs, comparator A/B, description tuning (Anthropic)
 
 ## Related Topics
 

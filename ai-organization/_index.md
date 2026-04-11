@@ -10,6 +10,8 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[anthropic-growth-takeaways|Anthropic Growth — Amol Avasare Takeaways]] — PM/eng ratio compression, CASH, alignment as the residual human layer
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — 200% engineer productivity, build-for-future-model, and the pushback
 - [[product-job-market-2026|State of the Product Job Market 2026]] — TrueUp data: PM/eng demand at multi-year highs, design plateau, AI roles hockey-sticking
+- [[product-management-ai-exponential|Product Management on the AI Exponential]] — Cat Wu on side quests, demos-over-docs, revisiting features with new models, doing the simple thing (Anthropic)
+- [[ai-fluency-curriculum|Getting Good at Claude — Research-Backed Curriculum]] — Signature moves per product, Description spectrum, teaching Discernment (Anthropic AI Fluency Index)
 
 ## Related Topics
 
