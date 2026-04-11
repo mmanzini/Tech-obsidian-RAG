@@ -5,7 +5,7 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 ## Topics
 
 - [[agent-architecture/_index|Agent Architecture]] — Foundational principles for building reliable production AI agents (12-factor agents)
-- [[harness-engineering/_index|Harness Engineering]] — Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, Anthropic's "what can I stop doing?" patterns
+- [[harness-engineering/_index|Harness Engineering]] — Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI (deep modules), deterministic CLI hooks
 - [[agent-workflows/_index|Agent Workflows]] — Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared)
 - [[rpi-methodology/_index|RPI Methodology]] — Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning
 - [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features for AI-assisted development (Kiro hooks, specs, steering)
