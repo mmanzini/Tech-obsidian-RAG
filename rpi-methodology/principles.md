@@ -54,7 +54,7 @@ Not about the model being stupid — about recognising that context is the only 
 
 ## See Also
 
-- [[workflow|Workflow]] — how the three phases operate in detail
+- [[Research/Wiki/rpi-methodology/workflow|Workflow]] — how the three phases operate in detail
 - [[validation-gates|Validation Gates]] — FAR and FACTS scales
 - [[context-engineering|Context Engineering]] — the instruction budget constraint behind phase separation
 - [[when-to-use|When to Use RPI]] — where these principles pay off and where they don't

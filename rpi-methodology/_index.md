@@ -6,11 +6,11 @@ This topic is the **deep reference** for RPI. For the one-page overview see [[re
 
 ## Standard
 
-- [[principles|Principles]] — Phase separation, fresh contexts, validation gates as failure-prevention (with honest "advocated not validated" caveat)
-- [[workflow|Workflow]] — The three-phase lifecycle in detail: research sub-agents, plan structure, implementation loop, iteration, `thoughts/` directory
+- [[Research/Wiki/rpi-methodology/principles|Principles]] — Phase separation, fresh contexts, validation gates as failure-prevention (with honest "advocated not validated" caveat)
+- [[Research/Wiki/rpi-methodology/workflow|Workflow]] — The three-phase lifecycle in detail: research sub-agents, plan structure, implementation loop, iteration, `thoughts/` directory
 - [[validation-gates|Validation Gates — FAR & FACTS]] — Research and plan quality scales with critical assessment of their limits
 - [[context-engineering|Context Engineering]] — Instruction budget, context rot, sub-agent firewalls, Anthropic's correctness → completeness → size hierarchy
-- [[glossary|Glossary]] — Key terms: ACE, atomic task, CRISPY, context rot, instruction budget, Ralph loop, reverse prompting, workability
+- [[Research/Wiki/rpi-methodology/glossary|Glossary]] — Key terms: ACE, atomic task, CRISPY, context rot, instruction budget, Ralph loop, reverse prompting, workability
 - [[tool-agnosticism|Tool Agnosticism]] — RPI across Goose (native), Claude Code, Cursor, Copilot, Kiro
 
 ## Guides

@@ -31,7 +31,7 @@ HumanLayer's systematic approach to managing AI agent context windows. Foundatio
 
 ### Three-Phase ACE Workflow
 
-Each phase has specific context-engineering goals (see [[workflow|Workflow]] and [[context-engineering|Context Engineering]]):
+Each phase has specific context-engineering goals (see [[Research/Wiki/rpi-methodology/workflow|Workflow]] and [[context-engineering|Context Engineering]]):
 
 **Research** — fresh contexts to avoid polluting main agent's working memory. Output: research document, **document only, no opinions, no planning**.
 
@@ -227,7 +227,7 @@ The contribution remains valuable — HumanLayer's insights are grounded in prac
 
 ## See Also
 
-- [[principles|Principles]] — phase separation rationale
+- [[Research/Wiki/rpi-methodology/principles|Principles]] — phase separation rationale
 - [[context-engineering|Context Engineering]] — instruction budget and ACE mechanics
 - [[post-rpi-evolution|Post-RPI Evolution]] — CRISPY/QRSPI response to failure modes
 - [[industry-landscape|Industry Landscape]] — how other frameworks implement similar ideas

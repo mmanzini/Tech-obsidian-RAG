@@ -178,7 +178,7 @@ Individual adoption is easy. Team scaling introduces friction — see [[team-ado
 
 ## See Also
 
-- [[principles|Principles]] — why RPI works when it works
+- [[Research/Wiki/rpi-methodology/principles|Principles]] — why RPI works when it works
 - [[getting-started|Getting Started]] — setup + worked example
 - [[team-adoption|Team Adoption]] — scaling ceremony without burnout
 - [[vs-other-frameworks|RPI vs Other Frameworks]] — when to use SDD, Quick Dev, Vibe instead
