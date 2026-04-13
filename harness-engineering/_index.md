@@ -21,3 +21,4 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[agent-architecture/_index|Agent Architecture]] — 12-factor principles for production agent design
 - [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features (Kiro) that complement harness config
 - [[rpi-methodology/_index|RPI Methodology]] — structured workflow that runs inside these harnesses
+- [[ai-security/_index|AI Security]] — security scanning and CI hooks as harness-level defences

@@ -12,7 +12,10 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[product-job-market-2026|State of the Product Job Market 2026]] — TrueUp data: PM/eng demand at multi-year highs, design plateau, AI roles hockey-sticking
 - [[product-management-ai-exponential|Product Management on the AI Exponential]] — Cat Wu on side quests, demos-over-docs, revisiting features with new models, doing the simple thing (Anthropic)
 - [[ai-fluency-curriculum|Getting Good at Claude — Research-Backed Curriculum]] — Signature moves per product, Description spectrum, teaching Discernment (Anthropic AI Fluency Index)
+- [[anthropic-economic-index-learning-curves|Anthropic Economic Index: Learning Curves]] — Usage diversification, model selection by task value, tenure-success correlation, and learning-by-doing evidence (Anthropic, March 2026)
 
 ## Related Topics
 
 - [[agent-architecture/_index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
+- [[constitutional-ai/_index|Constitutional AI]] — values and training behind the models whose adoption these articles study
+- [[way-of-working/_index|Way of Working]] — team structures and frameworks for AI-native organisations

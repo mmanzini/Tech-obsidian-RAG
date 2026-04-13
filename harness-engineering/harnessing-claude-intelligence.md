@@ -14,7 +14,7 @@ Harnesses encode assumptions about what Claude *can't* do on its own — and tho
 
 - Build with tools Claude already understands well — bash, text editor — rather than inventing new ones
 - Claude 3.5 Sonnet hit (then-SOTA) 49% on SWE-bench Verified with *only* bash + text editor tools
-- [[skills-progressive-disclosure|Skills]], programmatic tool calling, and the memory tool are all compositions built on top of bash + text editor
+- [[skill-issue-harness-engineering|Skills]], programmatic tool calling, and the memory tool are all compositions built on top of bash + text editor
 - A strong coding model is a strong *general* agent, because code is a universal orchestration language
 
 ## 2. Ask "What Can I Stop Doing?"
@@ -30,7 +30,7 @@ Three sub-patterns, all about letting Claude take over decisions the harness use
 ### Let Claude manage its own context
 - **Old assumption:** system prompts should be hand-crafted with task-specific instructions
 - **Problem:** pre-loading rarely-used instructions depletes Claude's attention budget
-- **Fix:** [[skills-progressive-disclosure|Skills]] let Claude progressively disclose task-relevant context via YAML frontmatter descriptions
+- **Fix:** [[skill-issue-harness-engineering|Skills]] let Claude progressively disclose task-relevant context via YAML frontmatter descriptions
 - **Related:** context editing removes stale tool results / thinking blocks; [[subagents-in-claude-code|sub-agents]] isolate work in fresh context windows (Opus 4.6 gained +2.8% on BrowseComp via sub-agents)
 
 ### Let Claude persist its own context

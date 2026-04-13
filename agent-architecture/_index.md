@@ -7,6 +7,7 @@ Foundational principles and design patterns for building reliable, production-gr
 - [[twelve-factor-agents|Twelve-Factor Agents]] — 12 principles for LLM-powered software reliable enough for production customers (HumanLayer)
 - [[lethal-trifecta-and-agentic-patterns|Lethal Trifecta and Agentic Engineering Patterns]] — Simon Willison on the unsolved trifecta (private data + untrusted input + external send), red/green TDD, dark factories, and AI exhaustion
 - [[seeing-like-an-agent|Seeing Like an Agent — Designing Tools in Claude Code]] — AskUserQuestion origin story, todo→task transition, progressive disclosure over new tools (Anthropic)
+- [[multi-agent-coordination-patterns|Multi-Agent Coordination Patterns]] — Five canonical patterns (generator-verifier, orchestrator-subagent, agent teams, message bus, shared state) and decision criteria for choosing between them (Anthropic)
 
 ## Related Topics
 

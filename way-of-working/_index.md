@@ -11,3 +11,4 @@ Notes and frameworks on how to organize teams in an AI-native era — what works
 ## Related
 
 - [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — Block's company-as-AI thesis; same problem space, complementary lens
+- [[ai-organization/_index|AI & Organization Design]] — economic and structural impacts of AI adoption on teams and companies
