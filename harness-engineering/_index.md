@@ -14,6 +14,8 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[deep-modules-codebase-for-ai|Deep Modules — Designing Your Codebase for AI]] — Ousterhout's deep modules as greybox seams for AI; filesystem must mirror the mental map (Matt Pocock)
 - [[hooks-for-deterministic-cli-enforcement|Hooks for Deterministic CLI Enforcement]] — Replace CLAUDE.md CLI rules with `PreToolUse` hooks; free up instruction budget (Matt Pocock)
 - [[browser-mcp-visual-feedback|Browser MCP — Visual Feedback Loops]] — Browser MCP servers (Chrome DevTools, Playwriter, Dev Browser) give agents visual feedback for frontend QA (Matt Pocock)
+- [[claude-code-routines|Claude Code Routines]] — Saved configurations that run autonomously on cloud infrastructure via scheduled, API, and GitHub triggers (Anthropic, research preview)
+- [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — Sidebar session management, integrated terminal/editor/diff, drag-and-drop layout for orchestrating multiple simultaneous sessions (Anthropic)
 
 ## Related Topics
 

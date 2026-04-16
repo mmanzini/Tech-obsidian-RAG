@@ -104,8 +104,8 @@ Expanding 100k → 1M appears to be a solution but introduces new problems:
 
 ## See Also
 
-- [[Research/Wiki/rpi-methodology/principles|Principles]] — phase separation applies context engineering at the workflow layer
-- [[Research/Wiki/rpi-methodology/workflow|Workflow]] — three-phase lifecycle as context engineering in practice
+- [[principles|Principles]] — phase separation applies context engineering at the workflow layer
+- [[workflow|Workflow]] — three-phase lifecycle as context engineering in practice
 - [[post-rpi-evolution|Post-RPI Evolution]] — CRISPY/QRSPI as instruction-budget decomposition
 - [[humanlayer-and-hitl|HumanLayer and HITL]] — ACE framework origin and the 40-60% target
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering]] — "sub-agents as context firewall" framing

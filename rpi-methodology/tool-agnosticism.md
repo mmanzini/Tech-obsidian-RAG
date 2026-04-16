@@ -167,7 +167,7 @@ RPI claims tool-agnosticism — technically true. Practically, **RPI is dramatic
 
 ## See Also
 
-- [[Research/Wiki/rpi-methodology/workflow|Workflow]] — the lifecycle being implemented across tools
+- [[workflow|Workflow]] — the lifecycle being implemented across tools
 - [[getting-started|Getting Started]] — manual worked example
 - [[vs-other-frameworks|RPI vs Other Frameworks]] — Kiro and other IDE choices
 - [[subagents-in-claude-code|How and When to Use Subagents in Claude Code]] — closest Claude Code primitive to Goose's research sub-agents

@@ -148,7 +148,7 @@ Comparison: a senior engineer doing this manually would likely take 2-4 hours pl
 
 ## See Also
 
-- [[Research/Wiki/rpi-methodology/principles|Principles]] — why phase separation works
+- [[principles|Principles]] — why phase separation works
 - [[validation-gates|Validation Gates]] — FAR and FACTS in detail
 - [[tool-agnosticism|Tool Agnosticism]] — Goose commands vs. manual prompting
 - [[getting-started|Getting Started]] — worked example

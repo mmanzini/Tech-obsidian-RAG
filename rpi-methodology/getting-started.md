@@ -175,7 +175,7 @@ See [[when-to-use|When to Use RPI]] for the full decision framework.
 
 ## See Also
 
-- [[Research/Wiki/rpi-methodology/workflow|Workflow]] — the full lifecycle
+- [[workflow|Workflow]] — the full lifecycle
 - [[validation-gates|Validation Gates]] — FAR and FACTS reference
 - [[when-to-use|When to Use RPI]] — decision framework
 - [[tool-agnosticism|Tool Agnosticism]] — implementation across tools

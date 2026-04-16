@@ -19,3 +19,4 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[agent-architecture/_index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
 - [[constitutional-ai/_index|Constitutional AI]] — values and training behind the models whose adoption these articles study
 - [[way-of-working/_index|Way of Working]] — team structures and frameworks for AI-native organisations
+- [[product-management/_index|Product Management]] — strategy, discovery, and the PM role in the AI era

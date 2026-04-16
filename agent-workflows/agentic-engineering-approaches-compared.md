@@ -26,10 +26,10 @@ Core lessons (from [[skill-issue-harness-engineering]] and [[harness-design-long
 
 | Workflow | Phases | Human checkpoints | Optimized for |
 |---|---|---|---|
-| **[[research-plan-implement\|RPI]]** | Research → Plan → Implement (fresh session per phase, FAR + FACTS gates) | Between every phase | Predictability, correctness, multi-file refactors |
-| **[[sdd-workflow\|SDD]]** | Brief → Specify → Design → Task → Implement → Validate | At each checkpoint; Always/Ask/Never boundaries per spec | Durable intent, tool-agnostic, team/org scale |
-| **[[quick-dev\|Quick Dev]]** (BMad) | Compress intent → Route → Run → Review (triage) | Intent + final review only | Velocity on trusted execution |
-| **[[kiro-specs\|Kiro Specs]]** | Requirements → Design → Tasks (IDE-native) | Per phase | Same as RPI/SDD but baked into an IDE |
+| **[[research-plan-implement|RPI]]** | Research → Plan → Implement (fresh session per phase, FAR + FACTS gates) | Between every phase | Predictability, correctness, multi-file refactors |
+| **[[sdd-workflow|SDD]]** | Brief → Specify → Design → Task → Implement → Validate | At each checkpoint; Always/Ask/Never boundaries per spec | Durable intent, tool-agnostic, team/org scale |
+| **[[quick-dev|Quick Dev]]** (BMad) | Compress intent → Route → Run → Review (triage) | Intent + final review only | Velocity on trusted execution |
+| **[[kiro-specs|Kiro Specs]]** | Requirements → Design → Tasks (IDE-native) | Per phase | Same as RPI/SDD but baked into an IDE |
 | **Vibe coding** | None | Continuous | Prototypes, throwaway spikes |
 
 ### How They Relate

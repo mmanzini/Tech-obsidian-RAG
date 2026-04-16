@@ -12,3 +12,4 @@ How Anthropic defines, trains, and publishes the values that shape Claude's beha
 - [[ai-organization/_index|AI & Organization Design]] — economic and organisational impacts of Claude adoption
 - [[harness-engineering/_index|Harness Engineering]] — how constitutional values manifest in agent configuration
 - [[agent-architecture/_index|Agent Architecture]] — architectural patterns for agents that embody these values
+- [[ai-security/_index|AI Security]] — how constitutional values manifest in security behaviour and constraints

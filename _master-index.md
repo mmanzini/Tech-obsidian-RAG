@@ -18,3 +18,5 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 - [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document
 - [[ai-security/_index|AI Security]] — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
 - [[way-of-working/_index|Way of Working]] — Heist Framework, Rally Model retrospective, and AI-native team structures
+- [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, and Modular Context Navigation
+- [[product-management/_index|Product Management]] — Strategy, discovery, delivery, team design, and the PM role in the AI era (Roman Pichler)
