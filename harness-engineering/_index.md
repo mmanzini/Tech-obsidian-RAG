@@ -16,6 +16,7 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[browser-mcp-visual-feedback|Browser MCP — Visual Feedback Loops]] — Browser MCP servers (Chrome DevTools, Playwriter, Dev Browser) give agents visual feedback for frontend QA (Matt Pocock)
 - [[claude-code-routines|Claude Code Routines]] — Saved configurations that run autonomously on cloud infrastructure via scheduled, API, and GitHub triggers (Anthropic, research preview)
 - [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — Sidebar session management, integrated terminal/editor/diff, drag-and-drop layout for orchestrating multiple simultaneous sessions (Anthropic)
+- [[opus-4-7-best-practices|Opus 4.7 Best Practices for Claude Code]] — Effort levels (xhigh default), adaptive thinking, front-loading context, and harness adjustments for the 4.6 → 4.7 upgrade (Anthropic)
 
 ## Related Topics
 

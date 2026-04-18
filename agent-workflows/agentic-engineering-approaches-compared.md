@@ -114,6 +114,7 @@ Every approach above converges on the same handful of truths:
 - **Greenfield** is where planner-first SDD and long-running harnesses shine.
 - **Brownfield** is where RPI's Research phase, OpenSpec-style deltas, and Kiro Bugfix Specs earn their keep — generic greenfield templates actively hurt here.
 - The approaches are composable: a team can run SDD at the org level while individual devs run RPI inside a single spec's Implement phase, all powered by a sub-agent-heavy harness.
+- See [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] for how these same principles (exploration before commitment, adversarial tension, context firewalls) apply one level up — at the product and prototyping layer rather than the code generation layer.
 
 ## Sources
 

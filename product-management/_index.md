@@ -21,6 +21,6 @@ Frameworks and thinking on product management in the AI era — strategy, discov
 ## Related Topics
 
 - [[ai-product-development/_index|AI Product Development]] — applying structured thinking to AI-assisted product building
-- [[ai-organization/_index|AI & Organization Design]] — how AI changes company structure and the PM role
+- [[ai-organization/_index|AI & Organisation Design]] — how AI changes company structure and the PM role (org-level and economic lens)
 - [[way-of-working/_index|Way of Working]] — team structures and operating models in the AI-native era
 - [[spec-driven-development/_index|Spec-Driven Development]] — the strategy-to-spec pipeline that connects product intent to implementation

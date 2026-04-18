@@ -7,7 +7,7 @@ A curated, LLM-compiled wiki covering AI engineering, agent architecture, produc
 | Topic | Description |
 |---|---|
 | [Agent Architecture](agent-architecture/_index.md) | Foundational principles and coordination patterns for building reliable production AI agents (12-factor agents, multi-agent patterns) |
-| [Harness Engineering](harness-engineering/_index.md) | Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI (deep modules), deterministic CLI hooks, browser MCP for visual feedback |
+| [Harness Engineering](harness-engineering/_index.md) | Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI, browser MCP, routines, desktop parallel sessions, Opus 4.7 tuning |
 | [Agent Workflows](agent-workflows/_index.md) | Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared) |
 | [RPI Methodology](rpi-methodology/_index.md) | Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning |
 | [AI Dev Tools](ai-dev-tools/_index.md) | IDE-level features for AI-assisted development (Kiro hooks, specs, steering) |

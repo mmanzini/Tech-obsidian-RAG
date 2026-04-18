@@ -5,11 +5,11 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 ## Topics
 
 - [[agent-architecture/_index|Agent Architecture]] — Foundational principles and coordination patterns for building reliable production AI agents (12-factor agents, multi-agent patterns)
-- [[harness-engineering/_index|Harness Engineering]] — Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI (deep modules), deterministic CLI hooks, browser MCP for visual feedback
+- [[harness-engineering/_index|Harness Engineering]] — Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI, browser MCP, routines, desktop parallel sessions, Opus 4.7 tuning
 - [[agent-workflows/_index|Agent Workflows]] — Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared)
 - [[rpi-methodology/_index|RPI Methodology]] — Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning
 - [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features for AI-assisted development (Kiro hooks, specs, steering)
-- [[ai-organization/_index|AI & Organization Design]] — How AI changes company structure and coordination (Block / Sequoia thesis), economic impact research (Anthropic Economic Index)
+- [[ai-organization/_index|AI & Organisation Design]] — How AI changes company structure and coordination (Block / Sequoia thesis), economic impact research (Anthropic Economic Index)
 - [[spec-driven-development/_index|Spec-Driven Development]] — Tool-agnostic standard treating the spec as the durable artifact (phases, roles, boundaries)
 - [[ci-integrations/_index|CI Integrations]] — Running Claude in CI/CD: GitHub Actions, managed Code Review with REVIEW.md customization
 - [[ai-native-banking/_index|AI-Native Banking]] — AI-native banking OS architecture and Backbase 2026 segment-level predictions

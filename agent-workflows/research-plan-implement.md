@@ -140,3 +140,4 @@ PR built on first try. Code Review Agent had zero comments. The author "fell asl
 - [[effective-harnesses-long-running|Effective Harnesses for Long-Running Agents]] — Anthropic's analogous initializer/coder pattern
 - [[twelve-factor-agents|Twelve-Factor Agents]] — broader principles RPI embodies (small focused agents, owning your context window)
 - [[kiro-specs|Kiro Specs]] — Kiro IDE's automation of a similar requirements → design → tasks workflow
+- [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — applies RPI's Research phase principle (explore before committing) one level up, at the product and prototyping layer

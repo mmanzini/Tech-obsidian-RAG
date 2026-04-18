@@ -59,3 +59,4 @@ After addressing findings, run it again. A second pass usually catches more. A t
 - [[quick-dev|Quick Dev]] — uses adversarial review as its review subagent
 - [[harness-design-long-running-apps|Harness Design for Long-Running App Development]] — Anthropic's evaluator agent works on the same separation principle
 - [[research-plan-implement|Research Plan Implement (RPI)]] — verification gates serve a similar but less adversarial function
+- [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — applies the Generator/Critic pattern one level up, to product decisions and prototyping (Adversarial Iteration component)
