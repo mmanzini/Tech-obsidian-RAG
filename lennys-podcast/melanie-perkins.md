@@ -1,6 +1,6 @@
 # Melanie Perkins — Column B thinking: get to the future by refusing Column A trade-offs
 
-Source: `Raw/melanie-perkins.md` (Lenny's Podcast, Canva co-founder/CEO)
+Source: `sources/melanie-perkins.md` (Lenny's Podcast, Canva co-founder/CEO)
 
 Perkins' operating system is built on reframing every "either/or" into "both/and" and pursuing Crazy Big Goals by grinding through absurd amounts of rejection. The distinctive moves are her Column B thinking, the two-step plan, the rubber-ducky game board, and the mission-pillar discipline that forces product to hit every ingredient, language and device.
 

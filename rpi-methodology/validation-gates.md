@@ -108,7 +108,7 @@ The scales' **real value** is forcing explicitness about what "good research" an
 
 ## See Also
 
-- [[Intelligence/Tech research/Wiki/rpi-methodology/principles|Principles]] — why these gates exist
+- [[principles|Principles]] — why these gates exist
 - [[workflow|Workflow]] — where FAR and FACTS sit in the lifecycle
 - [[team-adoption|Team Adoption]] — the plan-reading illusion that degrades FACTS in practice
 - [[adversarial-review|Adversarial Review]] — forced-finding review that counteracts rubber-stamping

@@ -1,6 +1,6 @@
 # Howie Liu — The IC CEO and the fast-thinking / slow-thinking org
 
-Source: `Raw/howie-liu.md` (Lenny's Podcast, Airtable co-founder/CEO)
+Source: `sources/howie-liu.md` (Lenny's Podcast, Airtable co-founder/CEO)
 
 Liu's thesis: every pre-GenAI company must be **refounded**, and the CEO has to become an IC again to do it. His operating frameworks are the fast-thinking / slow-thinking reorg borrowed from Kahneman, the chief-tastemaker stance, a ruthless weekly AI-execution cadence, and the "if you founded this today" test for deciding whether to keep running the company at all.
 

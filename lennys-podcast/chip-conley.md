@@ -1,6 +1,6 @@
 # Chip Conley — The Modern Elder: crystallized intelligence as the scarcer resource
 
-Source: `Raw/chip-conley.md` (Lenny's Podcast, Airbnb Modern Elder Academy founder)
+Source: `sources/chip-conley.md` (Lenny's Podcast, Airbnb Modern Elder Academy founder)
 
 Conley's framing: the midlife tech worker isn't obsolete, they're a **Modern Elder** whose crystallized intelligence (pattern recognition across careers) is precisely what fluid-intelligence-rich twenty-somethings lack. His toolkit is a set of reframes — midlife chrysalis not crisis, confidant not advisor, belong anywhere not travel — backed by named equations and measured outcomes.
 

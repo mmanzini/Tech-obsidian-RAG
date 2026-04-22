@@ -1,6 +1,6 @@
 # Stewart Butterfield — Tilt your umbrella: the craft of noticing what everyone else shrugs off
 
-Source: `Raw/stewart-butterfield.md` (Lenny's Podcast, Slack/Flickr co-founder)
+Source: `sources/stewart-butterfield.md` (Lenny's Podcast, Slack/Flickr co-founder)
 
 Butterfield's recurring move is to treat mundane "of course it works that way" details as actual design surface. His frameworks are about seeing utility curves bend, catching the moments when friction masquerades as inevitability, and killing beloved projects with cold rationality.
 

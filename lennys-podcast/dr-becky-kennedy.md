@@ -1,6 +1,6 @@
 # Dr. Becky Kennedy — Sturdy leadership: the pilot, the repair, and the Most Generous Interpretation
 
-Source: `Raw/dr-becky-kennedy.md` (Lenny's Podcast, clinical psychologist, Good Inside)
+Source: `sources/dr-becky-kennedy.md` (Lenny's Podcast, clinical psychologist, Good Inside)
 
 Dr. Becky's parenting frameworks map cleanly onto leadership. The thesis: behavior and identity are separable, perfect is creepy, and the real leadership skill is sturdiness — the pilot who stays calm when the plane hits turbulence. Her frames (MGI, repair, connect-before-correct, locate someone) are designed for moments of conflict, not moments of ease.
 

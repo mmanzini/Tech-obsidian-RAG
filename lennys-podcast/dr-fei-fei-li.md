@@ -1,6 +1,6 @@
 # Dr. Fei-Fei Li — Spatial intelligence and the humanist AI: past the cave, into the world
 
-Source: `Raw/dr-fei-fei-li.md` (Lenny's Podcast, ImageNet creator, World Labs founder)
+Source: `sources/dr-fei-fei-li.md` (Lenny's Podcast, ImageNet creator, World Labs founder)
 
 Fei-Fei Li's thesis: today's LLMs are Plato's cave — linguistic shadows of a 3D world they've never seen. The next frontier is **spatial intelligence** — world models that understand geometry, physics, and embodiment. Her frameworks are anchored in the ImageNet story (the three-ingredient recipe that birthed modern AI), intellectual fearlessness, and "humanist AI — nothing artificial about it."
 
