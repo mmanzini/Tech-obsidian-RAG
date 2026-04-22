@@ -5,6 +5,7 @@ Frameworks and thinking on how to build better products with AI — applying str
 ## Articles
 
 - [[ai-product-development-framework]] — Three-component framework (Sandbox Discovery, Adversarial Iteration, Modular Context Navigation) for reintroducing rigour into AI-driven product development without losing speed
+- [[vibe-coding-what-people-ship]] — 50+ crowdsourced examples: what non-technical people vibe-code and actually use (Lenny)
 
 ## Related Topics
 

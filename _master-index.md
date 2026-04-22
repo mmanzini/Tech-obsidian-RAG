@@ -9,7 +9,7 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 - [[agent-workflows/_index|Agent Workflows]] — Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared)
 - [[rpi-methodology/_index|RPI Methodology]] — Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning
 - [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features for AI-assisted development (Kiro hooks, specs, steering)
-- [[ai-organization/_index|AI & Organisation Design]] — How AI changes company structure and coordination (Block / Sequoia thesis), economic impact research (Anthropic Economic Index)
+- [[ai-organization/_index|AI & Organisation Design]] — How AI changes company structure (Block/Sequoia, Dorsey mini-AGI), AI fluency curriculum, product management on the AI exponential, Anthropic Economic Index, product job market 2025/2026, AI glossary, and Anthropic-adjacent takeaways (Avasare, Cherny, Vo)
 - [[spec-driven-development/_index|Spec-Driven Development]] — Tool-agnostic standard treating the spec as the durable artifact (phases, roles, boundaries)
 - [[ci-integrations/_index|CI Integrations]] — Running Claude in CI/CD: GitHub Actions, managed Code Review with REVIEW.md customization
 - [[ai-native-banking/_index|AI-Native Banking]] — AI-native banking OS architecture and Backbase 2026 segment-level predictions
@@ -18,5 +18,6 @@ The entry point to the wiki. Each topic has its own folder with an `_index.md` l
 - [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document
 - [[ai-security/_index|AI Security]] — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
 - [[way-of-working/_index|Way of Working]] — Heist Framework, Rally Model retrospective, and AI-native team structures
-- [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, and Modular Context Navigation
-- [[product-management/_index|Product Management]] — Strategy, discovery, delivery, team design, and the PM role in the AI era (Roman Pichler)
+- [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
+- [[product-management/_index|Product Management]] — Strategy, discovery, delivery, team design, and PM craft in the AI era. Roman Pichler plus guest essays (Raviv, Khan, Matthews, Klein, Mazal) and Lenny's essentials
+- [[lennys-podcast/_index|Lenny's Podcast]] — Episode-by-episode signal from Lenny Rachitsky's interviews: founders, PM leaders, AI researchers, designers, and operators

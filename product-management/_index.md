@@ -18,6 +18,14 @@ Frameworks and thinking on product management in the AI era — strategy, discov
 ### Team Design
 - [[building-high-performing-teams]] — Cross-functional, self-managing, empowered teams; goal alignment, psychological safety, and stability
 
+### PM craft and AI workflow
+- [[ai-prototyping-for-pms]] — Colin Matthews on v0/Bolt/Replit/Lovable tool selection + reflection/batching/specificity prompt patterns
+- [[pm-guide-to-evals]] — Aman Khan's four-part eval formula (role/context/goal/terminology) and 4-phase workflow
+- [[pm-second-brain-chatgpt]] — Amir Klein on ChatGPT Projects as context store + meta-prompting system instructions
+- [[unfair-pm-role]] — Tal Raviv's seven tactics for the "super-IC" PM (live-in-meeting action items, Loom, Slack discipline, scrapbooking, AI writes / human reads)
+- [[essential-reading-part-1]] — Lenny's seven timeless essays (Monkey, Agency, taste gap, Buchheit 3-features, Andreessen market-first, Musk chef vs cook)
+- [[duolingo-growth-reignition]] — Jorge Mazal's MECE bucket model, CURR as north star, leaderboards + push + streaks → 4.5× DAU
+
 ## Related Topics
 
 - [[ai-product-development/_index|AI Product Development]] — applying structured thinking to AI-assisted product building

@@ -17,6 +17,7 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[claude-code-routines|Claude Code Routines]] — Saved configurations that run autonomously on cloud infrastructure via scheduled, API, and GitHub triggers (Anthropic, research preview)
 - [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — Sidebar session management, integrated terminal/editor/diff, drag-and-drop layout for orchestrating multiple simultaneous sessions (Anthropic)
 - [[opus-4-7-best-practices|Opus 4.7 Best Practices for Claude Code]] — Effort levels (xhigh default), adaptive thinking, front-loading context, and harness adjustments for the 4.6 → 4.7 upgrade (Anthropic)
+- [[use-claude-code-more|Everyone Should Be Using Claude Code More]] — 50 non-technical use cases; reframe as "Claude Agent" on your laptop; right directory + MCP + CLAUDE.md + slash commands (Lenny)
 
 ## Related Topics
 

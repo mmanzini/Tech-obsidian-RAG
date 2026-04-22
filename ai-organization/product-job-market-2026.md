@@ -23,6 +23,7 @@ Lenny Rachitsky's biannual report (March 2026) on tech hiring trends, based on T
 
 ## Related
 
+- [[ai-organization/product-job-market-2025|Product job market — mid-2025]] — the predecessor snapshot
 - [[anthropic-growth-takeaways|Anthropic Growth — Amol Avasare Takeaways]] — qualitative view of why PM demand is rising even as eng output explodes
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — the productivity multiplier driving the role-mix shift
 - [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]]

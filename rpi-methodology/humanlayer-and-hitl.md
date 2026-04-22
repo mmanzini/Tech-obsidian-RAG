@@ -227,7 +227,7 @@ The contribution remains valuable — HumanLayer's insights are grounded in prac
 
 ## See Also
 
-- [[principles|Principles]] — phase separation rationale
+- [[Intelligence/Tech research/Wiki/rpi-methodology/principles|Principles]] — phase separation rationale
 - [[context-engineering|Context Engineering]] — instruction budget and ACE mechanics
 - [[post-rpi-evolution|Post-RPI Evolution]] — CRISPY/QRSPI response to failure modes
 - [[industry-landscape|Industry Landscape]] — how other frameworks implement similar ideas
