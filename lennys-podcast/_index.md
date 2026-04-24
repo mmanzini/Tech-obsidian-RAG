@@ -21,6 +21,7 @@ Three earlier episodes live in the `ai-organization/` topic because they were co
 - [[matt-lemay]] — "If you were CEO, would you fully fund your own team?" as the impact diagnostic
 - [[nick-turley]] — The model *is* the product; leader's job is setting the team's resting heart rate
 - [[nikhyl-singhal]] — PM is simultaneously in renaissance and crisis; "how modern are you?" replaces resume logos
+- [[cat-wu]] — Anthropic PM lead: timelines compressed 6mo→1wk, ship in research-preview, hire engineers with product taste, evals as the new PRD
 
 ### Growth, GTM, and B2B
 - [[elena-verna]] — Flip to 95% innovation / 5% optimization; LLM cost *is* marketing spend
