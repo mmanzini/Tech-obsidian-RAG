@@ -57,5 +57,5 @@ Wen's through-line: the classic design process (discover → define → design �
 ## Related
 - [[design-in-ai/_index|Design in AI]]
 - [[ai-product-development/_index|AI product development]]
-- [[ai-organization/_index|AI organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

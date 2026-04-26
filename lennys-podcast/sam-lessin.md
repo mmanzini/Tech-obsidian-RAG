@@ -58,6 +58,6 @@ Sam Lessin's frame: etiquette is showing up in a room with a low heart rate. Abu
 
 ## Related
 - [[way-of-working/_index|Way of Working]] — etiquette and calendar hygiene
-- [[ai-organization/_index|AI Organization]] — AI as leverage vs. product category
+- [[ai-organization/_index|AI & Organisation Design]] — AI as leverage vs. product category
 - [[ai-product-development/_index|AI Product Development]] — thin moats in the app layer
 - [[lennys-podcast/_index|Lenny's Podcast]]

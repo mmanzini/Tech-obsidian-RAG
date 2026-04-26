@@ -9,4 +9,6 @@ A portfolio business model: build small, focused mobile apps that wrap free gove
 
 ## Related
 
-- [[quick-dev|Quick Dev]] — Matches the "ship a small app in days" tempo this business depends on
+- [[agent-workflows/quick-dev|Quick Dev]] — Matches the "ship a small app in days" tempo this business depends on
+- [[ai-product-development/vibe-coding-what-people-ship|Vibe Coding — What People Ship]] — field survey of small apps being built with AI; parallels the open-data app thesis
+- [[harness-engineering/_index|Harness Engineering]] — the coding-agent setup that makes solo "ship in days" feasible

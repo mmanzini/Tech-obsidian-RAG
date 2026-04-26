@@ -69,5 +69,5 @@ Ravi Mehta's operating system for product leaders: a five-layer strategy stack, 
 ## Related
 - [[product-management/_index|Product Management]] — strategy, goals, competencies
 - [[way-of-working/_index|Way of Working]] — NCTs vs OKRs, micromanagement matrix
-- [[ai-organization/_index|AI Organization]] — PM competencies in AI era
+- [[ai-organization/_index|AI & Organisation Design]] — PM competencies in AI era
 - [[lennys-podcast/_index|Lenny's Podcast]]

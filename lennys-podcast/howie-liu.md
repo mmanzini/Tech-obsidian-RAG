@@ -59,7 +59,7 @@ Liu's thesis: every pre-GenAI company must be **refounded**, and the CEO has to 
 - Model capability shifts imply new form factors — you can't bolt new models onto old UX.
 
 ## Related
-- [[ai-organization/_index|AI organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[ai-product-development/_index|AI product development]]
 - [[harness-engineering/_index|Harness engineering]]
 - [[way-of-working/_index|Way of working]]

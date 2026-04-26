@@ -73,6 +73,6 @@ Jason took over Scale AI after the $14B Meta deal that moved Alex Wang and ~15 p
 
 - [[lennys-podcast/jeanne-grosser|Jeanne Grosser — Enterprise AI adoption]]
 - [[lennys-podcast/jason-lemkin|Jason Lemkin — B2B sales]]
-- [[ai-organization/_index|AI Organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-native-banking/_index|AI-Native Enterprise]]

@@ -2,7 +2,7 @@
 
 Episode-by-episode signal from Lenny Rachitsky's interviews. Founders, PM leaders, AI researchers, designers, operators. Each article extracts frameworks, named concepts, and specific numbers — not the full transcript.
 
-### Guests compiled under [[ai-organization/_index|AI & Organization]]
+### Guests compiled under [[ai-organization/_index|AI & Organisation Design]]
 
 Three earlier episodes live in the `ai-organization/` topic because they were compiled before this index existed:
 
@@ -76,7 +76,7 @@ Three earlier episodes live in the `ai-organization/` topic because they were co
 ## Related topics
 
 - [[product-management/_index|Product Management]] — framework layer above the guest episodes
-- [[ai-organization/_index|AI & Organization]] — contains Amol Avasare, Boris Cherny, and Claire Vo takeaways from earlier Lenny episodes
+- [[ai-organization/_index|AI & Organisation Design]] — contains Amol Avasare, Boris Cherny, and Claire Vo takeaways from earlier Lenny episodes
 - [[ai-product-development/_index|AI Product Development]] — product-building frameworks that these guests reference
 - [[harness-engineering/_index|Harness Engineering]] — coding-agent setup referenced in the AI-infra batch
 - [[way-of-working/_index|Way of Working]] — team and operator patterns from the exec batch

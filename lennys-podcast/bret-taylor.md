@@ -40,8 +40,9 @@ Taylor argues the consumer web's next substrate is the agent, not the page — a
 - Taylor's career heuristic: ask "most impactful thing *today*", compress complex actions into one affordance
 
 ## Related
-- [[ai-product-development]]
-- [[agent-architecture]]
-- [[agent-workflows]]
-- [[ai-organization]]
-- [[product-management]]
+- [[ai-product-development/_index|AI Product Development]]
+- [[agent-architecture/_index|Agent Architecture]]
+- [[agent-workflows/_index|Agent Workflows]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[product-management/_index|Product Management]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

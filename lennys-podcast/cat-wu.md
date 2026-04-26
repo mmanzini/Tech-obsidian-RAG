@@ -10,7 +10,7 @@ Cat runs product for Claude Code and Cowork alongside Boris Cherny. Her core the
 - Now: features ship in 1 month, sometimes 1 week, sometimes 1 day.
 - Implication: stop coordinating multi-quarter roadmaps; **build a "concept corner" of the product where any engineer or PM can take an idea to users by end of week**.
 - The best PMs are the ones who shorten time-from-idea-to-user and decide which tasks must work out of the box.
-- Echoes [[boris-cherny|Boris Cherny]]'s "build for the model six months from now" — Cat is the *path-from-today-to-vision* counterpart to Boris's vision-setting.
+- Echoes [[ai-organization/claude-code-productivity-takeaways|Boris Cherny]]'s "build for the model six months from now" — Cat is the *path-from-today-to-vision* counterpart to Boris's vision-setting.
 
 ## Process for shipping in a week
 
@@ -124,7 +124,8 @@ What replaces the PRD:
 
 ## Related
 
-- [[boris-cherny|Boris Cherny]] (in [[ai-organization/_index|AI Organization]]) — Cat's tech-lead counterpart on the same team
+- [[ai-organization/claude-code-productivity-takeaways|Boris Cherny]] (in [[ai-organization/_index|AI & Organisation Design]]) — Cat's tech-lead counterpart on the same team
+- [[ai-organization/product-management-ai-exponential|Product Management on the AI Exponential]] — Cat Wu's companion Anthropic blog post covering the same themes
 - [[ai-organization/anthropic-growth-takeaways|Amol Avasare]] — opposite lever (more PMs vs more product-minded engineers)
 - [[ai-organization/openclaw-personal-agent-team|Claire Vo]] — third-party-tool perspective on the OpenClaude shift
 - [[sherwin-wu|Sherwin Wu]] — OpenAI-side parallel: 95% engineer adoption, context-files-as-code

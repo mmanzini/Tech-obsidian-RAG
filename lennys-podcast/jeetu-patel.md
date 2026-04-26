@@ -55,7 +55,7 @@ Jeetu's six-part operating framework for betting a company's future: **Timing > 
 
 ## Related
 - [[product-management/_index|Product Management]] — the 6-part framework, permission-to-play
-- [[ai-organization/_index|AI Organization]] — stamina, storytelling, public/private norms
+- [[ai-organization/_index|AI & Organisation Design]] — stamina, storytelling, public/private norms
 - [[ai-product-development/_index|AI Product Development]] — megatrend-vs-hype PhD test
 - [[way-of-working/_index|Way of Working]] — public critique, private trust
 - [[lennys-podcast/_index|Lenny's Podcast]]

@@ -9,5 +9,5 @@ How AI is reshaping banking architecture, operations, and competitive dynamics �
 
 ## Related
 
-- [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — the same "rebuild around AI as the core, not a bolt-on" thesis applied to org design
-- [[mckinsey-agentic-workflows|McKinsey — Agentic Workflows for Software Development]] — the SDLC equivalent of "AI-native vs AI-bolted"
+- [[ai-organization/from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — the same "rebuild around AI as the core, not a bolt-on" thesis applied to org design
+- [[agent-workflows/mckinsey-agentic-workflows|McKinsey Agentic Workflows]] — the SDLC equivalent of "AI-native vs AI-bolted"

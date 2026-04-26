@@ -24,7 +24,7 @@ Embiricos reframes the coding-agent category: Codex isn't a smarter autocomplete
 ## Sora Android: 28 days, 2–3 engineers
 - The Sora Android app shipped in 28 days with 2–3 humans plus Codex doing most of the implementation.
 - Their claim is not "AI writes 100% of code" but "small spiky teams are now viable for products that used to need a 20-person org."
-- Connects to [[ai-organization/_index|AI Organization]] surgeon-team thesis: one principal plus a swarm of agents.
+- Connects to [[ai-organization/_index|AI & Organisation Design]] surgeon-team thesis: one principal plus a swarm of agents.
 
 ## Chatter-driven development
 - The team's mode: constant async updates in Slack/threads about what agents are doing, what changed, what broke — chatter is the coordination layer.
@@ -51,7 +51,7 @@ Embiricos reframes the coding-agent category: Codex isn't a smarter autocomplete
 ## Related
 - [[harness-engineering/_index|Harness Engineering]] — compaction, memory, context assembly
 - [[agent-architecture/_index|Agent Architecture]] — three-layer stack, parallel agents
-- [[ai-organization/_index|AI Organization]] — small spiky teams, surgeon model
+- [[ai-organization/_index|AI & Organisation Design]] — small spiky teams, surgeon model
 - [[spec-driven-development/_index|Spec-Driven Development]] — specs survive compaction
 - [[ai-product-development/_index|AI Product Development]] — contextual actions, chatter-driven workflow
 - [[lennys-podcast/_index|Lenny's Podcast]]

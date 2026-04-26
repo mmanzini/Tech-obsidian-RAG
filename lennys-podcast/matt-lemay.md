@@ -62,5 +62,5 @@ Matt LeMay's one career-saving question: *If you were CEO, would you fully fund 
 ## Related
 - [[product-management/_index|Product Management]] — goal-setting, impact, OKRs
 - [[way-of-working/_index|Way of Working]] — team goal design
-- [[ai-organization/_index|AI Organization]] — commercial accountability in AI era
+- [[ai-organization/_index|AI & Organisation Design]] — commercial accountability in AI era
 - [[lennys-podcast/_index|Lenny's Podcast]]

@@ -61,4 +61,5 @@ Forsgren built the DORA research program and later SPACE at Microsoft. Her count
 - [[way-of-working/_index|Way of Working]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[harness-engineering/_index|Harness Engineering]]
+- [[ci-integrations/_index|CI Integrations]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

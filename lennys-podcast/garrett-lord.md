@@ -42,7 +42,8 @@ Handshake AI went from $0 to $50M ARR in four months, sitting inside a $200M cor
 - "Leave nothing to chance" — pre-wire high-stakes moments, don't improvise
 
 ## Related
-- [[ai-product-development]]
-- [[ai-organization]]
-- [[agent-workflows]]
-- [[way-of-working]]
+- [[ai-product-development/_index|AI Product Development]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[agent-workflows/_index|Agent Workflows]]
+- [[way-of-working/_index|Way of Working]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

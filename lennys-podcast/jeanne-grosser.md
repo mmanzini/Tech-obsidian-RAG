@@ -63,4 +63,4 @@ Jeanne's remit spans marketing, sales, customer success, RevOps, and field engin
 - [[lennys-podcast/jason-lemkin|Jason Lemkin — Sales hiring]]
 - [[lennys-podcast/ethan-smith|Ethan Smith — AEO]]
 - [[ai-product-development/_index|AI Product Development]]
-- [[ai-organization/_index|AI Organization]]
+- [[ai-organization/_index|AI & Organisation Design]]

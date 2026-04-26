@@ -57,3 +57,4 @@ Result: "RL from AI Feedback" (RLAIF) — harmlessness training with zero human 
 
 - [[claude-constitution-2026|Claude's Constitution (2026)]] — how the constitutional approach evolved from principles list to holistic document
 - [[agent-architecture/_index|Agent Architecture]] — patterns for building agents grounded in these values
+- [[ai-security/_index|AI Security]] — defensive strategies relevant to safely deploying AI systems

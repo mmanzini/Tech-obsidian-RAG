@@ -18,6 +18,11 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — Sidebar session management, integrated terminal/editor/diff, drag-and-drop layout for orchestrating multiple simultaneous sessions (Anthropic)
 - [[opus-4-7-best-practices|Opus 4.7 Best Practices for Claude Code]] — Effort levels (xhigh default), adaptive thinking, front-loading context, and harness adjustments for the 4.6 → 4.7 upgrade (Anthropic)
 - [[use-claude-code-more|Everyone Should Be Using Claude Code More]] — 50 non-technical use cases; reframe as "Claude Agent" on your laptop; right directory + MCP + CLAUDE.md + slash commands (Lenny)
+- [[nlh-meta-harness-harness-science|NLH, Meta Harness, and the Science of Harness Engineering]] — 6× performance gap; natural language harnesses; Meta Harness auto-optimisation; three eras (prompt → context → harness engineering)
+- [[claude-managed-agents-memory|Built-in Memory for Claude Managed Agents]] — filesystem-based cross-session memory, scoped stores, audit logs, enterprise controls (Anthropic public beta)
+- [[mcp-apps-interactive-ui|MCP Apps — Interactive UI Inside MCP Hosts]] — interactive HTML interfaces rendered in chat via sandboxed iframe; bidirectional data flow over MCP
+- [[claude-cowork-full-guide|Claude Cowork — Full Practical Guide]] — non-technical agent harness: skills, plugins, sub-agents, scheduled tasks, AI OS for teams (Ben AI full course)
+- [[claude-code-agentic-os|Claude Code Agentic OS — Three-Gap Framework]] — memory/consistency/access gaps, org-chart skill mapping, local vs. remote automation decision, command center dashboard for non-technical users (Chase AI)
 
 ## Related Topics
 

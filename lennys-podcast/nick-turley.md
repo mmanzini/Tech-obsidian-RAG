@@ -72,6 +72,6 @@ Nick Turley's operating philosophy for the fastest-growing product in history: t
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — model-as-product, evals, iteration
 - [[way-of-working/_index|Way of Working]] — pace and resting heart rate
-- [[ai-organization/_index|AI Organization]] — hiring barrels, research + product
+- [[ai-organization/_index|AI & Organisation Design]] — hiring barrels, research + product
 - [[product-management/_index|Product Management]] — first-principles PMing
 - [[lennys-podcast/_index|Lenny's Podcast]]

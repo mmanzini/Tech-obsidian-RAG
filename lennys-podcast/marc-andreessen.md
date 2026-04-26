@@ -56,7 +56,7 @@ Marc Andreessen's big argument: AI is civilization's long-awaited productivity u
 - Read X and dead people. Skip the middle.
 
 ## Related
-- [[ai-organization/_index|AI Organization]] — three-way role collapse
+- [[ai-organization/_index|AI & Organisation Design]] — three-way role collapse
 - [[ai-product-development/_index|AI Product Development]] — commoditization of the app layer
 - [[way-of-working/_index|Way of Working]] — super-empowered individual
 - [[lennys-podcast/_index|Lenny's Podcast]]

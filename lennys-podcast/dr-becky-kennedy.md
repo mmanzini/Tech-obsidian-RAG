@@ -55,5 +55,5 @@ Dr. Becky's parenting frameworks map cleanly onto leadership. The thesis: behavi
 
 ## Related
 - [[way-of-working/_index|Way of working]]
-- [[ai-organization/_index|AI organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

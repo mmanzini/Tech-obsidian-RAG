@@ -1,4 +1,4 @@
-# AI & Organization Design
+# AI & Organisation Design
 
 How AI changes the way companies are structured, coordinate, and make decisions — moving from hierarchy-as-information-routing to AI-as-coordination-layer.
 
@@ -7,8 +7,8 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — Block's vision for replacing middle-management coordination with AI world models (Sequoia Capital)
 - [[dorsey-mini-agi-podcast|Jack Dorsey — Every Company Can Now Be a Mini-AGI]] — Dorsey on the 40% RIF, three roles, four layers, and "Dorsey mode" (Sequoia *Long Strange Trip* podcast)
 - [[openclaw-personal-agent-team|OpenClaw — A Personal Team of AI Agents]] — Claire Vo's nine-agent personal/business assistant setup (Lenny's Newsletter)
-- [[anthropic-growth-takeaways|Anthropic Growth — Amol Avasare Takeaways]] — PM/eng ratio compression, CASH, alignment as the residual human layer
-- [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — 200% engineer productivity, build-for-future-model, and the pushback
+- [[anthropic-growth-takeaways|Anthropic Growth — Amol Avasare Takeaways]] — PM/eng ratio compression, CASH, alignment as the residual human layer (Lenny's Podcast)
+- [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — 200% engineer productivity, build-for-future-model, and the pushback (Lenny's Podcast)
 - [[product-job-market-2026|State of the Product Job Market 2026]] — TrueUp data: PM/eng demand at multi-year highs, design plateau, AI roles hockey-sticking
 - [[product-job-market-2025|State of the Product Job Market 2025]] — Mid-2025 predecessor snapshot: 6K+ open PM roles, AI-PM explosion, Bay Area reconcentration
 - [[an-ai-glossary]] — Explain-it-like-I'm-5 definitions of ~20 core AI terms (LLM, transformer, RAG, MCP, agent spectrum, RLHF)

@@ -13,5 +13,5 @@ Foundational principles and design patterns for building reliable, production-gr
 
 - [[harness-engineering/_index|Harness Engineering]] — applying these principles to coding agent configuration
 - [[agent-workflows/_index|Agent Workflows]] — structured task patterns (RPI, Quick Dev) that embody these principles
-- [[ai-organization/_index|AI & Organization Design]] — how agent architecture enables org-level AI coordination
+- [[ai-organization/_index|AI & Organisation Design]] — how agent architecture enables org-level AI coordination
 - [[rpi-methodology/_index|RPI Methodology]] — applied workflow that embodies twelve-factor principles

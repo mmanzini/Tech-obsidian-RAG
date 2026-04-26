@@ -34,7 +34,7 @@ Sherwin's report from inside OpenAI API: 95% of engineers use Codex, 100% of PRs
 - Sherwin revives Brooks's *surgeon team*: one principal programmer, everyone else in support roles.
 - Updated for 2026: one senior engineer + a surgical team of agents.
 - A 3-person human team running 10 agents each > a 30-person traditional team for most product work.
-- See [[ai-organization/_index|AI Organization]].
+- See [[ai-organization/_index|AI & Organisation Design]].
 
 ## One-person billion-dollar startup — 2nd/3rd order effects
 - Sherwin takes seriously the one-person $1B company thesis — but the **2nd/3rd order effects** are the story.
@@ -61,6 +61,6 @@ Sherwin's report from inside OpenAI API: 95% of engineers use Codex, 100% of PRs
 - [[agent-architecture/_index|Agent Architecture]] — Codex as reviewer, surgeon-team pattern
 - [[agent-workflows/_index|Agent Workflows]] — 100% PR review as a workflow gate
 - [[spec-driven-development/_index|Spec-Driven Development]] — what made 100%-Codex possible
-- [[ai-organization/_index|AI Organization]] — surgeon team, time allocation, top-down+bottoms-up
+- [[ai-organization/_index|AI & Organisation Design]] — surgeon team, time allocation, top-down+bottoms-up
 - [[ai-product-development/_index|AI Product Development]] — one-person unicorn, 2nd-order effects
 - [[lennys-podcast/_index|Lenny's Podcast]]

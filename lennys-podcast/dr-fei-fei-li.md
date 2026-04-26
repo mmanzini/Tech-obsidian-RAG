@@ -51,6 +51,6 @@ Fei-Fei Li's thesis: today's LLMs are Plato's cave — linguistic shadows of a 3
 
 ## Related
 - [[ai-product-development/_index|AI product development]]
-- [[ai-organization/_index|AI organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[harness-engineering/_index|Harness engineering]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

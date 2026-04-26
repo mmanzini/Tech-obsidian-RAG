@@ -8,7 +8,7 @@ Dhanji wrote an AI manifesto to Jack Dorsey arguing that Block's GM-based struct
 - Dhanji's argument to Dorsey: a GM org (one GM per product line) is an industrial-era fit; AI-native companies need **functional depth** like Apple's single-P&L model.
 - Conway's Law in reverse: if you want AI-native products, your org chart has to stop mirroring 2010-era product silos.
 - Block's re-org followed — functional leaders for design, engineering, AI — not GM-per-product.
-- See [[ai-organization/_index|AI Organization]].
+- See [[ai-organization/_index|AI & Organisation Design]].
 
 ## Goose — the wingman agent
 - Goose is Block's open-source MCP-based agent; name is deliberately Top Gun (Maverick's wingman, not a replacement pilot).
@@ -49,7 +49,7 @@ Dhanji wrote an AI manifesto to Jack Dorsey arguing that Block's GM-based struct
 - MCP is the right abstraction layer; open-source is a talent magnet and quality-forcing function.
 
 ## Related
-- [[ai-organization/_index|AI Organization]] — functional vs. GM structure, Conway's Law
+- [[ai-organization/_index|AI & Organisation Design]] — functional vs. GM structure, Conway's Law
 - [[harness-engineering/_index|Harness Engineering]] — MCP, Goose
 - [[agent-architecture/_index|Agent Architecture]] — screen-watching agents
 - [[spec-driven-development/_index|Spec-Driven Development]] — specs as the durable artifact

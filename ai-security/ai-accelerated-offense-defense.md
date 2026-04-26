@@ -103,3 +103,4 @@ When submitting reports upstream (especially to open-source maintainers receivin
 
 - [[ci-integrations/_index|CI Integrations]] — AI-powered code review as a pre-ship security layer
 - [[constitutional-ai/_index|Constitutional AI]] — hard constraints on Claude's security-related behaviour
+- [[agent-architecture/_index|Agent Architecture]] — foundational patterns for building secure, reliable agents

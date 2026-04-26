@@ -55,5 +55,5 @@ Robby's counter-narrative to the "AI will kill Google" story: AI makes search *e
 - [[ai-product-development/_index|AI Product Development]] — AI-as-expansion, format bets
 - [[agent-architecture/_index|Agent Architecture]] — query fan-out, subagent composition
 - [[product-management/_index|Product Management]] — dissatisfied operating stance, fruit-sticker habit
-- [[ai-organization/_index|AI Organization]] — three-pillar product strategy at scale
+- [[ai-organization/_index|AI & Organisation Design]] — three-pillar product strategy at scale
 - [[lennys-podcast/_index|Lenny's Podcast]]

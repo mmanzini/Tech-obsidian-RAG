@@ -176,6 +176,14 @@ Individual adoption is easy. Team scaling introduces friction — see [[team-ado
 
 **RPI is a tool, not a law.** Adapt to the problem.
 
+## Key Takeaways
+
+- RPI is optimised for deterministic, multi-file changes (4+ files, complex dependencies, high error cost); skip it for exploratory, greenfield, or trivial work.
+- The break-even threshold: 20-30 minutes of upfront Research + Plan pays off when it prevents 2+ rework cycles of 30-60 minutes each.
+- Over-engineering risk is real — if ceremony is too heavy engineers skip steps, defeating the purpose; adapt the process to fit the problem.
+- Abandon RPI mid-stream when research uncovers a fundamentally different problem, the plan feels like a straightjacket, or scope explodes beyond 50 phases.
+- RPI is a tool, not a law — the decision tree and comparison table are guides, not mandates.
+
 ## See Also
 
 - [[principles|Principles]] — why RPI works when it works

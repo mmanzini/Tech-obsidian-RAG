@@ -63,6 +63,7 @@ Lenny's post-episode summary distilled six points — the headline framing was: 
 - [[harness-engineering/_index|Harness Engineering]] — templates, skills, review-less workflows
 - [[agent-workflows/_index|Agent Workflows]] — TDD patterns, prototyping-in-threes
 - [[ai-security/_index|AI Security]] — lethal trifecta and prompt injection
-- [[ai-organization/_index|AI Organization]] — dark factories and the new middle
+- [[ai-organization/_index|AI & Organisation Design]] — dark factories and the new middle
 - [[ai-product-development/_index|AI Product Development]] — prototyping is free, ideas are the bottleneck
+- [[agent-architecture/lethal-trifecta-and-agentic-patterns|Lethal Trifecta and Agentic Patterns]] — Lenny's takeaways article on the same trifecta framework
 - [[lennys-podcast/_index|Lenny's Podcast]]

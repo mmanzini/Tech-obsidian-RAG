@@ -63,5 +63,5 @@ Brian Halligan's thesis: at 100 employees the job changes. Below that you're pla
 ## Related
 - [[way-of-working/_index|Way of Working]] — CEO operating rhythm
 - [[product-management/_index|Product Management]] — hiring and culture
-- [[ai-organization/_index|AI Organization]] — talent density at scale
+- [[ai-organization/_index|AI & Organisation Design]] — talent density at scale
 - [[lennys-podcast/_index|Lenny's Podcast]]

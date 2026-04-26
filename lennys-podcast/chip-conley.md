@@ -44,6 +44,6 @@ Conley's framing: the midlife tech worker isn't obsolete, they're a **Modern Eld
 - Hire for culture-add, not culture-fit; age diversity is cognitive diversity.
 
 ## Related
-- [[ai-organization/_index|AI organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[way-of-working/_index|Way of working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

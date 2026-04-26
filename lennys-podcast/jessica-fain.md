@@ -62,5 +62,5 @@ Fain's thesis separates **influence** (getting the org to the right answer) from
 ## Related
 - [[product-management/_index|Product management]]
 - [[way-of-working/_index|Way of working]]
-- [[ai-organization/_index|AI organization]]
+- [[ai-organization/_index|AI & Organisation Design]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

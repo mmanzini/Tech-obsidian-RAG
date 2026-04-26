@@ -38,8 +38,9 @@ Sharma's frame: AI-era products behave like organisms, not artifacts. They mutat
 - Leaders must renew optimism daily while holding the eval line
 
 ## Related
-- [[ai-product-development]]
-- [[ai-organization]]
-- [[way-of-working]]
-- [[agent-workflows]]
-- [[product-management]]
+- [[ai-product-development/_index|AI Product Development]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[way-of-working/_index|Way of Working]]
+- [[agent-workflows/_index|Agent Workflows]]
+- [[product-management/_index|Product Management]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

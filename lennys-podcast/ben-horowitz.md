@@ -49,5 +49,5 @@ Ben Horowitz's operating theory of the CEO: most company deaths aren't one bad c
 ## Related
 - [[product-management/_index|Product Management]] — leadership without authority
 - [[way-of-working/_index|Way of Working]] — decision-making under pressure
-- [[ai-organization/_index|AI Organization]] — CEO role in AI-era companies
+- [[ai-organization/_index|AI & Organisation Design]] — CEO role in AI-era companies
 - [[lennys-podcast/_index|Lenny's Podcast]]

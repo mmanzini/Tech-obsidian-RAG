@@ -52,7 +52,8 @@ Singhal's read on the PM job market: a bifurcation is underway. Builders are hav
 - PMs will diffuse into every industry as agents of transformation
 
 ## Related
-- [[product-management]]
-- [[ai-organization]]
-- [[way-of-working]]
-- [[ai-product-development]]
+- [[product-management/_index|Product Management]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[way-of-working/_index|Way of Working]]
+- [[ai-product-development/_index|AI Product Development]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

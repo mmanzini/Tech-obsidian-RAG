@@ -40,8 +40,9 @@ McCabe reshaped Intercom around Fin, an AI support agent that hit $100M ARR in u
 - Price for the margin you expect in 12 months, not today's cost
 
 ## Related
-- [[ai-product-development]]
-- [[ai-organization]]
-- [[way-of-working]]
-- [[product-management]]
-- [[agent-architecture]]
+- [[ai-product-development/_index|AI Product Development]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[way-of-working/_index|Way of Working]]
+- [[product-management/_index|Product Management]]
+- [[agent-architecture/_index|Agent Architecture]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

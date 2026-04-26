@@ -13,7 +13,7 @@ Tomer's theory of the AI-era PM: AI is not the driver, the PM is — but they're
 - LinkedIn's feed was stuck. Tomer's fix: carve out a 2M-member segment and give a dedicated team end-to-end control over that segment's feed experience.
 - Small cohort, fast iteration, no cross-product dependencies — classic skunkworks played inside a platform.
 - Once the carve-out proved new patterns at scale, they rolled back out to 100%.
-- Connects to [[ai-organization/_index|AI Organization]] on segment-scoped teams.
+- Connects to [[ai-organization/_index|AI & Organisation Design]] on segment-scoped teams.
 
 ## AI-first mindset — PMs control the pedals
 - The metaphor: AI is the car, the PM is the driver. The pedals (gas, brake, steering) are the same job they've always been — just responding to different machinery underneath.
@@ -51,6 +51,6 @@ Tomer's theory of the AI-era PM: AI is not the driver, the PM is — but they're
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — AI-first framing, diverge/converge
 - [[product-management/_index|Product Management]] — PM as driver, mountain-peak framing
-- [[ai-organization/_index|AI Organization]] — segment carve-outs, AI Academy
+- [[ai-organization/_index|AI & Organisation Design]] — segment carve-outs, AI Academy
 - [[way-of-working/_index|Way of Working]] — conviction-with-humility as operating stance
 - [[lennys-podcast/_index|Lenny's Podcast]]

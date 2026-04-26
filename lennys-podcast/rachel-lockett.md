@@ -50,6 +50,7 @@ Lockett's core argument: most tech leaders default to advising when they should 
 - "Would I enthusiastically rehire this person?" is the binary talent filter
 
 ## Related
-- [[way-of-working]]
-- [[ai-organization]]
-- [[product-management]]
+- [[way-of-working/_index|Way of Working]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[product-management/_index|Product Management]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

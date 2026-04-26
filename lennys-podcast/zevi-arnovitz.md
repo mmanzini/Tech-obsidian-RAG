@@ -51,8 +51,9 @@ Arnovitz is a non-technical PM who ships real revenue-generating products himsel
 - For interviews or new skills, AI-first is now the default move, not a shortcut
 
 ## Related
-- [[ai-dev-tools]]
-- [[agent-workflows]]
-- [[spec-driven-development]]
-- [[way-of-working]]
-- [[product-management]]
+- [[ai-dev-tools/_index|AI Dev Tools]]
+- [[agent-workflows/_index|Agent Workflows]]
+- [[spec-driven-development/_index|Spec-Driven Development]]
+- [[way-of-working/_index|Way of Working]]
+- [[product-management/_index|Product Management]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

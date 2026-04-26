@@ -37,7 +37,8 @@ Mercor went from $1 ARR to $400M in 16 months selling expert human data to front
 - Fastest throughput on the scarce primitive beats feature-rich competitors in a bending market
 
 ## Related
-- [[ai-product-development]]
-- [[ai-organization]]
-- [[agent-workflows]]
-- [[way-of-working]]
+- [[ai-product-development/_index|AI Product Development]]
+- [[ai-organization/_index|AI & Organisation Design]]
+- [[agent-workflows/_index|Agent Workflows]]
+- [[way-of-working/_index|Way of Working]]
+- [[lennys-podcast/_index|Lenny's Podcast]]

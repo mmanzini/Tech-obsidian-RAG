@@ -62,5 +62,5 @@ Chip Huyen's viral insight: the things people *think* improve AI apps (new frame
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — RAG and evals
 - [[harness-engineering/_index|Harness Engineering]] — Cursor adoption, senior/junior split
-- [[ai-organization/_index|AI Organization]] — eval ownership across functions
+- [[ai-organization/_index|AI & Organisation Design]] — eval ownership across functions
 - [[lennys-podcast/_index|Lenny's Podcast]]

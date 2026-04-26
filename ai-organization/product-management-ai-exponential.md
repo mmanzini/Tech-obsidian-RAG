@@ -76,4 +76,4 @@ The net effect: product teams move significantly faster. When a PM can go from i
 - **Optimize for capability first when prototyping** — use more tokens than you think you need. Cost comes down later; capability has to be proven first.
 - **"Do the simple thing that works"** — workarounds for model limits become obsolete complexity. Todo-list reminders, heavy system prompts, and 20% of Opus-4.6's prompt all got removed as models improved.
 - The PM role compresses to: identify non-negotiables, create clarity in ambiguity, push the team bigger, clear the path to ship.
-- Cross-links: [[ai-organization/from-hierarchy-to-intelligence|from-hierarchy-to-intelligence]], [[ai-organization/claude-code-productivity-takeaways|claude-code-productivity-takeaways]], [[ai-organization/product-job-market-2026|product-job-market-2026]].
+- Cross-links: [[ai-organization/from-hierarchy-to-intelligence|from-hierarchy-to-intelligence]], [[ai-organization/claude-code-productivity-takeaways|claude-code-productivity-takeaways]], [[ai-organization/product-job-market-2026|product-job-market-2026]], [[lennys-podcast/cat-wu|cat-wu (Lenny's episode)]].

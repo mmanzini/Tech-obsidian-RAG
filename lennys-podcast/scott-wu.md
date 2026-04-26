@@ -51,7 +51,7 @@ Scott's bet: the right unit of coding AI isn't a copilot or a tool, it's a *name
 ## Related
 - [[agent-architecture/_index|Agent Architecture]] — autonomous engineer pattern, ownership
 - [[agent-workflows/_index|Agent Workflows]] — reviewing jagged output
-- [[ai-organization/_index|AI Organization]] — 15 engineers × 5 agents, bricklayer→architect
+- [[ai-organization/_index|AI & Organisation Design]] — 15 engineers × 5 agents, bricklayer→architect
 - [[harness-engineering/_index|Harness Engineering]] — the substrate under the persona
 - [[ai-product-development/_index|AI Product Development]] — Jevons Paradox, rising ambition
 - [[lennys-podcast/_index|Lenny's Podcast]]

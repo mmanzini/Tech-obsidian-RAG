@@ -2,7 +2,7 @@
 
 **Source:** RPI Agentic Harness Methodology v0.1 (April 2026) — a structured, critically-examined reference for the Research-Plan-Implement framework originally developed by HumanLayer (Dexter Horthy, 2024), adopted by Block's Goose and Kilo.ai, and evolved into CRISPY/QRSPI.
 
-This topic is the **deep reference** for RPI. For the one-page overview see [[research-plan-implement|Research Plan Implement (RPI)]] in agent-workflows.
+This topic is the **deep reference** for RPI. For the one-page overview see [[rpi-methodology/research-plan-implement|Research-Plan-Implement]] in agent-workflows.
 
 ## Standard
 

@@ -173,6 +173,14 @@ See [[when-to-use|When to Use RPI]] for the full decision framework.
 3. Run Research → review FAR → Plan → review FACTS → Implement
 4. Once comfortable, scale to larger changes
 
+## Key Takeaways
+
+- Minimal setup: a `thoughts/` directory, three phases (Research → Plan → Implement), and fresh context between each phase.
+- Research is documentation only — no opinions, no planning; validate with FAR (Factual, Actionable, Relevant).
+- Plans must be self-contained and atomic; validate with FACTS (Feasible, Atomic, Clear, Testable, Scoped); target 5–15 phases.
+- Implementation should feel mechanical — if it requires creativity, the upstream phase was weak.
+- RPI pays off when a change spans 3+ files, involves complex dependencies, or carries a high cost of mistakes.
+
 ## See Also
 
 - [[workflow|Workflow]] — the full lifecycle
