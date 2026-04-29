@@ -1,31 +1,32 @@
 # Tech Research
 
-A curated, LLM-compiled wiki on how to build well with AI. Articles are distilled from primary sources into concise, cross-linked notes.
+A curated, LLM-compiled wiki on how to build well with AI.
 
-## Scope
+This repository is a public mirror of one bucket from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, blog posts, podcast episodes, internal experiments — into concise, cross-linked notes with inline source citations.
 
-How to build with AI: agent architecture and workflows, the harness layer around coding agents (CLAUDE.md, MCP, skills, hooks, sub-agents, long-running patterns), structured methodologies (RPI, spec-driven development, adversarial review), and the broader practice of doing AI-assisted product and engineering work — including how AI changes team and organisation design, the PM craft, design tooling for agents, AI security, and AI-native verticals (banking, open-data apps).
+## What's in here
 
-Belongs here: anything about *how to build well with AI* — tools, patterns, methodologies, team practice. Does **not** belong here: macro/geopolitical commentary on the AI industry as a market or political force (that goes to a separate `political-economy` repo), and raw GitHub trending repo writeups (those go to `github-trends`).
+- **Agent architecture and workflows** — coordination patterns, structured methodologies (RPI, spec-driven development, adversarial review), and the practical patterns of doing AI-assisted product and engineering work.
+- **Harness engineering** — configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running patterns, eval workflows, and routines.
+- **AI and the practice of work** — how AI changes team and organisation design, the PM craft, and design tooling for agents.
+- **AI security and defensive patterns** — vulnerability management, zero trust, incident response in an AI-accelerated threat landscape.
+- **AI-native verticals** — banking, open-data apps, and other domain-specific patterns.
+- **Long-form podcast and interview signal** — episode-level distillation of Lenny's Podcast and adjacent shows for PM and engineering leaders.
 
-## Topics
+## Browsing
 
-| Topic | Description |
-|---|---|
-| [Agent Architecture](agent-architecture/_index.md) | Foundational principles and coordination patterns for building reliable production AI agents (12-factor agents, multi-agent patterns, lethal trifecta security patterns, agentic tool design) |
-| [Harness Engineering](harness-engineering/_index.md) | Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI, browser MCP, routines, desktop parallel sessions, Opus 4.7 tuning; NLH/Meta Harness science; Managed Agents memory; MCP Apps interactive UI; Cowork full guide for non-technical teams; Agentic OS three-gap framework (memory/consistency/access), org-chart skill mapping, local vs. remote automation, command center dashboard; Skills 2.0 eval workflow (one-target eval cycles, AB tests, context engineering via reference file experiments) |
-| [Agent Workflows](agent-workflows/_index.md) | Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared) |
-| [RPI Methodology](rpi-methodology/_index.md) | Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning |
-| [AI Dev Tools](ai-dev-tools/_index.md) | IDE-level features for AI-assisted development (Kiro hooks, specs, steering) |
-| [AI & Organisation Design](ai-organization/_index.md) | How AI changes company structure (Block/Sequoia, Dorsey mini-AGI), AI fluency curriculum, product management on the AI exponential, Anthropic Economic Index, product job market 2025/2026, AI glossary, and Anthropic-adjacent takeaways (Avasare, Cherny, Vo) |
-| [Spec-Driven Development](spec-driven-development/_index.md) | Tool-agnostic standard treating the spec as the durable artifact (phases, roles, boundaries) |
-| [CI Integrations](ci-integrations/_index.md) | Running Claude in CI/CD: GitHub Actions, managed Code Review with REVIEW.md customization |
-| [AI-Native Banking](ai-native-banking/_index.md) | AI-native banking OS architecture and Backbase 2026 segment-level predictions |
-| [Open Data Apps](open-data-apps/_index.md) | Portfolio business model: small EUR 0.99 apps wrapping free public APIs |
-| [Design in AI](design-in-ai/_index.md) | Encoding design intent for AI agents: Design.md convention, Google Stitch, design tokens history, accessibility gaps, tool landscape |
-| [Constitutional AI](constitutional-ai/_index.md) | Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document |
-| [AI Security](ai-security/_index.md) | Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response |
-| [Way of Working](way-of-working/_index.md) | Heist Framework, Rally Model retrospective, and AI-native team structures |
-| [AI Product Development](ai-product-development/_index.md) | Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding |
-| [Product Management](product-management/_index.md) | Strategy, discovery, delivery, team design, and PM craft in the AI era. Roman Pichler plus guest essays (Raviv, Khan, Matthews, Klein, Mazal) and Lenny's essentials |
-| [Lenny's Podcast](lennys-podcast/_index.md) | Episode-by-episode signal from Lenny Rachitsky's interviews: founders, PM leaders, AI researchers, designers, and operators |
+The folders at the root of this repo are the topic clusters. Each topic folder contains:
+
+- `_index.md` — a one-line description of every article in that topic.
+- The article files themselves (`.md`).
+- Any embedded images or documents referenced inline by those articles.
+
+`_master-index.md` at the root lists every topic with a short description. Start there if you want a map; otherwise just browse the folder tree.
+
+## Method
+
+Sources go through a structured `consolidate` pass: each article cites its source files inline, contradictions between sources are surfaced rather than smoothed over, and a separate `refine` pass audits the wiki for orphans, broken links, and schema violations. The full method lives in the parent vault and is not published here.
+
+## Updates
+
+This repo syncs from the parent vault on a schedule — content is added or revised whenever the upstream notes change. The history of changes is visible in the commit log.
