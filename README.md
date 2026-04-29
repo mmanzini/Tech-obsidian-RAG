@@ -1,4 +1,4 @@
-# Tech Research
+# AI Engineering
 
 A curated, LLM-compiled wiki on how to build well with AI.
 
