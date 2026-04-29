@@ -1,8 +1,8 @@
 # Eoghan McCabe — The sharp knife and the 99¢ agent
 
-Source: [[lennys-podcast]] interview with Eoghan McCabe (founder & CEO Intercom).
+**Source:** [How Intercom rose from the ashes by betting everything on AI](https://www.youtube.com/watch?v=0_opWSfmN8M)
 
-McCabe reshaped Intercom around Fin, an AI support agent that hit $100M ARR in under three quarters — built six weeks after GPT-3.5 shipped. The story is half product (outcome pricing) and half ego-death leadership rewrite.
+McCabe reshaped Intercom around Fin, an AI support agent that hit $100M ARR in under three quarters — built six weeks after GPT-3.5 shipped. The story is half product (outcome pricing) and half ego-death leadership rewrite. (source: https://www.youtube.com/watch?v=0_opWSfmN8M)
 
 ## Fin: zero to $100M in under three quarters
 - Prototype started six weeks after GPT-3.5 launched

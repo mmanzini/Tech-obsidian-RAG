@@ -1,8 +1,8 @@
 # Nikhyl Singhal — Smiling exhaustion and the PM renaissance
 
-Source: [[lennys-podcast]] interview with Nikhyl Singhal (ex-VP Product at Meta, Google, founder of The Skip).
+**Source:** [Why half of product managers are in trouble](https://www.youtube.com/watch?v=yUohoaC8_Hs)
 
-Singhal's read on the PM job market: a bifurcation is underway. Builders are having the best year of their careers; career-PMs are heading for an existential crisis. The next 12–24 months will be chaotic, then stabilise.
+Singhal's read on the PM job market: a bifurcation is underway. Builders are having the best year of their careers; career-PMs are heading for an existential crisis. The next 12–24 months will be chaotic, then stabilise. (source: https://www.youtube.com/watch?v=yUohoaC8_Hs)
 
 ## Smiling exhaustion
 - PMs spent years exhausted by alignment meetings, influence-without-authority, org overhead

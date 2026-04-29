@@ -7,6 +7,7 @@ Notes and frameworks on how to organize teams in an AI-native era — what works
 - [[heist-framework]] — The current model: Crews, Jobs, Signatures, and the operating rituals
 - [[rally-model-retrospective]] — The volleyball-themed predecessor that didn't land, and the lessons that shaped the Heist
 - [[agile-and-ai-team-structures]] — Transformational principles and structures for AI-native scaled teams
+- [[against-premature-abstraction]] — Sandi Metz's principle applied: why DRY-at-all-costs is the dominant failure mode and when duplication is the right call
 
 ## Related Topics
 

@@ -5,6 +5,7 @@ Defensive security strategies for the era of AI-accelerated offense: how AI chan
 ## Articles
 
 - [[ai-accelerated-offense-defense|Preparing for AI-Accelerated Offense]] — Seven-point defensive playbook: patching, vulnerability management, pre-ship scanning, code auditing, breach design, surface reduction, incident response
+- [[secret-rotation-interview]] — Platform engineer interview: why secret rotation stalls on politics not tooling, and the six-month deprecation + exec-cover fix
 
 ## Related Topics
 

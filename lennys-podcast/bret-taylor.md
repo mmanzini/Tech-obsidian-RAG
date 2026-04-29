@@ -1,8 +1,8 @@
 # Bret Taylor — The agent is the new app
 
-Source: [[lennys-podcast]] interview with Bret Taylor (co-CEO Sierra, chair OpenAI, ex-CTO Facebook, ex-co-CEO Salesforce, co-creator of Google Maps).
+**Source:** [He saved OpenAI, invented the "Like" button, and built Google Maps](https://www.youtube.com/watch?v=qImgGtnNbx0)
 
-Taylor argues the consumer web's next substrate is the agent, not the page — and draws on a career of shipping at that kind of inflection (Maps, Like button, Quip, Sierra) to show what builders should do now.
+Taylor argues the consumer web's next substrate is the agent, not the page — and draws on a career of shipping at that kind of inflection (Maps, Like button, Quip, Sierra) to show what builders should do now. (source: https://www.youtube.com/watch?v=qImgGtnNbx0)
 
 ## Three tiers of the AI market
 - Frontier labs (OpenAI, Anthropic, Google) — capital-intensive, winner-concentrated

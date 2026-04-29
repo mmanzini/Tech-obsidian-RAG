@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Tomer Cohen (CPO, LinkedIn)
 
-Tomer's theory of the AI-era PM: AI is not the driver, the PM is — but they're driving a car with very different pedals. He ran a 2M-member carve-out to turn around the LinkedIn feed, forces his org through an "AI Academy," and tells his teams "I might be wrong, but I'm not confused." AI is the ultimate matchmaker; the PM's job is to keep steering toward the mountain peak while diverging broadly before converging.
+Tomer's theory of the AI-era PM: AI is not the driver, the PM is — but they're driving a car with very different pedals. He ran a 2M-member carve-out to turn around the LinkedIn feed, forces his org through an "AI Academy," and tells his teams "I might be wrong, but I'm not confused." AI is the ultimate matchmaker; the PM's job is to keep steering toward the mountain peak while diverging broadly before converging. (source: Lenny's Podcast)
 
 ## "Might be wrong but not confused"
 - Tomer's signature line and internal operating phrase.

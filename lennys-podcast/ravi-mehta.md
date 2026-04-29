@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Ravi Mehta (Outpace, ex-Tinder CPO, Facebook, TripAdvisor)
 
-Ravi Mehta's operating system for product leaders: a five-layer strategy stack, an NCT-based approach to risk, and the heretical claim that goals should come *after* the roadmap, not before. His Tinder "Platinum tier" story is a case study in whale-driven product design.
+Ravi Mehta's operating system for product leaders: a five-layer strategy stack, an NCT-based approach to risk, and the heretical claim that goals should come *after* the roadmap, not before. His Tinder "Platinum tier" story is a case study in whale-driven product design. (source: Lenny's Podcast)
 
 ## The Product Strategy Stack (five layers)
 1. **Mission** — why the company exists

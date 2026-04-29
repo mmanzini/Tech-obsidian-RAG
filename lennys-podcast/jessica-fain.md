@@ -1,8 +1,8 @@
 # Jessica Fain — Executive calendars are strobe lights: how to influence without politics
 
-Source: `sources/jessica-fain.md` (Lenny's Podcast, product leader, ex-Mapbox/Asana)
+**Source:** [The art of influence: The single most important skill left that AI can't replace](https://www.youtube.com/watch?v=RP4vJeIb7WU)
 
-Fain's thesis separates **influence** (getting the org to the right answer) from **politics** (getting credit or territory). Her toolkit is specifically designed around the reality that executives see your problem for 30–60 seconds at a time — their calendars are strobe lights, not movies. The frameworks are pre-written moves for specific high-leverage moments.
+Fain's thesis separates **influence** (getting the org to the right answer) from **politics** (getting credit or territory). Her toolkit is specifically designed around the reality that executives see your problem for 30–60 seconds at a time — their calendars are strobe lights, not movies. The frameworks are pre-written moves for specific high-leverage moments. (source: https://www.youtube.com/watch?v=RP4vJeIb7WU)
 
 ## Influence vs. politics
 - Influence: shift the org's understanding/decision toward what's right.

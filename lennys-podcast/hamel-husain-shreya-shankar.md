@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — AI eval practitioners / course instructors
 
-Hamel (ex-Airbnb, GitHub) and Shreya (Berkeley PhD) teach the most popular AI evals course. Their core claim: 90% of eval value comes from systematic error analysis, not benchmark scores. The workflow is qualitative social science applied to LLM traces.
+Hamel (ex-Airbnb, GitHub) and Shreya (Berkeley PhD) teach the most popular AI evals course. Their core claim: 90% of eval value comes from systematic error analysis, not benchmark scores. The workflow is qualitative social science applied to LLM traces. (source: Lenny's Podcast)
 
 ## The Nurture Boss Workflow — Open Coding → Axial Coding
 

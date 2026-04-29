@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — CEO, Graphite (18 years in SEO)
 
-Ethan ranks this the **second-biggest shift in SEO history** (after Panda killed programmatic spam). He separates what works in the ChatGPT/Perplexity era from what no longer does.
+Ethan ranks this the **second-biggest shift in SEO history** (after Panda killed programmatic spam). He separates what works in the ChatGPT/Perplexity era from what no longer does. (source: Lenny's Podcast)
 
 ## AEO = LLM + RAG, Not Training Data
 

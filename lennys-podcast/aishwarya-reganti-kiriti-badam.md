@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — AI product leaders (ex-AWS, ex-Meta)
 
-Aishwarya and Kiriti argue that AI product development fails when teams apply deterministic-era playbooks to non-deterministic systems. Their operating model: a V1→V2→V3 progression, the agency-control tradeoff, and a CCCD framework that assumes the product is never "done."
+Aishwarya and Kiriti argue that AI product development fails when teams apply deterministic-era playbooks to non-deterministic systems. Their operating model: a V1→V2→V3 progression, the agency-control tradeoff, and a CCCD framework that assumes the product is never "done." (source: Lenny's Podcast)
 
 ## Non-Determinism Makes Three Things Opaque
 

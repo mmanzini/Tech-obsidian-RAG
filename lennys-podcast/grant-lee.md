@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — CEO, Gamma
 
-Gamma hit $100M ARR in just over 2 years with ~30 people, profitably, in a category (presentations) an investor once called "the worst idea I've ever heard" on their third-ever pitch. Grant's lessons are counterintuitive and unusually tactical.
+Gamma hit $100M ARR in just over 2 years with ~30 people, profitably, in a category (presentations) an investor once called "the worst idea I've ever heard" on their third-ever pitch. Grant's lessons are counterintuitive and unusually tactical. (source: Lenny's Podcast)
 
 ## The First 30 Seconds Doctrine
 

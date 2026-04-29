@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Growth lead (ex-Duolingo, Grammarly)
 
-Albert ran growth at Duolingo during the "Green Machine" era and led strategic experiments at Grammarly. His frame: most growth teams collapse into exploit mode; durable growth requires a mechanical oscillation between exploring and exploiting, measured in experiments shipped per year.
+Albert ran growth at Duolingo during the "Green Machine" era and led strategic experiments at Grammarly. His frame: most growth teams collapse into exploit mode; durable growth requires a mechanical oscillation between exploring and exploiting, measured in experiments shipped per year. (source: Lenny's Podcast)
 
 ## Explore / Exploit as an Oscillation
 

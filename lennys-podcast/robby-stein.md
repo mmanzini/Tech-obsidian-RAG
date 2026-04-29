@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Robby Stein (VP of Product, Google Search)
 
-Robby's counter-narrative to the "AI will kill Google" story: AI makes search *expansionary* — people ask more questions, not fewer. Google's three AI pillars (AI Overviews, AI Mode, Lens) already run dozens of background "query fan-out" searches per user question. Lens is up 70% YoY. The operating principle is "relentless improvement" — his wife's word for him is *dissatisfied* — and his product-launch philosophy is shaped by Tony Fadell's fruit-sticker TED talk.
+Robby's counter-narrative to the "AI will kill Google" story: AI makes search *expansionary* — people ask more questions, not fewer. Google's three AI pillars (AI Overviews, AI Mode, Lens) already run dozens of background "query fan-out" searches per user question. Lens is up 70% YoY. The operating principle is "relentless improvement" — his wife's word for him is *dissatisfied* — and his product-launch philosophy is shaped by Tony Fadell's fruit-sticker TED talk. (source: Lenny's Podcast)
 
 ## Three AI pillars
 - **AI Overviews** — the AI-generated summary at the top of results; now the default experience for most queries.

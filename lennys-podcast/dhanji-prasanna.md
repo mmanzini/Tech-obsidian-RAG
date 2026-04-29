@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Dhanji R. Prasanna (CTO, Block; previously Google; creator of Goose open-source agent)
 
-Dhanji wrote an AI manifesto to Jack Dorsey arguing that Block's GM-based structure was wrong for an AI-native company, and got the mandate to rebuild. The result: a functional re-org modeled on Apple, 8–10 hours/week saved per engineer, a 20–25% cut in manual hours, and Goose — an open-source MCP-based agent named after the Top Gun wingman.
+Dhanji wrote an AI manifesto to Jack Dorsey arguing that Block's GM-based structure was wrong for an AI-native company, and got the mandate to rebuild. The result: a functional re-org modeled on Apple, 8–10 hours/week saved per engineer, a 20–25% cut in manual hours, and Goose — an open-source MCP-based agent named after the Top Gun wingman. (source: Lenny's Podcast)
 
 ## The AI manifesto to Jack
 - Dhanji's argument to Dorsey: a GM org (one GM per product line) is an industrial-era fit; AI-native companies need **functional depth** like Apple's single-P&L model.

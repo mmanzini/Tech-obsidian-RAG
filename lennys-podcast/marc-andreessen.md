@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Marc Andreessen (a16z co-founder, Netscape)
 
-Marc Andreessen's big argument: AI is civilization's long-awaited productivity unlock, arriving just in time for demographic collapse. The model for the next decade isn't "AI vs humans" — it's N=1 tutoring, super-empowered individuals, and a brutal Mexican standoff inside every product team.
+Marc Andreessen's big argument: AI is civilization's long-awaited productivity unlock, arriving just in time for demographic collapse. The model for the next decade isn't "AI vs humans" — it's N=1 tutoring, super-empowered individuals, and a brutal Mexican standoff inside every product team. (source: Lenny's Podcast)
 
 ## AI as the philosopher's stone
 - AI turns sand (silicon) into thought. That is the actual civilizational event — more profound than electricity.

@@ -1,8 +1,8 @@
 # Melanie Perkins — Column B thinking: get to the future by refusing Column A trade-offs
 
-Source: `sources/melanie-perkins.md` (Lenny's Podcast, Canva co-founder/CEO)
+**Source:** [She turned 100+ rejections into a $42B company](https://www.youtube.com/watch?v=-LywX3T5Scc)
 
-Perkins' operating system is built on reframing every "either/or" into "both/and" and pursuing Crazy Big Goals by grinding through absurd amounts of rejection. The distinctive moves are her Column B thinking, the two-step plan, the rubber-ducky game board, and the mission-pillar discipline that forces product to hit every ingredient, language and device.
+Perkins' operating system is built on reframing every "either/or" into "both/and" and pursuing Crazy Big Goals by grinding through absurd amounts of rejection. The distinctive moves are her Column B thinking, the two-step plan, the rubber-ducky game board, and the mission-pillar discipline that forces product to hit every ingredient, language and device. (source: https://www.youtube.com/watch?v=-LywX3T5Scc)
 
 ## Column B thinking
 - Column A = the trade-off the industry has accepted (powerful OR easy, pro OR consumer).

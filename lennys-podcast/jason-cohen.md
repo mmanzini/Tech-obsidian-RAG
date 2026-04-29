@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Founder WP Engine, Smart Bear; serial SaaS operator
 
-Jason's frame: stalled growth is almost never where the founder thinks it is. He runs a sequenced six-question diagnostic — and most companies find the answer in questions 1-3, long before they start blaming marketing or pricing.
+Jason's frame: stalled growth is almost never where the founder thinks it is. He runs a sequenced six-question diagnostic — and most companies find the answer in questions 1-3, long before they start blaming marketing or pricing. (source: Lenny's Podcast)
 
 ## The Six-Question Diagnostic (In Order)
 

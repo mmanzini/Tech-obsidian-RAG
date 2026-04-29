@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — First official vibe-coding engineer at Lovable
 
-Lazar has never written more than a console.log. He gets paid full-time to build internal and customer-facing products with AI tools. The episode is a glimpse of how tech roles are collapsing and a practical framework for getting world-class output from Lovable/Cursor/Claude.
+Lazar has never written more than a console.log. He gets paid full-time to build internal and customer-facing products with AI tools. The episode is a glimpse of how tech roles are collapsing and a practical framework for getting world-class output from Lovable/Cursor/Claude. (source: Lenny's Podcast)
 
 ## The Non-Technical Advantage
 

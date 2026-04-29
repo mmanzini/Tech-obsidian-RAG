@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Alexander Embiricos (Product lead, OpenAI Codex; previously built Atlas browser at OpenAI)
 
-Embiricos reframes the coding-agent category: Codex isn't a smarter autocomplete, it's a teammate you delegate work to asynchronously. That framing drove a 20x jump in usage post-GPT-5 and the ability to ship the Sora Android app in 28 days with two or three engineers. Under the hood: a three-layer agent stack and a cultural norm he calls "chatter-driven development."
+Embiricos reframes the coding-agent category: Codex isn't a smarter autocomplete, it's a teammate you delegate work to asynchronously. That framing drove a 20x jump in usage post-GPT-5 and the ability to ship the Sora Android app in 28 days with two or three engineers. Under the hood: a three-layer agent stack and a cultural norm he calls "chatter-driven development." (source: Lenny's Podcast)
 
 ## Tool-to-teammate shift
 - Most IDE copilots live in the editor; Codex lives alongside it and does work while you do other things.

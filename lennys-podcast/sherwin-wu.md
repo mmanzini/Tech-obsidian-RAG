@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Sherwin Wu (Head of Engineering, OpenAI API)
 
-Sherwin's report from inside OpenAI API: 95% of engineers use Codex, 100% of PRs are reviewed by Codex, and Codex users open 70% more PRs than non-users. He frames the shift through SICP's wizard metaphor — we're becoming sorcerers — and warns of Sorcerer's Apprentice risk. His operating moves: a 100%-Codex code-base experiment team, context-engineering via .md/skills files, top-performer time allocation rules, and a surgeon-team org model. Also: "SV is a bubble" — most enterprise AI deployments today have negative ROI.
+Sherwin's report from inside OpenAI API: 95% of engineers use Codex, 100% of PRs are reviewed by Codex, and Codex users open 70% more PRs than non-users. He frames the shift through SICP's wizard metaphor — we're becoming sorcerers — and warns of Sorcerer's Apprentice risk. His operating moves: a 100%-Codex code-base experiment team, context-engineering via .md/skills files, top-performer time allocation rules, and a surgeon-team org model. Also: "SV is a bubble" — most enterprise AI deployments today have negative ROI. (source: Lenny's Podcast)
 
 ## The three numbers
 - **95%** of OpenAI API engineers actively use Codex.

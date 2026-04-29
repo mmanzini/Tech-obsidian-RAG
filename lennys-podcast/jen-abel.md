@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Co-founder Jellyfish, GM Enterprise at State Affairs
 
-Jen teaches founders zero-to-one enterprise sales. Her core argument: in the earliest stage, **the founder is the product**, and founder-led sales is research disguised as revenue.
+Jen teaches founders zero-to-one enterprise sales. Her core argument: in the earliest stage, **the founder is the product**, and founder-led sales is research disguised as revenue. (source: Lenny's Podcast)
 
 ## The Founder Is the Product
 

@@ -23,6 +23,10 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[mcp-apps-interactive-ui|MCP Apps — Interactive UI Inside MCP Hosts]] — interactive HTML interfaces rendered in chat via sandboxed iframe; bidirectional data flow over MCP
 - [[claude-cowork-full-guide|Claude Cowork — Full Practical Guide]] — non-technical agent harness: skills, plugins, sub-agents, scheduled tasks, AI OS for teams (Ben AI full course)
 - [[claude-code-agentic-os|Claude Code Agentic OS — Three-Gap Framework]] — memory/consistency/access gaps, org-chart skill mapping, local vs. remote automation decision, command center dashboard for non-technical users (Chase AI)
+- [[scaling-managed-agents|Scaling Managed Agents — Decoupling Brain from Hands]] — brain/hands/session decoupled as independent interfaces; OS-analogy meta-harness; TTFT −60% p50 (Anthropic engineering)
+- [[claude-code-quality-postmortem|Claude Code Quality Postmortem — April 2026]] — three issues (effort downgrade, caching bug, verbosity prompt) that caused degradation reports; root-cause analysis and remediation (Anthropic)
+- [[claude-code-session-management|Claude Code Session Management and 1M Context]] — context rot, five turn-level options (continue/rewind/clear/compact/subagent), when to use each; practical decision table (Anthropic)
+- [[skills-2-0-user-workflow|Skills 2.0 User Workflow — Evals, AB Tests, and Context Engineering]] — practical user guide to running evals (one criterion, clear criteria, variation count), AB tests for speed/quality, reference-file context engineering (Ben AI)
 
 ## Related Topics
 

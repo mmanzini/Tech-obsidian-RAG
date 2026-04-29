@@ -1,8 +1,8 @@
 # Chip Conley — The Modern Elder: crystallized intelligence as the scarcer resource
 
-Source: `sources/chip-conley.md` (Lenny's Podcast, Airbnb Modern Elder Academy founder)
+**Source:** [Brian Chesky's secret mentor who scaled Airbnb](https://www.youtube.com/watch?v=R5_ypwiRIyo)
 
-Conley's framing: the midlife tech worker isn't obsolete, they're a **Modern Elder** whose crystallized intelligence (pattern recognition across careers) is precisely what fluid-intelligence-rich twenty-somethings lack. His toolkit is a set of reframes — midlife chrysalis not crisis, confidant not advisor, belong anywhere not travel — backed by named equations and measured outcomes.
+Conley's framing: the midlife tech worker isn't obsolete, they're a **Modern Elder** whose crystallized intelligence (pattern recognition across careers) is precisely what fluid-intelligence-rich twenty-somethings lack. His toolkit is a set of reframes — midlife chrysalis not crisis, confidant not advisor, belong anywhere not travel — backed by named equations and measured outcomes. (source: https://www.youtube.com/watch?v=R5_ypwiRIyo)
 
 ## Modern Elder at Airbnb
 - Joined Airbnb at 52 when the average employee was 26 — became "mentern" (mentor + intern) to Brian Chesky.

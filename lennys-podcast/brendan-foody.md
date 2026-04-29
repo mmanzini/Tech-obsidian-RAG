@@ -1,8 +1,8 @@
 # Brendan Foody — The era of evals
 
-Source: [[lennys-podcast]] interview with Brendan Foody (CEO Mercor).
+**Source:** [Why experts writing AI evals is creating the fastest-growing companies in history](https://www.youtube.com/watch?v=ja6fWTDPQl4)
 
-Mercor went from $1 ARR to $400M in 16 months selling expert human data to frontier labs. Foody's central claim: the PRD of the AI era is the eval, and the scarce input is expert judgment, not generalist labour.
+Mercor went from $1 ARR to $400M in 16 months selling expert human data to frontier labs. Foody's central claim: the PRD of the AI era is the eval, and the scarce input is expert judgment, not generalist labour. (source: https://www.youtube.com/watch?v=ja6fWTDPQl4)
 
 ## The eval is the PRD
 - You can't spec an agent the way you speced a SaaS feature; you specify behaviour by example

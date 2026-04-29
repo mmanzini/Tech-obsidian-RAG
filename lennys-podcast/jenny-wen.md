@@ -1,8 +1,8 @@
 # Jenny Wen — Don't trust the design process: designing inside an AI research org
 
-Source: `sources/jenny-wen.md` (Lenny's Podcast, design lead at Anthropic)
+**Source:** [The design process is dead. Here's what's replacing it.](https://www.youtube.com/watch?v=eh8bcBIAAFo)
 
-Wen's through-line: the classic design process (discover → define → design → deliver, 2–5 year vision decks) is broken in an AI org where the underlying capability changes every few weeks. Her reframe is a stratified model — execution support + 3–6 month vision, not multi-year — with Figma still earning its place as an exploration tool and a specific archetype mix for hiring.
+Wen's through-line: the classic design process (discover → define → design → deliver, 2–5 year vision decks) is broken in an AI org where the underlying capability changes every few weeks. Her reframe is a stratified model — execution support + 3–6 month vision, not multi-year — with Figma still earning its place as an exploration tool and a specific archetype mix for hiring. (source: https://www.youtube.com/watch?v=eh8bcBIAAFo)
 
 ## "Don't trust the design process"
 - The textbook double-diamond assumes stable technology and a knowable user need.

@@ -1,8 +1,8 @@
 # Rachel Lockett — Coach, don't advise
 
-Source: [[lennys-podcast]] interview with Rachel Lockett (executive coach, ex-Stripe top-talent program).
+**Source:** [A guide to difficult conversations, building high-trust teams, and designing a life you love](https://www.youtube.com/watch?v=1GDVum5IarI)
 
-Lockett's core argument: most tech leaders default to advising when they should be coaching, and optimise careers around ladders when they should be optimising around gifts. She hands over several concrete frameworks (GROW, NVC, 80% in gifts, vows) ready to use.
+Lockett's core argument: most tech leaders default to advising when they should be coaching, and optimise careers around ladders when they should be optimising around gifts. She hands over several concrete frameworks (GROW, NVC, 80% in gifts, vows) ready to use. (source: https://www.youtube.com/watch?v=1GDVum5IarI)
 
 ## Coach vs advise
 - Advising is faster but creates low buy-in; coaching produces commitment because the person owns the conclusion

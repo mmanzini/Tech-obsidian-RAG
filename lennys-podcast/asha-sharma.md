@@ -1,8 +1,8 @@
 # Asha Sharma — The product-as-organism
 
-Source: [[lennys-podcast]] interview with Asha Sharma (CVP Microsoft AI Platform, ex-Meta, ex-Porch).
+**Source:** [How 80,000 companies build with AI: Products as organisms and the death of org charts](https://www.youtube.com/watch?v=J9UWaltU-7Q)
 
-Sharma's frame: AI-era products behave like organisms, not artifacts. They mutate between releases, the boundary between product and org blurs, and the loop — not the launch — is the unit of work.
+Sharma's frame: AI-era products behave like organisms, not artifacts. They mutate between releases, the boundary between product and org blurs, and the loop — not the launch — is the unit of work. (source: https://www.youtube.com/watch?v=J9UWaltU-7Q)
 
 ## Product-as-organism
 - Classic software was a frozen artifact shipped on cadence; AI products learn continuously between ships

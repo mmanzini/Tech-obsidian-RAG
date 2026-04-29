@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Sam Lessin (Slow Ventures, ex-Facebook)
 
-Sam Lessin's frame: etiquette is showing up in a room with a low heart rate. Abundance mindset beats scarcity, repeat names, clean up after yourself, and — contrarian take — don't invest in "AI companies."
+Sam Lessin's frame: etiquette is showing up in a room with a low heart rate. Abundance mindset beats scarcity, repeat names, clean up after yourself, and — contrarian take — don't invest in "AI companies." (source: Lenny's Podcast)
 
 ## Etiquette = low heart rate
 - Good manners aren't rules; they're the visible evidence that you're not panicking.

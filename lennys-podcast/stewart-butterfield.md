@@ -1,8 +1,8 @@
 # Stewart Butterfield — Tilt your umbrella: the craft of noticing what everyone else shrugs off
 
-Source: `sources/stewart-butterfield.md` (Lenny's Podcast, Slack/Flickr co-founder)
+**Source:** [Mental models for building products people love](https://www.youtube.com/watch?v=kLe-zy5r0Mk)
 
-Butterfield's recurring move is to treat mundane "of course it works that way" details as actual design surface. His frameworks are about seeing utility curves bend, catching the moments when friction masquerades as inevitability, and killing beloved projects with cold rationality.
+Butterfield's recurring move is to treat mundane "of course it works that way" details as actual design surface. His frameworks are about seeing utility curves bend, catching the moments when friction masquerades as inevitability, and killing beloved projects with cold rationality. (source: https://www.youtube.com/watch?v=kLe-zy5r0Mk)
 
 ## Utility curves (the S-curve of product value)
 - Most features follow an S-curve: flat, steep, flat again. The work is knowing which regime you're in.

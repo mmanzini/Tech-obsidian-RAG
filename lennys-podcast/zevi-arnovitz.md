@@ -1,8 +1,8 @@
 # Zevi Arnovitz — The non-technical PM who ships code
 
-Source: [[lennys-podcast]] interview with Zevi Arnovitz (PM, ex-Wix, now at Meta).
+**Source:** [How a Meta PM ships products without ever writing code](https://www.youtube.com/watch?v=1em64iUFt3U)
 
-Arnovitz is a non-technical PM who ships real revenue-generating products himself using Cursor + Claude Code, multi-model peer review, and a disciplined /command library. A working playbook for the "PM who builds" role.
+Arnovitz is a non-technical PM who ships real revenue-generating products himself using Cursor + Claude Code, multi-model peer review, and a disciplined /command library. A working playbook for the "PM who builds" role. (source: https://www.youtube.com/watch?v=1em64iUFt3U)
 
 ## Tool progression
 - ChatGPT Projects (thought partner, structured context)

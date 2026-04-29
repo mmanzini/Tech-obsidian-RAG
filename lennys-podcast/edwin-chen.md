@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Founder & CEO, Surge AI
 
-Surge AI crossed $1B in revenue with fewer than 100 employees, zero VC, while serving frontier labs. Edwin's argument: the AI data business is won by taste and quality signals — not benchmark leaderboards, not scale. The same logic applies to any AI product in 2026.
+Surge AI crossed $1B in revenue with fewer than 100 employees, zero VC, while serving frontier labs. Edwin's argument: the AI data business is won by taste and quality signals — not benchmark leaderboards, not scale. The same logic applies to any AI product in 2026. (source: Lenny's Podcast)
 
 ## Benchmarks Are Hill-Climbed, Therefore Broken
 

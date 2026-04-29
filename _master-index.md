@@ -1,6 +1,6 @@
-# Knowledge Base Index
+# Tech Research
 
-The entry point to the wiki. Each topic has its own folder with an `_index.md` listing articles.
+**Scope**: How to build with AI: agent architecture and workflows, the harness layer around coding agents (CLAUDE.md, MCP, skills, hooks, sub-agents, long-running patterns), structured methodologies (RPI, spec-driven development, adversarial review), and the broader practice of doing AI-assisted product and engineering work — including how AI changes team and organisation design, the PM craft, design tooling for agents, AI security, and AI-native verticals (banking, open-data apps). Belongs here: anything about *how to build well with AI* — tools, patterns, methodologies, team practice. Does **not** belong here: macro/geopolitical commentary on the AI industry as a market or political force (that goes to `political-economy`), and raw GitHub trending repo writeups (those go to `github-trends`).
 
 ## Topics
 

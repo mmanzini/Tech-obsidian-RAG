@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Chip Huyen (Nvidia, Stanford, ex-Netflix; author of *AI Engineering*)
 
-Chip Huyen's viral insight: the things people *think* improve AI apps (new frameworks, newer models, vector-DB debates) are almost never what *actually* improves them. Real gains come from talking to users, preparing data, and writing better prompts. Post-training is the new frontier; pre-training is basically done.
+Chip Huyen's viral insight: the things people *think* improve AI apps (new frameworks, newer models, vector-DB debates) are almost never what *actually* improves them. Real gains come from talking to users, preparing data, and writing better prompts. Post-training is the new frontier; pre-training is basically done. (source: Lenny's Podcast)
 
 ## Perceived vs. actual AI app improvements
 - What people *think* works: staying on AI news, newest agent framework, vector-DB choice, fine-tuning.

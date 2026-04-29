@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Ben Horowitz (a16z co-founder, author of The Hard Thing About Hard Things)
 
-Ben Horowitz's operating theory of the CEO: most company deaths aren't one bad call but a cascade of 17 timid ones. His advice runs counter to consensus-seeking management — run toward the thing that scares you, judge people by their peaks not their worst moment, and accept that the job itself is mostly suffering you have to metabolize.
+Ben Horowitz's operating theory of the CEO: most company deaths aren't one bad call but a cascade of 17 timid ones. His advice runs counter to consensus-seeking management — run toward the thing that scares you, judge people by their peaks not their worst moment, and accept that the job itself is mostly suffering you have to metabolize. (source: Lenny's Podcast)
 
 ## Plane-crash theory of startup failure
 - Startups rarely die from a single wrong decision; they die from 17 small bad ones stacked together.

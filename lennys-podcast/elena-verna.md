@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Head of Growth at Lovable (record 4th appearance)
 
-Elena led growth at Lovable during its run to $200M ARR in under a year with fewer than 100 people. She argues 60-70% of the traditional growth playbook no longer transfers; the job has shifted from optimization to reinvention.
+Elena led growth at Lovable during its run to $200M ARR in under a year with fewer than 100 people. She argues 60-70% of the traditional growth playbook no longer transfers; the job has shifted from optimization to reinvention. (source: Lenny's Podcast)
 
 ## 95/5 Innovation vs. Optimization
 

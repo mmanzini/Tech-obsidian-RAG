@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Brian Halligan (HubSpot co-founder, ex-CEO)
 
-Brian Halligan's thesis: at 100 employees the job changes. Below that you're playing at the kids' table — you can compensate for any weakness with hustle. Above it, the game is talent density, spiky 4-out-of-4 hires, and absorbing shit sandwiches without complaining.
+Brian Halligan's thesis: at 100 employees the job changes. Below that you're playing at the kids' table — you can compensate for any weakness with hustle. Above it, the game is talent density, spiky 4-out-of-4 hires, and absorbing shit sandwiches without complaining. (source: Lenny's Podcast)
 
 ## Kids' table vs. adults' table
 - Under ~100 employees: kids' table. You can out-work most problems; CEO as player-coach.

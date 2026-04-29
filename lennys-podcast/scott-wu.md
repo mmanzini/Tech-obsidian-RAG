@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Scott Wu (co-founder and CEO, Cognition / Devin)
 
-Scott's bet: the right unit of coding AI isn't a copilot or a tool, it's a *named autonomous engineer* called Devin who joins your team as a junior and gets better. Cognition pivoted 8 times before landing there. Today internal engineers each run 5 Devins in parallel, Devin writes 25%→50%+ of PRs, and the team's advantage rides on high-compute RL and Jevons Paradox.
+Scott's bet: the right unit of coding AI isn't a copilot or a tool, it's a *named autonomous engineer* called Devin who joins your team as a junior and gets better. Cognition pivoted 8 times before landing there. Today internal engineers each run 5 Devins in parallel, Devin writes 25%→50%+ of PRs, and the team's advantage rides on high-compute RL and Jevons Paradox. (source: Lenny's Podcast)
 
 ## Named, not anonymous
 - Most coding agents are features inside an IDE; Devin is a *persona* — you say "Devin did this PR" the way you'd say a colleague's name.

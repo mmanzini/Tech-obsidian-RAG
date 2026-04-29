@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Co-author *Accelerate*, creator of DORA and SPACE
 
-Forsgren built the DORA research program and later SPACE at Microsoft. Her counterintuitive finding, proven across thousands of orgs: elite performers are faster *and* more stable — the tradeoff most teams assume is a myth. The frameworks work because they pair quantitative throughput/stability with qualitative signals.
+Forsgren built the DORA research program and later SPACE at Microsoft. Her counterintuitive finding, proven across thousands of orgs: elite performers are faster *and* more stable — the tradeoff most teams assume is a myth. The frameworks work because they pair quantitative throughput/stability with qualitative signals. (source: Lenny's Podcast)
 
 ## DORA — Four Metrics That Correlate with Business Outcomes
 

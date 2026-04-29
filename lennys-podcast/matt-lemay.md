@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Matt LeMay (author, *Product Management in Practice*, *Impact-First Product Teams*)
 
-Matt LeMay's one career-saving question: *If you were CEO, would you fully fund your own team?* Most PMs can't answer quickly — and that hesitation is exactly the risk. His Impact-First framework is an antidote to OKR theater and the "low-impact death spiral."
+Matt LeMay's one career-saving question: *If you were CEO, would you fully fund your own team?* Most PMs can't answer quickly — and that hesitation is exactly the risk. His Impact-First framework is an antidote to OKR theater and the "low-impact death spiral." (source: Lenny's Podcast)
 
 ## The one question
 - "If you were the CEO of this company, would you fully fund your own team?"

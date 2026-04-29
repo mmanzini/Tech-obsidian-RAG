@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Simon Willison (co-creator of Django, creator of Datasette, coined "prompt injection," AI commentator at simonwillison.net)
 
-Simon's 2026 "AI state of the union": November 2025 was the threshold moment when coding agents crossed from "mostly works" to "almost always does what you told it." Now the bottleneck isn't typing code — it's judgment, supervision, and sustaining clear thinking under continuous pressure. Simon is writing a book about agentic engineering one blog chapter at a time and running four Claude instances in parallel before lunch.
+Simon's 2026 "AI state of the union": November 2025 was the threshold moment when coding agents crossed from "mostly works" to "almost always does what you told it." Now the bottleneck isn't typing code — it's judgment, supervision, and sustaining clear thinking under continuous pressure. Simon is writing a book about agentic engineering one blog chapter at a time and running four Claude instances in parallel before lunch. (source: Lenny's Podcast)
 
 ## The November 2025 inflection point
 - GPT 5.1 and Claude Opus 4.5 didn't look like giant leaps on paper — but together they crossed a threshold where agent output went from "buggy pile of rubbish" to reliably doing what it was told.

@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Cat Wu (Head of Product, Claude Code & Cowork, Anthropic)
 
-Cat runs product for Claude Code and Cowork alongside Boris Cherny. Her core thesis: AI has compressed feature timelines from 6 months to 1 week (sometimes 1 day), so the PM job is now to *minimise the distance from idea to user*. Process-light, research-preview-by-default, hire engineers with product taste, get the right amount of "AGI-pilled," and treat skills/evals as the new PRD. The PM team is ~30–40 people across research, CDP, Claude Code, enterprise, and growth. Mission ("safe AGI") trumps any individual product line — that's what makes cross-org trade-offs fast.
+Cat runs product for Claude Code and Cowork alongside Boris Cherny. Her core thesis: AI has compressed feature timelines from 6 months to 1 week (sometimes 1 day), so the PM job is now to *minimise the distance from idea to user*. Process-light, research-preview-by-default, hire engineers with product taste, get the right amount of "AGI-pilled," and treat skills/evals as the new PRD. The PM team is ~30–40 people across research, CDP, Claude Code, enterprise, and growth. Mission ("safe AGI") trumps any individual product line — that's what makes cross-org trade-offs fast. (source: Lenny's Podcast)
 
 ## Compressed timelines change the PM job
 

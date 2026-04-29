@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Nick Turley (Head of ChatGPT, OpenAI)
 
-Nick Turley's operating philosophy for the fastest-growing product in history: the model *is* the product, pace is a forcing function, and ChatGPT is still MS-DOS — Windows hasn't been built yet.
+Nick Turley's operating philosophy for the fastest-growing product in history: the model *is* the product, pace is a forcing function, and ChatGPT is still MS-DOS — Windows hasn't been built yet. (source: Lenny's Podcast)
 
 ## The model is the product
 - There is no distinction between model and product. Improving the model is product work; improving the product means improving the model.

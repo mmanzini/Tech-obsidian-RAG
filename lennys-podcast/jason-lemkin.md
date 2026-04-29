@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Founder, SaaStr; ex-CEO EchoSign
 
-Jason has seen the same hiring mistakes in SaaS sales for 15 years. His rules are blunt, opinionated, and evergreen — optimized for founders who think sales is "icky" and therefore keep delegating it wrong.
+Jason has seen the same hiring mistakes in SaaS sales for 15 years. His rules are blunt, opinionated, and evergreen — optimized for founders who think sales is "icky" and therefore keep delegating it wrong. (source: Lenny's Podcast)
 
 ## Founders Are A+ Middlers
 

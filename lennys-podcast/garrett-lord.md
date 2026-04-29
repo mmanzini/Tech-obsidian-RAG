@@ -1,8 +1,8 @@
 # Garrett Lord — Audience is the only moat
 
-Source: [[lennys-podcast]] interview with Garrett Lord (co-founder & CEO Handshake).
+**Source:** [Inside the expert network training every frontier AI model](https://www.youtube.com/watch?v=0qdR-XwHJ9o)
 
-Handshake AI went from $0 to $50M ARR in four months, sitting inside a $200M core careers business. Lord's thesis: when models commoditise, the only durable moat is privileged access to an audience — in his case, students and early-career experts.
+Handshake AI went from $0 to $50M ARR in four months, sitting inside a $200M core careers business. Lord's thesis: when models commoditise, the only durable moat is privileged access to an audience — in his case, students and early-career experts. (source: https://www.youtube.com/watch?v=0qdR-XwHJ9o)
 
 ## The only moat is audience
 - Models, tools, and frameworks are commoditising on a 3-month cycle

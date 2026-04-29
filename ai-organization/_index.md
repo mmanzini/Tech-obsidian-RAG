@@ -15,6 +15,7 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[product-management-ai-exponential|Product Management on the AI Exponential]] — Cat Wu on side quests, demos-over-docs, revisiting features with new models, doing the simple thing (Anthropic)
 - [[ai-fluency-curriculum|Getting Good at Claude — Research-Backed Curriculum]] — Signature moves per product, Description spectrum, teaching Discernment (Anthropic AI Fluency Index)
 - [[anthropic-economic-index-learning-curves|Anthropic Economic Index: Learning Curves]] — Usage diversification, model selection by task value, tenure-success correlation, and learning-by-doing evidence (Anthropic, March 2026)
+- [[small-team-shipping]] — Why teams of 4–6 produce 2× the merged-PR rate per engineer of teams of 12+, and when larger teams still win
 
 ## Related Topics
 

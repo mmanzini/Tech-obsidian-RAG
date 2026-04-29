@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast, Jeetu Patel (CPO, Cisco)
 
-Jeetu's six-part operating framework for betting a company's future: **Timing > Market > Team > Product > Brand > Distribution.** Most leaders obsess over product; the first three are what actually decide outcomes. He separates "permission to play" (table stakes) from "right to win" (earned edge), runs a PhD-level megatrend-vs-hype test, and believes stamina — not intellect — is the scarcest leadership trait.
+Jeetu's six-part operating framework for betting a company's future: **Timing > Market > Team > Product > Brand > Distribution.** Most leaders obsess over product; the first three are what actually decide outcomes. He separates "permission to play" (table stakes) from "right to win" (earned edge), runs a PhD-level megatrend-vs-hype test, and believes stamina — not intellect — is the scarcest leadership trait. (source: Lenny's Podcast)
 
 ## The 6-part framework: Timing > Market > Team > Product > Brand > Distribution
 - **Timing** — are you right, early, or late? Being right too early kills more companies than being wrong.

@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Scaling operator (ex-Facebook, ex-Quip, ex-Chan Zuckerberg)
 
-Molly's operating frame: scaling isn't about adding people — it's about people repeatedly handing off the thing they love. Her toolkit externalizes the emotional cost of that handoff so it doesn't stall the org.
+Molly's operating frame: scaling isn't about adding people — it's about people repeatedly handing off the thing they love. Her toolkit externalizes the emotional cost of that handoff so it doesn't stall the org. (source: Lenny's Podcast)
 
 ## Give Away Your Legos
 

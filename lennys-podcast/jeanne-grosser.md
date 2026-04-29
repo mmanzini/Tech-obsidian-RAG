@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — COO at Vercel; built early sales at Stripe
 
-Jeanne's remit spans marketing, sales, customer success, RevOps, and field engineering. She treats GTM as a product and argues AI is collapsing GTM's 17 specialized roles back into a tighter lifecycle.
+Jeanne's remit spans marketing, sales, customer success, RevOps, and field engineering. She treats GTM as a product and argues AI is collapsing GTM's 17 specialized roles back into a tighter lifecycle. (source: Lenny's Podcast)
 
 ## The GTM Engineer
 

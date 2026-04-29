@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — Former COO Rippling, operator/advisor
 
-Matt's thesis: the default operating assumption in Silicon Valley — hire ahead of need, run process-heavy orgs, trust VC advice — systematically suppresses the rare outcomes companies actually need. His counter-playbook is built from Rippling's hyper-output years.
+Matt's thesis: the default operating assumption in Silicon Valley — hire ahead of need, run process-heavy orgs, trust VC advice — systematically suppresses the rare outcomes companies actually need. His counter-playbook is built from Rippling's hyper-output years. (source: Lenny's Podcast)
 
 ## Deliberate Understaffing
 

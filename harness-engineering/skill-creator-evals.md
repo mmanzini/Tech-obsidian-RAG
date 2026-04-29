@@ -75,4 +75,8 @@ The eval framework is a step in that direction — evals already describe the "w
 - **Comparator agents** do blinded A/B judging of two versions — the only reliable way to know a change actually helped.
 - Description tuning attacks **triggering**, not output quality — false positives and false negatives both hurt as skill counts grow.
 - Trajectory: today's `SKILL.md` files are how-to plans; evals are the "what"; eventually the eval set may be the skill itself.
-- Related: [[harness-engineering/skill-issue-harness-engineering|Skill Issue — Harness Engineering]] on progressive disclosure and the cost of a crowded skill surface.
+
+## Related
+
+- [[skill-issue-harness-engineering|Skill Issue — Harness Engineering]] — progressive disclosure and the cost of a crowded skill surface
+- [[skills-2-0-user-workflow|Skills 2.0 User Workflow — Evals, AB Tests, and Context Engineering]] — user-facing practical guide: how to set eval criteria, when to use AB tests, reference-file context engineering (Ben AI)

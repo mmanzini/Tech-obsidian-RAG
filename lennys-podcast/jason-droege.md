@@ -2,7 +2,7 @@
 
 **Source:** Lenny's Podcast — CEO of Scale AI (first interview post-Meta deal); founder of Uber Eats
 
-Jason took over Scale AI after the $14B Meta deal that moved Alex Wang and ~15 people to Meta. Scale remains independent, 1,100 people, growing every month. Before Scale he launched Uber Eats (0 → $20B in 4.5 years) and co-founded Scour with Travis Kalanick. The episode blends an insider view of AI labs with hard-won lessons on starting new businesses.
+Jason took over Scale AI after the $14B Meta deal that moved Alex Wang and ~15 people to Meta. Scale remains independent, 1,100 people, growing every month. Before Scale he launched Uber Eats (0 → $20B in 4.5 years) and co-founded Scour with Travis Kalanick. The episode blends an insider view of AI labs with hard-won lessons on starting new businesses. (source: Lenny's Podcast)
 
 ## Expert Data Labeling Is the New Default
 

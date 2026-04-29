@@ -1,8 +1,8 @@
 # Dr. Becky Kennedy — Sturdy leadership: the pilot, the repair, and the Most Generous Interpretation
 
-Source: `sources/dr-becky-kennedy.md` (Lenny's Podcast, clinical psychologist, Good Inside)
+**Source:** [A child psychologist's guide to working with difficult adults](https://www.youtube.com/watch?v=Auxs8ZsHRI4)
 
-Dr. Becky's parenting frameworks map cleanly onto leadership. The thesis: behavior and identity are separable, perfect is creepy, and the real leadership skill is sturdiness — the pilot who stays calm when the plane hits turbulence. Her frames (MGI, repair, connect-before-correct, locate someone) are designed for moments of conflict, not moments of ease.
+Dr. Becky's parenting frameworks map cleanly onto leadership. The thesis: behavior and identity are separable, perfect is creepy, and the real leadership skill is sturdiness — the pilot who stays calm when the plane hits turbulence. Her frames (MGI, repair, connect-before-correct, locate someone) are designed for moments of conflict, not moments of ease. (source: https://www.youtube.com/watch?v=Auxs8ZsHRI4)
 
 ## Good Inside — separate behavior from identity
 - Core axiom: a person is always good inside, even when behavior is bad.
