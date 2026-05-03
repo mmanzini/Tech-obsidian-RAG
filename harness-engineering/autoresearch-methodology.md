@@ -86,3 +86,4 @@ Then point Claude/Codex at the repo and prompt it toward `program.md` to begin t
 - [[nlh-meta-harness-harness-science|NLH, Meta Harness, and the Science of Harness Engineering]] — the broader context of how `program.md`-style harnesses emerged
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — practical guide to the CLAUDE.md harness this methodology inspired
 - [[llm-vault-structure-spec|LLM Vault Structure Spec]] — the vault design document that extends the autoresearch pattern to a RAG wiki
+- [[karpathy-llm-knowledge-bases|Karpathy's LLM Knowledge Bases]] — the companion thread describing the wiki-compilation workflow that gave rise to the Atlas vault pattern; the direct precursor to this methodology applied to knowledge rather than ML training

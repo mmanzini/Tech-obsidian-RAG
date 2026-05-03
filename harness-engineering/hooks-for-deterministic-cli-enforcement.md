@@ -98,3 +98,4 @@ Hooks are not Claude-specific as a concept. The same pattern (PreToolUse-style i
 - [[deep-modules-codebase-for-ai]] — same author, designing the codebase itself to be AI-friendly
 - [[harnessing-claude-intelligence]] — Anthropic's "what can I stop doing?" pattern, same spirit of removing instructions
 - [[subagents-in-claude-code]] — another tool for context isolation and determinism
+- [[sandcastle-afk-agent-orchestration]] — pushes the same principle further: full Docker sandbox isolation for true AFK agent runs where permission interruption is impossible by design

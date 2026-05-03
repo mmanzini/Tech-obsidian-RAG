@@ -35,6 +35,9 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[llm-wiki-schema-template|LLM Wiki Schema Template — Simple Single-Vault CLAUDE.md]] — minimal flat wiki template (raw/ + wiki/) that Atlas extends; Karpathy's original LLM Wiki pattern
 - [[claude-cowork-context-questionnaire|Claude Cowork Context Questionnaire — Business & Personal Brain Dump]] — onboarding questionnaire feeding organization.md, brand.md, strategy.md, icp.md, stakeholders.md, Profile.md, and CLAUDE.md
 - [[atlas-sync-operations|Atlas Sync Operations — Practical Command Reference]] — ops runbook for running, debugging, and extending the Atlas ↔ public-repos Unison sync
+- [[karpathy-llm-knowledge-bases|Karpathy's LLM Knowledge Bases — Personal Workflow]] — upstream inspiration for Atlas: raw/ → LLM-compiled wiki → Obsidian frontend; index-based navigation without vector RAG (Karpathy)
+- [[sandcastle-afk-agent-orchestration|Sandcastle — AFK Software Factory]] — composable `sandcastle.run` primitive; planner/implementer/reviewer/merger pipeline in Docker sandboxes; zero-interruption AFK operation (Matt Pocock)
+- [[coding-agent-model-comparison-2026|Coding Agent Model Comparison 2026 — DeepSeek V4 vs Opus 4.7 vs GPT 5.5]] — GPT 5.5 wins Terminal Bench; Opus 4.7 wins SWE-Bench; DeepSeek 8× cheaper but fails complex tasks; skills are portable across all three harnesses (Chase AI)
 
 ## Related Topics
 
