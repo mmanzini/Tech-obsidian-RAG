@@ -1,5 +1,11 @@
 # HumanLayer and Human-in-the-Loop
 
+**Source:** (self-authored)
+
+## Summary
+
+HumanLayer is the originator of RPI and the ACE (Advanced Context Engineering) framework, founded by Dexter Horthy in 2024 (YC X25). Their core insight — that context quality is the only lever on LLM output quality — drove both the RPI methodology and its evolution into CRISPY/QRSPI. The article covers the ACE framework (40–60% utilisation target, correctness-first priority order), the HITL design discussion + structure outline approach, the 12 Factor Agents principles, the BAML case study (35k LOC in 7 hours), and a conflict-of-interest caveat that applies to all major framework advocates.
+
 HumanLayer (founded by Dexter Horthy in 2024, Y Combinator X25 spring 2025) occupies a unique position: **not just an implementer of RPI, but the originator of the pattern, the discoverer of its limitations, and the architect of its evolution**. This page covers their methodological contributions, the ACE framework, 12-factor agents, the BAML case study, and the conflict-of-interest caveat.
 
 ## HumanLayer's Problem Statement

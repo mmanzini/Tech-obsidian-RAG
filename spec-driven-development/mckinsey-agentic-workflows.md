@@ -6,6 +6,10 @@ source: QuantumBlack / AI by McKinsey — "Agentic workflows for software develo
 
 McKinsey QuantumBlack's field-tested pattern for moving beyond the "developer + copilot" model to **agents executing the full SDLC autonomously**, with humans entering only at the PR review stage.
 
+## Summary
+
+McKinsey QuantumBlack's field-tested pattern for AI-driven software development centres on a two-layer architecture: a deterministic orchestration engine that enforces phase transitions and dependency tracking, paired with bounded specialised agents (requirements, architecture, coding, knowledge, critic) that execute within each phase. The critical insight is that self-orchestrating agents fail at scale because they skip steps and create circular dependencies — only deterministic orchestration plus per-phase eval gates produces the predictable, traceable SDLC that rivals Agile's original promise while running full requirement-to-implementation cycles in hours rather than weeks.
+
 ## The Problem with Copilots
 - "Developer with AI assistant" makes individuals faster but **idea-to-live-feature** improvement is small in enterprise contexts.
 - **Handoffs between phases are where context goes to die** — Slack threads, assumptions in heads, rationale re-litigated.

@@ -2,6 +2,10 @@
 
 20 app opportunities ranked by **priority score = feasibility × revenue potential** (each scored 1–5).
 
+## Summary
+
+A prioritised catalog of 20 open-data app opportunities scored by feasibility × revenue potential, with the top tier dominated by NL-specific apps (Kenteken Checker, WOZ Value Checker, BAG Address Info) where the Dutch open-data ecosystem is unusually mature and paid incumbents exist as proof of demand. The recommended launch strategy is batches of 3–4 apps starting with the top-scoring NL transport and property apps, so the shared Flutter template is stress-tested before expanding to broader EU-scope opportunities.
+
 ## Top Picks (Score ≥ 20)
 
 | # | App | Category | Score | Why it's strong |

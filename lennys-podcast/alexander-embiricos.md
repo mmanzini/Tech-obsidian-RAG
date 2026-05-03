@@ -4,6 +4,10 @@
 
 Embiricos reframes the coding-agent category: Codex isn't a smarter autocomplete, it's a teammate you delegate work to asynchronously. That framing drove a 20x jump in usage post-GPT-5 and the ability to ship the Sora Android app in 28 days with two or three engineers. Under the hood: a three-layer agent stack and a cultural norm he calls "chatter-driven development." (source: Lenny's Podcast)
 
+## Summary
+
+Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from tools you invoke to teammates you delegate to asynchronously — a shift that drove a 20x usage jump after GPT-5 and allowed the Sora Android app to ship in 28 days with 2–3 engineers. The competitive advantage lives in the harness layer of a three-layer stack (model / API / harness), not in the model itself. The two most important takeaways are that compaction is a user-facing feature for long-horizon agents, and that "chatter-driven development" — using Slack threads as the coordination artifact — is the team's core operating mode.
+
 ## Tool-to-teammate shift
 - Most IDE copilots live in the editor; Codex lives alongside it and does work while you do other things.
 - The test of a teammate isn't latency, it's trust: you check in, not watch over the shoulder.

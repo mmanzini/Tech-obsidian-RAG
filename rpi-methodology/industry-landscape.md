@@ -1,5 +1,11 @@
 # Industry Landscape
 
+**Source:** (self-authored)
+
+## Summary
+
+RPI is the atomic unit of work within a broader 2026 ecosystem where major frameworks — Anthropic's two/three-agent harness, OpenAI Agents SDK, Google ADK, Microsoft Agent Framework, CrewAI, and AWS Kiro — provide multi-agent orchestration infrastructure around it. The industry has converged on explicit phases, context isolation, multi-agent coordination, and harness engineering as the primary reliability lever, though Gartner's 40% cancellation forecast reminds practitioners that structured workflows do not solve the fundamental economics problem of token costs scaling faster than value delivery.
+
 RPI remains foundational to agentic engineering in 2026, but it occupies a distinct niche within a much broader ecosystem. **Key insight: RPI is the atomic unit of work; major frameworks provide orchestration infrastructure around it.**
 
 ## Anthropic: Harness Engineering

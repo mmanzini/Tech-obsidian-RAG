@@ -4,6 +4,10 @@
 
 Jeanne's remit spans marketing, sales, customer success, RevOps, and field engineering. She treats GTM as a product and argues AI is collapsing GTM's 17 specialized roles back into a tighter lifecycle. (source: Lenny's Podcast)
 
+## Summary
+
+Jeanne Grosser (COO, Vercel; built early Stripe sales) treats GTM as a product and argues that AI is collapsing 17 specialized GTM roles into a tighter lifecycle, with the GTM engineer — a sales engineer who can code — as the highest-leverage new hire. Her most concrete proof point is that a single GTM engineer at Vercel spent 30% of his time over 6 weeks and replaced 9 of 10 SDRs with a $1,000/year agent. The two most important takeaways are that 80% of enterprise buyers purchase to reduce risk rather than capture upside (making "art of the possible" pitches land only with other founders), and that your go-to-market segmentation should use at most three attributes — one of which should be a revenue-predicting dimension rather than company size alone.
+
 ## The GTM Engineer
 
 - New role emerging in the last 18–24 months: technical GTM person who builds agents against the sales stack.

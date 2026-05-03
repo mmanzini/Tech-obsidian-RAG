@@ -2,6 +2,12 @@
 
 Design.md handles visual tokens effectively. It cannot represent interaction design — the behaviour, states, transitions and logic that make interfaces functional.
 
+---
+
+## Summary
+
+Design.md covers the visual layer (colours, typography, spacing, component appearance) but cannot represent state machines, animations, validation rules, event handlers, or responsive behaviour changes — the interaction design layer that sits between visual tokens and code implementation. The practical recommendation is to supplement Design.md with feature-level Kiro/SDD design documents, BDD scenarios, Figma prototypes, and Storybook for interactive component states.
+
 ## What Design.md Cannot Encode
 
 - **State machines and conditional logic** — A login form has states (empty, validating, error, success). Design.md describes what the error state *looks like* but not *when* it triggers or *how* states transition

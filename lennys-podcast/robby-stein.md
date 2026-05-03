@@ -4,6 +4,10 @@
 
 Robby's counter-narrative to the "AI will kill Google" story: AI makes search *expansionary* — people ask more questions, not fewer. Google's three AI pillars (AI Overviews, AI Mode, Lens) already run dozens of background "query fan-out" searches per user question. Lens is up 70% YoY. The operating principle is "relentless improvement" — his wife's word for him is *dissatisfied* — and his product-launch philosophy is shaped by Tony Fadell's fruit-sticker TED talk. (source: Lenny's Podcast)
 
+## Summary
+
+Robby Stein (VP of Product, Google Search) argues that AI makes search expansionary rather than cannibalizing it — users with access to AI Overviews and AI Mode ask more questions, not fewer, because curiosity is elastic when answers get easier. Under the hood, a single user question now triggers dozens of background "query fan-out" searches assembled into one answer, making "AI cannibalizes search" a category error. The two most important takeaways are that "dissatisfied" as a permanent operating principle (relentless improvement, never comfortable) is Google's actual product edge, and that new formats — like Instagram Stories or AI Mode — always look like failures for 3–6 months before the J-curve arrives, so you must instrument for the inflection, not the first-week line.
+
 ## Three AI pillars
 - **AI Overviews** — the AI-generated summary at the top of results; now the default experience for most queries.
 - **AI Mode** — a conversational search surface where you can refine, compare, and follow up.
@@ -54,6 +58,5 @@ Robby's counter-narrative to the "AI will kill Google" story: AI makes search *e
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — AI-as-expansion, format bets
 - [[agent-architecture/_index|Agent Architecture]] — query fan-out, subagent composition
-- [[product-management/_index|Product Management]] — dissatisfied operating stance, fruit-sticker habit
 - [[ai-organization/_index|AI & Organisation Design]] — three-pillar product strategy at scale
 - [[lennys-podcast/_index|Lenny's Podcast]]

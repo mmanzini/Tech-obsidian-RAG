@@ -4,6 +4,10 @@
 
 Handshake AI went from $0 to $50M ARR in four months, sitting inside a $200M core careers business. Lord's thesis: when models commoditise, the only durable moat is privileged access to an audience — in his case, students and early-career experts. (source: https://www.youtube.com/watch?v=0qdR-XwHJ9o)
 
+## Summary
+
+Garrett Lord (CEO, Handshake) grew Handshake AI from $0 to $50M ARR in four months by leveraging his pre-existing warm access to 500K PhDs and ~3M Master's students — an audience no competitor could replicate — as the wedge into the frontier AI expert-data market. His thesis is that models, tools, and frameworks commoditize on a 3-month cycle, making audience the only durable moat. The two most important takeaways are that frontier labs buy on Quality > Volume > Speed in strict priority order, and that new S-curve businesses must be kept operationally separate from the parent company or they die inheriting its operating rhythm.
+
 ## The only moat is audience
 - Models, tools, and frameworks are commoditising on a 3-month cycle
 - The durable assets are the audiences a founder already has warm access to
@@ -45,5 +49,4 @@ Handshake AI went from $0 to $50M ARR in four months, sitting inside a $200M cor
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[agent-workflows/_index|Agent Workflows]]
-- [[way-of-working/_index|Way of Working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

@@ -4,6 +4,10 @@
 
 Sharma's frame: AI-era products behave like organisms, not artifacts. They mutate between releases, the boundary between product and org blurs, and the loop — not the launch — is the unit of work. (source: https://www.youtube.com/watch?v=J9UWaltU-7Q)
 
+## Summary
+
+Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — they learn continuously between ships, so planning in 8–12 week "seasons" with a shared evaluation harness replaces annual roadmaps. Her most important structural insight is that in large models, over 50% of observable quality now comes from post-training (fine-tuning, eval sets, data mix), making the PM's lever the data loop rather than the feature. The key takeaway is that the work chart equals the org chart: closed-loop squads that own the full data→model→eval→ship cycle beat traditional functional lanes.
+
 ## Product-as-organism
 - Classic software was a frozen artifact shipped on cadence; AI products learn continuously between ships
 - "Seasons" planning replaces annual roadmaps — 8–12 week arcs with a theme and a shared evaluation harness
@@ -40,7 +44,5 @@ Sharma's frame: AI-era products behave like organisms, not artifacts. They mutat
 ## Related
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[way-of-working/_index|Way of Working]]
 - [[agent-workflows/_index|Agent Workflows]]
-- [[product-management/_index|Product Management]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

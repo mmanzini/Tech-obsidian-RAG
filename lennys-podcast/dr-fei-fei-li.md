@@ -4,6 +4,10 @@
 
 Fei-Fei Li's thesis: today's LLMs are Plato's cave — linguistic shadows of a 3D world they've never seen. The next frontier is **spatial intelligence** — world models that understand geometry, physics, and embodiment. Her frameworks are anchored in the ImageNet story (the three-ingredient recipe that birthed modern AI), intellectual fearlessness, and "humanist AI — nothing artificial about it." (source: https://www.youtube.com/watch?v=Ctjiatnd6Xk)
 
+## Summary
+
+Dr. Fei-Fei Li (Stanford, World Labs) argues that today's LLMs are Plato's cave — brilliant at describing a world they've never directly perceived — and that the next frontier is spatial intelligence: world models that understand 3D geometry, physics, and embodiment. Modern AI was ignited in 2012 by three simultaneous ingredients — ImageNet data, neural network architecture, and GPUs — and Fei-Fei warns that the same three-ingredient logic applies to robotics, where no internet-scale physical dataset yet exists. The key takeaways are to choose problems that scare you intellectually (intellectual fearlessness as a career signal) and to treat ethics and human outcomes as the substrate of AI, not a bolt-on.
+
 ## The three ingredients of modern AI (2012)
 - ImageNet (2009): 15M images, 22K concepts — the dataset that made learning-from-scale possible.
 - Neural nets: the algorithmic ingredient (convolutional architectures, scaled deep).

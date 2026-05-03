@@ -4,6 +4,10 @@
 
 Ravi Mehta's operating system for product leaders: a five-layer strategy stack, an NCT-based approach to risk, and the heretical claim that goals should come *after* the roadmap, not before. His Tinder "Platinum tier" story is a case study in whale-driven product design. (source: Lenny's Podcast)
 
+## Summary
+
+Ravi Mehta (ex-Tinder CPO, Facebook) offers a five-layer Product Strategy Stack — Mission → Strategy → Product Strategy → Roadmap → Goals — and the contrarian rule that the roadmap should come before goals, not after, because most orgs set OKRs disconnected from capacity and then back into a feature list disconnected from outcomes. His NCT (Narrative, Commitments, Tasks) framework replaces OKRs by naming the dominant risk class explicitly — understanding, dependency, execution, or strategic — so the team knows what they're actually betting on. The two most important takeaways are that latency (time from insight to shipped user impact) matters more than velocity at startup scale, and that revenue should be segmented separately from users so product decisions can be designed for the whale cohort when whales pay the bills.
+
 ## The Product Strategy Stack (five layers)
 1. **Mission** — why the company exists
 2. **Strategy** — how the company will win in the market
@@ -67,7 +71,5 @@ Ravi Mehta's operating system for product leaders: a five-layer strategy stack, 
 - Put wireframes in the strategy doc.
 
 ## Related
-- [[product-management/_index|Product Management]] — strategy, goals, competencies
-- [[way-of-working/_index|Way of Working]] — NCTs vs OKRs, micromanagement matrix
 - [[ai-organization/_index|AI & Organisation Design]] — PM competencies in AI era
 - [[lennys-podcast/_index|Lenny's Podcast]]

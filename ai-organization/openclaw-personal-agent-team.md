@@ -2,6 +2,10 @@
 
 Claire Vo's guide (via Lenny's Newsletter, March 2026) to building a multi-agent personal AI assistant setup using OpenClaw — an open-source framework that runs locally and exposes agents through chat channels (Telegram, WhatsApp, Slack).
 
+## Summary
+
+Claire Vo's OpenClaw setup runs nine specialised AI agents (PA, family, marketing, sales, helpdesk, course ops, podcast, developer, kids' tutor) on owned hardware, each with its own Markdown-based identity files and workspace, reachable via Telegram, WhatsApp, or Slack. The core finding is that narrow, specialised agents outperform a single omni-agent on both quality and trust — but the setup requires serious operational security awareness, since any tool access the agent has becomes an attack surface through prompt injection and untrusted input channels.
+
 ## Core Concepts
 
 - **Local gateway** receives messages from any **channel** (terminal, Telegram, WhatsApp).

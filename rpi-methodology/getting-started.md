@@ -1,5 +1,11 @@
 # Getting Started
 
+**Source:** (self-authored)
+
+## Summary
+
+Minimal setup for RPI requires only an AI assistant, a `thoughts/` folder in the project root, and basic codebase familiarity. The article covers directory structure, naming conventions (`YYYY-MM-DD-HHmm-topic.md`), a condensed three-phase overview with validation checkpoints, and a worked example (adding logging to a user service) with full sample research and plan documents. RPI pays off when a change spans 3+ files or involves complex dependencies; for single-file or trivial changes, direct prompting is faster.
+
 Minimal setup, naming conventions, and a worked example. For ergonomic native support see the Goose section of [[tool-agnosticism|Tool Agnosticism]].
 
 ## What You Need

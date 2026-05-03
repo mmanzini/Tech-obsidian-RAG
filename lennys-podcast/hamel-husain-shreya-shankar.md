@@ -4,6 +4,10 @@
 
 Hamel (ex-Airbnb, GitHub) and Shreya (Berkeley PhD) teach the most popular AI evals course. Their core claim: 90% of eval value comes from systematic error analysis, not benchmark scores. The workflow is qualitative social science applied to LLM traces. (source: Lenny's Podcast)
 
+## Summary
+
+Hamel Husain (ex-Airbnb, GitHub) and Shreya Shankar (Berkeley PhD) argue that 90% of eval value comes from systematic error analysis — open coding → axial coding — rather than benchmark scores, importing a grounded-theory methodology from social science into LLM trace review. Their most important structural rules are that one "benevolent dictator" domain expert must own the taxonomy (committees produce muddy categories) and that you should record only the first, most upstream error per trace to avoid phantom categories from cascading failures. The key takeaway is that LLMs can evaluate against an existing taxonomy but cannot generate one — open coding is irreducibly human — making evals qualitative product research rather than automated QA.
+
 ## The Nurture Boss Workflow — Open Coding → Axial Coding
 
 - Real-estate AI assistant case study: Nurture Boss went from unclear failures to shipping fixes in weeks.

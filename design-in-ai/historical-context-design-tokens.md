@@ -2,6 +2,12 @@
 
 Design.md is the latest iteration in a 15-year progression of making design decisions machine-readable and version-controllable.
 
+---
+
+## Summary
+
+Design.md sits at the end of a 15-year lineage: living style guides (2010s) → Atomic Design → design tokens (Salesforce 2017, Style Dictionary) → W3C Design Tokens spec (stable October 2025) → Design.md. W3C tokens (JSON, strict, for build systems) and Design.md (markdown, flexible, for AI agents and humans) are complementary rather than competing formats, but the triple-maintenance problem — keeping Design.md synchronised with Figma, code, and token definitions — may recreate the same organisational drift that killed previous design-as-code approaches.
+
 ## Timeline
 
 ### Living Style Guides (2010s)

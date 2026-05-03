@@ -4,6 +4,10 @@
 
 Seven timeless essays Lenny finds himself quoting repeatedly. The framing, via Marc Andreessen: *"barbell your inputs — read things that are either up-to-the-minute or timeless; avoid anything from yesterday through 10 years ago."*
 
+## Summary
+
+Lenny Rachitsky's curated list of seven essential essays for product builders — spanning management (Who's Got the Monkey), agency, taste, learning, product strategy (Paul Buchheit's three-attributes rule, Marc Andreessen's market-wins thesis), and first-principles reasoning (Tim Urban's cook vs. chef). The shared thread is that durable advantage comes from cultivating judgment and taste rather than following recipes, and from honest self-assessment of where value actually lies.
+
 ## The seven essays
 
 ### 1. [Who's Got the Monkey](https://www.med.unc.edu/uncaims/wp-content/uploads/sites/764/2014/03/Oncken-_-Wass-Who_s-Got-the-Monkey.pdf) — Oncken & Wass (HBR)
@@ -49,8 +53,8 @@ First-principles reasoning as the differentiator. A cook follows recipes (imitat
 
 ## Related
 
-- [[product-management/_index|Product Management]] — broader PM reference
-- [[product-management/t-shaped-product-professional|T-shaped product professional]] — the taste + agency combo
+- [[_index|Product Management]] — broader PM reference
+- [[t-shaped-product-professional|T-shaped product professional]] — the taste + agency combo
 - [[lennys-podcast/marc-andreessen|Marc Andreessen on Lenny's Podcast]] — contemporary reprise of "market wins"
 - [[lennys-podcast/ben-horowitz|Ben Horowitz on Lenny's Podcast]] — companion to the *Good PM / Bad PM* essay
 - [[lennys-podcast/_index|Lenny's Podcast]] — guest-episode index

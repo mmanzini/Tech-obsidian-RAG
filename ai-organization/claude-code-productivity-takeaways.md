@@ -2,6 +2,10 @@
 
 Lenny Rachitsky's summary of a conversation with Boris Cherny, Head of Claude Code at Anthropic (early 2026).
 
+## Summary
+
+Boris Cherny, Head of Claude Code, claims Anthropic has achieved ~200% engineer productivity gains and that he personally ships 10–30 PRs per day without writing a line of code by hand — supported by six operating principles including building for the model six months from now, underfunding headcount to drive creative agent use, and always using the most capable model. These claims carry significant caveats: they reflect expert operators on Anthropic-shaped work, and the productivity gain is not straightforwardly transferable to arbitrary teams or use cases.
+
 ## Headline Claims
 
 - Boris hasn't written a line of code by hand since November 2025; ships 10–30 PRs/day while leading the team.

@@ -4,6 +4,10 @@
 
 Mid-2025 snapshot of PM, engineering, and design hiring. Precedes the 2026 snapshot ([[ai-organization/product-job-market-2026|2026 version]]) and updates the 2024 two-part series.
 
+## Summary
+
+Lenny Rachitsky's mid-2025 hiring snapshot shows 6,000+ open PM roles globally — 53% above the 2023 low — alongside exploding AI-specific PM demand (688 explicitly AI PM roles) and continued geographic concentration in the Bay Area (~33% of AI roles). The data refutes the "AI is killing tech jobs" narrative while highlighting two structural shifts: the rise of the Product Engineer hybrid role, and remote work settling at a new lower baseline of ~23%.
+
 ## Headline trends
 
 1. **Open PM + engineering roles trending up.** 6,000+ open PM roles globally — 53.6% above the 2023 bottom, 11% up YTD. Engineering growth looks similar (10× scale). Highest counts since late 2022.
@@ -31,4 +35,3 @@ Mid-2025 snapshot of PM, engineering, and design hiring. Precedes the 2026 snaps
 
 - [[ai-organization/product-job-market-2026|Product job market — early 2026]] (the follow-up)
 - [[ai-organization/product-management-ai-exponential|Product management on the AI exponential]]
-- [[product-management/_index|Product Management]]

@@ -4,6 +4,10 @@
 
 Elena led growth at Lovable during its run to $200M ARR in under a year with fewer than 100 people. She argues 60-70% of the traditional growth playbook no longer transfers; the job has shifted from optimization to reinvention. (source: Lenny's Podcast)
 
+## Summary
+
+Elena Verna (Head of Growth, Lovable) argues that 60–70% of the traditional growth playbook no longer transfers at AI-native companies, having flipped her own ratio from 95% optimization to 95% innovation during Lovable's run to $200M ARR in under a year. Her most important reframes are that Product Market Fit decays every ~3 months (requiring planned re-launches, not a one-time achievement) and that LLM cost should be logged as marketing spend rather than COGS. The key takeaways are to replace MVP with Minimum Lovable Product, and that organic growth in 2026 means founder and employee social media — not SEO.
+
 ## 95/5 Innovation vs. Optimization
 
 - In prior roles: ~5% of time on innovation, 95% on optimization.
@@ -63,5 +67,4 @@ Elena led growth at Lovable during its run to $200M ARR in under a year with few
 
 - [[lennys-podcast/lazar-jovanovic|Lazar Jovanovic — Professional Vibe Coder]]
 - [[lennys-podcast/grant-lee|Grant Lee — Gamma growth playbook]]
-- [[product-management/_index|Product Management]]
 - [[ai-product-development/_index|AI Product Development]]

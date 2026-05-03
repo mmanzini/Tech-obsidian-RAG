@@ -4,6 +4,10 @@
 
 Designing tools is one of the hardest parts of building an agent harness. Claude acts entirely through tool calling, but there's a wide spectrum between "one general-purpose tool like bash" and "fifty specialized tools, one per use case." The right answer depends on the model's abilities. Thariq's framework: **learn to see like an agent** by watching its outputs, experimenting, and adjusting as capability grows.
 
+## Summary
+
+Effective agent tool design requires shaping the tool surface to the model's current capabilities — not what's cleanest on paper. Three case studies from Claude Code's development illustrate the principle: AskUserQuestion succeeded only on the third attempt when the model naturally reached for it; the Todo tool became a constraint as models improved and was replaced by the more composable Task tool; and search shifted from pre-fetched RAG to a Grep-plus-progressive-disclosure pattern that lets Claude build its own context.
+
 ## The math-problem analogy
 
 Imagine being given a hard math problem — what tools would you want? Depends on your skill set.

@@ -6,6 +6,10 @@
 
 ---
 
+## Summary
+
+The "Agentic OS" is a mental model and folder structure layered around Claude Code that closes three gaps preventing most setups from reaching their potential: memory (no cross-session recall), consistency (skills that produce different outcomes each time), and access (terminal intimidates non-technical users). The core thesis is that structuring Claude Code as an org-chart of domain skills with a command-center dashboard extracts the majority of its value for non-technical teammates and clients without requiring terminal knowledge.
+
 ## What the "Agentic OS" Is
 
 A structured architecture layered around Claude Code that closes three adoption gaps:

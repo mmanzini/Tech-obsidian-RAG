@@ -4,6 +4,10 @@
 
 Matt's thesis: the default operating assumption in Silicon Valley — hire ahead of need, run process-heavy orgs, trust VC advice — systematically suppresses the rare outcomes companies actually need. His counter-playbook is built from Rippling's hyper-output years. (source: Lenny's Podcast)
 
+## Summary
+
+Matt MacInnis (ex-COO Rippling) argues that deliberate understaffing — keeping teams slightly under their workload — is the single highest-leverage choice a COO makes, because slack capacity kills urgency and invites process that suppresses the "alpha" (above-market) outcomes companies actually need. His most unconventional product rule is to allow only one feature flag at a time across the whole product, paired with a visible Product Quality List of known defects, to maintain the combinatorial reasoning required for honest testing. The two most important takeaways are the SPOTAC hiring filter (Smart, Passionate, Optimistic, Tenacious, Adaptable, Kind — all six required) and the receptors-and-drugs PMF analogy: the market either binds your product or it doesn't, and no amount of marketing creates receptors where none exist.
+
 ## Deliberate Understaffing
 
 - "Over-staffing is poison" — slack capacity kills urgency and invites process.
@@ -64,6 +68,4 @@ Matt's thesis: the default operating assumption in Silicon Valley — hire ahead
 ## Related
 
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[product-management/_index|Product Management]]
-- [[way-of-working/_index|Way of Working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

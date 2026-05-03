@@ -4,6 +4,10 @@
 
 Ethan ranks this the **second-biggest shift in SEO history** (after Panda killed programmatic spam). He separates what works in the ChatGPT/Perplexity era from what no longer does. (source: Lenny's Podcast)
 
+## Summary
+
+Ethan Smith (CEO, Graphite; 18 years in SEO) argues that Answer Engine Optimization is a RAG problem, not a training-data problem — all the leverage is on what the model retrieves and cites at query time, not what's baked into its weights. His most actionable insight is that being mentioned in many citations matters more than ranking first, which means early-stage startups can win AEO in days via a single Reddit thread or YouTube video. The two most important takeaways are that Webflow saw LLM traffic convert at 6x the rate of Google Search traffic (because multi-turn queries pre-qualify intent), and that Reddit with real employee names beats 10,000 fake accounts for citation influence.
+
 ## AEO = LLM + RAG, Not Training Data
 
 - Influencing the **core model** is borderline impossible and takes a year to show.
@@ -60,5 +64,4 @@ Ethan ranks this the **second-biggest shift in SEO history** (after Panda killed
 ## Related
 
 - [[lennys-podcast/jeanne-grosser|Jeanne Grosser — AEO as competitive insight]]
-- [[product-management/_index|Product Management]]
 - [[ai-product-development/_index|AI Product Development]]

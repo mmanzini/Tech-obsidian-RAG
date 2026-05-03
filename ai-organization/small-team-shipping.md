@@ -34,3 +34,4 @@ The argument has a known exception. When the work is genuinely parallelisable ac
 - [[from-hierarchy-to-intelligence]] — Block's vision for replacing coordination layers with AI world models; complementary argument for reducing human coordination overhead
 - [[openclaw-personal-agent-team]] — a one-person team augmented by nine AI agents; an extreme point on the small-team curve
 - [[anthropic-economic-index-learning-curves]] — usage and tenure data that speaks to per-engineer productivity trajectories
+- [[an-ai-glossary|An AI Glossary]] — foundational AI terminology for the tooling that enables small teams to punch above their weight

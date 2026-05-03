@@ -6,6 +6,10 @@ Sources:
 - Anthropic, [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution) (blog post)
 - Anthropic, [Claude's Constitution](https://www.anthropic.com/constitution) (full text)
 
+## Summary
+
+Anthropic's 2026 constitution replaces a list of standalone principles with an explanatory document written primarily *for Claude*, betting that cultivating good judgment generalises to novel situations better than mechanical rule-following. The four-property hierarchy — broadly safe, broadly ethical, compliant with guidelines, genuinely helpful — prioritises safety above ethics as a practical measure during early AI development, not as a permanent ranking, with the constitution itself serving as both a statement of ideals and a training artifact for generating synthetic data.
+
 ## Why a New Approach
 
 - Previous constitution was a list of standalone principles

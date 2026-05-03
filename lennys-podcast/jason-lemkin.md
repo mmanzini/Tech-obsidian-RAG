@@ -4,6 +4,10 @@
 
 Jason has seen the same hiring mistakes in SaaS sales for 15 years. His rules are blunt, opinionated, and evergreen — optimized for founders who think sales is "icky" and therefore keep delegating it wrong. (source: Lenny's Podcast)
 
+## Summary
+
+Jason Lemkin (founder SaaStr, ex-CEO EchoSign) distills 15 years of SaaS sales pattern-matching into a set of blunt, opinionated rules for founders who keep delegating sales before they understand it. His most important constraint is that founders must close the first 10 customers themselves before hiring anyone, and must wait until two reps are consistently hitting quota before bringing in a VP of Sales. The two key tactical takeaways are to always hire two reps simultaneously (you can't A/B test with a sample of one), and that the single best predictor of rep success is whether their previous product was harder to sell than yours.
+
 ## Founders Are A+ Middlers
 
 - Most founders are bad at cold open and bad at close, but **A+ at the middle** of a sales call.
@@ -62,5 +66,3 @@ Jason has seen the same hiring mistakes in SaaS sales for 15 years. His rules ar
 
 - [[lennys-podcast/jen-abel|Jen Abel — Founder-led sales]]
 - [[lennys-podcast/jeanne-grosser|Jeanne Grosser — GTM as product]]
-- [[product-management/_index|Product Management]]
-- [[way-of-working/_index|Way of Working]]

@@ -4,6 +4,10 @@
 
 Anthropic's AI Fluency Index now covers >50,000 conversations across Claude.ai, Claude Code, and Claude Cowork, measured against 11 behavioral fluency indicators. Two-track finding: some skills grow naturally with exposure, others require deliberate teaching. Training programs that ignore the distinction waste effort on the wrong dimension.
 
+## Summary
+
+Anthropic's research across 50,000+ conversations identifies two distinct tracks of AI fluency: description skills (how users shape Claude's output) grow naturally with exposure, while discernment skills (evaluating what Claude produces) must be explicitly taught. Each Claude product has a signature move — iteration for Chat, goal clarity for Code and Cowork — that must be taught first, and the curriculum rhythm is: signature move, spectrum exposure, then a "now question it" discernment check at every step.
+
 ## The three tracks of fluency
 
 1. **Signature move** — the gateway behavior that unlocks everything else. Product-specific.

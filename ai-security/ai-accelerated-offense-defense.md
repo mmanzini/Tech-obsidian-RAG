@@ -4,6 +4,10 @@ A seven-point defensive playbook from Anthropic's security teams, based on findi
 
 Source: Anthropic, [Preparing your security program for AI-accelerated offense](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense)
 
+## Summary
+
+Anthropic's Project Glasswing demonstrates that sub-frontier AI models are already finding serious vulnerabilities that traditional reviews missed for years, collapsing the patch-to-exploit window to hours and making friction-based defences (rate limits, SMS MFA) obsolete against AI adversaries with unlimited patience. The seven-point playbook — close the patch gap, prepare for higher vulnerability volume, find bugs before shipping, scan existing code, design for breach, reduce exposure, and shorten incident response — positions AI as simultaneously the primary threat multiplier and the most powerful defensive tool available.
+
 ## Context: Project Glasswing
 
 - Anthropic's initiative to use Claude Mythos Preview for defensive cybersecurity
@@ -104,3 +108,4 @@ When submitting reports upstream (especially to open-source maintainers receivin
 - [[ci-integrations/_index|CI Integrations]] — AI-powered code review as a pre-ship security layer
 - [[constitutional-ai/_index|Constitutional AI]] — hard constraints on Claude's security-related behaviour
 - [[agent-architecture/_index|Agent Architecture]] — foundational patterns for building secure, reliable agents
+- [[secret-rotation-interview|Secret Rotation: The Political Blocker]] — practitioner account of why credential rotation stalls on organisational politics, not tooling; directly relevant to the "Design for Breach" playbook point on short-lived secrets

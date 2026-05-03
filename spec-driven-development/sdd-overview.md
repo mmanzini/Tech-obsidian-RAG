@@ -2,6 +2,10 @@
 
 **Spec-Driven Development (SDD)** is a tool-agnostic standard for building software with AI agents. The core inversion: the **specification** is the durable, version-controlled artifact, and code becomes a regenerable output of the spec plus the current toolchain.
 
+## Summary
+
+SDD inverts the traditional development relationship: the spec — not the code — is the artifact that endures and is maintained under version control. It is designed to be adopted incrementally across four levels, from a simple one-page brief (Level 1) up to an org-wide standard with shared boundary conventions (Level 4), making it suitable for both solo developers and scaling organisations. The Always/Ask/Never boundary framework makes agent autonomy safe by making intent explicit and reviewable by any compliant agent.
+
 ## Why SDD
 
 Vibe-coding with agents produces fast first drafts but fragile systems: intent lives in chat history, regressions are silent, and onboarding new agents (or humans) means re-explaining everything. SDD makes intent explicit and reviewable so that any compliant agent — today's or next year's — can pick up where the last one left off.

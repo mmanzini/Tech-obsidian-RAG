@@ -4,6 +4,10 @@
 
 Jason took over Scale AI after the $14B Meta deal that moved Alex Wang and ~15 people to Meta. Scale remains independent, 1,100 people, growing every month. Before Scale he launched Uber Eats (0 → $20B in 4.5 years) and co-founded Scour with Travis Kalanick. The episode blends an insider view of AI labs with hard-won lessons on starting new businesses. (source: Lenny's Podcast)
 
+## Summary
+
+Jason Droege (CEO, Scale AI; founder of Uber Eats) took over after the $14B Meta deal and argues that data labeling has moved decisively to PhD/expert work — 80% of Scale's contributor network holds bachelor's degrees or higher — as the field shifts from models that know things to models that do things via RL environments. His most actionable business-starting framework is the 60%+ gross margin filter: start there and reason backward from why it won't hold. The two most important takeaways are that enterprise AI POCs succeed at 60–70% accuracy but every additional "nine" costs an order of magnitude more effort (realistic timeline: 6–12 months to production), and that "not losing is a precursor to winning" — survival beats heroics.
+
 ## Expert Data Labeling Is the New Default
 
 - **18 months ago:** label a short story, rank it vs. another.

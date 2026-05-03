@@ -2,6 +2,12 @@
 
 The landscape of AI-assisted design documentation is fragmented across three categories: SDD frameworks, portable agent instruction files and IDE-native rule systems. No single winner has emerged.
 
+---
+
+## Summary
+
+The AI-assisted design documentation landscape spans three distinct categories — SDD frameworks (Kiro, GitHub Spec Kit, OpenSpec), portable agent instruction files (AGENTS.md, SKILL.md), and IDE-native rule systems (Cursor Rules, Windsurf) — none of which directly compete with Design.md, which operates at the visual design layer the others omit. The practical recommendation is to use them in combination: DESIGN.md for visual consistency, SDD frameworks for technical specs, and AGENTS.md for code conventions.
+
 ## 1. SDD Frameworks
 
 ### Kiro (kiro.dev)

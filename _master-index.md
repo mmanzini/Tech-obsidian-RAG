@@ -17,7 +17,6 @@
 - [[design-in-ai/_index|Design in AI]] — Encoding design intent for AI agents: Design.md convention, Google Stitch, design tokens history, accessibility gaps, tool landscape
 - [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document
 - [[ai-security/_index|AI Security]] — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
-- [[way-of-working/_index|Way of Working]] — Heist Framework, Rally Model retrospective, and AI-native team structures
 - [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
 - [[product-management/_index|Product Management]] — Strategy, discovery, delivery, team design, and PM craft in the AI era. Roman Pichler plus guest essays (Raviv, Khan, Matthews, Klein, Mazal) and Lenny's essentials
 - [[lennys-podcast/_index|Lenny's Podcast]] — Episode-by-episode signal from Lenny Rachitsky's interviews: founders, PM leaders, AI researchers, designers, and operators

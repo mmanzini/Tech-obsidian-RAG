@@ -4,6 +4,10 @@
 
 Seven tactics from a career "super-IC" PM for thriving in the flatter, AI-accelerated PM role — where one IC is expected to own larger surface area with no more hours.
 
+## Summary
+
+Tal Raviv argues that the PM role is structurally unfair — PMs must ship without hiring/firing authority while absorbing org dysfunction — and that AI's "great flattening" makes this worse, requiring PMs to build private operating systems to survive. The seven tactics (do action items live in meetings, 59-second Looms, disciplined Slack hygiene, cultivating a team that operates without you, product scrapbooking, AI-assisted writing with human-only reading, and protecting brain freshness) form a coherent system for reclaiming agency in a role designed to absorb everyone else's uncertainty.
+
 ## The frame
 
 PMs juggle maker + manager schedules, can't hire/fire but must ship, and absorb org dysfunction. The "great flattening" (fewer ICs owning more, AI compressing expectations further) makes fairness worse, not better. Survival = building your own systems to make the job work for you.
@@ -68,9 +72,9 @@ Gloria Mark ("Attention Span"): "*When you can't psychologically detach from wor
 
 ## Related
 
-- [[product-management/pm-second-brain-chatgpt|PM second brain with ChatGPT]] — the AI copilot end of Tal's advice
-- [[product-management/essential-reading-part-1|Essential reading for product builders]] — includes Paul Graham's *Maker's/Manager's schedule*
+- [[pm-second-brain-chatgpt|PM second brain with ChatGPT]] — the AI copilot end of Tal's advice
+- [[essential-reading-part-1|Essential reading for product builders]] — includes Paul Graham's *Maker's/Manager's schedule*
 - [[lennys-podcast/_index|Lenny's Podcast]] — Tal's guest post is part of the Lenny ecosystem
 - [[lennys-podcast/jessica-fain|Jessica Fain]] — executive calendars are strobe lights (paired lens on meeting load)
-- [[product-management/_index|Product Management]]
+- [[_index|Product Management]]
 - [[way-of-working/_index|Way of working]]

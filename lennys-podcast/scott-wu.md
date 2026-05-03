@@ -4,6 +4,10 @@
 
 Scott's bet: the right unit of coding AI isn't a copilot or a tool, it's a *named autonomous engineer* called Devin who joins your team as a junior and gets better. Cognition pivoted 8 times before landing there. Today internal engineers each run 5 Devins in parallel, Devin writes 25%→50%+ of PRs, and the team's advantage rides on high-compute RL and Jevons Paradox. (source: Lenny's Podcast)
 
+## Summary
+
+Scott Wu (CEO, Cognition) built Devin — a named autonomous junior engineer rather than a copilot feature — after 8 pivots, arguing that the wedge is ownership of a task end-to-end, not assistance with a step. Cognition's internal team of ~15 engineers each runs 5 Devins in parallel, with Devin now authoring more than 50% of PRs; the moat is high-compute reinforcement learning on real engineering tasks, where code is verifiable in a way essay writing is not. The two most important takeaways are that "jagged intelligence" — superhuman on some subtasks, confidently wrong on others — is the defining management challenge for anyone working with agents, and that Jevons Paradox means cheaper code produces more demand for software, not fewer engineers.
+
 ## Named, not anonymous
 - Most coding agents are features inside an IDE; Devin is a *persona* — you say "Devin did this PR" the way you'd say a colleague's name.
 - The anthropomorphic frame is deliberate: it changes how humans review the work, how onboarding is structured, and how tasks are assigned.

@@ -5,6 +5,10 @@
 
 ---
 
+## Summary
+
+Codebase structure is a larger determinant of AI agent output quality than prompts or instruction files, because agents land cold on a repo with no mental map and can only navigate the literal import graph. The fix is "deep modules with greybox interfaces": lots of implementation hidden behind a simple, human-designed API, with the filesystem layout mirroring the intended mental map and tests locking the interface so agents can trust and modify interiors without inspection.
+
 ## Thesis
 
 The codebase is a **bigger influence on AI output than the prompt or the agent file**. Most codebases are a web of shallow, interconnected modules that a fresh agent — "like the guy from Memento" with no memory of the repo — cannot navigate. Fix the code structure before blaming the model.

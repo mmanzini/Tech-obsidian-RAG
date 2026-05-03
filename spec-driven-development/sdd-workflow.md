@@ -2,6 +2,10 @@
 
 The SDD workflow has **six phases**. Each phase produces a concrete artifact and ends with a checkpoint. Phases are not gates — looping back is normal and expected.
 
+## Summary
+
+The SDD workflow moves through six phases — Brief, Specify, Design, Task, Implement, Validate — each producing a concrete artifact and ending with a human checkpoint, where looping back is the correct behaviour when reality diverges from the spec. The anatomy of a compliant spec includes frontmatter, context, scope/non-goals, requirements, design summary, Always/Ask/Never boundaries, a task checklist, and a validation log — making it tool-agnostic and Kiro-compatible by design.
+
 ## The Six Phases
 
 1. **Brief** — One page. The problem, the user, the constraint, the definition of success. Written by a human; the agent may help refine it.

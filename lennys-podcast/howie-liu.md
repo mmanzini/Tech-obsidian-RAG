@@ -4,6 +4,10 @@
 
 Liu's thesis: every pre-GenAI company must be **refounded**, and the CEO has to become an IC again to do it. His operating frameworks are the fast-thinking / slow-thinking reorg borrowed from Kahneman, the chief-tastemaker stance, a ruthless weekly AI-execution cadence, and the "if you founded this today" test for deciding whether to keep running the company at all. (source: https://www.youtube.com/watch?v=GT0jtVjRy2E)
 
+## Summary
+
+Howie Liu (CEO, Airtable) argues that every pre-GenAI company must be refounded — and the CEO must become an individual contributor again to lead it, using AI hourly and being the top inference-cost user of their own product. His organizational move is a Kahneman-inspired split into fast-thinking (weekly jaw-dropping AI capabilities) and slow-thinking (deliberate infrastructure) teams, replacing an earlier business-unit structure that still thought incrementally. The two most important takeaways are the "if you were founding this today" test for deciding whether to refound or sell, and that each model capability shift implies entirely new form factors — you can't bolt new models onto old UX.
+
 ## IC CEO — CEOs becoming individual contributors again
 - Liu cut default 1:1s and replaced them with urgency-driven, topic-seeded meetings.
 - Proudly the #1 inference-cost user of Airtable AI — intentionally wasteful because the value per dollar is extreme.
@@ -62,5 +66,4 @@ Liu's thesis: every pre-GenAI company must be **refounded**, and the CEO has to 
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[ai-product-development/_index|AI product development]]
 - [[harness-engineering/_index|Harness engineering]]
-- [[way-of-working/_index|Way of working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

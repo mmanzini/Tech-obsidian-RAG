@@ -4,6 +4,10 @@
 
 Wen's through-line: the classic design process (discover → define → design → deliver, 2–5 year vision decks) is broken in an AI org where the underlying capability changes every few weeks. Her reframe is a stratified model — execution support + 3–6 month vision, not multi-year — with Figma still earning its place as an exploration tool and a specific archetype mix for hiring. (source: https://www.youtube.com/watch?v=eh8bcBIAAFo)
 
+## Summary
+
+Jenny Wen (design lead, Anthropic) argues that the classic double-diamond design process is broken when underlying AI capability shifts every few weeks, and proposes collapsing vision horizons to 3–6 months while stratifying work into near-term execution support and slightly longer vision layers. Mock time has dropped from ~60% to ~30% of her team's work, replaced by prototyping, prompting, and PRD writing — though Figma still earns its place specifically for exploring 8–10 parallel variants. The key takeaways are that hiring requires three archetypes (block-shaped generalists, T-shaped specialists, craft new grads) and that managers should rotate back into IC work periodically because you can't lead what you haven't recently done.
+
 ## "Don't trust the design process"
 - The textbook double-diamond assumes stable technology and a knowable user need.
 - In AI, the capability shifts under you mid-project — a polished flow designed for GPT-4 is wrong when GPT-5 ships.

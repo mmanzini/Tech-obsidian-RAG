@@ -2,6 +2,12 @@
 
 Trends in AI-assisted design documentation as of April 2026. Confidence levels noted.
 
+---
+
+## Summary
+
+The AI-assisted design documentation landscape is converging on a multi-file approach (DESIGN.md + AGENTS.md + SDD specs) rather than a single standard, with MCP becoming the universal integration layer between agents and design tools — potentially reducing Design.md's standalone role if agents can read directly from Figma. The next frontier is executable design specifications that self-validate against implementation and trigger re-runs on drift, with standard convergence predicted by late 2026 or 2027.
+
 ## High Confidence
 
 ### Standardisation Convergence

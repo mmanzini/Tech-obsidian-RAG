@@ -4,6 +4,10 @@
 
 Conley's framing: the midlife tech worker isn't obsolete, they're a **Modern Elder** whose crystallized intelligence (pattern recognition across careers) is precisely what fluid-intelligence-rich twenty-somethings lack. His toolkit is a set of reframes — midlife chrysalis not crisis, confidant not advisor, belong anywhere not travel — backed by named equations and measured outcomes. (source: https://www.youtube.com/watch?v=R5_ypwiRIyo)
 
+## Summary
+
+Chip Conley joined Airbnb at 52 as a "mentern" — mentor plus intern — to Brian Chesky, and built the case that crystallized intelligence (wisdom, pattern recognition) is the scarce complement to fluid intelligence (speed, novelty) in young tech teams. His most memorable frameworks are two named equations: Despair = Suffering − Meaning and Anxiety = Uncertainty × Powerlessness, which turn vague feelings into actionable levers. The key takeaways are that midlife is a chrysalis not a crisis (U-curve of happiness bottoms near 47–50 then rises), and that the senior leader's highest-leverage role is confidant — giving confidence through questions, not answers.
+
 ## Modern Elder at Airbnb
 - Joined Airbnb at 52 when the average employee was 26 — became "mentern" (mentor + intern) to Brian Chesky.
 - Crystallized intelligence (pattern recognition, wisdom, judgment) peaks in 50s–60s; fluid intelligence (speed, novelty) peaks in 20s.
@@ -45,5 +49,4 @@ Conley's framing: the midlife tech worker isn't obsolete, they're a **Modern Eld
 
 ## Related
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[way-of-working/_index|Way of working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

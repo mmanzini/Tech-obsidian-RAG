@@ -2,6 +2,10 @@
 
 Lenny Rachitsky's biannual report (March 2026) on tech hiring trends, based on TrueUp data covering 9,000+ tech companies. Surprisingly the most optimistic edition to date.
 
+## Summary
+
+The March 2026 hiring snapshot shows 7,300+ open PM roles (3-year highs) and 67,000+ engineering openings with accelerating growth — the most optimistic data edition yet, contradicting the "AI kills jobs" narrative. The most striking divergence is design's flat plateau at ~5,700 roles against soaring PM and eng demand, likely reflecting AI's compression of traditional design process timelines; Bay Area concentration for AI roles is also increasing rather than dispersing.
+
 ## Headline Trends
 
 1. **PM openings at 3-year highs.** 7,300+ open PM roles globally — 75% above the early-2023 low and up ~20% since the start of 2026. Most open PM roles since 2022.

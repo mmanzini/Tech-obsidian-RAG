@@ -4,6 +4,10 @@
 
 Taylor argues the consumer web's next substrate is the agent, not the page — and draws on a career of shipping at that kind of inflection (Maps, Like button, Quip, Sierra) to show what builders should do now. (source: https://www.youtube.com/watch?v=qImgGtnNbx0)
 
+## Summary
+
+Bret Taylor (co-founder Sierra, inventor of the Like button, ex-OpenAI chair) argues that agents are replacing apps as the primary interface layer, and that most founders should build in the applied-AI tier rather than competing with frontier labs. His Sierra thesis is that branded agents priced on outcomes (~99¢ per resolved ticket) align incentives better than seat licences. The two most important takeaways are that context engineering — giving the model the right data via MCP — is the real craft rather than prompt tweaking, and that evals have become the new PRD.
+
 ## Three tiers of the AI market
 - Frontier labs (OpenAI, Anthropic, Google) — capital-intensive, winner-concentrated
 - AI tooling / infrastructure — middleware for builders (vector DBs, eval, orchestration)
@@ -44,5 +48,4 @@ Taylor argues the consumer web's next substrate is the agent, not the page — a
 - [[agent-architecture/_index|Agent Architecture]]
 - [[agent-workflows/_index|Agent Workflows]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[product-management/_index|Product Management]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

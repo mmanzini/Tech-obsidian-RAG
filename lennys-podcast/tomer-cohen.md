@@ -4,6 +4,10 @@
 
 Tomer's theory of the AI-era PM: AI is not the driver, the PM is — but they're driving a car with very different pedals. He ran a 2M-member carve-out to turn around the LinkedIn feed, forces his org through an "AI Academy," and tells his teams "I might be wrong, but I'm not confused." AI is the ultimate matchmaker; the PM's job is to keep steering toward the mountain peak while diverging broadly before converging. (source: Lenny's Podcast)
 
+## Summary
+
+Tomer Cohen (CPO, LinkedIn) argues that AI-era PMs are still the drivers controlling the pedals — the failure mode is PMs who let the model dictate the roadmap rather than treating it as horsepower in service of a clear destination. His most concrete operational story is a 2M-member feed carve-out: isolating a small cohort with a dedicated skunkworks team that proved new patterns at scale before rolling back out, a technique for turning around stuck platform products. The two key takeaways are to visualize the 3-year "mountain peak" before any quarterly planning so teams don't drift into incrementalism, and to run a deliberate diverge-then-converge portfolio of AI bets — resist converging too early when everyone wants to be "doing AI."
+
 ## "Might be wrong but not confused"
 - Tomer's signature line and internal operating phrase.
 - Distinguishes *conviction with humility* from *hedging*: he's willing to be wrong about the specific path, but not fuzzy about the destination.
@@ -50,7 +54,5 @@ Tomer's theory of the AI-era PM: AI is not the driver, the PM is — but they're
 
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — AI-first framing, diverge/converge
-- [[product-management/_index|Product Management]] — PM as driver, mountain-peak framing
 - [[ai-organization/_index|AI & Organisation Design]] — segment carve-outs, AI Academy
-- [[way-of-working/_index|Way of Working]] — conviction-with-humility as operating stance
 - [[lennys-podcast/_index|Lenny's Podcast]]

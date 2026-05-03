@@ -132,4 +132,3 @@ Without structured context: reasoning degrades as the system grows.
 - [[research-plan-implement]] — RPI's Research phase as Sandbox Discovery for codebases
 - [[adversarial-review]] — formal Critic mandate and human filtering rules
 - [[agentic-engineering-approaches-compared]] — context ownership and sub-agent firewalls
-- [[way-of-working/_index|Way of Working]] — complementary lens on how AI changes team structures

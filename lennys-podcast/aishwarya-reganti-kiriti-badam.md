@@ -4,6 +4,10 @@
 
 Aishwarya and Kiriti argue that AI product development fails when teams apply deterministic-era playbooks to non-deterministic systems. Their operating model: a V1→V2→V3 progression, the agency-control tradeoff, and a CCCD framework that assumes the product is never "done." (source: Lenny's Podcast)
 
+## Summary
+
+Aishwarya Reganti (ex-AWS) and Kiriti Badam (ex-Meta) argue that AI product development fails when teams apply deterministic-era playbooks to non-deterministic systems. Their core framework is a deliberate V1→V2→V3 progression — from human-in-the-loop suggestions to full autonomy — each stage requiring distinct evals, guardrails, and UX. The key takeaways are that operator pain tolerance is the durable moat, and that CCCD (Continuous Calibration, Continuous Development) must replace CI/CD because prompts and eval sets are first-class source code.
+
 ## Non-Determinism Makes Three Things Opaque
 
 - **Input** is opaque: users phrase requests in infinite ways, and you can't enumerate them.

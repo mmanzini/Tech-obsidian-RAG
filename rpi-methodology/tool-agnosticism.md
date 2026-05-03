@@ -1,5 +1,11 @@
 # Tool Agnosticism
 
+**Source:** (self-authored)
+
+## Summary
+
+RPI is theoretically tool-agnostic but practically Goose-optimised: only Goose has native slash commands (`/research_codebase`, `/create_plan`, `/implement_plan`) that automate sub-agent orchestration and enforce validation gates. Claude Code, Cursor, and GitHub Copilot all require manual phase management, and observed degraded behaviours on manual teams — skipping phases, combining phases to reduce overhead, neglecting checkpoint tracking — confirm that friction leads to methodology breakdown.
+
 RPI is **tool-agnostic in principle** — the workflow runs with any structured-prompt-capable AI assistant. But **implementation ergonomics vary dramatically**. Goose is the only tool with native RPI support; everything else is manual.
 
 ## Comparison Matrix

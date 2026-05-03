@@ -2,6 +2,10 @@
 
 SDD assigns three roles and a boundary framework that together make agent autonomy reviewable.
 
+## Summary
+
+SDD defines three roles — Product Owner (owns intent and acceptance criteria), Developer (owns design and validation), and AI Agent (drafts and implements within declared boundaries) — and governs agent behaviour through a per-spec Always/Ask/Never framework. The key design principle is that boundaries are declared per-spec rather than globally, so the trust envelope precisely matches the risk profile of each piece of work, allowing agents to move autonomously on safe actions without ever silently exceeding dangerous ones.
+
 ## Roles
 
 - **Product Owner (PO).** Owns the brief and acceptance criteria. Decides scope and non-goals. Signs off on the spec before Design begins.

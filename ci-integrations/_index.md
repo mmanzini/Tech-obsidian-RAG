@@ -11,4 +11,4 @@ Running Claude inside CI/CD pipelines — GitHub Actions, managed Code Review, a
 
 - [[harness-engineering/_index|Harness Engineering]] — how `CLAUDE.md`, skills, and sub-agents shape what runs inside these CI jobs
 - [[agent-workflows/_index|Agent Workflows]] — patterns like Adversarial Review that Code Review automates
-- [[ai-dev-tools/claude-code-routines|Claude Code Routines]] — GitHub-triggered autonomous sessions; complementary to CI for event-driven automation outside the pipeline
+- [[harness-engineering/claude-code-routines|Claude Code Routines]] — GitHub-triggered autonomous sessions; complementary to CI for event-driven automation outside the pipeline

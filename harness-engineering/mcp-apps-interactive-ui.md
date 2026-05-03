@@ -5,6 +5,10 @@
 
 ---
 
+## Summary
+
+MCP Apps extend the Model Context Protocol to allow servers to return interactive HTML interfaces — data visualisations, forms, dashboards — that render directly inside the chat conversation via a sandboxed iframe. Unlike standalone web apps, MCP Apps share the conversation's context and existing tool integrations, with bidirectional communication via a `postMessage`-based JSON-RPC dialect, making them best suited for complex data exploration, multi-step workflows, and real-time monitoring.
+
 ## What MCP Apps Are
 
 MCP Apps let MCP servers return interactive HTML interfaces (data visualisations, forms, dashboards) that render directly inside the chat. They extend traditional MCP tools (which return text/images/structured data) by allowing tools to declare a reference to an interactive UI in their tool description.

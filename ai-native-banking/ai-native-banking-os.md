@@ -6,6 +6,10 @@ source: Backbase blog — "AI-native banking OS: What it is and why it matters" 
 
 A unified platform where AI agents and humans operate together across all banking functions, **built from the ground up for safe AI deployment** rather than having AI features bolted onto legacy stacks.
 
+## Summary
+
+Backbase's AI-Native Banking OS concept proposes a four-fabric architecture (Semantic, Process, Frontline, Integration) with a cross-cutting Control Plane that enables AI agents and humans to operate together across all banking functions under unified governance. The central argument is that "AI-native" is a structural claim — banks on fragmented legacy stacks will be unable to deploy AI at scale because they lack clean unified data, safe orchestration, and sufficient volume economics — while AI-native architecture delivers 3–5× higher AI ROI and enables cost-income ratios under 35%.
+
 ## The Problem: Fragmentation Kills AI
 
 - Banks run on 20–40 disconnected apps (branch, contact center, mobile, RM portals).

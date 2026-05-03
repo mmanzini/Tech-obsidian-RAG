@@ -4,6 +4,10 @@
 
 Arnovitz is a non-technical PM who ships real revenue-generating products himself using Cursor + Claude Code, multi-model peer review, and a disciplined /command library. A working playbook for the "PM who builds" role. (source: https://www.youtube.com/watch?v=1em64iUFt3U)
 
+## Summary
+
+Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing code by combining Cursor + Claude Code with a disciplined /command library (create-issue, exploration-phase, create-plan, execute-plan, review, peer-review, update-docs, learning-opportunity) and a CTO persona configured via Claude.md. His most distinctive workflow is multi-model peer review: running the same change through Claude, Codex, and Gemini and feeding each model's critique back to the lead agent as competing "dev lead" opinions, giving a non-technical reviewer expert-grade coverage by arbitraging model differences. The key takeaway is that every agent mistake should be turned into a prompt or doc update — compounding prompt quality is the core productivity hack — and that 95% accuracy is not an automation; the last 5% is the value.
+
 ## Tool progression
 - ChatGPT Projects (thought partner, structured context)
 - Bolt / Lovable (demo-grade UI prototyping)
@@ -54,6 +58,4 @@ Arnovitz is a non-technical PM who ships real revenue-generating products himsel
 - [[ai-dev-tools/_index|AI Dev Tools]]
 - [[agent-workflows/_index|Agent Workflows]]
 - [[spec-driven-development/_index|Spec-Driven Development]]
-- [[way-of-working/_index|Way of Working]]
-- [[product-management/_index|Product Management]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

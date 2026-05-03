@@ -2,6 +2,10 @@
 
 Lenny Rachitsky's takeaways from Simon Willison (April 2026) — covering both an unsolved security model for AI agents and the highest-leverage workflow patterns experienced operators have converged on.
 
+## Summary
+
+The lethal trifecta is a structural security problem for AI agents: whenever an agent simultaneously holds private data, processes untrusted content, and can externalise data, prompt injection cannot be reliably prevented. The article also documents the highest-leverage agentic workflow patterns — red/green TDD, the Dark Factory experiment, and the cognitive-load tax on operators — as reported by Simon Willison in April 2026.
+
 ## November 2025: The Inflection Point
 
 GPT 5.1 and Claude Opus 4.5 crossed a threshold where coding agents went from "mostly works" to "almost always does what you want." Engineers who tinkered over the holidays realised the technology had become genuinely reliable.

@@ -4,6 +4,10 @@
 
 Jen teaches founders zero-to-one enterprise sales. Her core argument: in the earliest stage, **the founder is the product**, and founder-led sales is research disguised as revenue. (source: Lenny's Podcast)
 
+## Summary
+
+Jen Abel (co-founder Jellyfish, GM State Affairs) teaches founders that in the earliest stage the founder is the product — founder-led sales is research disguised as revenue, and the milestone to hand off is approximately $1M ARR, not day one. Her most counterintuitive tactical insight is to be deliberately vulnerable about being early-stage, because prospects respond with honest feedback that is impossible to hear after GA. The two most important practical rules are to find 30 qualified targets manually before buying any enrichment tooling (if that's hard, your ICP is broken), and to always book the next call on the current call — "I'll email you" is nine times out of ten a soft no.
+
 ## The Founder Is the Product
 
 - Pre-product-market-fit, there is no brand equity — the founder's novel insight is the asset.
@@ -69,4 +73,3 @@ Jen teaches founders zero-to-one enterprise sales. Her core argument: in the ear
 - [[lennys-podcast/jason-lemkin|Jason Lemkin — B2B sales hiring]]
 - [[lennys-podcast/jeanne-grosser|Jeanne Grosser — GTM as product]]
 - [[lennys-podcast/jason-droege|Jason Droege — starting new businesses]]
-- [[product-management/_index|Product Management]]

@@ -1,5 +1,11 @@
 # When to Use RPI
 
+**Source:** (self-authored)
+
+## Summary
+
+RPI is optimised for deterministic, multi-file changes (4+ files, complex dependencies, high error cost) and works poorly for exploratory, greenfield, or trivial work. The 20–30 minute upfront Research + Plan investment breaks even when it prevents two or more rework cycles of 30–60 minutes each. The article also flags when to abandon RPI mid-stream — when research uncovers a fundamentally different problem, the plan becomes a straightjacket, or scope explodes beyond 50 phases.
+
 RPI works well for some problems and actively hurts for others. This is the decision framework.
 
 ## Quick Decision Tree

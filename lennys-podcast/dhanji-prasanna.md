@@ -4,6 +4,10 @@
 
 Dhanji wrote an AI manifesto to Jack Dorsey arguing that Block's GM-based structure was wrong for an AI-native company, and got the mandate to rebuild. The result: a functional re-org modeled on Apple, 8–10 hours/week saved per engineer, a 20–25% cut in manual hours, and Goose — an open-source MCP-based agent named after the Top Gun wingman. (source: Lenny's Podcast)
 
+## Summary
+
+Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product org was an industrial-era fit and needed Apple-style functional leadership to ship AI-native experiences — Conway's Law in reverse. The resulting re-org, paired with the open-source MCP-based agent Goose, produced 8–10 hours/week saved per engineer and a 20–25% cut in manual hours. The two most important takeaways are the "rm -rf and rebuild every release" provocation — specs and tests are the durable artifacts, not the codebase — and that org seams become product seams, making re-org a prerequisite rather than a cosmetic change.
+
 ## The AI manifesto to Jack
 - Dhanji's argument to Dorsey: a GM org (one GM per product line) is an industrial-era fit; AI-native companies need **functional depth** like Apple's single-P&L model.
 - Conway's Law in reverse: if you want AI-native products, your org chart has to stop mirroring 2010-era product silos.
@@ -53,5 +57,4 @@ Dhanji wrote an AI manifesto to Jack Dorsey arguing that Block's GM-based struct
 - [[harness-engineering/_index|Harness Engineering]] — MCP, Goose
 - [[agent-architecture/_index|Agent Architecture]] — screen-watching agents
 - [[spec-driven-development/_index|Spec-Driven Development]] — specs as the durable artifact
-- [[way-of-working/_index|Way of Working]] — hours-back metric
 - [[lennys-podcast/_index|Lenny's Podcast]]

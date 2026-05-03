@@ -4,6 +4,10 @@
 
 Marc Andreessen's big argument: AI is civilization's long-awaited productivity unlock, arriving just in time for demographic collapse. The model for the next decade isn't "AI vs humans" — it's N=1 tutoring, super-empowered individuals, and a brutal Mexican standoff inside every product team. (source: Lenny's Podcast)
 
+## Summary
+
+Marc Andreessen (a16z co-founder) argues that AI is the civilizational productivity unlock that has been absent for 50 years — turning silicon into thought — and that it arrives exactly when demographic collapse (fewer workers per retiree in every rich country) makes "more humans" no longer an option. His most important near-term framing is that product team roles won't split cleanly by function: PMs can now code, engineers can now design, designers can now PM, creating a permanent three-way negotiation rather than a role collapse. The two most important career takeaways are to become spiky and non-fungible (depth in one spike, breadth across others) and not to assume app-layer moats — the model can rebuild your product in days.
+
 ## AI as the philosopher's stone
 - AI turns sand (silicon) into thought. That is the actual civilizational event — more profound than electricity.
 - 2025 is arguably the most interesting year in the history of technology because the thought-from-matter transition went mainstream.
@@ -58,5 +62,5 @@ Marc Andreessen's big argument: AI is civilization's long-awaited productivity u
 ## Related
 - [[ai-organization/_index|AI & Organisation Design]] — three-way role collapse
 - [[ai-product-development/_index|AI Product Development]] — commoditization of the app layer
-- [[way-of-working/_index|Way of Working]] — super-empowered individual
+- See also: Way of Working bucket — super-empowered individual
 - [[lennys-podcast/_index|Lenny's Podcast]]

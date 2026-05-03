@@ -2,6 +2,12 @@
 
 Two valid entry points for spec-driven feature work. The choice depends on what is known and what needs to be discovered.
 
+---
+
+## Summary
+
+Requirements-first (requirements → design → tasks → implementation) suits greenfield features where intent is clear but structure is open; design-first (design → requirements → tasks → implementation) suits refactors and infrastructure work where the target architecture is already known. Regardless of entry point, the design document becomes an enforceable contract, and both approaches require explicit boundary declarations (Always/Ask/Never) as design decisions rather than afterthoughts.
+
 ## Requirements-First
 
 **Flow:** Requirements → Design → Tasks → Implementation

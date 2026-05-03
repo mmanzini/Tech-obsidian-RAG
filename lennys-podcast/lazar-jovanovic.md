@@ -4,6 +4,10 @@
 
 Lazar has never written more than a console.log. He gets paid full-time to build internal and customer-facing products with AI tools. The episode is a glimpse of how tech roles are collapsing and a practical framework for getting world-class output from Lovable/Cursor/Claude. (source: Lenny's Podcast)
 
+## Summary
+
+Lazar Jovanovic (professional vibe coder, Lovable) has never written more than a console.log but ships real products full-time — a living demonstration that the technical bottleneck in software creation has shifted from code-writing to taste, judgment, and context clarity. His operating model is 80% planning / 20% execution, with context externalized into a folder of Markdown PRDs (masterplan, implementation-plan, design-guidelines, user-journeys, tasks, rules) so each prompt shrinks to "proceed with the next task." The key takeaways are to run 5 parallel project tabs with different input types to find the winning direction cheaply, and that AI is an amplifier — if you don't know what you're doing, you produce garbage faster.
+
 ## The Non-Technical Advantage
 
 - Non-coders don't know what's "supposed to be impossible" — they just prompt it.

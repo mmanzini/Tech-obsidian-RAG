@@ -4,6 +4,10 @@
 
 Sherwin's report from inside OpenAI API: 95% of engineers use Codex, 100% of PRs are reviewed by Codex, and Codex users open 70% more PRs than non-users. He frames the shift through SICP's wizard metaphor — we're becoming sorcerers — and warns of Sorcerer's Apprentice risk. His operating moves: a 100%-Codex code-base experiment team, context-engineering via .md/skills files, top-performer time allocation rules, and a surgeon-team org model. Also: "SV is a bubble" — most enterprise AI deployments today have negative ROI. (source: Lenny's Podcast)
 
+## Summary
+
+Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers use Codex, 100% of PRs are reviewed by Codex, and Codex users open 70% more PRs at comparable quality — the internal baseline OpenAI is using to size the shift. His SICP-inspired framing is that engineers have become sorcerers commanding forces they don't fully understand, making the stop button (reviewability and shutdown) more important than the start button. The two most important takeaways are that context engineering via Markdown files (.md, skills) is the new source code and the single highest-leverage productivity investment, and that enterprise AI adoption has a negative-ROI problem that requires both top-down mandate and bottoms-up engineer adoption — either half alone fails.
+
 ## The three numbers
 - **95%** of OpenAI API engineers actively use Codex.
 - **100%** of PRs are reviewed by Codex before human merge.

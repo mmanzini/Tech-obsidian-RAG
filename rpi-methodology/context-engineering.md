@@ -1,5 +1,11 @@
 # Context Engineering
 
+**Source:** (self-authored)
+
+## Summary
+
+Context quality — not context window size — is the only lever on LLM output. Frontier models can reliably follow ~150–200 instructions regardless of window size, and output quality degrades past 40–60% utilisation due to position bias and attention dilution. RPI's phase separation is context engineering applied at the workflow layer: each phase gets a fresh context window, preventing pollution compounding, with sub-agents acting as context firewalls for tasks that explore 10+ files or span 3+ independent pieces of work.
+
 Language model performance is determined entirely by input context quality. **The contents of your context window are the only lever you have.** Expanding window size (100k → 1M) does not automatically improve capability — the real constraint is **instruction budget**, not window size.
 
 ## The Instruction Budget Hypothesis

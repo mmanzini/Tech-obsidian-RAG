@@ -4,6 +4,10 @@
 
 Chip Huyen's viral insight: the things people *think* improve AI apps (new frameworks, newer models, vector-DB debates) are almost never what *actually* improves them. Real gains come from talking to users, preparing data, and writing better prompts. Post-training is the new frontier; pre-training is basically done. (source: Lenny's Podcast)
 
+## Summary
+
+Chip Huyen (Nvidia, Stanford, author of *AI Engineering*) argues that teams systematically invest in the wrong layer — new frameworks and model debates — while the real gains come from talking to users, preparing data well, and writing better prompts. Her most important structural insight is that pre-training gains are flattening while post-training (RLHF, distillation, fine-tuning) is now where competitive advantage lives. The two key takeaways are that RAG quality is almost entirely determined by data preparation rather than vector-DB choice, and that evals are an ROI decision — do them rigorously only when scale, failure stakes, or quality differentiation justify the investment.
+
 ## Perceived vs. actual AI app improvements
 - What people *think* works: staying on AI news, newest agent framework, vector-DB choice, fine-tuning.
 - What *actually* works: talking to users, reliable platforms, better data prep, end-to-end workflow optimization, better prompts.

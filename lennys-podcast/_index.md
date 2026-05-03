@@ -79,4 +79,4 @@ Three earlier episodes live in the `ai-organization/` topic because they were co
 - [[ai-organization/_index|AI & Organisation Design]] — contains Amol Avasare, Boris Cherny, and Claire Vo takeaways from earlier Lenny episodes
 - [[ai-product-development/_index|AI Product Development]] — product-building frameworks that these guests reference
 - [[harness-engineering/_index|Harness Engineering]] — coding-agent setup referenced in the AI-infra batch
-- [[way-of-working/_index|Way of Working]] — team and operator patterns from the exec batch
+- See also: Way of Working bucket — team and operator patterns from the exec batch

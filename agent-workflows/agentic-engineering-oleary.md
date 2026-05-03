@@ -4,6 +4,10 @@ Source: [YouTube talk](https://www.youtube.com/watch?v=BEKc4P87XKo), AI Engineer
 
 The shift from *using* AI (autocomplete, suggestions) to *working with* AI (collaborator that executes tasks, runs tests, opens PRs). Talk frames the agent as an "energetic, well-read, often confidently wrong junior developer" — fast and tireless, but lacking judgment and business context.
 
+## Summary
+
+Brendan O'Leary (Kilo Code) frames agentic engineering as directing a tireless but judgment-free junior developer — where the primary constraint is context quality, not model capability. The talk's recommended approach is the Research → Plan → Implement loop, which front-loads human thinking into research and planning phases so that implementation can run on cheap models with minimal context; bad output is almost always a context or specification failure by the human, not the agent.
+
 ## Mental Model
 
 - Tools are picked up and put down; agents are collaborated with.

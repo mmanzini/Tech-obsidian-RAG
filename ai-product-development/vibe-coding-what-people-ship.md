@@ -4,13 +4,17 @@
 
 Field survey of what non-technical people are actually shipping with AI coding tools — and, critically, *using daily themselves*.
 
+## Summary
+
+Lenny Rachitsky's crowdsourced survey of 1,000+ people reveals that non-technical builders are shipping hyper-personalised, daily-used tools solo with AI coding tools (Cursor, Claude Code, Replit, Lovable leading) — often in a day or weekend. The dominant pattern is scratch-your-own-itch tools in health, parenting, and work productivity that spread to hundreds or thousands of users without a team, confirming the "n-of-1 personalised software" era where building for one person has positive ROI.
+
 ## Tool popularity (from the responses)
 
 **Top tier:** Cursor, Claude Code, Replit, Lovable
 **Second tier:** v0, Bolt, ChatGPT
 **Honorable mentions:** Gemini, n8n, Zapier Agent, Warp, Windsurf
 
-See [[product-management/ai-prototyping-for-pms|AI prototyping for PMs]] for how to pick between them.
+See [[ai-prototyping-for-pms|AI prototyping for PMs]] for how to pick between them.
 
 ## Headline patterns
 
@@ -79,7 +83,7 @@ See [[product-management/ai-prototyping-for-pms|AI prototyping for PMs]] for how
 
 ## Related
 
-- [[product-management/ai-prototyping-for-pms|AI prototyping for PMs]] — tool selection framework
+- [[ai-prototyping-for-pms|AI prototyping for PMs]] — tool selection framework
 - [[ai-product-development/_index|AI Product Development]]
 - [[harness-engineering/use-claude-code-more|Everyone should be using Claude Code more]]
 - [[ai-organization/ai-fluency-curriculum|AI fluency curriculum]]

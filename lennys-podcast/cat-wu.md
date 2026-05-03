@@ -4,6 +4,10 @@
 
 Cat runs product for Claude Code and Cowork alongside Boris Cherny. Her core thesis: AI has compressed feature timelines from 6 months to 1 week (sometimes 1 day), so the PM job is now to *minimise the distance from idea to user*. Process-light, research-preview-by-default, hire engineers with product taste, get the right amount of "AGI-pilled," and treat skills/evals as the new PRD. The PM team is ~30–40 people across research, CDP, Claude Code, enterprise, and growth. Mission ("safe AGI") trumps any individual product line — that's what makes cross-org trade-offs fast. (source: Lenny's Podcast)
 
+## Summary
+
+Cat Wu (Head of Product, Claude Code & Cowork, Anthropic) argues that AI has compressed feature timelines from six months to one week, fundamentally reframing the PM's job as minimizing the distance from idea to user rather than coordinating multi-quarter roadmaps. Anthropic's lever is hiring engineers with product taste over hiring more PMs, paired with shipping in "research preview" by default to lower the commitment threshold. The two most important takeaways are that being "the right amount of AGI-pilled" means building for the current model's maximum capability (not a hypothetical future model), and that 10 well-designed evals are worth more than hundreds of mediocre ones — evals are the future of PM work.
+
 ## Compressed timelines change the PM job
 
 - Pre-AI cadence: 6–12 month roadmaps, heavy partner-team alignment because code was expensive.
@@ -135,5 +139,4 @@ What replaces the PRD:
 - [[chip-huyen|Chip Huyen]] — what actually improves AI apps (users, data prep, prompts)
 - [[ai-product-development/_index|AI Product Development]] — Sandbox Discovery, Modular Context, the frameworks Cat operates inside
 - [[harness-engineering/_index|Harness Engineering]] — system-prompt pruning, multi-agent runtime
-- [[product-management/_index|Product Management]] — framework layer above this episode
 - [[lennys-podcast/_index|Lenny's Podcast]]

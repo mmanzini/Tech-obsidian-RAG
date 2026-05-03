@@ -4,6 +4,10 @@
 
 Jason's frame: stalled growth is almost never where the founder thinks it is. He runs a sequenced six-question diagnostic — and most companies find the answer in questions 1-3, long before they start blaming marketing or pricing. (source: Lenny's Podcast)
 
+## Summary
+
+Jason Cohen (founder WP Engine, Smart Bear) argues that stalled SaaS growth is almost never caused by what founders think — and offers a sequenced six-question diagnostic that most companies resolve in questions 1–3 (churn, positioning, NRR) before ever reaching channels or market. His most counterintuitive finding is that "too expensive" is rarely the real cancellation reason — it's a positioning failure masquerading as a price problem, as demonstrated by doubling the price of one product and generating 8x more leads. The key takeaways are to do the logo-churn cap math first (hard ceiling = new customers ÷ cancel rate), and that fixing onboarding is usually the highest-leverage churn intervention.
+
 ## The Six-Question Diagnostic (In Order)
 
 1. **Is logo churn capping the business?**
@@ -69,7 +73,6 @@ Always work top-down. Skipping to #4 while #1 is broken is how companies burn ye
 
 ## Related
 
-- [[product-management/_index|Product Management]]
 - [[ai-native-banking/_index|AI-Native Banking]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

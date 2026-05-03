@@ -4,6 +4,10 @@
 
 Gamma hit $100M ARR in just over 2 years with ~30 people, profitably, in a category (presentations) an investor once called "the worst idea I've ever heard" on their third-ever pitch. Grant's lessons are counterintuitive and unusually tactical. (source: Lenny's Podcast)
 
+## Summary
+
+Grant Lee (CEO, Gamma) reached $100M ARR in just over two years with ~30 people by rebuilding the first 30 seconds of the product to be magical enough to generate word-of-mouth, a bet-the-company pivot from vanity metrics (Product Hunt wins) to genuine PMF. His influencer strategy is counterintuitively broad: work with thousands of micro-influencers rather than five macro ones, because 90% of reach comes from less than 10% of creators and you can't predict which. The key takeaways are that the first-30-seconds experience is the product itself, and that treating new users as "selfish, vain, and lazy" — highlighting one differentiator, not four — is the discipline that produces word-of-mouth.
+
 ## The First 30 Seconds Doctrine
 
 - Product Hunt "Product of the Month" was a vanity win — signups plateaued because onboarding didn't produce word of mouth.
@@ -58,5 +62,4 @@ Gamma hit $100M ARR in just over 2 years with ~30 people, profitably, in a categ
 
 - [[lennys-podcast/elena-verna|Elena Verna — Minimum Lovable Product]]
 - [[lennys-podcast/jeanne-grosser|Jeanne Grosser — GTM as product]]
-- [[product-management/_index|Product Management]]
 - [[ai-product-development/_index|AI Product Development]]

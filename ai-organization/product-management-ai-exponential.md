@@ -4,6 +4,10 @@
 
 The traditional PM playbook assumes the technology frontier at project kickoff is roughly the frontier at launch. Exponentially improving models break that assumption — constraints you designed around may vanish mid-project. Cat Wu's argument: product teams must reorganize around rapid experimentation, consistent shipping, and doubling-down on what works, not long-horizon roadmaps.
 
+## Summary
+
+Cat Wu (Head of Product for Claude Code at Anthropic) argues that the 41× jump in model capability over 16 months has broken the traditional PM planning horizon, requiring teams to shift to short "side quest" sprints, prototype-first validation via demos and evals, and the discipline to do the simplest thing that works rather than engineering workarounds for model limitations. The practical implication: wrong bets are now cheap enough to justify daily experimentation, and the PM's job compresses to creating clarity in the ambiguity that constant model progress creates.
+
 ## The frontier moves faster than the project
 
 - **Sonnet 3.5 (new), Oct 2024** → first Claude Code prototype; METR measured it completing tasks that took humans ~21 minutes.

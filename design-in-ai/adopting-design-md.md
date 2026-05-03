@@ -2,6 +2,12 @@
 
 How to move from unstructured AI-assisted design toward structured design documents. The transition is incremental.
 
+---
+
+## Summary
+
+Design.md adoption follows a four-level spectrum from no design context (Level 0) through full spec-driven workflow (Level 3), and most teams should start at Level 1 — a single Design.md file — and graduate only when the pain of skipping a level becomes obvious. The article covers creation methods (URL auto-generation, TypeUI CLI, manual), placement conventions, version control, integration with multi-file spec ecosystems, and the hybrid vibe-coding-then-formalise pattern as the emerging best practice.
+
 ## The Adoption Spectrum
 
 | Level | What | Overhead | Outcome |

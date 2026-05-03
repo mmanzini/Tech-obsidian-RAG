@@ -1,5 +1,11 @@
 # Principles
 
+**Source:** (self-authored)
+
+## Summary
+
+The three foundational principles of RPI are phase separation (separate fresh context windows prevent research noise from polluting planning and implementation), upstream human review of intermediate artifacts (catching errors before code is written is cheaper than undoing implementation), and validation gates (FAR and FACTS scales that prevent specific failure modes at each phase transition). Each principle is paired with its mechanism, evidence base, and acknowledged limits — including the honest caveat that the methodology is advocated but not independently validated.
+
 The three foundational convictions underlying RPI. Each principle is paired with its mechanism, evidence, and — crucially — its stated limits.
 
 ## 1. Phase Separation Works

@@ -4,6 +4,10 @@
 
 Singhal's read on the PM job market: a bifurcation is underway. Builders are having the best year of their careers; career-PMs are heading for an existential crisis. The next 12–24 months will be chaotic, then stabilise. (source: https://www.youtube.com/watch?v=yUohoaC8_Hs)
 
+## Summary
+
+Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneously in a renaissance and a crisis depending on which half you're in: PMs who joined because they love building are having the best year of their careers, while those who joined for pay and prestige face existential risk as large companies lay off far more than they rehire (with rehires being entirely AI-native). The 12–24 month chaos period will stabilize around 2027, and the new hiring signal is "how modern are you?" rather than resume logos from the 2010s. The key takeaway is that PMs will diffuse across industries as agents of transformation — the skills of builder judgment are needed everywhere — while titles and function lines collapse inside traditional tech.
+
 ## Smiling exhaustion
 - PMs spent years exhausted by alignment meetings, influence-without-authority, org overhead
 - Now the work is genuinely fun again — people build, compensation is up
@@ -52,8 +56,6 @@ Singhal's read on the PM job market: a bifurcation is underway. Builders are hav
 - PMs will diffuse into every industry as agents of transformation
 
 ## Related
-- [[product-management/_index|Product Management]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[way-of-working/_index|Way of Working]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

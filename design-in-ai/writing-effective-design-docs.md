@@ -2,6 +2,12 @@
 
 Practical guidance for authoring design documents that AI agents consume reliably.
 
+---
+
+## Summary
+
+Effective Design.md authoring requires specific values over descriptive language (hex codes over "a trustworthy blue"), semantic naming, structured formatting, discrete value lists to reduce hallucination, and explicit negative constraints (guardrails). The recommended six-section structure is: visual theme, colour palette, typography, spacing, component patterns with all interactive states, and guardrails — with an accessibility section as a minimum requirement even though the format cannot enforce compliance.
+
 ## Core Principles
 
 - **Be specific, not descriptive** — Use `Primary: #1A73E8`, not "a blue that feels trustworthy". Agents apply values mechanically; vague descriptions produce inconsistent results

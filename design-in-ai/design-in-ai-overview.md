@@ -2,6 +2,12 @@
 
 Design in AI is the practice of encoding visual and architectural design intent into structured, version-controlled artefacts that AI coding agents can read and apply during code generation.
 
+---
+
+## Summary
+
+Without explicit design context, AI agents produce functional but generic-looking interfaces that converge on the same default Tailwind components — because design intent has historically lived in Figma files and Slack conversations, none of which agents can read. Design.md is the primary solution: a plain-text markdown file encoding colours, typography, spacing, and guardrails that constrains AI generation to produce consistent, on-brand output as part of a broader spec-driven development workflow.
+
 ## The Problem
 
 - AI agents produce functional code but generate generic-looking interfaces

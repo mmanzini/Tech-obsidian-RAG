@@ -2,6 +2,12 @@
 
 Pointers to real-world Design.md files, curated collections, tutorials and research.
 
+---
+
+## Summary
+
+A reference article pointing to real-world Design.md files, tutorials, case studies, and research on AI-assisted design. The two primary starting-point repositories are VoltAgent awesome-design-md (66+ brand Design.md files) and TypeUI (50+ community design skills), with Uber as the main enterprise case study and Columbia DAPLab research confirming that structured, contextual documentation outperforms traditional READMEs for AI agents.
+
 ## Curated Collections
 
 ### VoltAgent awesome-design-md

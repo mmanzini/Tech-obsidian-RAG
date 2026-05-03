@@ -4,6 +4,10 @@
 
 GitHub Action that runs Claude Code inside your workflows. Responds to `@claude` mentions in PRs and issues, or runs headless on scheduled/triggered events. Built on top of the [Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview); defaults to Sonnet unless you set `--model claude-opus-4-6`.
 
+## Summary
+
+The Claude Code GitHub Action enables interactive Claude usage via `@claude` mentions in PR and issue comments, as well as headless automation when a `prompt:` parameter is provided — with mode auto-detected between these two paths as of v1.0. All Claude Code CLI flags are accessible via the `claude_args` passthrough parameter, and behaviour is shaped through `CLAUDE.md` for project standards and the `prompt` parameter for workflow-specific instructions, with cost controlled via `--max-turns` caps and workflow timeouts.
+
 ## Setup paths
 
 - **Quick setup:** inside a local Claude Code session, run `/install-github-app` — guides through app install and secret setup. Requires repo-admin and direct Claude API (not Bedrock/Vertex).

@@ -4,6 +4,10 @@
 
 Simon's 2026 "AI state of the union": November 2025 was the threshold moment when coding agents crossed from "mostly works" to "almost always does what you told it." Now the bottleneck isn't typing code — it's judgment, supervision, and sustaining clear thinking under continuous pressure. Simon is writing a book about agentic engineering one blog chapter at a time and running four Claude instances in parallel before lunch. (source: Lenny's Podcast)
 
+## Summary
+
+Simon Willison (co-creator Django, coined "prompt injection") marks November 2025 as the inflection point when coding agents crossed from "mostly works" to "almost always does what you told it," with 95% of his own code now untyped by him. His most important structural insight is that AI reduces execution effort while increasing cognitive load — the new scarce resource is sustained clear thinking — and that mid-career engineers are the most squeezed tier while both seniors (amplified by pattern recognition) and juniors (faster ramp) benefit. The two key technical takeaways are that red/green TDD jargon encodes dense intent that agents recognize better than long prose prompts, and that the "lethal trifecta" (private data + untrusted content + exfiltration ability) makes agent security a fundamentally unsolved design constraint, not a patchable bug.
+
 ## The November 2025 inflection point
 - GPT 5.1 and Claude Opus 4.5 didn't look like giant leaps on paper — but together they crossed a threshold where agent output went from "buggy pile of rubbish" to reliably doing what it was told.
 - Reinforcement learning on code + reasoning traces (since OpenAI o1 in late 2024) turned code into the labs' primary training domain because code is verifiable — it runs or it doesn't.

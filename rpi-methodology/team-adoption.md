@@ -1,5 +1,11 @@
 # Adopting RPI in Teams
 
+**Source:** (self-authored)
+
+## Summary
+
+Team adoption of RPI requires genuine artifact review (not rubber-stamping), clear governance (single approver, SLAs), and ceremony discipline — the plan-reading illusion, where a coherent 1,000-line plan masks technical assumptions it doesn't actually validate, is the silent failure mode that most undermines the methodology. The article covers scaling playbooks for teams of 3–5, 6–15, and 20+, and HumanLayer's evolved approach of front-loading alignment through design discussions and structure outlines before producing detailed plans.
+
 Individual adoption is easy. **Team adoption** introduces organisational friction, coordination challenges, and the **plan-reading illusion** that quietly breaks the methodology.
 
 ## The Cognitive Load Problem

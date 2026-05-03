@@ -4,6 +4,10 @@
 
 How a monday.com PM used ChatGPT Projects to offload the "giant basket of context" PMs carry — and free working memory for judgement and taste.
 
+## Summary
+
+Amir Klein describes how loading a ChatGPT Project with all the context fragments a PM carries (PRDs, Slack exports, research transcripts, decks as PDFs) transforms it into an instantaneous librarian plus associate PM — surfacing key insights and generating tailored communications across five audiences from a single word-dump. The mental model is offloading context to free working memory for judgment and taste, not outsourcing decisions; the "everything is text" reframe is the key unlock for how much context can actually be fed in.
+
 ## The problem: context is the job, but carrying it is the tax
 
 PMs assemble fragments (user feedback, metrics, past decisions, intuition, Slack threads, decks) into clear problem statements. Doing that synthesis *in your head* caps thinking at working-memory size. **When context lives outside your head but is retrievable, you don't remember more — you reason better.**
@@ -57,11 +61,11 @@ Principles are tool-agnostic: instructions, files, iterate.
 
 ## Related
 
-- [[product-management/ai-prototyping-for-pms|AI prototyping for PMs]]
-- [[product-management/pm-guide-to-evals|PM guide to evals]]
-- [[product-management/unfair-pm-role|Product manager is an unfair role]]
+- [[ai-prototyping-for-pms|AI prototyping for PMs]]
+- [[pm-guide-to-evals|PM guide to evals]]
+- [[unfair-pm-role|Product manager is an unfair role]]
 - [[ai-organization/ai-fluency-curriculum|AI fluency curriculum]]
 - [[harness-engineering/use-claude-code-more|Everyone should be using Claude Code more]]
 - [[lennys-podcast/zevi-arnovitz|Zevi Arnovitz]] — non-technical PMs shipping real products; multi-model peer review
 - [[lennys-podcast/lazar-jovanovic|Lazar Jovanovic]] — Markdown PRD stack as externalised context
-- [[product-management/_index|Product Management]]
+- [[_index|Product Management]]

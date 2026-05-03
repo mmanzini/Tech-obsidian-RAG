@@ -4,6 +4,10 @@
 
 Ben Horowitz's operating theory of the CEO: most company deaths aren't one bad call but a cascade of 17 timid ones. His advice runs counter to consensus-seeking management — run toward the thing that scares you, judge people by their peaks not their worst moment, and accept that the job itself is mostly suffering you have to metabolize. (source: Lenny's Podcast)
 
+## Summary
+
+Ben Horowitz (a16z co-founder) argues that startups rarely die from a single bad decision — they die from 17 small acts of hesitation stacked together, making the CEO's core failure mode a failure of nerve, not strategy. His operating advice is to run toward the scariest problem immediately, and to judge founders and operators by their ceiling rather than their worst moment. The two most important takeaways are that founders must deliberately step into the CEO identity (it doesn't happen automatically) and that managerial leverage — one great delegation — outweighs dozens of good personal decisions.
+
 ## Plane-crash theory of startup failure
 - Startups rarely die from a single wrong decision; they die from 17 small bad ones stacked together.
 - Each of those 17 decisions is a moment where the CEO hesitated when they should have moved.
@@ -47,7 +51,6 @@ Ben Horowitz's operating theory of the CEO: most company deaths aren't one bad c
 - Accept "life isn't fair" as a baseline — it's the only motto that scales under pressure.
 
 ## Related
-- [[product-management/_index|Product Management]] — leadership without authority
-- [[way-of-working/_index|Way of Working]] — decision-making under pressure
+- See also: Way of Working bucket — decision-making under pressure
 - [[ai-organization/_index|AI & Organisation Design]] — CEO role in AI-era companies
 - [[lennys-podcast/_index|Lenny's Podcast]]

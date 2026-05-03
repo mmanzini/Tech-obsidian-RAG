@@ -1,5 +1,11 @@
 # Workflow
 
+**Source:** (self-authored)
+
+## Summary
+
+The full RPI lifecycle runs Research (5–15 min, fact-only, FAR-validated) → Plan (5–10 min, atomic tasks with success criteria, FACTS-validated) → Implement (mechanical execution with verification after each phase, checkboxes enabling recovery) → optional Iterate (surgical plan update without rebuild). A Goose feature-removal case study across 32 files demonstrates 52 minutes total with zero rework.
+
 The full three-phase RPI lifecycle with deliverables, validation gates, and recovery mechanisms.
 
 ```

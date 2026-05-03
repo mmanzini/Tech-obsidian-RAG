@@ -4,6 +4,10 @@
 
 Sam Lessin's frame: etiquette is showing up in a room with a low heart rate. Abundance mindset beats scarcity, repeat names, clean up after yourself, and — contrarian take — don't invest in "AI companies." (source: Lenny's Podcast)
 
+## Summary
+
+Sam Lessin (Slow Ventures, ex-Facebook) argues that good etiquette is simply visible evidence that you're not panicking — a person with a low heart rate in a meeting signals abundance, which is both its own reward and a social advantage. His contrarian investing thesis is that AI-branded startups will mostly lose money — too capital-intensive and commoditized — and that the better target is businesses that use AI as leverage without trying to be AI companies. The key practical takeaways are to never send a Calendly link to someone senior to you (it implicitly claims your time equals theirs), and that if you can build the app yourself in a weekend, it isn't a company.
+
 ## Etiquette = low heart rate
 - Good manners aren't rules; they're the visible evidence that you're not panicking.
 - A person with a low heart rate in a meeting is signalling abundance — they don't need this deal, this hire, this intro.
@@ -57,7 +61,6 @@ Sam Lessin's frame: etiquette is showing up in a room with a low heart rate. Abu
 - If you can build the app in a weekend, it isn't a company.
 
 ## Related
-- [[way-of-working/_index|Way of Working]] — etiquette and calendar hygiene
 - [[ai-organization/_index|AI & Organisation Design]] — AI as leverage vs. product category
 - [[ai-product-development/_index|AI Product Development]] — thin moats in the app layer
 - [[lennys-podcast/_index|Lenny's Podcast]]

@@ -2,6 +2,14 @@
 
 **Source:** [claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills](https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills) (Anthropic, 2026-04-11)
 
+---
+
+## Summary
+
+Anthropic's updated skill-creator brings software-engineering rigour to skill authoring by bundling eval authoring, benchmark mode, parallel multi-agent execution, blinded comparator agents, and description tuning — without requiring skill authors to write code. The core thesis is that evals serve two distinct functions depending on skill type: catching quality regressions when models change under you, and detecting the moment a skill has been absorbed into the base model and become obsolete.
+
+---
+
 Skill-creator (available in Claude.ai, Cowork, as a Claude Code plugin, and in the [anthropics/skills](https://github.com/anthropics/skills) repo) now bundles eval authoring, benchmark mode, multi-agent parallel execution, comparator agents, and description tuning. The goal: bring software-engineering rigor (testing, regression-catching, iterative improvement) to skill authoring without requiring authors to write code. Most skill authors are subject matter experts, not engineers.
 
 ## Two categories of skill (and why they need different eval strategies)

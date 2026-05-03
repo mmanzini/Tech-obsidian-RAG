@@ -5,6 +5,10 @@
 
 ---
 
+## Summary
+
+CLAUDE.md is the wrong place for CLI and command enforcement because it burns the instruction budget globally and is probabilistic, not deterministic. The correct approach is PreToolUse hooks — small bash scripts wired into `settings.json` that intercept and block forbidden commands before execution, with Claude self-correcting to the allowed alternative; the meta-trick is to let Claude bootstrap its own hooks by converting its CLAUDE.md rules into scripts, then deleting the now-redundant instructions.
+
 ## The question
 
 How do you force Claude Code to adopt *your* workflow — `pnpm` instead of `npm`, a wrapper script instead of `npx`, a blocklist of destructive commands — instead of whatever the model defaults to?

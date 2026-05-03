@@ -2,6 +2,10 @@
 
 A portfolio play: identify categories where users currently pay EUR 5+ or subscribe monthly for data that is actually free from public APIs, build clean focused apps with AI-assisted development, and sell them at EUR 0.99–1.99 across iOS and Android. Revenue comes from volume across many small apps, not from a single hit.
 
+## Summary
+
+The model arbitrages the gap between paid incumbents and free government/open APIs: build clean apps with Flutter and AI tooling in 2–5 days per app, undercut incumbents by 70–90%, and rely on portfolio averaging across 15–20 apps rather than any single hit. The EU's post-DMA commission rates (10–15% for Small Business Program developers) make the economics unusually favourable right now, though the two primary killers — API instability and App Store rejection — require engineering discipline rather than budget to solve.
+
 ## The Model
 
 1. Find a category with paid incumbents and a free open-data source (RDW, KVK, WOZ, OpenAQ, OpenFoodFacts, etc.).

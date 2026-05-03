@@ -1,5 +1,11 @@
 # Post-RPI Evolution
 
+**Source:** (self-authored)
+
+## Summary
+
+RPI hit three critical failure modes at scale — silent instruction-budget overflow (85 of ~150 instructions consumed before core work), magic-words dependency, and the plan-reading illusion — driving HumanLayer to evolve it into CRISPY/QRSPI (7–8 stages, each <40 instructions). In parallel, Geoff Huntley's Ralph Loop demonstrated that extreme context isolation (full agent reset between iterations, state in files) can outperform stateful sessions, and HumanLayer's CodeLayer IDE enabled distributed parallel RPI with up to 50% efficiency gains.
+
 RPI was the baseline, not the endpoint. Within two years of its 2024 introduction, the methodology evolved in three directions: **deeper structural decomposition (CRISPY/QRSPI)**, **distributed execution (multi-agent orchestration)**, and **meta-layer infrastructure (harness engineering)**. This page traces the evolution and the failures that drove it.
 
 ## Problems RPI Hit at Scale

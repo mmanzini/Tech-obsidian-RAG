@@ -4,6 +4,10 @@
 
 Fain's thesis separates **influence** (getting the org to the right answer) from **politics** (getting credit or territory). Her toolkit is specifically designed around the reality that executives see your problem for 30–60 seconds at a time — their calendars are strobe lights, not movies. The frameworks are pre-written moves for specific high-leverage moments. (source: https://www.youtube.com/watch?v=RP4vJeIb7WU)
 
+## Summary
+
+Jessica Fain (executive coach, ex-product leader) draws a sharp distinction between influence — shifting the org toward the right answer — and politics — shifting perception toward who gets credit — arguing that influence compounds over time while politics decays. Her entire toolkit is designed around a single structural reality: executive calendars are strobe lights, meaning every interaction must independently re-establish context in 30–60 seconds. The two most important moves are pre-reviewing important documents 1:1 before the group meeting to eliminate surprises, and always presenting the recommended option plus two alternatives so the executive exercises genuine judgment rather than rubber-stamping.
+
 ## Influence vs. politics
 - Influence: shift the org's understanding/decision toward what's right.
 - Politics: shift the org's perception toward who gets credit.
@@ -60,7 +64,5 @@ Fain's thesis separates **influence** (getting the org to the right answer) from
 - Ask "what is the board pushing the CEO on?" not "what's top of mind?"
 
 ## Related
-- [[product-management/_index|Product management]]
-- [[way-of-working/_index|Way of working]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

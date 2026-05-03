@@ -4,6 +4,10 @@
 
 McCabe reshaped Intercom around Fin, an AI support agent that hit $100M ARR in under three quarters — built six weeks after GPT-3.5 shipped. The story is half product (outcome pricing) and half ego-death leadership rewrite. (source: https://www.youtube.com/watch?v=0_opWSfmN8M)
 
+## Summary
+
+Eoghan McCabe (CEO, Intercom) built Fin — an AI support agent priced at 99¢ per successful resolution — in six weeks after GPT-3.5 launched and took it to $100M ARR in under three quarters, initially losing ~120¢ per call on inference as a deliberate bet on falling model costs. When the product thesis shifted from SaaS support tooling to autonomous agents, he rewrote Intercom's values around a "sharp knife" culture and absorbed ~40% staff turnover as necessary collateral. The two most important takeaways are to price for the gross margin you expect in 12 months rather than today's costs, and that outcome pricing (per successful resolution) aligns the buyer's incentives with the product's actual value proposition far better than seat licences.
+
 ## Fin: zero to $100M in under three quarters
 - Prototype started six weeks after GPT-3.5 launched
 - The wedge: replace human agents on tier-1 tickets, not augment them
@@ -42,7 +46,5 @@ McCabe reshaped Intercom around Fin, an AI support agent that hit $100M ARR in u
 ## Related
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[way-of-working/_index|Way of Working]]
-- [[product-management/_index|Product Management]]
 - [[agent-architecture/_index|Agent Architecture]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

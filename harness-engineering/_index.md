@@ -27,6 +27,14 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[claude-code-quality-postmortem|Claude Code Quality Postmortem — April 2026]] — three issues (effort downgrade, caching bug, verbosity prompt) that caused degradation reports; root-cause analysis and remediation (Anthropic)
 - [[claude-code-session-management|Claude Code Session Management and 1M Context]] — context rot, five turn-level options (continue/rewind/clear/compact/subagent), when to use each; practical decision table (Anthropic)
 - [[skills-2-0-user-workflow|Skills 2.0 User Workflow — Evals, AB Tests, and Context Engineering]] — practical user guide to running evals (one criterion, clear criteria, variation count), AB tests for speed/quality, reference-file context engineering (Ben AI)
+- [[atlas-sync-architecture|Atlas Sync Architecture — Vault ↔ Public Repos via Unison]] — two-location pattern bridging Atlas and 5 public GitHub repos via Unison; per-repo data flow direction, schedule, conflict handling
+- [[claude-cowork-setup-guide|Claude Cowork Setup Guide — 7 Steps for Non-Technical Users]] — install, global instructions, about-me folder (about-me/writing-rules/memory), connectors, skills, plugins, scheduled tasks (Systems Made Better)
+- [[zettelkasten-pkm|Zettelkasten — Foundational PKM Methodology]] — 500-year-old atomic linked-note system; Luhmann's 90,000-card proof of concept; digital lineage to wikis, Obsidian, and RAG vaults including Atlas
+- [[autoresearch-methodology|Autoresearch — Autonomous AI Research Methodology]] — Karpathy's overnight GPU experiment loop; program.md as steering harness; the simplicity criterion; direct precursor to Atlas's CLAUDE.md pattern
+- [[llm-vault-structure-spec|LLM Vault Structure Spec — Bucket/Topic/Article Architecture]] — the design document specifying Atlas's two-zone, two-layer folder architecture and consolidate/refine verbs
+- [[llm-wiki-schema-template|LLM Wiki Schema Template — Simple Single-Vault CLAUDE.md]] — minimal flat wiki template (raw/ + wiki/) that Atlas extends; Karpathy's original LLM Wiki pattern
+- [[claude-cowork-context-questionnaire|Claude Cowork Context Questionnaire — Business & Personal Brain Dump]] — onboarding questionnaire feeding organization.md, brand.md, strategy.md, icp.md, stakeholders.md, Profile.md, and CLAUDE.md
+- [[atlas-sync-operations|Atlas Sync Operations — Practical Command Reference]] — ops runbook for running, debugging, and extending the Atlas ↔ public-repos Unison sync
 
 ## Related Topics
 

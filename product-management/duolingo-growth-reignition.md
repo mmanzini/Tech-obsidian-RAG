@@ -4,6 +4,10 @@
 
 How Duolingo went from single-digit DAU YoY to 4.5× DAU in four years — built on a retention-focused growth model, leaderboards, streaks, and disciplined push notifications.
 
+## Summary
+
+Jorge Mazal's account of Duolingo's 4.5× DAU growth over four years centres on a single insight: a MECE bucket sensitivity analysis revealed that CURR (current user retention) had 5× the DAU impact of the next-best metric, because retained users compound back into the same bucket while acquisition does not. The three CURR-moving vectors — leaderboards adapted from FarmVille (competitor-closeness beats social-closeness), disciplined push notifications protecting channel integrity, and streak optimisation starting from a milestone-inflection discovery — together drove a +21% CURR improvement and 40% reduction in daily churn of best users.
+
 ## The starting problem
 
 Late 2017: most-downloaded education app, hundreds of millions of users, but DAU growth decaying into single digits YoY. Investors anxious ahead of monetisation. New user acquisition was already 100% organic — no obvious lever. Team bet on **retention**.
@@ -97,9 +101,9 @@ Healthy paranoia about CURR hitting a ceiling → parallel investments in social
 
 ## Related
 
-- [[product-management/_index|Product Management]]
-- [[product-management/product-strategy-cycle|Product Strategy Cycle]]
-- [[product-management/strategy-and-discovery|Strategy and Discovery]]
+- [[_index|Product Management]]
+- [[product-strategy-cycle|Product Strategy Cycle]]
+- [[strategy-and-discovery|Strategy and Discovery]]
 - [[lennys-podcast/elena-verna|Elena Verna on Lenny's Podcast]] — flip to 95% innovation / 5% optimization (adjacent growth-lever debate)
 - [[lennys-podcast/grant-lee|Grant Lee on Lenny's Podcast]] — first-30-seconds-is-the-product; activation-focused growth
 - [[lennys-podcast/albert-cheng|Albert Cheng on Lenny's Podcast]] — 1000 experiments/year and loss-aversion (Grammarly growth)

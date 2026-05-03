@@ -4,6 +4,10 @@
 
 Perkins' operating system is built on reframing every "either/or" into "both/and" and pursuing Crazy Big Goals by grinding through absurd amounts of rejection. The distinctive moves are her Column B thinking, the two-step plan, the rubber-ducky game board, and the mission-pillar discipline that forces product to hit every ingredient, language and device. (source: https://www.youtube.com/watch?v=-LywX3T5Scc)
 
+## Summary
+
+Melanie Perkins (CEO, Canva) built a $42B company from 100+ investor rejections by applying "Column B thinking" — refusing the industry's accepted trade-off (powerful OR easy) and building the bridge to both simultaneously. Her operational discipline runs through mission pillars (every ingredient, every language, every device) that make it structurally impossible to ship a subset-first compromise, enforced by a physical rubber-ducky game board that forces strategic plans to be tangible rather than aspirational. The key takeaways are the explicit two-step plan (build the most valuable company first, then do the most good — don't collapse the steps), and that closing the loop on even a fraction of 1M annual community requests is a trust primitive more powerful than any broadcast.
+
 ## Column B thinking
 - Column A = the trade-off the industry has accepted (powerful OR easy, pro OR consumer).
 - Column B = the version where you refuse the trade-off and build the bridge.
@@ -49,6 +53,5 @@ Perkins' operating system is built on reframing every "either/or" into "both/and
 - Close the loop on user requests even at 1M-scale; the ratio is less important than the fact that some requests do come back.
 
 ## Related
-- [[product-management/_index|Product management]]
 - [[design-in-ai/_index|Design in AI]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

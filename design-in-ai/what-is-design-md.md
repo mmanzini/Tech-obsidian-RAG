@@ -2,6 +2,12 @@
 
 A plain-text markdown file encoding an entire design system for AI coding agent consumption. Tagline: "README.md but for design systems."
 
+---
+
+## Summary
+
+Design.md is a portable, tool-agnostic markdown convention for communicating design constraints — colours, typography, spacing, component patterns, guardrails — to AI coding agents, solving the specific problem that agents default to generic Tailwind output without explicit design context. Introduced by Google with Stitch and extended by the open-source ecosystem (VoltAgent 66+ brands, TypeUI 50+ skills), it is 34–38% more token-efficient than JSON equivalents but covers only the visual layer: it does not replace accessibility auditing, interaction design, or professional design review.
+
 ## Core Purpose
 
 - AI agents default to generic Tailwind components without design context

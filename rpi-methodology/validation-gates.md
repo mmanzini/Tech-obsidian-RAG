@@ -1,5 +1,11 @@
 # Validation Gates — FAR & FACTS
 
+**Source:** (self-authored)
+
+## Summary
+
+FAR (Factual, Actionable, Relevant) gates the research-to-planning transition; FACTS (Feasible, Atomic, Clear, Testable, Scoped) gates the planning-to-implementation transition. Each criterion maps to a specific failure mode it prevents — FAR/Factual prevents hallucination, FACTS/Atomic prevents context overflow mid-implementation. Both scales are acknowledged as useful heuristics rather than validated metrics: no published inter-rater reliability testing or outcome correlation data exists.
+
 The two scales RPI uses as human-review checkpoints. Both are **useful heuristics, not proven metrics** — see the critical assessment below.
 
 ## FAR Scale — Research Validation

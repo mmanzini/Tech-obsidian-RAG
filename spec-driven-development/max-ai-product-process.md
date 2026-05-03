@@ -1,6 +1,10 @@
 # Max's AI-First Product Development Process
 
-A simplified, opinionated end-to-end process for building products with AI agents, distilled from extended personal research. Sits on top of [[sdd-overview|SDD]] and borrows from [[skill-issue-harness-engineering|harness engineering]] and the [[heist-framework|Heist]] way of working.
+A simplified, opinionated end-to-end process for building products with AI agents, distilled from extended personal research. Sits on top of [[sdd-overview|SDD]] and borrows from [[skill-issue-harness-engineering|harness engineering]] and the Heist way of working (see Way of Working bucket).
+
+## Summary
+
+This is Max's opinionated end-to-end process for building AI-first products, covering five phases: Investigation, Product Definition, Product Refinement, Product Development, and Iteration. The key differentiator is the Minion Approach in the Iterate phase — spawning context-blind user-impersonator agents to surface gaps that context-saturated teams consistently miss. The spec (per SDD) is the formal hand-off artefact between PM and development.
 
 ## The Five Phases
 

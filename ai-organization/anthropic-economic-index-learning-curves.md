@@ -4,6 +4,10 @@ Anthropic's third Economic Index report (March 2026) studies how Claude usage ev
 
 Source: Massenkoff et al., [Anthropic Economic Index report: Learning curves](https://www.anthropic.com/research/economic-index-march-2026-report) (March 2026)
 
+## Summary
+
+Anthropic's third Economic Index report (March 2026) tracks how Claude usage evolved over four months and identifies a strong learning-curve effect: users with 6+ months of tenure show a 10% higher conversation success rate and tackle more complex, work-focused tasks compared to newer users. The report's key finding is that experienced users collaborate *with* Claude rather than delegating *to* it — contradicting earlier hypotheses about automation increasing with tenure — suggesting that effective AI use is a skill that compounds with practice and may become a significant determinant of labour market outcomes.
+
 ## What Changed Since the Previous Report
 
 ### Usage Diversification

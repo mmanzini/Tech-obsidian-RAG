@@ -4,6 +4,10 @@
 
 Lockett's core argument: most tech leaders default to advising when they should be coaching, and optimise careers around ladders when they should be optimising around gifts. She hands over several concrete frameworks (GROW, NVC, 80% in gifts, vows) ready to use. (source: https://www.youtube.com/watch?v=1GDVum5IarI)
 
+## Summary
+
+Rachel Lockett (executive coach, ex-PM) argues that most tech leaders default to advising when they should be coaching — advice is faster but creates low buy-in, while coaching produces commitment because the person owns the conclusion. Her practical antidote is the GROW model (Goal → Reality → Options → Way forward) applied in a standard 20-minute 1:1, paired with the discipline of always asking which mode the other person actually wants before launching in. The two most important career takeaways are to spend 80% of working time in activities that energize you (discovered through a two-week energy log), and that co-founder relationships require explicit "vows" and a weekly/quarterly operating rhythm or they become the most common cause of startup failure.
+
 ## Coach vs advise
 - Advising is faster but creates low buy-in; coaching produces commitment because the person owns the conclusion
 - Great managers ask explicitly: "Do you want advice, space to think, or my recommendation?"
@@ -50,7 +54,5 @@ Lockett's core argument: most tech leaders default to advising when they should 
 - "Would I enthusiastically rehire this person?" is the binary talent filter
 
 ## Related
-- [[way-of-working/_index|Way of Working]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[product-management/_index|Product Management]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

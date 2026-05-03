@@ -4,6 +4,10 @@
 
 Albert ran growth at Duolingo during the "Green Machine" era and led strategic experiments at Grammarly. His frame: most growth teams collapse into exploit mode; durable growth requires a mechanical oscillation between exploring and exploiting, measured in experiments shipped per year. (source: Lenny's Podcast)
 
+## Summary
+
+Albert Cheng (ex-Duolingo, Grammarly) argues that durable growth requires budgeting explicit explore quotas — 25–40% of experiment slots — to prevent teams from collapsing into pure optimization. His most counterintuitive finding is from Chess.com: 80% of users reviewed games after wins, not losses, leading to a redesign that moved retention. The two most important takeaways are that reverse free trials (loss aversion beats positive framing) and a dedicated "resurrected user" experience are consistently the highest-ROI, least-owned growth surfaces.
+
 ## Explore / Exploit as an Oscillation
 
 - Growth teams default to exploit: tune existing funnels, win small lifts, starve of new channels.
@@ -63,6 +67,5 @@ Albert ran growth at Duolingo during the "Green Machine" era and led strategic e
 
 ## Related
 
-- [[product-management/_index|Product Management]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

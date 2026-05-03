@@ -4,6 +4,10 @@
 
 Evals are quietly becoming the defining skill for AI PMs. Prompts make headlines; evals decide whether a product thrives or dies.
 
+## Summary
+
+Aman Khan's guide positions evals — structured quality measurement of AI systems — as the defining skill for AI PMs, arguing that prompts make headlines but evals decide whether a product thrives or dies. The practical framework covers three evaluation approaches (human, code-based, LLM-as-judge), a four-part formula for writing judge prompts (role, context, goal, terminology), and a four-phase workflow from initial dataset collection through production monitoring — with LLM-as-judge as the scalable default that PMs can write and calibrate directly.
+
 ## What evals are
 
 Evals measure the quality and effectiveness of an AI system. Unlike unit tests (deterministic, pass/fail), evals deal with a non-deterministic system in a variable environment — more like a driving test than a train on tracks.
@@ -79,7 +83,7 @@ LLM-as-judge is the sweet spot for PMs: prompts grade prompts. Use confidence sc
 
 ## Related
 
-- [[product-management/ai-prototyping-for-pms|AI prototyping for PMs]] — build the prototype, then measure it with evals
+- [[ai-prototyping-for-pms|AI prototyping for PMs]] — build the prototype, then measure it with evals
 - [[ai-organization/an-ai-glossary|AI glossary]] — RAG, RLHF, hallucination definitions
 - [[harness-engineering/skill-creator-evals|skill-creator evals]] — Anthropic's eval-driven loop for skills
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]]

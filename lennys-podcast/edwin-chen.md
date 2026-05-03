@@ -4,6 +4,10 @@
 
 Surge AI crossed $1B in revenue with fewer than 100 employees, zero VC, while serving frontier labs. Edwin's argument: the AI data business is won by taste and quality signals — not benchmark leaderboards, not scale. The same logic applies to any AI product in 2026. (source: Lenny's Podcast)
 
+## Summary
+
+Edwin Chen (founder & CEO, Surge AI) built a bootstrapped $1B+ revenue AI data company with fewer than 100 employees by betting on quality-signal instrumentation per worker — thousands of signals like time-on-task and peer disagreement — rather than headcount scale. His core thesis is that public benchmarks are hill-climbed within months of release and diverge from production quality, so taste-based signals and worker curation are the real leverage. The two most important takeaways are that the field has progressed from SFT → RLHF → rubrics → RL environments and each phase demands 10x more sophisticated data work, and that agentic models must be trained on full trajectories rather than final answers.
+
 ## Benchmarks Are Hill-Climbed, Therefore Broken
 
 - Every public benchmark becomes a training target within months of release.

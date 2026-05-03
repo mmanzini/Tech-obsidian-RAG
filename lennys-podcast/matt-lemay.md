@@ -4,6 +4,10 @@
 
 Matt LeMay's one career-saving question: *If you were CEO, would you fully fund your own team?* Most PMs can't answer quickly — and that hesitation is exactly the risk. His Impact-First framework is an antidote to OKR theater and the "low-impact death spiral." (source: Lenny's Podcast)
 
+## Summary
+
+Matt LeMay (author, *Product Management in Practice*) argues that most PM teams drift into a low-impact death spiral — adding rhinestones to the car instead of fixing the engine — and that the one diagnostic question that cuts through it is: "If you were CEO, would you fully fund your own team?" His Impact-First framework insists that team goals should be no more than one multiplier or one Y-statement away from the company goal, keeping impact first at every planning stage rather than only at OKR setting. The key takeaways are that OKR theater is a decoy (scoring 0.7 across five objectives never saved a company), and that impact-focused PMs are — counterintuitively — the happiest ones because they stop fighting best-practice battles and go home at 6pm.
+
 ## The one question
 - "If you were the CEO of this company, would you fully fund your own team?"
 - Most PMs pause. That pause is the signal.
@@ -60,7 +64,5 @@ Matt LeMay's one career-saving question: *If you were CEO, would you fully fund 
 - PM = the person who makes the whole team think commercially, not the person who thinks commercially alone.
 
 ## Related
-- [[product-management/_index|Product Management]] — goal-setting, impact, OKRs
-- [[way-of-working/_index|Way of Working]] — team goal design
 - [[ai-organization/_index|AI & Organisation Design]] — commercial accountability in AI era
 - [[lennys-podcast/_index|Lenny's Podcast]]

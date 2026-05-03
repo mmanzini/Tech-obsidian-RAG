@@ -6,6 +6,10 @@
 
 ---
 
+## Summary
+
+Claude Cowork is Claude's desktop agent interface for non-technical knowledge workers, providing the same underlying capabilities as Claude Code but with a more accessible UI, built-in connectors, and collaboration features for Pro/Team/Enterprise accounts. The article is a comprehensive practical guide covering skills (the primary leverage point), sub-agents for bulk parallelism, connectors hierarchy, scheduled tasks, plugins, and the AI operating system pattern for scaling context across a team.
+
 ## What Cowork Is
 
 Claude Cowork is Claude's desktop-based agent interface for non-technical knowledge workers — conceptually the same underlying system as Claude Code but with a more business-friendly UI, permission settings, and collaboration features. Available on Pro/Team/Enterprise Claude Desktop (not browser, not free tier).
@@ -190,3 +194,5 @@ Scaling context across a team:
 - [[subagents-in-claude-code|How and When to Use Subagents in Claude Code]] — sub-agent decision framework
 - [[claude-code-routines|Claude Code Routines]] — scheduled / API / GitHub-triggered task automation
 - [[claude-managed-agents-memory|Built-in Memory for Claude Managed Agents]] — cross-session memory for agents
+- [[claude-cowork-context-questionnaire|Claude Cowork — Context Questionnaire]] — the questionnaire template for setting up a new Cowork system
+- [[claude-cowork-setup-guide|Claude Cowork Setup Guide — 7 Steps]] — Systems Made Better's 7-step practical setup guide for non-technical users (complementary, different creator)

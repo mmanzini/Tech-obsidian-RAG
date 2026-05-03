@@ -4,6 +4,10 @@
 
 Molly's operating frame: scaling isn't about adding people — it's about people repeatedly handing off the thing they love. Her toolkit externalizes the emotional cost of that handoff so it doesn't stall the org. (source: Lenny's Podcast)
 
+## Summary
+
+Molly Graham (ex-Facebook, Quip, Chan Zuckerberg) argues that scaling is fundamentally about people repeatedly giving away the work they love — building a house and handing it off to build the neighborhood — and that the emotional cost of this handoff, if unaddressed, becomes the bottleneck the company outgrows. Her most practical tool is "Bob the monster": naming the unspoken fear in the room so it can be examined rather than allowed to run meetings, paired with a two-week rule giving everyone a defined grief window before the new structure becomes the structure. The two most important structural insights are the Waterline Model (80% of team problems are structural — unclear roles and goals — not interpersonal) and that scaling follows a J-curve, not stairs, so leaders must narrate the dip to prevent teams from abandoning good bets at the bottom.
+
 ## Give Away Your Legos
 
 - Scaling = building a house, passing it to someone else, starting the neighborhood.
@@ -69,7 +73,5 @@ Molly's operating frame: scaling isn't about adding people — it's about people
 
 ## Related
 
-- [[way-of-working/_index|Way of Working]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[product-management/_index|Product Management]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

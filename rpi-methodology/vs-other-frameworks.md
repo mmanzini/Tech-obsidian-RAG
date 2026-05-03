@@ -1,5 +1,11 @@
 # RPI vs Other Frameworks
 
+**Source:** (self-authored)
+
+## Summary
+
+RPI is the accessible entry point to structured agentic workflows — low adoption cost, tool-agnostic, optimised for brownfield refactoring on solo or small teams. SDD is orthogonal (not a strict superset): RPI centres on discovery, SDD on specification, and they are complementary rather than competitive. The article provides head-to-head comparisons against SDD, Kiro Specs, Quick Dev, Vibe Coding, and Anthropic's two/three-agent harness patterns, with a feature matrix and illustrative cost table.
+
 RPI is **a lightweight, immediate entry point** to structured agentic workflows. It is not the most comprehensive option; it is the most accessible. This page positions RPI against the alternatives.
 
 ## The Landscape

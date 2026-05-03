@@ -9,10 +9,13 @@ Encoding design intent into structured, version-controlled artefacts that AI cod
 - [[what-is-design-md|What is Design.md]] — Format definition, structure, ecosystem and authoring approaches
 - [[google-stitch|Google Stitch]] — Google Labs' AI-native design canvas: capabilities, limitations, MCP integration
 - [[design-first-vs-requirements-first|Design-First vs Requirements-First]] — Two valid entry points for spec-driven workflows
+- [[design-principles|Design Principles for AI-Assisted Development]] — Ten cross-cutting principles explaining why design documents are non-negotiable in AI workflows
 
 ### Guides
 - [[writing-effective-design-docs|Writing Effective Design Docs]] — Authoring AI-consumable design documents: structure, principles, common mistakes
 - [[adopting-design-md|Adopting Design.md]] — From vibe coding to full SDD: the adoption spectrum and integration with spec workflows
+- [[getting-started-with-stitch|Getting Started with Google Stitch and Design.md]] — Practical hands-on guide: first generation, URL extraction, quotas, Figma export
+- [[integrating-design-with-specs|Integrating Design with Specs]] — How Design.md fits alongside REQUIREMENTS.md, AGENTS.md, TASKS.md in a multi-file workflow
 
 ### Landscape
 - [[competing-approaches-design|Competing Approaches]] — SDD frameworks, agent instruction files, IDE rule systems and how Design.md fits

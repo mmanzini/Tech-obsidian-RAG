@@ -4,6 +4,10 @@
 
 Butterfield's recurring move is to treat mundane "of course it works that way" details as actual design surface. His frameworks are about seeing utility curves bend, catching the moments when friction masquerades as inevitability, and killing beloved projects with cold rationality. (source: https://www.youtube.com/watch?v=kLe-zy5r0Mk)
 
+## Summary
+
+Stewart Butterfield (co-founder Slack, Flickr) argues that craft in product work is the compulsion to notice when a utility curve is about to bend — treating friction that "of course works that way" as actual design surface, the way the magic-link email login represents a 100x improvement hiding in plain sight because everyone tolerated passwords. His most important operating discipline is separating known-valuable work (ships value to a customer) from hyper-realistic work-like activities (OKR reviews, planning offsites) that look like work but have uncertain payoff. The key takeaways are that cold-rational pivots — asking whether you would start this today if you weren't already in it — produced both Flickr and Slack by killing games Butterfield loved, and that positioning sells the change the customer is buying, not the product itself.
+
 ## Utility curves (the S-curve of product value)
 - Most features follow an S-curve: flat, steep, flat again. The work is knowing which regime you're in.
 - "Magic link" email login is the canonical example — 100x improvement over passwords, but only obvious after someone tilts their umbrella to notice the friction everyone else tolerated.
@@ -42,6 +46,4 @@ Butterfield's recurring move is to treat mundane "of course it works that way" d
 - Generosity is the dominant long-run strategy in repeated games — don't track the ledger.
 
 ## Related
-- [[product-management/_index|Product management]]
-- [[way-of-working/_index|Way of working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

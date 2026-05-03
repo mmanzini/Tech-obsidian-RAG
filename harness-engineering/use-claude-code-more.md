@@ -2,6 +2,12 @@
 
 **Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code) (2025-10-14) — 50 ways non-technical people use Claude Code, crowdsourced from 500+ responses.
 
+---
+
+## Summary
+
+Crowdsourced from 500+ readers, this article reframes Claude Code as "Claude Agent" — a local, long-running agent with filesystem and CLI access — and documents 50 non-technical use cases spanning file admin, knowledge work, sales research, product ops, media production, and personal tasks. The highest-leverage setups share four traits: running from the right directory, providing MCP tools, a CLAUDE.md context file, and reusable slash commands or subagents for repetitive work.
+
 ## The reframe
 
 **Forget the word "Code". Think of it as Claude *Local* or Claude *Agent*.** It's a super-capable agent that runs on your machine, with local file/interface access and long-running sessions. Handles larger files, runs longer than chat, and is versatile beyond code.

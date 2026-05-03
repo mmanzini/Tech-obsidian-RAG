@@ -4,6 +4,10 @@
 
 Quick reference for meetings and reading. Definitions are paraphrased; link back to the newsletter for worked examples.
 
+## Summary
+
+A concise reference covering ~20 foundational AI terms — from tokens, transformers, and LLMs through training methods (pre-training, fine-tuning, RLHF), working concepts (prompt engineering, RAG, evals, MCP), and frontier concepts (agents, vibe coding, AGI). The core mental model is a stack of levers — pre-training, fine-tuning, RLHF, prompt engineering, RAG — where the cheapest effective lever should always be reached for first.
+
 ## Foundations
 
 - **Model** — a computer program built to work like a brain. Input → processing → output. "Learns" by being exposed to examples until it recognises patterns.
@@ -57,7 +61,8 @@ Quick reference for meetings and reading. Definitions are paraphrased; link back
 
 ## Related
 
-- [[product-management/pm-guide-to-evals|PM guide to evals]]
-- [[product-management/ai-prototyping-for-pms|AI prototyping for PMs]]
+- [[pm-guide-to-evals|PM guide to evals]]
+- [[ai-prototyping-for-pms|AI prototyping for PMs]]
 - [[agent-architecture/_index|Agent Architecture]]
 - [[harness-engineering/_index|Harness Engineering]]
+- [[small-team-shipping|Small Team Shipping]] — practical implications for team size in an AI-augmented context

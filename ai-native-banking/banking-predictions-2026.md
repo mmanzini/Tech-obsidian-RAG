@@ -6,6 +6,10 @@ source: Backbase Banking Predictions Report 2026 — "AI & the Future of Banking
 
 Backbase's annual report on where banking is heading. The through-line: 2026 is when AI moves from pilots to productivity, with structural rather than incremental shifts across every banking segment.
 
+## Summary
+
+Backbase's 2026 Banking Predictions report argues that AI is moving from tactical pilots to enterprise-wide productivity across all five banking segments (retail, private, wealth, small business, commercial), with trust — against deepfakes, fraud, and regulatory scrutiny — emerging as the defining competitive edge. The report's overarching thesis is that every segment is converging on the same unified-platform-plus-AI-orchestration playbook, and banks on fragmented architectures face structural uncompetitiveness within ~36 months as neobanks grow at 48.9% CAGR.
+
 ## 1. From Pilots to Productivity
 - Only **8% of banks** were doing strategic, enterprise-wide GenAI in late 2024 (IBM); 78% in tactical mode.
 - **82% of US banks** plan to grow AI budget share (KPMG); ~40% expect AI to exceed 20% of total budget.

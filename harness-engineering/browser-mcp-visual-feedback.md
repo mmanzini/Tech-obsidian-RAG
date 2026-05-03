@@ -4,6 +4,12 @@ AI coding agents are better at backend than frontend because backend feedback lo
 
 Source: Matt Pocock, [Frontend is HARDER for AI than backend](https://www.youtube.com/watch?v=pSritFeoYFo)
 
+---
+
+## Summary
+
+AI agents excel at backend development because the feedback loop is fully textual, but struggle with frontend work because they cannot see the UI they produce. Browser MCP servers (Chrome DevTools MCP, Playwriter, Dev Browser) close this gap by giving agents screenshot and interaction capabilities, enabling self-QA loops — though the main trade-off is token cost, making lighter-weight options preferable for most workflows.
+
 ## The Problem
 
 - Backend feedback loops are fully textual: write code → run tests → read text output. LLMs excel here

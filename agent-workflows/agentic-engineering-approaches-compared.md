@@ -2,6 +2,10 @@
 
 A synthesis of the main approaches to directing coding agents documented in this wiki, extended with 2026 industry research on how they apply to **greenfield** vs **brownfield** work. The goal: give a single place to decide *which workflow fits which job*.
 
+## Summary
+
+This article maps the agentic engineering landscape across two orthogonal dimensions — harness engineering (the runtime around the model) and agent workflows (the human process for directing it) — and introduces greenfield vs brownfield as the key axis for choosing between them. The core finding is that RPI excels on brownfield work where its Research phase purpose-built for existing code, SDD is the right standard for team/org-scale greenfield, and the long-running harness patterns (two-agent and three-agent) automate what RPI asks a human to orchestrate — making all these approaches composable rather than competing.
+
 ## The Two Layers
 
 The field splits into two orthogonal concerns:

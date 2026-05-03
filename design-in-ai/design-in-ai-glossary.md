@@ -2,6 +2,12 @@
 
 Key terms used in the Design in AI topic.
 
+---
+
+## Summary
+
+A reference glossary defining the key terms used across the Design in AI topic, including Design.md, Design Tokens, Greybox Module, SDD, MCP, SKILL.md, and related tools (TypeUI, Kiro, Stitch, Style Dictionary). Entries cross-reference the primary articles where each concept is treated in depth.
+
 **AGENTS.md** — Repository-level markdown file providing cross-tool context for AI coding agents (build commands, test procedures, code style). Stewarded by the Agentic AI Foundation (Linux Foundation).
 
 **Atomic Design** — Brad Frost's methodology: atoms → molecules → organisms → templates → pages. Predates Design.md; influences its component hierarchy thinking.

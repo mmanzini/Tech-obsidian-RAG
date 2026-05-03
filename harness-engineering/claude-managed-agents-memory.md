@@ -6,6 +6,10 @@
 
 ---
 
+## Summary
+
+Anthropic's Managed Agents memory feature lets agents persist and share knowledge across sessions as plain files — exportable, scoped, and fully auditable — without developers building custom memory infrastructure. The core value is that file-system-based memory integrates with existing agentic tool use, allows cross-agent sharing with granular permissions, and has demonstrated dramatic real-world results: Rakuten cut first-pass errors 97%, Wisedocs sped verification 30%.
+
 ## What It Is
 
 Memory on Managed Agents lets agents learn and improve across sessions without developers building custom memory infrastructure. Memories are stored as files — exportable, manageable via API, giving developers full control over what agents retain.

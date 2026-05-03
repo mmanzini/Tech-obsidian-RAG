@@ -2,6 +2,12 @@
 
 Feature matrix across AI design tools as of April 2026.
 
+---
+
+## Summary
+
+A structured comparison of AI design generation tools (Stitch, v0, Builder.io, Relume, Figma Make), design tools with AI features (Figma, Framer, Penpot), and the Design.md ecosystem tooling (TypeUI, VoltAgent, DesignMD.ai). The key finding is that no single tool covers the full workflow — teams combine Stitch for ideation, Figma for refinement, SDD for specification, and code editors for implementation — and accessibility is poor across every tool.
+
 ## AI Design Generation Tools
 
 | Tool | Input | Output | Design.md | Pricing |

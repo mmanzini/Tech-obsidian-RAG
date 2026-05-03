@@ -4,6 +4,10 @@
 
 PRDs-to-working-prototypes in minutes, no code. The core shift: a PM can sketch a feature, validate it with users, and iterate before a line of production code is written.
 
+## Summary
+
+Colin Matthews' guide for non-technical PMs covers how to turn PRDs into working prototypes in minutes using cloud dev environments (v0, Bolt, Replit, Lovable), with tool selection matched to use case: v0 for polished UI, Bolt for speed, Replit for data/internal tools, Lovable for productionisable integrations. The four techniques that separate good from bad results — reflection (plan before code), batching (small iterations), specificity (hyper-precise prompts), and managing lost context — are more important than model choice.
+
 ## Tool categories
 
 | Category | Examples | Best for |
@@ -43,7 +47,7 @@ PRDs-to-working-prototypes in minutes, no code. The core shift: a PM can sketch 
 
 ## Related
 
-- [[product-management/pm-guide-to-evals|PM guide to evals]] — once your prototype works, how do you measure if it's any good?
+- [[pm-guide-to-evals|PM guide to evals]] — once your prototype works, how do you measure if it's any good?
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]]
 - [[ai-product-development/vibe-coding-what-people-ship|What people are vibe-coding]] — 50 real examples built with these tools
 - [[harness-engineering/_index|Harness Engineering]] — for PMs graduating into local IDEs and agent harnesses

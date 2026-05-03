@@ -4,6 +4,10 @@
 
 Brian Halligan's thesis: at 100 employees the job changes. Below that you're playing at the kids' table — you can compensate for any weakness with hustle. Above it, the game is talent density, spiky 4-out-of-4 hires, and absorbing shit sandwiches without complaining. (source: Lenny's Podcast)
 
+## Summary
+
+Brian Halligan (HubSpot co-founder) argues that 100 employees is the decisive inflection point: below it the CEO can outwork problems, but above it the primary job becomes recruiting (50% of calendar time) and talent density. His most counterintuitive hiring rule is to prefer spiky specialists over uniformly competent generalists — a team of 4-out-of-4 in one dimension beats a team of 3s across the board. The two most important operating phrases are "eat the whole shit sandwich" (never nibble painful decisions) and "EV > TV > MEV" as the one-line description of healthy culture.
+
 ## Kids' table vs. adults' table
 - Under ~100 employees: kids' table. You can out-work most problems; CEO as player-coach.
 - Over ~100: adults' table. The company is now a talent-allocation machine, and your single biggest job is recruiting.
@@ -61,7 +65,5 @@ Brian Halligan's thesis: at 100 employees the job changes. Below that you're pla
 - A CEO is a five-tool athlete and a broken record — both at once.
 
 ## Related
-- [[way-of-working/_index|Way of Working]] — CEO operating rhythm
-- [[product-management/_index|Product Management]] — hiring and culture
 - [[ai-organization/_index|AI & Organisation Design]] — talent density at scale
 - [[lennys-podcast/_index|Lenny's Podcast]]

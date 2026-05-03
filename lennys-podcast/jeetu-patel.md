@@ -4,6 +4,10 @@
 
 Jeetu's six-part operating framework for betting a company's future: **Timing > Market > Team > Product > Brand > Distribution.** Most leaders obsess over product; the first three are what actually decide outcomes. He separates "permission to play" (table stakes) from "right to win" (earned edge), runs a PhD-level megatrend-vs-hype test, and believes stamina — not intellect — is the scarcest leadership trait. (source: Lenny's Podcast)
 
+## Summary
+
+Jeetu Patel (CPO, Cisco) offers a six-part framework for betting on opportunities — Timing > Market > Team > Product > Brand > Distribution — arguing that most leaders fatally over-index on product while the first three factors actually decide outcomes. His most useful filter is the "PhD test" for separating megatrends from hype: if you could write a doctoral thesis on the technical substance, it's real; if the answer is a pitch deck, it isn't. The two most important takeaways are the distinction between "permission to play" (table stakes that get you on the list) and "right to win" (the earned edge that makes customers choose you), and that stamina — not intellect — is the scarcest trait at the top of large companies.
+
 ## The 6-part framework: Timing > Market > Team > Product > Brand > Distribution
 - **Timing** — are you right, early, or late? Being right too early kills more companies than being wrong.
 - **Market** — size and trajectory of the problem, not the current revenue.
@@ -54,8 +58,6 @@ Jeetu's six-part operating framework for betting a company's future: **Timing > 
 - Infrastructure work gets blame not glory; optimize for trust compounding over time.
 
 ## Related
-- [[product-management/_index|Product Management]] — the 6-part framework, permission-to-play
 - [[ai-organization/_index|AI & Organisation Design]] — stamina, storytelling, public/private norms
 - [[ai-product-development/_index|AI Product Development]] — megatrend-vs-hype PhD test
-- [[way-of-working/_index|Way of Working]] — public critique, private trust
 - [[lennys-podcast/_index|Lenny's Podcast]]

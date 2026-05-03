@@ -2,6 +2,10 @@
 
 Lenny Rachitsky's summary of a conversation with Amol Avasare, Head of Growth at Anthropic (April 2026).
 
+## Summary
+
+Amol Avasare, Head of Growth at Anthropic, describes how Claude Code has created a 3–4x engineering productivity multiplier that has outpaced PM and design capacity — forcing Anthropic to hire more PMs and deputise product-minded engineers for short-cycle work. The strategic insight is that AI-native growth teams should flip the traditional optimisation/big-bet ratio, investing heavily in large-swing experiments because micro-optimisations capture a shrinking share of an exponentially growing total opportunity.
+
 ## The PM/Eng Ratio Compression
 
 - Claude Code makes a 5-engineer team produce the output of 15–20.

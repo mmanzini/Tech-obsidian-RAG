@@ -2,6 +2,10 @@
 
 Five canonical coordination patterns for multi-agent systems, with decision criteria for choosing between them.
 
+## Summary
+
+Anthropic identifies five canonical multi-agent coordination patterns — Generator-Verifier, Orchestrator-Subagent, Agent Teams, Message Bus, and Shared State — each suited to different problem structures. The default recommendation is to start with the simplest pattern that could work (Orchestrator-Subagent) and layer in more complex patterns only when problem structure demands it. Production systems commonly combine multiple patterns rather than relying on any single one.
+
 Source: Anthropic, [Multi-agent coordination patterns: Five approaches and when to use them](https://claude.com/blog/multi-agent-coordination-patterns)
 
 ## The Five Patterns

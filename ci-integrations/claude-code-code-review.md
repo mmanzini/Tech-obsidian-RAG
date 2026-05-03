@@ -4,6 +4,10 @@
 
 Managed GitHub PR review service (research preview, Team/Enterprise only, no ZDR). A fleet of specialized agents analyzes the diff against the full codebase in parallel, a verification step filters false positives, and findings post as inline comments tagged by severity. Never blocks merges — the check always completes with a neutral conclusion.
 
+## Summary
+
+Claude Code's managed code review service runs parallel specialised agents against the full codebase on every PR push (or on demand via `@claude review`), posts findings as inline comments tagged Important/Nit/Pre-existing, and always completes with a neutral check conclusion — but exposes machine-readable severity counts via `gh api` that teams can use to gate merges in their own CI. Behaviour is customised through two additive layers: `CLAUDE.md` for project-wide standards shared across all Claude tools, and `REVIEW.md` for review-only rules like always-flag requirements and skip patterns.
+
 ## How reviews run
 
 - **Triggers:** on PR open, on every push, on manual `@claude review`, or a mix — configured per repo.

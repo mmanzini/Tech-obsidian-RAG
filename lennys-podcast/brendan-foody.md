@@ -4,6 +4,10 @@
 
 Mercor went from $1 ARR to $400M in 16 months selling expert human data to frontier labs. Foody's central claim: the PRD of the AI era is the eval, and the scarce input is expert judgment, not generalist labour. (source: https://www.youtube.com/watch?v=ja6fWTDPQl4)
 
+## Summary
+
+Brendan Foody (CEO, Mercor) grew his expert-data marketplace from $1 to $400M ARR in 16 months by recognizing that frontier AI labs need credentialed expert raters — doctors, lawyers, senior engineers — not generalist crowds, and are willing to pay $500/hr for them. His core thesis is that the eval set has replaced the PRD: teams that treat eval authoring as senior craft ship fastest. The key takeaways are that expert-time demand is effectively unbounded at the quality ceiling, and that being the fastest throughput provider on the scarce primitive beats being feature-rich.
+
 ## The eval is the PRD
 - You can't spec an agent the way you speced a SaaS feature; you specify behaviour by example
 - A good eval set encodes taste, edge cases, and acceptance criteria — it IS the product definition
@@ -40,5 +44,4 @@ Mercor went from $1 ARR to $400M in 16 months selling expert human data to front
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[agent-workflows/_index|Agent Workflows]]
-- [[way-of-working/_index|Way of Working]]
 - [[lennys-podcast/_index|Lenny's Podcast]]

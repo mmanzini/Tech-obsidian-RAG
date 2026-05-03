@@ -4,6 +4,10 @@
 
 Nick Turley's operating philosophy for the fastest-growing product in history: the model *is* the product, pace is a forcing function, and ChatGPT is still MS-DOS — Windows hasn't been built yet. (source: Lenny's Podcast)
 
+## Summary
+
+Nick Turley (Head of ChatGPT, OpenAI) argues that there is no distinction between model and product — improving the model is product work — and that the leader's primary job is setting the team's resting heart rate so the pace is sustainable over a multi-year marathon. Many of ChatGPT's biggest decisions (free tier, $20/month pricing, no waitlist) were small-moment calls made under constraints, not deliberate strategies, yet they rewrote the industry's pricing and distribution conventions. The two most important takeaways are that chat is the MS-DOS phase and a more capable interface layer is coming, and that running toward high-stakes use cases rather than away from them is the move that separates ChatGPT from big-tech incumbents.
+
 ## The model is the product
 - There is no distinction between model and product. Improving the model is product work; improving the product means improving the model.
 - Three roughly equal sources of retention gains: (1) model improvements on real use cases, (2) new capabilities (search, memory), (3) classic product work (no-login, UX).
@@ -71,7 +75,5 @@ Nick Turley's operating philosophy for the fastest-growing product in history: t
 
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — model-as-product, evals, iteration
-- [[way-of-working/_index|Way of Working]] — pace and resting heart rate
 - [[ai-organization/_index|AI & Organisation Design]] — hiring barrels, research + product
-- [[product-management/_index|Product Management]] — first-principles PMing
 - [[lennys-podcast/_index|Lenny's Podcast]]

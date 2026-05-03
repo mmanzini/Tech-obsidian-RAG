@@ -2,6 +2,12 @@
 
 AI design tools produce visually appealing output but systematically fail accessibility standards. This is the most significant practical limitation of current AI-assisted design.
 
+---
+
+## Summary
+
+No current AI design tool — including Stitch, Figma AI, Framer AI, and Builder.io — produces WCAG-compliant output without manual review, failing consistently on colour contrast, touch targets, semantic HTML, ARIA attributes, and keyboard navigation. The practical recommendation is a four-tier remediation workflow (automated tools → expert review → design system integration → agentic CI/CD monitoring), with regulatory deadlines (EAA June 2025, US WCAG 2.1 AA April 2026) making human oversight non-optional.
+
 ## Current State
 
 No AI design tool produces WCAG-compliant output without manual review — including Stitch, Figma AI, Framer AI and Builder.io.

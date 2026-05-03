@@ -4,6 +4,10 @@
 
 Forsgren built the DORA research program and later SPACE at Microsoft. Her counterintuitive finding, proven across thousands of orgs: elite performers are faster *and* more stable — the tradeoff most teams assume is a myth. The frameworks work because they pair quantitative throughput/stability with qualitative signals. (source: Lenny's Podcast)
 
+## Summary
+
+Nicole Forsgren (co-author *Accelerate*, creator of DORA and SPACE) disproved the assumed tradeoff between speed and stability across thousands of organizations: elite engineering teams are simultaneously faster and more stable, and the same pattern holds at every company size and in every industry (except retail). Her SPACE framework adds the crucial rule that teams must pick metrics from at least three dimensions to prevent gaming, pairing every quantitative measure with a qualitative counterpart. The two most important takeaways are that AI productivity measurement needs the same DORA-style framing (not "% of code written by AI" vanity metrics), and that qualitative interviews should precede dashboards — words surface the hypothesis, telemetry confirms or refutes it.
+
 ## DORA — Four Metrics That Correlate with Business Outcomes
 
 - **Throughput:** deployment frequency, lead time for changes.
@@ -58,7 +62,6 @@ Forsgren built the DORA research program and later SPACE at Microsoft. Her count
 
 ## Related
 
-- [[way-of-working/_index|Way of Working]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[harness-engineering/_index|Harness Engineering]]
 - [[ci-integrations/_index|CI Integrations]]

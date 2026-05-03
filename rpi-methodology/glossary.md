@@ -1,5 +1,11 @@
 # Glossary
 
+**Source:** (self-authored)
+
+## Summary
+
+A reference for the key terms used throughout the RPI methodology documentation, covering foundational concepts (context engineering, instruction budget, context rot), RPI-specific constructs (FAR/FACTS scales, validation gates, checkpoint recovery, thoughts directory), and related frameworks (SDD, CRISPY/QRSPI, Ralph Loop, 12 Factor Agents). Definitions include cross-references to the relevant deep-dive articles.
+
 Key terms used throughout the RPI methodology documentation.
 
 **ACE Framework** — Advanced Context Engineering. HumanLayer's systematic methodology for managing AI agent context. Emphasises that context *quality* (selection, priority, structure) matters more than context *size*. See [[humanlayer-and-hitl|HumanLayer and HITL]].
