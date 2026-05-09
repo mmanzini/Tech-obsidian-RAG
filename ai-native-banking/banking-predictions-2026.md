@@ -4,6 +4,8 @@ source: Backbase Banking Predictions Report 2026 — "AI & the Future of Banking
 
 # Banking Predictions 2026: AI & the Future of Banking
 
+**Source:** Backbase Banking Predictions Report 2026 — "AI & the Future of Banking"
+
 Backbase's annual report on where banking is heading. The through-line: 2026 is when AI moves from pilots to productivity, with structural rather than incremental shifts across every banking segment.
 
 ## Summary

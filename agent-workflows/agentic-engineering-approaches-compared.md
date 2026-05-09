@@ -1,5 +1,7 @@
 # Agentic Engineering & Harnessing — Approaches Compared
 
+**Source:** (synthesis — ai-engineering corpus)
+
 A synthesis of the main approaches to directing coding agents documented in this wiki, extended with 2026 industry research on how they apply to **greenfield** vs **brownfield** work. The goal: give a single place to decide *which workflow fits which job*.
 
 ## Summary
@@ -138,6 +140,9 @@ Every approach above converges on the same handful of truths:
 - [[kiro-hooks|Kiro Hooks]]
 - [[kiro-steering|Kiro Steering]]
 - [[dorsey-mini-agi-podcast|Dorsey — Mini-AGI Podcast]]
+- [[edwin-chen|Edwin Chen]] — practitioner workflows and agentic development observations
+- [[brendan-foody|Brendan Foody]] — agentic workflow adoption and engineering practice perspectives
+- [[agentic-engineering-oleary|Agentic Engineering — O'Leary]] — complementary agentic engineering framework comparison
 
 ### External sources (2026 research)
 - [Vishal Mysore — SDD Is Eating Software Engineering: Map of 30+ Agentic Coding Frameworks (Mar 2026)](https://medium.com/@visrow/spec-driven-development-is-eating-software-engineering-a-map-of-30-agentic-coding-frameworks-6ac0b5e2b484)

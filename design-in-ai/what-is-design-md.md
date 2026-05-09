@@ -1,5 +1,7 @@
 # What is Design.md
 
+**Source:** (synthesis — design-in-ai corpus)
+
 A plain-text markdown file encoding an entire design system for AI coding agent consumption. Tagline: "README.md but for design systems."
 
 ---

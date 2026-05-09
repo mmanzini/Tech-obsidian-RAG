@@ -1,5 +1,7 @@
 # Accessibility and AI Design
 
+**Source:** (synthesis — design-in-ai corpus)
+
 AI design tools produce visually appealing output but systematically fail accessibility standards. This is the most significant practical limitation of current AI-assisted design.
 
 ---

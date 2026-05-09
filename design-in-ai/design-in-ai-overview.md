@@ -1,5 +1,7 @@
 # Design in AI — Overview
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Design in AI is the practice of encoding visual and architectural design intent into structured, version-controlled artefacts that AI coding agents can read and apply during code generation.
 
 ---

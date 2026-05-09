@@ -2,7 +2,7 @@
 
 Anthropic's new constitution is a holistic document explaining who Claude should be, replacing the prior list of standalone principles. It is written primarily for Claude, released under CC0, and serves as the final authority on intended behaviour.
 
-Sources:
+**Source:**
 - Anthropic, [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution) (blog post)
 - Anthropic, [Claude's Constitution](https://www.anthropic.com/constitution) (full text)
 

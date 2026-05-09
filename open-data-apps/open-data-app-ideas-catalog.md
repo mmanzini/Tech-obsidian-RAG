@@ -1,5 +1,7 @@
 # Open Data App Ideas Catalog
 
+**Source:** (synthesis — open-data-apps corpus)
+
 20 app opportunities ranked by **priority score = feasibility × revenue potential** (each scored 1–5).
 
 ## Summary

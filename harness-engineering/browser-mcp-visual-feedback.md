@@ -2,7 +2,7 @@
 
 AI coding agents are better at backend than frontend because backend feedback loops are entirely text-based (tests, linting, type checking), while frontend development requires visual feedback. Browser MCP servers close this gap by giving agents eyes.
 
-Source: Matt Pocock, [Frontend is HARDER for AI than backend](https://www.youtube.com/watch?v=pSritFeoYFo)
+**Source:** Matt Pocock, [Frontend is HARDER for AI than backend](https://www.youtube.com/watch?v=pSritFeoYFo)
 
 ---
 

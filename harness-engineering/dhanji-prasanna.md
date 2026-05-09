@@ -57,4 +57,3 @@ Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product o
 - [[harness-engineering/_index|Harness Engineering]] — MCP, Goose
 - [[agent-architecture/_index|Agent Architecture]] — screen-watching agents
 - [[spec-driven-development/_index|Spec-Driven Development]] — specs as the durable artifact
-- [[lennys-podcast/_index|Lenny's Podcast]]

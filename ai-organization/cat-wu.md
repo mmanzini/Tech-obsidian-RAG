@@ -139,4 +139,3 @@ What replaces the PRD:
 - [[chip-huyen|Chip Huyen]] — what actually improves AI apps (users, data prep, prompts)
 - [[ai-product-development/_index|AI Product Development]] — Sandbox Discovery, Modular Context, the frameworks Cat operates inside
 - [[harness-engineering/_index|Harness Engineering]] — system-prompt pruning, multi-agent runtime
-- [[lennys-podcast/_index|Lenny's Podcast]]

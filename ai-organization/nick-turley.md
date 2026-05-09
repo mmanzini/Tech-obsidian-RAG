@@ -76,4 +76,3 @@ Nick Turley (Head of ChatGPT, OpenAI) argues that there is no distinction betwee
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — model-as-product, evals, iteration
 - [[ai-organization/_index|AI & Organisation Design]] — hiring barrels, research + product
-- [[lennys-podcast/_index|Lenny's Podcast]]

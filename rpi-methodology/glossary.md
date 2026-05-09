@@ -53,3 +53,11 @@ Key terms used throughout the RPI methodology documentation.
 **Verification Gate (Implementation)** — A checkpoint during implementation where automated tests, build, linter, or manual steps verify a phase succeeded. Tracked via plan checkboxes.
 
 **Workability** — Term from McKinsey's agentic patterns. The degree to which implementation details can be deferred to later phases. RPI's planning phase must produce **low-workability** designs (specific, unambiguous, ready to execute).
+
+## Key Takeaways
+
+- Instruction budget (~150-200 for standard models, ~250-300 for reasoning) is independent of context window size — this distinction drives the evolution from RPI to CRISPY
+- Context rot begins accelerating past 40-60% window utilisation; session isolation per phase is the primary mitigation
+- FAR (Factual/Actionable/Relevant) validates research; FACTS (Feasible/Atomic/Clear/Testable/Scoped) validates plans — both gates require human sign-off before proceeding
+- The Ralph Loop (full context reset between iterations, state persisted via files) can outperform long-running sessions for sustained agentic work
+- Harness failures (runtime config, tool selection, verification hooks) account for most agent failures — not model capability

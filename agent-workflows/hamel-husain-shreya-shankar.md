@@ -66,4 +66,3 @@ Hamel Husain (ex-Airbnb, GitHub) and Shreya Shankar (Berkeley PhD) argue that 90
 - [[harness-engineering/_index|Harness Engineering]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[rpi-methodology/_index|RPI Methodology]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

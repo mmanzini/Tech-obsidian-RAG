@@ -132,3 +132,6 @@ Without structured context: reasoning degrades as the system grows.
 - [[research-plan-implement]] — RPI's Research phase as Sandbox Discovery for codebases
 - [[adversarial-review]] — formal Critic mandate and human filtering rules
 - [[agentic-engineering-approaches-compared]] — context ownership and sub-agent firewalls
+- [[jeanne-grosser|Jeanne Grosser]] — product leader perspectives on AI product development in practice
+- [[jason-droege|Jason Droege]] — operator and product builder view on the discovery → prototyping → validation pipeline
+- [[vibe-coding-what-people-ship|Vibe Coding — What People Actually Ship]] — survey of real outputs from AI-accelerated development teams; grounds the Problem section above

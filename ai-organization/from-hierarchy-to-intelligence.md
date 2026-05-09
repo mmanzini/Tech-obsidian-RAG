@@ -102,3 +102,10 @@ Block's answer is the **economic graph**: millions of merchants and consumers, b
 - [[anthropic-growth-takeaways|Anthropic Growth — Amol Avasare Takeaways]] — alignment as the residual human layer that AI doesn't touch
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — the productivity multiplier that makes the org shift economically forced
 - [[product-job-market-2026|State of the Product Job Market 2026]] — empirical signal of how role mix is shifting in real time
+- [[asha-sharma|Asha Sharma]] — AI products as organisms planned in seasons; post-training quality at scale
+- [[howie-liu|Howie Liu]] — CEOs must become ICs again; fast-thinking vs slow-thinking group reorgs
+- [[tomer-cohen|Tomer Cohen]] — diverge-then-converge bets and operating under uncertainty
+- [[garrett-lord|Garrett Lord]] — audience as the only durable moat in the AI transition
+- [[jeetu-patel|Jeetu Patel]] — timing, stamina, and the layers of the AI stack
+- [[cat-wu|Cat Wu]] — timelines compressed; evals as the new PRD; product development inside Anthropic
+- [[product-job-market-2025|State of the Product Job Market 2025]] — mid-2025 predecessor snapshot; the baseline before the 2026 acceleration

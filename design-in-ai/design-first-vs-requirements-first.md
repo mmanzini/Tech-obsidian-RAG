@@ -1,5 +1,7 @@
 # Design-First vs Requirements-First
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Two valid entry points for spec-driven feature work. The choice depends on what is known and what needs to be discovered.
 
 ---
@@ -66,3 +68,12 @@ These boundaries are per-spec, not global. Each design document encodes the trus
 - [[sdd-workflow|SDD Workflow]] (Research Wiki)
 - [[sdd-roles-and-boundaries|SDD Roles and Boundaries]] (Research Wiki)
 - [[mckinsey-agentic-workflows|McKinsey Agentic Workflows]] (Research Wiki)
+
+## Related
+
+- [[design-in-ai-overview|Design in AI — Overview]] — the foundational context for why design specs matter in AI workflows
+- [[ai-design-tool-comparison|AI Design Tool Comparison]] — side-by-side evaluation of tools that support these two entry approaches
+- [[emerging-practices-design|Emerging Practices in AI-Assisted Design]] — evolving community conventions on which entry point teams actually prefer
+- [[competing-approaches-design|Competing Approaches to AI-Assisted Design]] — alternative frameworks that resolve the design-first vs requirements-first tension differently
+- [[design-in-ai-examples|Design in AI — Examples]] — concrete worked examples of both entry routes
+- [[design-in-ai-glossary|Design in AI — Glossary]] — definitions for spec terminology used in this article

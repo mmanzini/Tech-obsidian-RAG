@@ -66,4 +66,3 @@ Howie Liu (CEO, Airtable) argues that every pre-GenAI company must be refounded 
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[ai-product-development/_index|AI product development]]
 - [[harness-engineering/_index|Harness engineering]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

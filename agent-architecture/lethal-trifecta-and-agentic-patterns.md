@@ -1,5 +1,7 @@
 # Lethal Trifecta and Agentic Engineering Patterns
 
+**Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (April 2026) — takeaways from Simon Willison
+
 Lenny Rachitsky's takeaways from Simon Willison (April 2026) — covering both an unsolved security model for AI agents and the highest-leverage workflow patterns experienced operators have converged on.
 
 ## Summary
@@ -60,4 +62,7 @@ Simon runs four coding agents in parallel and is mentally wiped out by 11 a.m. T
 - [[adversarial-review|Adversarial Review]] — human-side counterpart to the test-as-judge pattern
 - [[openclaw-personal-agent-team|OpenClaw — A Personal Team of AI Agents]] — real-world security cautions derived from the trifecta
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — the productivity claims this article tempers
-- [[lennys-podcast/simon-willison|Simon Willison — We've Passed the Inflection Point]] — primary source for the trifecta and agentic patterns in this article
+- [[agent-architecture/simon-willison|Simon Willison — We've Passed the Inflection Point]] — primary source for the trifecta and agentic patterns in this article
+- [[agent-architecture/alexander-embiricos|Alexander Embiricos]] — practitioner view on agentic patterns and operator experience
+- [[agent-architecture/aishwarya-reganti-kiriti-badam|Aishwarya Reganti & Kiriti Badam]] — multi-agent system design perspectives referenced alongside these patterns
+- [[agent-architecture/multi-agent-coordination-patterns|Multi-Agent Coordination Patterns]] — coordination primitives that sit on top of the trifecta security model

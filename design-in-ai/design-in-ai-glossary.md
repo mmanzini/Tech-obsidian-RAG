@@ -1,5 +1,7 @@
 # Glossary
 
+**Source:** (self-authored)
+
 Key terms used in the Design in AI topic.
 
 ---
@@ -49,3 +51,11 @@ A reference glossary defining the key terms used across the Design in AI topic, 
 **Vibe Coding** — Conversational, exploratory prompting with minimal planning. Fast for prototyping; fragile for production.
 
 **W3C Design Tokens** — Vendor-neutral JSON format for design token interchange (stable 2025.10). See [[historical-context-design-tokens]].
+
+## Key Takeaways
+
+- Design.md is a markdown-encoded design system for AI agent consumption, originating from Google Stitch
+- SDD (Spec-Driven Development) and RPI are complementary frameworks — SDD governs the full lifecycle, RPI focuses on the research-plan-implement workflow
+- Greybox Modules preserve human design authority while delegating implementation to AI — tests lock the interface boundary
+- MCP is the standard protocol connecting AI agents to external design tools (Figma, Stitch, Penpot)
+- Progressive Disclosure in design docs reduces context bloat by providing agents high-level information first

@@ -87,3 +87,5 @@ Returns: `{ "claude_code_session_id": "...", "claude_code_session_url": "..." }`
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering]] — the broader harness configuration that routines operate within
 - [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — the desktop UX for managing multiple sessions/routines
 - [[hooks-for-deterministic-cli-enforcement|Hooks for Deterministic CLI Enforcement]] — deterministic rules that complement routine prompts
+- [[ci-integrations/claude-code-github-actions|Claude Code GitHub Actions]] — `@claude` mentions in PRs and issues; complements routines for event-driven CI automation
+- [[ci-integrations/claude-code-code-review|Claude Code — Code Review]] — managed multi-agent PR review that pairs with routines for continuous quality checks

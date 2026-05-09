@@ -2,7 +2,7 @@
 
 Anthropic's third Economic Index report (March 2026) studies how Claude usage evolved between November 2025 and February 2026, with a special focus on learning curves — how experience with Claude correlates with success.
 
-Source: Massenkoff et al., [Anthropic Economic Index report: Learning curves](https://www.anthropic.com/research/economic-index-march-2026-report) (March 2026)
+**Source:** Massenkoff et al., [Anthropic Economic Index report: Learning curves](https://www.anthropic.com/research/economic-index-march-2026-report) (March 2026)
 
 ## Summary
 

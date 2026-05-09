@@ -108,3 +108,8 @@ Harness engineering is a craft of **subtraction as much as addition**:
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — practical CLAUDE.md and MCP guide
 - [[effective-harnesses-long-running|Effective Harnesses for Long-Running Agents]] — Anthropic's two-agent pattern
 - [[zettelkasten-pkm|Zettelkasten — Foundational PKM Methodology]] — the historical note-linking system that underlies the Atlas vault's wiki design
+- [[dhanji-prasanna|Dhanji Prasanna]] — engineering philosophy and harness design perspectives from a practitioner
+- [[use-claude-code-more|Use Claude Code More]] — practical harness-use patterns that apply the principles here
+- [[zevi-arnovitz|Zevi Arnovitz]] — product-side observations on harness engineering in practice
+- [[lazar-jovanovic|Lazar Jovanovic]] — engineering practitioner perspectives on agent harness adoption
+- [[mcp-apps-interactive-ui|MCP Apps — Interactive UI]] — MCP as a harness extension point for interactive user interfaces

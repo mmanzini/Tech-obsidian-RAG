@@ -1,5 +1,7 @@
 # AI Design Tool Comparison
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Feature matrix across AI design tools as of April 2026.
 
 ---

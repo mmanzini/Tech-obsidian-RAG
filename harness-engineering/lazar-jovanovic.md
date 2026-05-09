@@ -66,7 +66,7 @@ Then his prompts become trivial: *"Proceed with the next task."* Context lives i
 
 ## The Career Arc
 
-- Got the job by **building in public** on social. Elena Verna ([[lennys-podcast/elena-verna|Lovable head of growth]]) reached out.
+- Got the job by **building in public** on social. Elena Verna (Lovable head of growth) reached out.
 - "You don't need a company to hire you. You can hire yourself as a professional vibe coder first."
 - Three months from now: expects an agent to do much of what he does today — doesn't optimize the context-management skill, optimizes judgment.
 
@@ -81,8 +81,6 @@ Then his prompts become trivial: *"Proceed with the next task."* Context lives i
 
 ## Related
 
-- [[lennys-podcast/elena-verna|Elena Verna — hired the role into existence]]
-- [[lennys-podcast/grant-lee|Grant Lee — exposure hours]]
 - [[spec-driven-development/_index|Spec-Driven Development]]
 - [[harness-engineering/_index|Harness Engineering]]
 - [[ai-product-development/_index|AI Product Development]]

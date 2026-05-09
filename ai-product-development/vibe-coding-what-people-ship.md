@@ -87,6 +87,6 @@ See [[ai-prototyping-for-pms|AI prototyping for PMs]] for how to pick between th
 - [[ai-product-development/_index|AI Product Development]]
 - [[harness-engineering/use-claude-code-more|Everyone should be using Claude Code more]]
 - [[ai-organization/ai-fluency-curriculum|AI fluency curriculum]]
-- [[lennys-podcast/zevi-arnovitz|Zevi Arnovitz]] — non-technical PM vibe-coding workflow (Cursor + Claude Code + /commands)
-- [[lennys-podcast/lazar-jovanovic|Lazar Jovanovic]] — 80% planning / 20% building; Markdown PRD stack
-- [[lennys-podcast/simon-willison|Simon Willison]] — November 2025 threshold and the lethal trifecta for agent-built apps
+- [[harness-engineering/zevi-arnovitz|Zevi Arnovitz]] — non-technical PM vibe-coding workflow (Cursor + Claude Code + /commands)
+- [[harness-engineering/lazar-jovanovic|Lazar Jovanovic]] — 80% planning / 20% building; Markdown PRD stack
+- [[agent-architecture/simon-willison|Simon Willison]] — November 2025 threshold and the lethal trifecta for agent-built apps

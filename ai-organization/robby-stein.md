@@ -59,4 +59,3 @@ Robby Stein (VP of Product, Google Search) argues that AI makes search expansion
 - [[ai-product-development/_index|AI Product Development]] — AI-as-expansion, format bets
 - [[agent-architecture/_index|Agent Architecture]] — query fan-out, subagent composition
 - [[ai-organization/_index|AI & Organisation Design]] — three-pillar product strategy at scale
-- [[lennys-podcast/_index|Lenny's Podcast]]

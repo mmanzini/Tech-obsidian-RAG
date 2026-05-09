@@ -63,8 +63,5 @@ Jeanne Grosser (COO, Vercel; built early Stripe sales) treats GTM as a product a
 
 ## Related
 
-- [[lennys-podcast/jen-abel|Jen Abel — Founder-led sales]]
-- [[lennys-podcast/jason-lemkin|Jason Lemkin — Sales hiring]]
-- [[lennys-podcast/ethan-smith|Ethan Smith — AEO]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]

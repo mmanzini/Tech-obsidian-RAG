@@ -1,5 +1,7 @@
 # Emerging Practices
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Trends in AI-assisted design documentation as of April 2026. Confidence levels noted.
 
 ---

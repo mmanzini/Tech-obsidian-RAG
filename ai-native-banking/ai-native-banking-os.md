@@ -4,6 +4,8 @@ source: Backbase blog — "AI-native banking OS: What it is and why it matters" 
 
 # AI-Native Banking OS
 
+**Source:** Backbase blog — "AI-native banking OS: What it is and why it matters" (2026)
+
 A unified platform where AI agents and humans operate together across all banking functions, **built from the ground up for safe AI deployment** rather than having AI features bolted onto legacy stacks.
 
 ## Summary

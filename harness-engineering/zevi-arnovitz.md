@@ -58,4 +58,3 @@ Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing c
 - [[ai-dev-tools/_index|AI Dev Tools]]
 - [[agent-workflows/_index|Agent Workflows]]
 - [[spec-driven-development/_index|Spec-Driven Development]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

@@ -58,4 +58,3 @@ Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from too
 - [[ai-organization/_index|AI & Organisation Design]] — small spiky teams, surgeon model
 - [[spec-driven-development/_index|Spec-Driven Development]] — specs survive compaction
 - [[ai-product-development/_index|AI Product Development]] — contextual actions, chatter-driven workflow
-- [[lennys-podcast/_index|Lenny's Podcast]]

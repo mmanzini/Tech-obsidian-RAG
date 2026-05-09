@@ -1,5 +1,7 @@
 # Competing Approaches
 
+**Source:** (synthesis — design-in-ai corpus)
+
 The landscape of AI-assisted design documentation is fragmented across three categories: SDD frameworks, portable agent instruction files and IDE-native rule systems. No single winner has emerged.
 
 ---

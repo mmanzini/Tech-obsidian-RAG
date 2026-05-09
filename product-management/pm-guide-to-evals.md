@@ -87,6 +87,6 @@ LLM-as-judge is the sweet spot for PMs: prompts grade prompts. Use confidence sc
 - [[ai-organization/an-ai-glossary|AI glossary]] — RAG, RLHF, hallucination definitions
 - [[harness-engineering/skill-creator-evals|skill-creator evals]] — Anthropic's eval-driven loop for skills
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]]
-- [[lennys-podcast/hamel-husain-shreya-shankar|Hamel Husain & Shreya Shankar]] — 100 stratified traces → open/axial coding; the taxonomy-first method for evals
-- [[lennys-podcast/brendan-foody|Brendan Foody]] — "the eval IS the PRD"; expert-graded evals as the scarce input
-- [[lennys-podcast/aishwarya-reganti-kiriti-badam|Aishwarya Reganti & Kiriti Badam]] — CCCD (continuous calibration + development) loop
+- [[agent-workflows/hamel-husain-shreya-shankar|Hamel Husain & Shreya Shankar]] — 100 stratified traces → open/axial coding; the taxonomy-first method for evals
+- [[agent-workflows/brendan-foody|Brendan Foody]] — "the eval IS the PRD"; expert-graded evals as the scarce input
+- [[agent-architecture/aishwarya-reganti-kiriti-badam|Aishwarya Reganti & Kiriti Badam]] — CCCD (continuous calibration + development) loop

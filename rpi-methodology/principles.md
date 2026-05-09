@@ -65,3 +65,4 @@ Not about the model being stupid — about recognising that context is the only 
 - [[context-engineering|Context Engineering]] — the instruction budget constraint behind phase separation
 - [[when-to-use|When to Use RPI]] — where these principles pay off and where they don't
 - [[twelve-factor-agents|Twelve-Factor Agents]] — foundational reliability principles RPI builds on
+- [[glossary|RPI Glossary]] — definitions of the terms (FAR, FACTS, RPI phases) used throughout this article

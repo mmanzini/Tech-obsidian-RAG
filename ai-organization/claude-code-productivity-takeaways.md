@@ -1,5 +1,7 @@
 # Claude Code Productivity — Boris Cherny Takeaways
 
+**Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (early 2026) — conversation with Boris Cherny, Head of Claude Code at Anthropic
+
 Lenny Rachitsky's summary of a conversation with Boris Cherny, Head of Claude Code at Anthropic (early 2026).
 
 ## Summary

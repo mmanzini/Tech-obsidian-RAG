@@ -31,7 +31,7 @@ Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers u
 
 ## Top-performer 50%+ time allocation
 - Rule of thumb: top performers should spend **≥50% of their time working through agents**, not coding directly.
-- Below 50% and you're under-leveraging; at 80%+ you're over the exhaustion cliff (see [[lennys-podcast/simon-willison|Simon Willison]]'s 11 a.m. wipe-out).
+- Below 50% and you're under-leveraging; at 80%+ you're over the exhaustion cliff (see [[agent-architecture/simon-willison|Simon Willison]]'s 11 a.m. wipe-out).
 - The 50% number is a management lever — managers should actively coach time allocation upward.
 
 ## Surgeon team analogy (Mythical Man-Month)
@@ -67,4 +67,3 @@ Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers u
 - [[spec-driven-development/_index|Spec-Driven Development]] — what made 100%-Codex possible
 - [[ai-organization/_index|AI & Organisation Design]] — surgeon team, time allocation, top-down+bottoms-up
 - [[ai-product-development/_index|AI Product Development]] — one-person unicorn, 2nd-order effects
-- [[lennys-podcast/_index|Lenny's Podcast]]

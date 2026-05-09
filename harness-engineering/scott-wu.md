@@ -58,4 +58,3 @@ Scott Wu (CEO, Cognition) built Devin — a named autonomous junior engineer rat
 - [[ai-organization/_index|AI & Organisation Design]] — 15 engineers × 5 agents, bricklayer→architect
 - [[harness-engineering/_index|Harness Engineering]] — the substrate under the persona
 - [[ai-product-development/_index|AI Product Development]] — Jevons Paradox, rising ambition
-- [[lennys-podcast/_index|Lenny's Podcast]]

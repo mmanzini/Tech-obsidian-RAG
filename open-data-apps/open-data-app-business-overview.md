@@ -1,5 +1,7 @@
 # Open Data App Business — Overview
 
+**Source:** (synthesis — open-data-apps corpus)
+
 A portfolio play: identify categories where users currently pay EUR 5+ or subscribe monthly for data that is actually free from public APIs, build clean focused apps with AI-assisted development, and sell them at EUR 0.99–1.99 across iOS and Android. Revenue comes from volume across many small apps, not from a single hit.
 
 ## Summary

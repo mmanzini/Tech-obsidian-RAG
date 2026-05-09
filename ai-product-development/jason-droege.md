@@ -75,8 +75,7 @@ Jason Droege (CEO, Scale AI; founder of Uber Eats) took over after the $14B Meta
 
 ## Related
 
-- [[lennys-podcast/jeanne-grosser|Jeanne Grosser — Enterprise AI adoption]]
-- [[lennys-podcast/jason-lemkin|Jason Lemkin — B2B sales]]
+- [[ai-product-development/jeanne-grosser|Jeanne Grosser — Enterprise AI adoption]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-native-banking/_index|AI-Native Enterprise]]

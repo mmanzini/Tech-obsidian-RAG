@@ -1,5 +1,7 @@
 # SDD Overview
 
+**Source:** (synthesis — spec-driven-development corpus)
+
 **Spec-Driven Development (SDD)** is a tool-agnostic standard for building software with AI agents. The core inversion: the **specification** is the durable, version-controlled artifact, and code becomes a regenerable output of the spec plus the current toolchain.
 
 ## Summary

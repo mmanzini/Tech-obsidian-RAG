@@ -1,5 +1,7 @@
 # Examples and Resources
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Pointers to real-world Design.md files, curated collections, tutorials and research.
 
 ---

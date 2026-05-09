@@ -74,7 +74,5 @@ Gloria Mark ("Attention Span"): "*When you can't psychologically detach from wor
 
 - [[pm-second-brain-chatgpt|PM second brain with ChatGPT]] — the AI copilot end of Tal's advice
 - [[essential-reading-part-1|Essential reading for product builders]] — includes Paul Graham's *Maker's/Manager's schedule*
-- [[lennys-podcast/_index|Lenny's Podcast]] — Tal's guest post is part of the Lenny ecosystem
-- [[lennys-podcast/jessica-fain|Jessica Fain]] — executive calendars are strobe lights (paired lens on meeting load)
 - [[_index|Product Management]]
 - [[way-of-working/_index|Way of working]]

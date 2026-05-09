@@ -58,4 +58,3 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 ## Related
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[ai-product-development/_index|AI Product Development]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

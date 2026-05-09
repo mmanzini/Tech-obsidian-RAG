@@ -1,5 +1,7 @@
 # Interaction Design Gap
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Design.md handles visual tokens effectively. It cannot represent interaction design — the behaviour, states, transitions and logic that make interfaces functional.
 
 ---

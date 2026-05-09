@@ -1,5 +1,7 @@
 # OpenClaw: A Personal Team of AI Agents
 
+**Source:** Claire Vo, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (March 2026)
+
 Claire Vo's guide (via Lenny's Newsletter, March 2026) to building a multi-agent personal AI assistant setup using OpenClaw — an open-source framework that runs locally and exposes agents through chat channels (Telegram, WhatsApp, Slack).
 
 ## Summary

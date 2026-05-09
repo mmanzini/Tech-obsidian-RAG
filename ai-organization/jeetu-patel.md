@@ -60,4 +60,3 @@ Jeetu Patel (CPO, Cisco) offers a six-part framework for betting on opportunitie
 ## Related
 - [[ai-organization/_index|AI & Organisation Design]] — stamina, storytelling, public/private norms
 - [[ai-product-development/_index|AI Product Development]] — megatrend-vs-hype PhD test
-- [[lennys-podcast/_index|Lenny's Podcast]]

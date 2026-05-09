@@ -1,5 +1,7 @@
 # State of the Product Job Market 2026
 
+**Source:** Lenny Rachitsky with [TrueUp](https://trueup.io/) data, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (March 2026)
+
 Lenny Rachitsky's biannual report (March 2026) on tech hiring trends, based on TrueUp data covering 9,000+ tech companies. Surprisingly the most optimistic edition to date.
 
 ## Summary

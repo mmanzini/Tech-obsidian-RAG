@@ -49,4 +49,3 @@ Garrett Lord (CEO, Handshake) grew Handshake AI from $0 to $50M ARR in four mont
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[agent-workflows/_index|Agent Workflows]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

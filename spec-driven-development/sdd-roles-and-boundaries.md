@@ -1,5 +1,7 @@
 # SDD Roles and Boundaries
 
+**Source:** (synthesis — spec-driven-development corpus)
+
 SDD assigns three roles and a boundary framework that together make agent autonomy reviewable.
 
 ## Summary

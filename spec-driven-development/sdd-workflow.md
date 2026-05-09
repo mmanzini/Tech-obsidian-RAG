@@ -1,5 +1,7 @@
 # SDD Workflow
 
+**Source:** (synthesis — spec-driven-development corpus)
+
 The SDD workflow has **six phases**. Each phase produces a concrete artifact and ends with a checkpoint. Phases are not gates — looping back is normal and expected.
 
 ## Summary

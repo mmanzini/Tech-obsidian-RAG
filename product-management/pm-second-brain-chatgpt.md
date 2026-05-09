@@ -66,6 +66,6 @@ Principles are tool-agnostic: instructions, files, iterate.
 - [[unfair-pm-role|Product manager is an unfair role]]
 - [[ai-organization/ai-fluency-curriculum|AI fluency curriculum]]
 - [[harness-engineering/use-claude-code-more|Everyone should be using Claude Code more]]
-- [[lennys-podcast/zevi-arnovitz|Zevi Arnovitz]] — non-technical PMs shipping real products; multi-model peer review
-- [[lennys-podcast/lazar-jovanovic|Lazar Jovanovic]] — Markdown PRD stack as externalised context
+- [[harness-engineering/zevi-arnovitz|Zevi Arnovitz]] — non-technical PMs shipping real products; multi-model peer review
+- [[harness-engineering/lazar-jovanovic|Lazar Jovanovic]] — Markdown PRD stack as externalised context
 - [[_index|Product Management]]

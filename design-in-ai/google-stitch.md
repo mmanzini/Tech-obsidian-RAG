@@ -1,5 +1,7 @@
 # Google Stitch
 
+**Source:** [stitch.withgoogle.com](https://stitch.withgoogle.com) (Google Labs, 2025–2026)
+
 Google Labs' AI-powered UI/UX design tool that converts natural language prompts, sketches and screenshots into high-fidelity UIs. Runs on Gemini 2.5 (Flash and Pro). Free at [stitch.withgoogle.com](https://stitch.withgoogle.com) during experimental phase.
 
 ---

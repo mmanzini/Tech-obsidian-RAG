@@ -72,4 +72,3 @@ Ravi Mehta (ex-Tinder CPO, Facebook) offers a five-layer Product Strategy Stack 
 
 ## Related
 - [[ai-organization/_index|AI & Organisation Design]] — PM competencies in AI era
-- [[lennys-podcast/_index|Lenny's Podcast]]

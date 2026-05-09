@@ -1,5 +1,7 @@
 # Writing Effective Design Docs
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Practical guidance for authoring design documents that AI agents consume reliably.
 
 ---

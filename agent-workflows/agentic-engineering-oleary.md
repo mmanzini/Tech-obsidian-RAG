@@ -1,6 +1,6 @@
 # Agentic Engineering — Brendan O'Leary (Kilo Code)
 
-Source: [YouTube talk](https://www.youtube.com/watch?v=BEKc4P87XKo), AI Engineer, 2026-04-08.
+**Source:** [YouTube talk](https://www.youtube.com/watch?v=BEKc4P87XKo), AI Engineer, 2026-04-08.
 
 The shift from *using* AI (autocomplete, suggestions) to *working with* AI (collaborator that executes tasks, runs tests, opens PRs). Talk frames the agent as an "energetic, well-read, often confidently wrong junior developer" — fast and tireless, but lacking judgment and business context.
 

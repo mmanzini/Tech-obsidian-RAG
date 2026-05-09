@@ -1,5 +1,7 @@
 # Historical Context — Design Tokens
 
+**Source:** (synthesis — design-in-ai corpus)
+
 Design.md is the latest iteration in a 15-year progression of making design decisions machine-readable and version-controllable.
 
 ---

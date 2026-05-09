@@ -1,5 +1,7 @@
 # Jack Dorsey: Every Company Can Now Be a Mini-AGI
 
+**Source:** Sequoia *Long Strange Trip* podcast (Brian Halligan host, April 2026) — with Jack Dorsey (Block CEO) and Roelof Botha (Sequoia)
+
 Sequoia *Long Strange Trip* podcast (Brian Halligan host, April 2026) with Jack Dorsey (Block CEO) and Roelof Botha (Sequoia, Block board). Primary-source companion to [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — Dorsey personally walks through the rationale, the 40% RIF, and the operating model he is rebuilding Block around.
 
 ## Summary
@@ -99,3 +101,7 @@ Echoes Adam Smith's *Wealth of Nations*: with the right signals, self-interested
 - [[anthropic-growth-takeaways|Anthropic Growth — Amol Avasare Takeaways]] — alignment as the residual human layer, from a different vantage point
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — "build for the model six months from now" is the same instinct Dorsey used to justify acting in three weeks
 - [[twelve-factor-agents|Twelve-Factor Agents]] — the production-grade engineering layer this org model assumes
+- [[ravi-mehta|Ravi Mehta]] — Product Strategy Stack and NCTs; complements the "roadmap = customer queries" reframe
+- [[robby-stein|Robby Stein]] — search as expansionary and "dissatisfied" as an operating principle; parallel to Dorsey's customer-query thesis
+- [[dr-fei-fei-li|Dr. Fei-Fei Li]] — spatial intelligence and world models as the next ingredient in the AI stack Dorsey depends on
+- [[product-management-ai-exponential|Product Management on the AI Exponential]] — what the org shift means concretely for PM practice

@@ -45,4 +45,3 @@ Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — the
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[agent-workflows/_index|Agent Workflows]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

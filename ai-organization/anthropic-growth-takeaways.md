@@ -1,5 +1,7 @@
 # Anthropic Growth — Amol Avasare Takeaways
 
+**Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (April 2026) — conversation with Amol Avasare, Head of Growth at Anthropic
+
 Lenny Rachitsky's summary of a conversation with Amol Avasare, Head of Growth at Anthropic (April 2026).
 
 ## Summary

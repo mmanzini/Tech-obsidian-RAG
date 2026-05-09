@@ -57,4 +57,3 @@ Dr. Fei-Fei Li (Stanford, World Labs) argues that today's LLMs are Plato's cave 
 - [[ai-product-development/_index|AI product development]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[harness-engineering/_index|Harness engineering]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

@@ -1,5 +1,7 @@
 # Adopting Design.md
 
+**Source:** (synthesis — design-in-ai corpus)
+
 How to move from unstructured AI-assisted design toward structured design documents. The transition is incremental.
 
 ---

@@ -1,5 +1,7 @@
 # Max's AI-First Product Development Process
 
+**Source:** (self-authored — Massimiliano Manzini)
+
 A simplified, opinionated end-to-end process for building products with AI agents, distilled from extended personal research. Sits on top of [[sdd-overview|SDD]] and borrows from [[skill-issue-harness-engineering|harness engineering]] and the Heist way of working (see Way of Working bucket).
 
 ## Summary

@@ -55,4 +55,3 @@ Tomer Cohen (CPO, LinkedIn) argues that AI-era PMs are still the drivers control
 ## Related
 - [[ai-product-development/_index|AI Product Development]] — AI-first framing, diverge/converge
 - [[ai-organization/_index|AI & Organisation Design]] — segment carve-outs, AI Academy
-- [[lennys-podcast/_index|Lenny's Podcast]]

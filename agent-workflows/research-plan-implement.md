@@ -2,7 +2,7 @@
 
 > **Deep reference:** see [[rpi-methodology/_index|RPI Methodology]] topic for principles, FAR/FACTS gates, context engineering, tool-agnosticism, team adoption, CRISPY/QRSPI evolution, and industry landscape. This page is the one-page overview.
 
-**Sources:**
+**Source:**
 - [Block Goose tutorial](https://block.github.io/goose/docs/tutorials/rpi/)
 - [path.kilo.ai framework guide](https://path.kilo.ai/introduction/patterns/rpi/)
 - Originally introduced by [HumanLayer](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md)

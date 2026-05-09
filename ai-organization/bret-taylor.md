@@ -48,4 +48,3 @@ Bret Taylor (co-founder Sierra, inventor of the Like button, ex-OpenAI chair) ar
 - [[agent-architecture/_index|Agent Architecture]]
 - [[agent-workflows/_index|Agent Workflows]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

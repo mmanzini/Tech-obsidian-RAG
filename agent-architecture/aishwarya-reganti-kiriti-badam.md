@@ -73,4 +73,3 @@ Aishwarya Reganti (ex-AWS) and Kiriti Badam (ex-Meta) argue that AI product deve
 - [[ai-product-development/_index|AI Product Development]]
 - [[harness-engineering/_index|Harness Engineering]]
 - [[agent-architecture/_index|Agent Architecture]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

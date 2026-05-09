@@ -18,4 +18,4 @@
 - [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document
 - [[ai-security/_index|AI Security]] — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
 - [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
-- [[product-management/_index|Product Management (AI-bound)]] — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket
+- Product Management (AI-bound) — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket

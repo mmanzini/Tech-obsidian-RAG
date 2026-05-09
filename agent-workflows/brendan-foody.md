@@ -44,4 +44,3 @@ Brendan Foody (CEO, Mercor) grew his expert-data marketplace from $1 to $400M AR
 - [[ai-product-development/_index|AI Product Development]]
 - [[ai-organization/_index|AI & Organisation Design]]
 - [[agent-workflows/_index|Agent Workflows]]
-- [[lennys-podcast/_index|Lenny's Podcast]]

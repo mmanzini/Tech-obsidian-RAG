@@ -6,7 +6,7 @@ The Constitutional AI (CAI) method trains harmless-but-helpful AI assistants usi
 
 CAI addresses the core tension in RLHF-based alignment — that optimising for harmlessness produces evasive models and requires expensive human labelling — by replacing human harmlessness annotations with AI feedback guided by explicit natural-language principles. The two-stage process (Supervised Learning via critique-revision, then RLAIF) produces models that engage with harmful prompts through explanation rather than refusal, and that are both less harmful and more helpful than models trained with human harmlessness labels. The "constitutional" framing emphasises transparency: the governing principles are auditable and modifiable without collecting new labels.
 
-Source: Bai et al., [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) (Anthropic, Dec 2022)
+**Source:** Bai et al., [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) (Anthropic, Dec 2022)
 
 ## The Problem CAI Solves
 

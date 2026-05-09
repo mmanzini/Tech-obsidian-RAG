@@ -4,6 +4,8 @@ source: QuantumBlack / AI by McKinsey — "Agentic workflows for software develo
 
 # McKinsey — Agentic Workflows for Software Development
 
+**Source:** QuantumBlack / AI by McKinsey — ["Agentic workflows for software development"](https://www.mckinsey.com/capabilities/quantumblack/our-insights/agentic-workflows-for-software-development) (Feb 2026)
+
 McKinsey QuantumBlack's field-tested pattern for moving beyond the "developer + copilot" model to **agents executing the full SDLC autonomously**, with humans entering only at the PR review stage.
 
 ## Summary

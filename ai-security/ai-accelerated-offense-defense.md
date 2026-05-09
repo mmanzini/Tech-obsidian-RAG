@@ -2,7 +2,7 @@
 
 A seven-point defensive playbook from Anthropic's security teams, based on findings from Project Glasswing — using frontier models to find vulnerabilities in real codebases. The core thesis: within 24 months, AI will surface vast numbers of previously-unnoticed bugs, so defenders must adopt AI tools at the same pace as attackers.
 
-Source: Anthropic, [Preparing your security program for AI-accelerated offense](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense)
+**Source:** Anthropic, [Preparing your security program for AI-accelerated offense](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense)
 
 ## Summary
 

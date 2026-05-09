@@ -70,4 +70,3 @@ Lenny's post-episode summary distilled six points — the headline framing was: 
 - [[ai-organization/_index|AI & Organisation Design]] — dark factories and the new middle
 - [[ai-product-development/_index|AI Product Development]] — prototyping is free, ideas are the bottleneck
 - [[agent-architecture/lethal-trifecta-and-agentic-patterns|Lethal Trifecta and Agentic Patterns]] — Lenny's takeaways article on the same trifecta framework
-- [[lennys-podcast/_index|Lenny's Podcast]]

@@ -65,4 +65,3 @@ Edwin Chen (founder & CEO, Surge AI) built a bootstrapped $1B+ revenue AI data c
 - [[ai-product-development/_index|AI Product Development]]
 - [[harness-engineering/_index|Harness Engineering]]
 - [[ai-organization/_index|AI & Organisation Design]]
-- [[lennys-podcast/_index|Lenny's Podcast]]
