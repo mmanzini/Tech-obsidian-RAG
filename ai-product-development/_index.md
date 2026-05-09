@@ -6,6 +6,8 @@ Frameworks and thinking on how to build better products with AI — applying str
 
 - [[ai-product-development-framework]] — Three-component framework (Sandbox Discovery, Adversarial Iteration, Modular Context Navigation) for reintroducing rigour into AI-driven product development without losing speed
 - [[vibe-coding-what-people-ship]] — 50+ crowdsourced examples: what non-technical people vibe-code and actually use (Lenny)
+- [[jeanne-grosser|Jeanne Grosser on Lenny's Podcast]] — the GTM engineer is the new high-leverage hire; $1K/yr agent replaced 9 of 10 SDRs at Vercel
+- [[jason-droege|Jason Droege on Lenny's Podcast]] — enterprise AI dies in the last 30%; survival precedes winning; RL environments shift models from knowing to doing
 
 ## Related Topics
 

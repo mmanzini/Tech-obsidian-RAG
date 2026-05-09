@@ -38,6 +38,11 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[karpathy-llm-knowledge-bases|Karpathy's LLM Knowledge Bases — Personal Workflow]] — upstream inspiration for Atlas: raw/ → LLM-compiled wiki → Obsidian frontend; index-based navigation without vector RAG (Karpathy)
 - [[sandcastle-afk-agent-orchestration|Sandcastle — AFK Software Factory]] — composable `sandcastle.run` primitive; planner/implementer/reviewer/merger pipeline in Docker sandboxes; zero-interruption AFK operation (Matt Pocock)
 - [[coding-agent-model-comparison-2026|Coding Agent Model Comparison 2026 — DeepSeek V4 vs Opus 4.7 vs GPT 5.5]] — GPT 5.5 wins Terminal Bench; Opus 4.7 wins SWE-Bench; DeepSeek 8× cheaper but fails complex tasks; skills are portable across all three harnesses (Chase AI)
+- [[dhanji-prasanna|Dhanji Prasanna on Lenny's Podcast]] — GM orgs are wrong for AI-native companies; Goose saves 8–10 hrs/eng/week at Block
+- [[scott-wu|Scott Wu on Lenny's Podcast]] — Devin as a named junior engineer; Jevons Paradox means cheaper code drives more demand
+- [[sherwin-wu|Sherwin Wu on Lenny's Podcast]] — 95% of OpenAI API engineers use Codex; +70% PR throughput; we're sorcerers now
+- [[lazar-jovanovic|Lazar Jovanovic on Lenny's Podcast]] — 80% planning / 20% building; externalise context into a Markdown PRD stack
+- [[zevi-arnovitz|Zevi Arnovitz on Lenny's Podcast]] — non-technical PMs ship real products via Cursor + Claude Code + /command library; multi-model peer review
 
 ## Related Topics
 
