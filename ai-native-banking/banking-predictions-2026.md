@@ -91,3 +91,4 @@ Backbase's 2026 Banking Predictions report argues that AI is moving from tactica
 ## Related
 - [[ai-native-banking-os|AI-Native Banking OS]] — the architectural foundation Backbase argues is required to deliver on these predictions
 - [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — Block (Cash App) is the canonical example of the platform/agentic banking model from the inside
+- [[claude-agents-financial-services-2026|Claude Agents for Financial Services 2026]] — ten production-ready agent templates from Anthropic that instantiate these predictions

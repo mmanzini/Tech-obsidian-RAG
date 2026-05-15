@@ -43,6 +43,8 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[sherwin-wu|Sherwin Wu on Lenny's Podcast]] — 95% of OpenAI API engineers use Codex; +70% PR throughput; we're sorcerers now
 - [[lazar-jovanovic|Lazar Jovanovic on Lenny's Podcast]] — 80% planning / 20% building; externalise context into a Markdown PRD stack
 - [[zevi-arnovitz|Zevi Arnovitz on Lenny's Podcast]] — non-technical PMs ship real products via Cursor + Claude Code + /command library; multi-model peer review
+- [[claude-code-structured-memory|Claude Code Structured Memory — ~/.claude/memory/ Architecture]] — structured memory hierarchy (tools/ domain/ general.md) with PreToolUse hook injection; Huryn/Conneely pattern
+- [[agentic-os-eight-components|Agentic OS — Eight-Component Architecture]] — static context, memory levels, skills, skill systems, planning, multi-client, output consolidation, remote access (Simon Scrapes)
 
 ## Related Topics
 

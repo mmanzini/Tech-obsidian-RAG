@@ -125,3 +125,5 @@ Value segmentation:
 - [[claude-code-routines|Claude Code Routines]] — scheduled/remote task automation
 - [[claude-managed-agents-memory|Built-in Memory for Claude Managed Agents]] — cross-session memory options
 - [[nlh-meta-harness-harness-science|NLH, Meta Harness, and the Science of Harness Engineering]] — the 6× performance gap; why harness design matters
+- [[claude-code-structured-memory|Claude Code Structured Memory]] — detailed ~/.claude/memory/ implementation for the memory gap
+- [[agentic-os-eight-components|Agentic OS — Eight-Component Architecture]] — complementary eight-component framing by Simon Scrapes

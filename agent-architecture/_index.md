@@ -12,6 +12,8 @@ Foundational principles and design patterns for building reliable, production-gr
 - [[chip-huyen|Chip Huyen on Lenny's Podcast]] — what people think improves AI apps isn't what actually does; users, data prep, and prompts are the work
 - [[alexander-embiricos|Alexander Embiricos on Lenny's Podcast]] — Codex as teammate; 3-layer stack to locate the wedge in the harness
 - [[aishwarya-reganti-kiriti-badam|Aishwarya Reganti & Kiriti Badam on Lenny's Podcast]] — AI products are non-deterministic in input, output AND process; the CCCD loop
+- [[pinecone-nexus-knowledge-engine|Pinecone Nexus — Knowledge Engine for Agents]] — most agent failures are data failures; Knowledge Engine pre-compiles typed artifacts so agents query in one step; KRAFTBench: Nexus 68% accuracy at 22s vs RAG 41% at 38s (Pinecone, 2026)
+- [[lecun-jepa-world-models|LeCun: JEPA and World Models]] — LLMs lack world models and can't predict action consequences; JEPA (joint embedding + temporal prediction) is the right agentic AI foundation; Barlow Twins → DINO → V-JEPA 2 arc (Welch Labs, 2026)
 
 ## Related Topics
 
