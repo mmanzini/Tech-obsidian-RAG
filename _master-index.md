@@ -5,7 +5,9 @@
 ## Topics
 
 - [[agent-architecture/_index|Agent Architecture]] — Foundational principles and coordination patterns for building reliable production AI agents (12-factor agents, multi-agent patterns, lethal trifecta security patterns, agentic tool design)
-- [[harness-engineering/_index|Harness Engineering]] — Configuring the runtime around coding agents: CLAUDE.md, MCP, skills, sub-agents, hooks, long-running agent patterns, advisor strategy, codebase design for AI, browser MCP, routines, desktop parallel sessions, Opus 4.7 tuning; NLH/Meta Harness science; Managed Agents memory; MCP Apps interactive UI; Cowork full guide for non-technical teams; Agentic OS three-gap framework (memory/consistency/access), org-chart skill mapping, local vs. remote automation, command center dashboard
+- [[harness-engineering/_index|Harness Engineering]] — Designing and optimising the runtime around coding agents: long-running patterns, CLAUDE.md, MCP, skills, hooks, sub-agents, advisor strategy, codebase design for AI, browser MCP, NLH/Meta Harness science, scaling managed agents, MCP Apps interactive UI, model comparison
+- [[claude-code-practice/_index|Claude Code Practice]] — Claude Code features, workflows, and practitioner interviews: routines, desktop parallel sessions, session management, Opus 4.7 tuning, structured memory, Cowork guides, Managed Agents memory, Agentic OS three-gap framework
+- [[knowledge-engineering/_index|Knowledge Engineering]] — PKM methodology and vault architecture: Zettelkasten lineage, Karpathy's LLM Knowledge Bases, autoresearch methodology, Atlas sync architecture and schema design
 - [[agent-workflows/_index|Agent Workflows]] — Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared)
 - [[rpi-methodology/_index|RPI Methodology]] — Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning
 - [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features for AI-assisted development (Kiro hooks, specs, steering)
@@ -18,4 +20,4 @@
 - [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document
 - [[ai-security/_index|AI Security]] — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
 - [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
-- Product Management (AI-bound) — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket
+- [[product-management/_index|Product Management (AI-bound)]] — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket

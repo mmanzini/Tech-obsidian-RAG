@@ -24,7 +24,7 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 - Two kinds of PMs: those who joined because they love building, those who joined because it pays well
 - Roughly half the industry is in the second bucket — facing existential risk
 - If sitting down and making something great doesn't energise you, the industry is moving away from you
-- See [[product-management]] and [[ai-organization]]
+- See [[product-management/_index|product management]] and [[ai-organization/_index|AI & organisation]]
 
 ## Tens of thousands out, thousands back in — all AI-first
 - Prediction: large companies lay off far more than they rehire (e.g., 30K out, 8K back)
@@ -41,7 +41,7 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 - Who leads the transformation? People with builder judgment — often PMs
 - Counter-flow: designers, data scientists, and engineers move into product roles
 - Titles will collapse; function lines blur
-- See [[ai-organization]] and [[way-of-working]]
+- See [[ai-organization/_index|AI & organisation]] for structural implications (way-of-working bucket covers team rituals)
 
 ## Compensation and opportunity at an all-time high (for the right PMs)
 - Strongest builders have more offers than ever

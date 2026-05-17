@@ -40,7 +40,7 @@ Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing c
 - When the agent gets something wrong, ask it to introspect on what in its prompt/tooling caused the mistake
 - Update `/commands`, docs, or tooling so the error cannot recur
 - Compounding prompt quality is Arnovitz's core productivity hack
-- See [[way-of-working]]
+- See the way-of-working bucket for loop-not-lane operating models
 
 ## Interview prep as an AI-native default
 - For the Meta interview: built a coach project in Claude, a segmentation quiz in Base44, ran Comet/Perplexity over a public question bank to prioritise mocks

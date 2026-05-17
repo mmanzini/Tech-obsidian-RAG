@@ -28,7 +28,7 @@ Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — the
 ## Organisational implications
 - The work chart drives the org chart: if the loop is data → model → eval → ship, you need a squad that owns the whole loop
 - Traditional PM/engineer/designer lanes break; Sharma favours small closed-loop pods with shared eval ownership
-- See [[way-of-working]] on loop-not-lane operating models
+- Loop-not-lane operating models are the structural implication (see way-of-working bucket)
 
 ## Satya's renewable optimism
 - Sharma quotes Nadella: "optimism is renewable" — leadership at this pace requires manufacturing belief every morning
