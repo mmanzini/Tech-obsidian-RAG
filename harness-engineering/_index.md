@@ -4,6 +4,11 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 
 ## Articles
 
+- [[computer-browser-use-best-practices|Computer and Browser Use Best Practices]] — screenshot scaling, thinking effort tuning, prompt injection defense, rolling buffer + compaction for CU sessions (Anthropic)
+- [[cache-diagnostics|Cache Diagnostics — Diagnosing Prompt Cache Misses]] — pass previous response ID to identify first divergence point: model, system, tools, or messages changed (Anthropic)
+- [[managed-agents-dreams|Managed Agents Dreams — Async Memory Curation via Session Reflection]] — async job that deduplicates, merges, and reorganizes memory stores from past session transcripts (Anthropic)
+- [[agent-view-multi-agent-management|Agent View — Managing Multiple Claude Code Sessions from One Screen]] — `claude agents` TUI: dispatch, peek, attach, worktree isolation, supervisor process (Anthropic)
+- [[managed-agents-self-hosted-sandboxes|Self-Hosted Sandboxes — Bring-Your-Own Execution Environment for Managed Agents]] — keep orchestration on Anthropic's side; move tool execution into your own infrastructure (Anthropic)
 - [[effective-harnesses-long-running|Effective Harnesses for Long-Running Agents]] — Anthropic's two-agent pattern (initializer + coder) for multi-context-window work
 - [[harness-design-long-running-apps|Harness Design for Long-Running App Development]] — GAN-inspired planner/generator/evaluator architecture for autonomous full-stack builds
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — Practical guide to CLAUDE.md, MCP servers, skills, sub-agents, hooks, and back-pressure
@@ -20,6 +25,11 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[sandcastle-afk-agent-orchestration|Sandcastle — AFK Software Factory]] — composable `sandcastle.run` primitive; planner/implementer/reviewer/merger pipeline in Docker sandboxes (Matt Pocock)
 - [[coding-agent-model-comparison-2026|Coding Agent Model Comparison 2026 — DeepSeek V4 vs Opus 4.7 vs GPT 5.5]] — GPT 5.5 wins Terminal Bench; Opus 4.7 wins SWE-Bench; skills portable across harnesses (Chase AI)
 - [[agentic-os-eight-components|Agentic OS — Eight-Component Architecture]] — static context, memory levels, skills, skill systems, planning, multi-client, output consolidation, remote access (Simon Scrapes)
+- [[cache-diagnostics|Cache Diagnostics — Diagnosing Prompt Cache Misses]] — beta API feature that identifies the exact point of divergence (model/system/tools/messages) when prompt caching stops hitting (Anthropic)
+- [[claude-for-creative-work|Claude for Creative Work — MCP Connectors for Creative Tools]] — MCP connectors for Ableton, Adobe, Blender, Autodesk Fusion, SketchUp, and others; Claude Design for visual ideation (Anthropic)
+- [[managed-agents-dreams|Managed Agents Dreams — Async Memory Consolidation]] — async background job to deduplicate, reorganize, and surface new insights from an agent's memory store (Anthropic)
+- [[managed-agents-self-hosted-sandboxes|Managed Agents Self-Hosted Sandboxes]] — run Managed Agent tool execution in your own infrastructure while keeping Anthropic's orchestration (Anthropic)
+- [[computer-browser-use-best-practices|Best Practices for Computer and Browser Use]] — screenshot loops, DOM fallbacks, action verification, and error recovery patterns for computer/browser use agents (Anthropic)
 
 ## Related Topics
 

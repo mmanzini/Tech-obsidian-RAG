@@ -4,6 +4,9 @@ How to use Claude Code effectively — features, workflows, session management, 
 
 ## Articles
 
+- [[claude-creative-connectors|Claude for Creative Work — Connectors for the Creative Industry]] — MCP-based connectors for Ableton, Adobe, Blender, Autodesk Fusion, SketchUp, Splice, and more (Anthropic)
+- [[claude-code-large-codebases|Claude Code in Large Codebases — Best Practices for Enterprise Scale]] — harness layering order, codebase navigability, CLAUDE.md maintenance, agent manager role (Anthropic)
+- [[goal-command-autonomous-completion|/goal — Condition-Based Autonomous Completion in Claude Code]] — session-scoped evaluator loop: set a verifiable condition, Haiku checks after every turn (Anthropic)
 - [[claude-code-routines|Claude Code Routines]] — saved configurations that run autonomously on cloud infrastructure via scheduled, API, and GitHub triggers (Anthropic)
 - [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — sidebar session management, integrated terminal/editor/diff, drag-and-drop layout for orchestrating simultaneous sessions (Anthropic)
 - [[claude-code-session-management|Claude Code Session Management and 1M Context]] — context rot, five turn-level options (continue/rewind/clear/compact/subagent), practical decision table (Anthropic)
@@ -22,6 +25,9 @@ How to use Claude Code effectively — features, workflows, session management, 
 - [[sherwin-wu|Sherwin Wu on Lenny's Podcast]] — 95% of OpenAI API engineers use Codex; +70% PR throughput; we're sorcerers now
 - [[lazar-jovanovic|Lazar Jovanovic on Lenny's Podcast]] — 80% planning / 20% building; externalise context into a Markdown PRD stack
 - [[zevi-arnovitz|Zevi Arnovitz on Lenny's Podcast]] — non-technical PMs ship real products via Cursor + Claude Code + /command library; multi-model peer review
+- [[claude-code-large-codebases|Claude Code in Large Codebases — Best Practices at Scale]] — harness-first guide to deploying Claude Code in monorepos and enterprise environments: CLAUDE.md layering, LSP, plugins, ownership model (Anthropic)
+- [[claude-code-goal-command|Claude Code /goal — Autonomous Multi-Turn Completion]] — session-scoped command that keeps Claude working across turns until a separate evaluator model confirms the condition is met (Anthropic)
+- [[claude-code-agent-view|Claude Code Agent View — Managing Multiple Background Sessions]] — full-terminal dashboard for dispatching and managing many background sessions; supervisor process, git worktree isolation, peek/attach flow (Anthropic)
 
 ## Related Topics
 

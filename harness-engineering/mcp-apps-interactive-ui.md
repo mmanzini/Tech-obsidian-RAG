@@ -79,3 +79,4 @@ Currently supported by: Claude, Claude Desktop, VS Code GitHub Copilot, Goose, P
 - [[harness-engineering/_index|Harness Engineering]] — MCP server configuration and integration
 - [[browser-mcp-visual-feedback|Browser MCP — Visual Feedback Loops]] — browser-based visual feedback vs. MCP App embedded UI
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — MCP server setup in the harness
+- [[claude-creative-connectors|Claude for Creative Work — Connectors]] — MCP connectors for Ableton, Adobe, Blender, and other creative tools

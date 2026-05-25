@@ -127,3 +127,4 @@ Value segmentation:
 - [[nlh-meta-harness-harness-science|NLH, Meta Harness, and the Science of Harness Engineering]] — the 6× performance gap; why harness design matters
 - [[claude-code-structured-memory|Claude Code Structured Memory]] — detailed ~/.claude/memory/ implementation for the memory gap
 - [[agentic-os-eight-components|Agentic OS — Eight-Component Architecture]] — complementary eight-component framing by Simon Scrapes
+- [[claude-code-large-codebases|Claude Code in Large Codebases]] — best practices for navigability, CLAUDE.md maintenance, and the agent manager role at scale

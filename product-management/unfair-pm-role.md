@@ -75,4 +75,4 @@ Gloria Mark ("Attention Span"): "*When you can't psychologically detach from wor
 - [[pm-second-brain-chatgpt|PM second brain with ChatGPT]] — the AI copilot end of Tal's advice
 - [[essential-reading-part-1|Essential reading for product builders]] — includes Paul Graham's *Maker's/Manager's schedule*
 - [[_index|Product Management]]
-- [[way-of-working/_index|Way of working]]
+- [[_index|Product Management (AI-bound)]] — AI-accelerated PM craft

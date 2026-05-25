@@ -99,3 +99,4 @@ Hooks are not Claude-specific as a concept. The same pattern (PreToolUse-style i
 - [[harnessing-claude-intelligence]] — Anthropic's "what can I stop doing?" pattern, same spirit of removing instructions
 - [[subagents-in-claude-code]] — another tool for context isolation and determinism
 - [[sandcastle-afk-agent-orchestration]] — pushes the same principle further: full Docker sandbox isolation for true AFK agent runs where permission interruption is impossible by design
+- [[goal-command-autonomous-completion|/goal — Autonomous Completion Command]] — condition-based evaluator loop that keeps Claude working without prompting each step
