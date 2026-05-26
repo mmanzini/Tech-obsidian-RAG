@@ -194,3 +194,4 @@ Full step-by-step procedure: `Resources/prompts/sync-operations.md` (source: syn
 - [[claude-managed-agents-memory|Built-in Memory for Claude Managed Agents]] — cross-session memory patterns that complement the sync architecture
 - [[claude-code-routines|Claude Code Routines]] — scheduled cloud-based routines that consume the synced content
 - [[atlas-sync-operations|Atlas Sync — Operations Reference]] — the operational commands and schedule for running the sync
+- [[../harness-engineering/atlas-codebase-intelligence-layer|Atlas Model Applied to Codebase Intelligence]] — extending this sync architecture to serve codebase intelligence via MCP

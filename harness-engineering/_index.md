@@ -30,6 +30,7 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[managed-agents-dreams|Managed Agents Dreams — Async Memory Consolidation]] — async background job to deduplicate, reorganize, and surface new insights from an agent's memory store (Anthropic)
 - [[managed-agents-self-hosted-sandboxes|Managed Agents Self-Hosted Sandboxes]] — run Managed Agent tool execution in your own infrastructure while keeping Anthropic's orchestration (Anthropic)
 - [[computer-browser-use-best-practices|Best Practices for Computer and Browser Use]] — screenshot loops, DOM fallbacks, action verification, and error recovery patterns for computer/browser use agents (Anthropic)
+- [[atlas-codebase-intelligence-layer|Atlas Model Applied to Codebase Intelligence]] — external intelligence layer via MCP for codebases; independent of code review; post-session hooks feed Atlas consolidation; no merge conflicts across developers
 
 ## Related Topics
 
