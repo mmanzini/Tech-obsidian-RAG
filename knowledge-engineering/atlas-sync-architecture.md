@@ -19,7 +19,7 @@ Five Atlas folders need to exist simultaneously as separate, public-facing GitHu
 | `Intelligence/political-economy/` | `mmanzini/Political-economy-obsidian-RAG` |
 | `Resources/github-trends/` | `mmanzini/github-trending-digest` |
 | `Skills/` | `mmanzini/Skills` |
-| `Resources/projects/agentic-persistent-knowledge-management-system/` | `mmanzini/agentic-persistent-knowledge-management-system` |
+| `Resources/projects/agentic-knowledge-engine/` | `mmanzini/agentic-knowledge-engine` |
 
 Git submodules don't work here: the nightly cloud routine fresh-clones Atlas from GitHub on a clean runner and expects real files at those paths. A submodule pointer would give it nothing (source: sync-architecture.md).
 
@@ -37,7 +37,7 @@ The result: the same files exist at two physical locations on disk.
 │   │   └── political-economy/        # plain folder, no .git
 │   ├── Resources/
 │   │   ├── github-trends/            # plain folder, no .git
-│   │   └── projects/agentic-persistent-knowledge-management-system/
+│   │   └── projects/agentic-knowledge-engine/
 │   └── Skills/                       # plain folder, no .git
 │
 └── repos/                            # publishable clones
@@ -45,7 +45,7 @@ The result: the same files exist at two physical locations on disk.
     ├── political-economy/
     ├── github-trending-digest/
     ├── skills/
-    ├── agentic-persistent-knowledge-management-system/
+    ├── agentic-knowledge-engine/
     └── scripts/
         ├── sync-repo.sh
         └── sync-all.sh
@@ -67,7 +67,7 @@ Accepted limitation: Unison is not git-aware. A series of small commits on the p
 
 Direction varies per repo (source: sync-architecture.md):
 
-- **Outbound (Atlas → repos):** `tech-research`, `political-economy`, `agentic-persistent-knowledge-management-system` — authored inside Atlas via the `consolidate` verb, published outward.
+- **Outbound (Atlas → repos):** `tech-research`, `political-economy`, `agentic-knowledge-engine` — authored inside Atlas via the `consolidate` verb, published outward.
 - **Inbound (repos → Atlas):** `github-trending-digest` — generated nightly by a GitHub Action on the public repo, pulled into Atlas as source material for the `consolidate` routine.
 - **Mostly-inbound mirror:** `skills` — authored in the public repo (`~/Documents/repos/skills/`), mirrored into `Atlas/Skills/` for vault-wide visibility only. `Atlas/Skills/` is not the same as `~/.claude/skills/`, the runtime location Claude Code reads.
 

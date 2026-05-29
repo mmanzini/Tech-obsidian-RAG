@@ -39,7 +39,7 @@ Run a single repo:
 ~/Documents/repos/scripts/sync-repo.sh skills
 ~/Documents/repos/scripts/sync-repo.sh political-economy
 ~/Documents/repos/scripts/sync-repo.sh github-trending-digest
-~/Documents/repos/scripts/sync-repo.sh agentic-persistent-knowledge-management-system
+~/Documents/repos/scripts/sync-repo.sh agentic-knowledge-engine
 ```
 
 ## Schedule
