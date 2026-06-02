@@ -7,6 +7,8 @@ A software engineering methodology where formal **models** — not source code �
 - [[mdd-overview|MDD — Principles, Abstraction Layers, and Workflow]] — what MDD is and why it exists; the ten core principles; CIM/PIM/PSM refinement stack; M0–M3 metamodel hierarchy; model-to-code workflow
 - [[mdd-classic-vs-modern|MDD — Classic MDA vs Modern Practice]] — the spectrum from OMG Model-Driven Architecture (UML, MOF, QVT) to DSLs, low-code platforms, executable models, and AI/LLM-assisted modelling; when to choose each
 - [[the-model-was-always-the-point|The Model Was Always the Point — MDD in the Age of AI]] — Max's opinion essay: AI fixes MDD's transformation barrier but the two translations want opposite tools — LLM for sense-making (model authoring), deterministic generator for execution in high-assurance domains
+- [[mdd-authoring-workflow|MDD — The Authoring Workflow]] — the practitioner *how*: adoption ladder, domain→CIM→PIM, building a portable PIM, generating the PSM, writing trustworthy transformations, when to build a DSL, greenfield vs brownfield
+- [[mdd-worked-example-order-management|MDD — Worked Example: order-management]] — one system descending CIM→PIM→PSM→transformation→generated code on Java/Spring/PostgreSQL; the PIM→PSM gap, traceability, and the generation-gap boundary
 
 ## Related Topics
 
