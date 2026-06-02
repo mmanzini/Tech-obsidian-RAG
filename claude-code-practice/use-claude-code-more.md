@@ -83,8 +83,8 @@ Grouped from the 50 community examples:
 
 ## Related
 
-- [[harness-engineering/opus-4-7-best-practices|Opus 4.7 best practices]]
-- [[harness-engineering/subagents-in-claude-code|Subagents in Claude Code]]
-- [[harness-engineering/claude-code-routines|Automate work with routines]]
+- [[opus-4-7-best-practices|Opus 4.7 best practices]]
+- [[subagents-in-claude-code|Subagents in Claude Code]]
+- [[claude-code-routines|Automate work with routines]]
 - [[harness-engineering/skill-issue-harness-engineering|skill-issue harness engineering]]
 - [[ai-organization/claude-code-productivity-takeaways|Claude Code productivity takeaways]]

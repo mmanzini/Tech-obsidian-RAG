@@ -52,5 +52,5 @@ Colin Matthews' guide for non-technical PMs covers how to turn PRDs into working
 - [[ai-product-development/vibe-coding-what-people-ship|What people are vibe-coding]] — 50 real examples built with these tools
 - [[harness-engineering/_index|Harness Engineering]] — for PMs graduating into local IDEs and agent harnesses
 - [[ai-organization/an-ai-glossary|AI glossary]] — definitions for the terms above (RAG, fine-tuning, MCP, etc.)
-- [[harness-engineering/zevi-arnovitz|Zevi Arnovitz on Lenny's Podcast]] — non-technical PMs shipping real products with Cursor + Claude Code
-- [[harness-engineering/lazar-jovanovic|Lazar Jovanovic on Lenny's Podcast]] — 80% planning / 20% building with a Markdown PRD stack
+- [[zevi-arnovitz|Zevi Arnovitz on Lenny's Podcast]] — non-technical PMs shipping real products with Cursor + Claude Code
+- [[lazar-jovanovic|Lazar Jovanovic on Lenny's Podcast]] — 80% planning / 20% building with a Markdown PRD stack

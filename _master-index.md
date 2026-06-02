@@ -21,3 +21,4 @@
 - [[ai-security/_index|AI Security]] — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
 - [[ai-product-development/_index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
 - [[product-management/_index|Product Management (AI-bound)]] — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket
+- [[model-driven-development/_index|Model-Driven Development]] — formal models as the primary artefact; CIM/PIM/PSM abstraction stack; transformations; classic OMG MDA vs modern DSLs/low-code/executable models/AI assistance; companion to Spec-Driven Development

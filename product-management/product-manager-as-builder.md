@@ -77,7 +77,7 @@ Building capability amplified by AI is dangerous without strategy discipline. AI
 ## See Also
 
 - [[ai-and-product-strategy]] — AI as co-pilot for strategic decisions, not just tactical execution
-- [[strategy-and-discovery]] — validated strategy as the prerequisite for effective discovery (and building)
-- [[empowerment-levels]] — building skills alone don't make a PM effective without authority over discovery and strategy
+- strategy and discovery — validated strategy as the prerequisite for effective discovery (and building) (see the `product-management` bucket)
+- empowerment levels — building skills alone don't make a PM effective without authority over discovery and strategy (see the `product-management` bucket)
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — engineering-level framework for structured AI-assisted building
 - [[harness-engineering/_index|Harness Engineering]] — tooling depth behind Claude Code, MCP, and skills that PMs building with AI will rely on

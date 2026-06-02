@@ -20,7 +20,7 @@ Key terms used throughout the RPI methodology documentation.
 
 **Context Rot** — Output quality degrades as context window fills. Causes: position bias, attention dilution, instruction adherence loss. Severity increases past 40-60% utilisation.
 
-**CRISPY / QRSPI** — Evolution of RPI: 7 phases (Questions → Research → Structure → Plan → Implement → Worktree → Implement, optionally + Reflect). Developed by HumanLayer to address: 1,000-line plans humans didn't read, monolithic 85+ instruction prompts. Each stage < 40 instructions. See [[post-rpi-evolution|Post-RPI Evolution]].
+**CRISPY / QRSPI** — Evolution of RPI: 7 phases (Questions → Research → Iterate/Discuss → Structure → Plan → Worktree → Implement, optionally + Reflect). Developed by HumanLayer to address: 1,000-line plans humans didn't read, monolithic 85+ instruction prompts. Each stage < 40 instructions. See [[post-rpi-evolution|Post-RPI Evolution]].
 
 **FACTS Scale** — Plan validation framework: **F**easible, **A**tomic, **C**lear, **T**estable, **S**coped. Each dimension scored 0-5; target ≥ 3 for all. See [[validation-gates|Validation Gates]].
 

@@ -1,6 +1,6 @@
 # LeCun: JEPA and World Models — The Case Against LLMs for Agentic AI
 
-**Source:** [Yann LeCun's $1B Bet Against LLMs](https://www.youtube.com/watch?v=kYkIdXwW2AE)
+**Source:** [Yann LeCun's $1B Bet Against LLMs](https://www.youtube.com/watch?v=kYkIdXwW2AE) (Part 1) · [Part 2](https://www.youtube.com/watch?v=v_jDvpEGTIg)
 **Author:** Welch Labs (Sam Baskin, Pranav Gundu, Stephen Welch)
 
 ---
@@ -62,6 +62,22 @@ This is classical optimal control (goes back to 1950s/1960s Soviet control theor
 
 LeCun's 2015 framing (now a meme in ML): "If intelligence is a cake, the bulk of the cake is self-supervised learning, the icing on the cake is supervised learning, and the cherry on the cake is reinforcement learning" (source: transcript-yann-lecuns-1b-bet-against-llms.md). This prediction proved correct for language (GPT series matched this exactly: self-supervised pre-training → supervised fine-tuning → RLHF). JEPA extends it to vision and world modelling.
 
+## Part 2 — From V-JEPA to robot planning
+
+Part 2 of the series works up the VLA (vision-language-action) stack and shows where JEPA-based alternatives slot in at each layer (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md).
+
+**V-JEPA 2 inside a VLM.** Meta's V-JEPA 2 (2025) was trained on one million hours of video with up to one billion parameters, self-supervised by removing patches and predicting the embeddings of the missing patches. Swapped in for the CLIP vision encoder of a vision-language model, it reached state-of-the-art on a set of video-understanding benchmarks — "a video encoder pre-trained without language supervision can be aligned with a language model... contrary to conventional wisdom." The encoder is language-blind yet still interfaces with the LLM (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md). LeCun's new venture Omni Labs puts the thesis on its landing page: "Real intelligence does not start in language. It starts in the world." (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md)
+
+**VL-JEPA — JEPA for the whole VLM.** Instead of generating output text, VL-JEPA predicts the *embedding* of the target text, abstracting away irrelevant phrasing differences (e.g. "do not eat this mushroom" vs "this mushroom is not safe to eat" map to similar embeddings, so the model is not penalised for a correct paraphrase). In a controlled comparison it learned far more efficiently — 35% video-classification accuracy after 5M examples vs 20% for a standard VLM — and a 1.6B-parameter VL-JEPA outperformed 7B models on the GQA compositional-reasoning benchmark. Because it is non-generative, answers come either by embedding-matching against candidate answers or via a trained text decoder (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md).
+
+**The VLA critique — "VLAs are doomed."** LeCun's two objections to vision-language-action models: (1) behavioural cloning does not scale — collecting human demonstrations for every variation is impractical, and the models are brittle outside their demonstration distribution; (2) no explicit planning — VLAs are trained end-to-end and act as a black box mapping images+instructions to joint positions, with no way to predict the consequences of actions before taking them (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md). He grants VLAs generalise somewhat (Google's RT2 moving a can to a picture of Taylor Swift in 2023; Physical Intelligence's PI07), but argues an agentic system must be able to predict consequences and plan — "the inference process now becomes a search as opposed to just an auto-regressive prediction" (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md).
+
+**LeWorldModel + Push-T.** LeCun's alternative learns an action-conditioned world model with JEPA, then plans explicitly. On the Push-T task (push a T-shape to a target), a predictor is trained to map (current-image embedding + action) → next-image embedding; a decoder can render predicted embeddings back to images, revealing that the model learns the environment's physics from pixels and actions alone. Planning uses the Cross Entropy Method: sample random action trajectories, score each by the embedding-space distance between its predicted final state and the goal, keep the elite set, resample, repeat. Planning happens entirely in embedding space. The limitation: LeWorldModel reliably plans only ~5 steps ahead and trails VLA on Push-T performance (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md).
+
+**Hierarchical JEPA.** Longer horizons need hierarchy: low levels make short-term, detailed predictions; higher levels make longer-term, lower-detail predictions so they don't diverge from reality. Two layers extended the Push-T horizon from 5 to 15 steps, with high-level predictions serving as sub-goals for the low level. The interface between layers is an embedding space, not language ("your cat can do hierarchical planning, and they don't have language"); the hope is the hierarchy emerges from training, as feature hierarchies emerge in CNNs (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md).
+
+**Where this is headed.** Omni Labs' near-term aim (1–2 years) is industrial applications: controlling complex systems whose behaviour cannot be reduced to a few equations — a jet engine, a chemical or power plant, blood-sugar control in a diabetic patient, materials and catalyst design — by learning a phenomenological model from data and planning against it. The 3–5 year hope is to become a main supplier of intelligent systems (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md). Welch Labs' own take: the vision is compelling but JEPA is early — V-JEPA 2 and VL-JEPA show it is compatible with the mainstream language-driven stack, but on agentic and robotics problems JEPA world-model approaches remain limited, with many open research questions (source: transcript-yann-lecuns-1b-bet-against-llms-part-2.md).
+
 ## Key Takeaways
 
 - LLMs are generative predictors in token space; they lack the ability to predict consequences of actions in the world — a fundamental gap for reliable agentic systems
@@ -69,6 +85,8 @@ LeCun's 2015 framing (now a meme in ML): "If intelligence is a cake, the bulk of
 - Representation collapse (the trivial-solution problem of joint embedding) is solvable via Barlow Twins / VICReg / DINO without contrastive negative examples
 - JEPA = joint embedding + temporal prediction conditioned on actions = a trainable world model
 - As of 2025/2026, DINOv3 matches supervised performance on image classification; V-JEPA 2 enables zero-shot robot arm planning — the architecture is mature but not yet mainstream
+- JEPA slots into the existing stack at every VLA layer: V-JEPA 2 as a language-blind vision encoder that still beats CLIP inside a VLM; VL-JEPA predicting target-text *embeddings* for big efficiency gains (1.6B beating 7B on GQA); LeWorldModel doing explicit embedding-space planning via the Cross Entropy Method
+- LeCun calls VLAs "doomed" — behavioural cloning is brittle and unscalable, and end-to-end VLAs cannot plan; but JEPA world-model robotics still trails VLA today (~5-step horizon, extended to 15 with hierarchical JEPA), so the bet is on trajectory, not current performance
 
 ## Related
 

@@ -96,4 +96,4 @@ Not a perfect solution — Claude can still get confused when asked how to set i
 - Consequential shift in search: **let Claude build its own context with Grep + progressive disclosure via Skills** instead of pre-fetching via RAG.
 - **The bar to add a new tool is high** — each addition is another choice for the model. Prefer sub-agents and skills (progressive disclosure) to new top-level tools.
 - Support a **small, similar set of models** so tool design stays coherent.
-- Related: [[agent-architecture/twelve-factor-agents|twelve-factor-agents]], [[harness-engineering/subagents-in-claude-code|subagents-in-claude-code]], [[harness-engineering/skill-issue-harness-engineering|skill-issue-harness-engineering]].
+- Related: [[agent-architecture/twelve-factor-agents|twelve-factor-agents]], [[subagents-in-claude-code|subagents-in-claude-code]], [[harness-engineering/skill-issue-harness-engineering|skill-issue-harness-engineering]].

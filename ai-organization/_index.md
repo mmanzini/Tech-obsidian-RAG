@@ -28,6 +28,8 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[robby-stein|Robby Stein on Lenny's Podcast]] — search is expansionary not cannibalised; query fan-out and "dissatisfied" as operating principle
 - [[garrett-lord|Garrett Lord on Lenny's Podcast]] — audience is the only moat; labs buy Quality > Volume > Speed strictly
 - [[dr-fei-fei-li|Dr. Fei-Fei Li on Lenny's Podcast]] — LLMs are Plato's cave; spatial intelligence and world models are the next ingredient
+- [[max-schoening-agency-ai-era|Max Schoening — Agency, Malleable Software, and the Tiny Core]] — agency as the AI-era differentiator; tiny core theory; malleable software; SaaS bullish; taste as a trainable skill (Lenny's Podcast)
+- [[dan-shipper-ai-paradox|Dan Shipper — The AI Paradox: More Automation, More Humans, More Work]] — work bifurcation (super-agent + coding-OS); forward deployed engineer; SaaS token economics; PM/designer as biggest winners; automation paradox; Senior Engineer Benchmark (Lenny's Podcast)
 
 ## Related Topics
 

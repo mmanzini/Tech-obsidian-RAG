@@ -87,3 +87,4 @@ The same Context can serve multiple agents (legal-ops, sales, GC's office) from 
 - [[chip-huyen|Chip Huyen on Lenny's Podcast]] — "users, data prep, and prompts are the work": the thesis that data quality is the limiting factor predates Nexus
 - [[lethal-trifecta-and-agentic-patterns|Lethal Trifecta and Agentic Engineering Patterns]] — untrusted input / private data / external send; Nexus's access-control layer is a mitigant for the private-data leg
 - [[lecun-jepa-world-models|LeCun: JEPA and World Models]] — parallel argument that the knowledge/context layer is the architectural gap; LeCun from the model side, Nexus from the infrastructure side
+- [[episodic-memory-agentcore|Episodic Memory for Agents — AWS Bedrock AgentCore]] — the experience layer complementing this semantic/context layer: agents recalling past episodes rather than just facts

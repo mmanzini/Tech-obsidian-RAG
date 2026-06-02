@@ -15,6 +15,7 @@ bucket.
 - [[pm-second-brain-chatgpt]] — Amir Klein on ChatGPT Projects as context store + meta-prompting system instructions
 - [[product-manager-as-builder]] — the AI-enabled builder role: benefits (speed, better products), risks (strategy neglect, debt, burnout), the right balance
 - [[unfair-pm-role]] — Tal Raviv's seven tactics for the "super-IC" PM in the AI-accelerated, flatter org
+- [[three-diamonds-framework]] — Max's three-diamond framework: strategy discovery → product discovery → product delivery; why the AI discourse is stuck on diamond 3; feedback loop routing; PM-developer role convergence
 
 ## Related Topics
 
