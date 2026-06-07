@@ -11,6 +11,9 @@ Personal knowledge management methodology, vault architecture, and the design li
 - [[llm-vault-structure-spec|LLM Vault Structure Spec — Bucket/Topic/Article Architecture]] — design document specifying Atlas's two-zone, two-layer folder architecture and consolidate/refine verbs
 - [[llm-wiki-schema-template|LLM Wiki Schema Template — Simple Single-Vault CLAUDE.md]] — minimal flat wiki template (raw/ + wiki/) that Atlas extends; Karpathy's original LLM Wiki pattern
 - [[zettelkasten-pkm|Zettelkasten — Foundational PKM Methodology]] — 500-year-old atomic linked-note system; Luhmann's 90,000-card proof of concept; digital lineage to wikis, Obsidian, and RAG vaults
+- [[team-agentic-os-gbrain|Team Agentic OS — three-tier model and GBrain lineage]] — scaling a personal agentic OS to a team: three tiers by maintainer, access control across four surfaces, markdown-first portability
+- [[agentic-knowledge-engine-team-security|Agentic knowledge engine — team security & permissions]] — T017 design note: a permission spine (GBrain + Team OS) mirrored onto files/MCP/git/memory-DB to scale Atlas without cross-bucket leaks
+- [[intelligence-layer-strand-map|Intelligence-layer strand map]] — how Max's seven intelligence-layer / AI-PM strands relate: the harness lineage and the Three-Diamond umbrella
 
 ## Related Topics
 
