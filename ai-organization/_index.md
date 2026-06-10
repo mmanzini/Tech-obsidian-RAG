@@ -1,6 +1,6 @@
 # AI & Organisation Design
 
-How AI changes the way companies are structured, coordinate, and make decisions — moving from hierarchy-as-information-routing to AI-as-coordination-layer.
+How AI changes the way companies are structured, coordinate, and make decisions — org-design theses (hierarchy-as-information-routing replaced by AI-as-coordination-layer), adoption and economic evidence (Anthropic Economic Index, job-market data, team-size data), AI fluency, and reference material. Per-guest podcast interview digests live in the sibling [[../product-leader-interviews/_index|Product Leader Interviews]] topic.
 
 ## Articles
 
@@ -16,24 +16,11 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[ai-fluency-curriculum|Getting Good at Claude — Research-Backed Curriculum]] — Signature moves per product, Description spectrum, teaching Discernment (Anthropic AI Fluency Index)
 - [[anthropic-economic-index-learning-curves|Anthropic Economic Index: Learning Curves]] — Usage diversification, model selection by task value, tenure-success correlation, and learning-by-doing evidence (Anthropic, March 2026)
 - [[small-team-shipping|Small Team Shipping]] — Why teams of 4–6 produce 2× the merged-PR rate per engineer of teams of 12+, and when larger teams still win
-- [[ravi-mehta|Ravi Mehta on Lenny's Podcast]] — Product Strategy Stack (mission → strategy → product strategy → roadmap → goals); NCTs over OKRs
-- [[nikhyl-singhal|Nikhyl Singhal on Lenny's Podcast]] — PM is simultaneously in renaissance and crisis; "how modern are you?" replaces resume logos
-- [[cat-wu|Cat Wu on Lenny's Podcast]] — Anthropic PM lead: timelines compressed 6mo→1wk; ship in research-preview; hire engineers with product taste; evals as the new PRD
-- [[nick-turley|Nick Turley on Lenny's Podcast]] — the model IS the product; leader's job is setting the team's resting heart rate
-- [[bret-taylor|Bret Taylor on Lenny's Podcast]] — the agent is the new app; outcome pricing; applied-AI tier three
-- [[asha-sharma|Asha Sharma on Lenny's Podcast]] — AI products are organisms planned in seasons; post-training >50% of quality above 30B params
-- [[howie-liu|Howie Liu on Lenny's Podcast]] — CEOs must become ICs again; reorg into fast-thinking / slow-thinking groups
-- [[jeetu-patel|Jeetu Patel on Lenny's Podcast]] — Timing > Market > Team > Product > Brand > Distribution; stamina beats intellect at scale
-- [[tomer-cohen|Tomer Cohen on Lenny's Podcast]] — "I might be wrong but I'm not confused"; diverge-then-converge bets on a 3-year peak
-- [[robby-stein|Robby Stein on Lenny's Podcast]] — search is expansionary not cannibalised; query fan-out and "dissatisfied" as operating principle
-- [[garrett-lord|Garrett Lord on Lenny's Podcast]] — audience is the only moat; labs buy Quality > Volume > Speed strictly
-- [[dr-fei-fei-li|Dr. Fei-Fei Li on Lenny's Podcast]] — LLMs are Plato's cave; spatial intelligence and world models are the next ingredient
-- [[max-schoening-agency-ai-era|Max Schoening — Agency, Malleable Software, and the Tiny Core]] — agency as the AI-era differentiator; tiny core theory; malleable software; SaaS bullish; taste as a trainable skill (Lenny's Podcast)
-- [[dan-shipper-ai-paradox|Dan Shipper — The AI Paradox: More Automation, More Humans, More Work]] — work bifurcation (super-agent + coding-OS); forward deployed engineer; SaaS token economics; PM/designer as biggest winners; automation paradox; Senior Engineer Benchmark (Lenny's Podcast)
 
 ## Related Topics
 
-- [[agent-architecture/_index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
-- [[constitutional-ai/_index|Constitutional AI]] — values and training behind the models whose adoption these articles study
+- [[../product-leader-interviews/_index|Product Leader Interviews]] — per-guest podcast digests of product/AI leaders on building in the AI era
+- [[../agent-architecture/_index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
+- [[../constitutional-ai/_index|Constitutional AI]] — values and training behind the models whose adoption these articles study
 - See also: Way of Working bucket — team structures and frameworks for AI-native organisations
 - Product Management — strategy, discovery, and the PM role in the AI era

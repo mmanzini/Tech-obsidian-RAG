@@ -12,6 +12,7 @@
 - [[rpi-methodology/_index|RPI Methodology]] — Deep reference for Research-Plan-Implement: principles, FAR/FACTS gates, context engineering, tool workflows, team adoption, CRISPY/QRSPI evolution, industry positioning
 - [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features for AI-assisted development (Kiro hooks, specs, steering)
 - [[ai-organization/_index|AI & Organisation Design]] — How AI changes company structure (Block/Sequoia, Dorsey mini-AGI), AI fluency curriculum, product management on the AI exponential, Anthropic Economic Index, product job market 2025/2026, AI glossary, and Anthropic-adjacent takeaways (Avasare, Cherny, Vo)
+- [[product-leader-interviews/_index|Product Leader Interviews]] — Per-guest Lenny's Podcast takeaway digests from product/AI leaders (Cat Wu, Bret Taylor, Nick Turley, Fei-Fei Li, Dan Shipper, et al.) on building and leading in the AI era
 - [[spec-driven-development/_index|Spec-Driven Development]] — Tool-agnostic standard treating the spec as the durable artifact (phases, roles, boundaries)
 - [[ci-integrations/_index|CI Integrations]] — Running Claude in CI/CD: GitHub Actions, managed Code Review with REVIEW.md customization
 - [[ai-native-banking/_index|AI-Native Banking]] — AI-native banking OS architecture and Backbase 2026 segment-level predictions

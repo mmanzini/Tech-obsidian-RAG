@@ -72,5 +72,6 @@ Four hard limits:
 - strategy and discovery — strategy as the validated input for product discovery (see the `product-management` bucket)
 - the product strategy cycle — the workflow AI is being integrated into (see the `product-management` bucket)
 - [[product-manager-as-builder]] — AI enabling PMs to build prototypes as part of strategy validation
+- [[three-diamonds-framework]] — Max's three-diamond model: AI collapses the cost of being wrong in strategy and discovery, not just delivery
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — engineering-level counterpart: AI as a thinking partner, not just a coding engine
 - [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to the ethical and values constraints that address AI's bias, privacy, and behavioural risks at the model level
