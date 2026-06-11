@@ -14,6 +14,7 @@ Personal knowledge management methodology, vault architecture, and the design li
 - [[team-agentic-os-gbrain|Team Agentic OS — three-tier model and GBrain lineage]] — scaling a personal agentic OS to a team: three tiers by maintainer, access control across four surfaces, markdown-first portability
 - [[agentic-knowledge-engine-team-security|Agentic knowledge engine — team security & permissions]] — T017 design note: a permission spine (GBrain + Team OS) mirrored onto files/MCP/git/memory-DB to scale Atlas without cross-bucket leaks
 - [[intelligence-layer-strand-map|Intelligence-layer strand map]] — how Max's seven intelligence-layer / AI-PM strands relate: the harness lineage and the Three-Diamond umbrella
+- [[memory-three-jobs-and-atlas-tiers|Memory's three jobs and Atlas's tier adoption]] — Simon Scrapes' storage/injection/recall framework benchmarked against Atlas; tier-0 snapshot + tier-2 hybrid search adopted, no rebuild; engine-core vs add-on boundary
 
 ## Related Topics
 

@@ -100,3 +100,4 @@ Hooks are not Claude-specific as a concept. The same pattern (PreToolUse-style i
 - [[subagents-in-claude-code]] — another tool for context isolation and determinism
 - [[sandcastle-afk-agent-orchestration]] — pushes the same principle further: full Docker sandbox isolation for true AFK agent runs where permission interruption is impossible by design
 - [[goal-command-autonomous-completion|/goal — Autonomous Completion Command]] — condition-based evaluator loop that keeps Claude working without prompting each step
+- [[headless-skill-execution-contracts|Execution Contracts for Headless Skill Runs]] — the flip side: when project hooks themselves hijack scheduled headless runs, the fix is an inline SKILL.md contract

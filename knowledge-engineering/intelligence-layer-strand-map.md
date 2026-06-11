@@ -49,3 +49,4 @@ Read strand 7 first for the operating model; the others are the parts. The Shipp
 - [[llm-vault-structure-spec|LLM Vault Structure Spec]] — the bucket/topic/article architecture strand 2 runs on
 - [[atlas-sync-architecture|Atlas Sync Architecture]] — the hosted-sync layer behind strand 3
 - [[autoresearch-methodology|Autoresearch methodology]] — the program.md/harness lineage the pattern descends from
+- [[memory-three-jobs-and-atlas-tiers|Memory's three jobs and Atlas's tier adoption]] — the 2026-06-11 memory-tiers upgrade of strand 2's engine, benchmarked against external frameworks

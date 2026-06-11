@@ -30,6 +30,8 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 - [[managed-agents-self-hosted-sandboxes|Managed Agents Self-Hosted Sandboxes]] — run Managed Agent tool execution in your own infrastructure while keeping Anthropic's orchestration (Anthropic)
 - [[computer-browser-use-best-practices|Best Practices for Computer and Browser Use]] — screenshot loops, DOM fallbacks, action verification, and error recovery patterns for computer/browser use agents (Anthropic)
 - [[atlas-codebase-intelligence-layer|Atlas Model Applied to Codebase Intelligence]] — external intelligence layer via MCP for codebases; independent of code review; post-session hooks feed Atlas consolidation; no merge conflicts across developers
+- [[headless-skill-execution-contracts|Execution Contracts for Headless Skill Runs]] — inline SKILL.md contracts beat hook config when project hooks hijack scheduled headless runs; dashboard dedup-ledger pattern; daily scheduled-agent prompt pattern
+- [[excalidraw-plugin-external-edit-gotcha|Excalidraw Plugin — External-Edit Merge Gotcha]] — open Excalidraw tabs merge cached scenes over external rewrites; close tab, verify, prefer new filenames
 
 ## Related Topics
 
