@@ -19,6 +19,12 @@ A vault's SessionStart and Stop hooks (e.g. the task-board reconcile reminder) h
 - **Trigger:** refresh initially ran via the `/dashboard-refresh` slash command — a personal command in `~/.claude/commands/`, not vault-committed (source: session-2026-06-11-1300.md). Earlier the same day Max chose to keep the refresh manual and uncoupled from the consolidate auto-chain (source: 2026-06-11-dashboard-refresh-stays-manual.md), then superseded that decision: the refresh moves to a **daily remote scheduled agent**. The agreed prompt pattern: absolute working directory, direct path to `Skills/dashboard-refresh/SKILL.md` (no slash commands headless), the execution contract replicated inline, an explicit prohibition on touching the Tasks board, and a closing commit + push to `main` (source: 2026-06-11-dashboard-refresh-scheduled-agent.md). The refresh stays out of the consolidate → refine → reflect chain in both regimes — automation is by schedule, not by chaining.
 - **Git rule:** remote agents push to `main`, inherited from session convention (source: session-2026-06-11-1300.md).
 
+## Codex compatibility: hooks as encoded instructions
+
+Claude Code's `.claude/settings.json` wires SessionStart, Stop, and SessionEnd hooks, but Codex does not execute this file. The solution: the CLAUDE.md/AGENTS.md encodes those hook behaviours as **mandatory encoded instructions** — the same guarantees (snapshot recall at session start, board reconcile at stop, capture note at session end) are written directly into the program file as if they were hard rules (source: 2026-06-11-codex-hooks-encoded.md).
+
+This is the CLAUDE.md-as-execution-contract pattern applied at the whole-vault level: when the runtime can't run the hooks, the instructions absorb them. The tradeoff is that encoded behaviours must be kept in sync with the hook implementations manually; divergence creates two codepaths with different guarantees.
+
 ## Key Takeaways
 
 - Hooks are session-scoped UX; headless jobs need their guarantees written into the skill text itself.
