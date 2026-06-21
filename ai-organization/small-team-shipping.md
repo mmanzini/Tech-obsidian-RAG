@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Small Teams Ship Faster
+description: Small teams consistently outship larger ones on product work because coordination overhead grows super-linearly with headcount.
+bucket: ai-engineering
+topic: ai-organization
+tags: []
+source: https://example.com/small-teams-ship-faster
+resource: https://example.com/small-teams-ship-faster
+timestamp: 2026-04-29T21:54:50Z
+status: active
+related:
+  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+  - ai-engineering/ai-organization/openclaw-personal-agent-team.md
+  - ai-engineering/ai-organization/anthropic-economic-index-learning-curves.md
+  - ai-engineering/ai-organization/an-ai-glossary.md
+---
+
 # Small Teams Ship Faster
 
 **Source:** [How small teams ship faster than large ones](https://example.com/small-teams-ship-faster)

@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Computer and Browser Use Best Practices
+description: Anthropic's comprehensive guide for developers building computer and browser use integrations with Claude 4.6/4.7.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude
+resource: https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude
+timestamp: 2026-05-25T00:17:36Z
+status: active
+related:
+  - ai-engineering/harness-engineering/advisor-strategy.md
+  - ai-engineering/harness-engineering/effective-harnesses-long-running.md
+  - ai-engineering/harness-engineering/sandcastle-afk-agent-orchestration.md
+  - ai-engineering/harness-engineering/cache-diagnostics.md
+---
+
 # Computer and Browser Use Best Practices
 
 **Source:** [Best practices for computer and browser use with Claude](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude)

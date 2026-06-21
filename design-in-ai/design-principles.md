@@ -1,3 +1,22 @@
+---
+type: synthesis
+title: Design Principles for AI-Assisted Development
+description: Ten cross-cutting principles that emerge from the convergence of SDD, Kiro, RPI, Design.md and industry research.
+bucket: ai-engineering
+topic: design-in-ai
+tags: []
+source: ../../../Resources/documents/frameworks/Design in AI/Core Concepts/Principles.md
+resource:
+timestamp: 2026-04-30T06:41:32Z
+status: active
+related:
+  - ai-engineering/design-in-ai/what-is-design-md.md
+  - ai-engineering/design-in-ai/design-first-vs-requirements-first.md
+  - ai-engineering/design-in-ai/integrating-design-with-specs.md
+  - ai-engineering/design-in-ai/writing-effective-design-docs.md
+  - ai-engineering/design-in-ai/getting-started-with-stitch.md
+---
+
 # Design Principles for AI-Assisted Development
 
 **Source:** [Principles.md](../../../Resources/documents/frameworks/Design in AI/Core Concepts/Principles.md)

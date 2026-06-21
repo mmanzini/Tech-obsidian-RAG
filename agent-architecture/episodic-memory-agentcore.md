@@ -1,3 +1,19 @@
+---
+type: synthesis
+title: Episodic Memory for Agents — Amazon Bedrock AgentCore
+description: How AgentCore turns raw agent conversations into structured episodes and reflections, recalled at inference, with τ2-bench benchmarks showing higher task success.
+bucket: ai-engineering
+topic: agent-architecture
+tags: [episodic-memory, agent-memory, reflection, agentcore, aws, benchmarks]
+source: Resources/web-clippings/2026-06-02-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md
+resource: https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/
+timestamp: 2026-06-20T12:00:00Z
+status: active
+related:
+  - ai-engineering/agent-architecture/twelve-factor-agents.md
+  - ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
+---
+
 # Episodic Memory for Agents — Amazon Bedrock AgentCore
 
 **Source:** [Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory](https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/)
@@ -50,6 +66,20 @@ Episodes are extracted at two granularities (source: 2026-06-02-Build agents to 
 - **Storage.** Episodes are stored in a vector store with semantic indexing on user intent, enabling similarity matching (source: 2026-06-02-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md).
 - **Retrieval.** Two inference-time mechanisms: `retrieve_exemplars` fetches step-by-step solutions from past interactions, and `retrieve_reflections` accesses generalised patterns and strategic insights (source: 2026-06-02-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md).
 
+## Reflection module and custom overrides
+
+A separate **reflection module** does cross-episodic learning: using user intent as a semantic key, it retrieves past successful episodes with similar goals, analyses patterns across them, and either enhances existing reflection knowledge or adds new patterns. Each reflection record carries a *use case* (when the insight applies), *hints* (tool-selection strategies, effective approaches, pitfalls), and a *confidence score* (0.1–1.0) for how well it generalises (source: 2026-06-15-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md). Built-in strategies can be overridden with custom prompts (extraction criteria, consolidation rules, conflict resolution), a custom model for memory operations, and hierarchical **namespaces** (reflections must namespace under their episodes) (source: 2026-06-15-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md).
+
+## Benchmarks
+
+On τ2-bench retail/airline goal-completion tasks (agent built on Claude 3.7, each query attempted four times, scored Pass^k = succeeded in at least k of 4), memory-augmented agents consistently beat the no-memory baseline (source: 2026-06-15-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md):
+
+- **Cross-episode reflection** improved retail Pass^1 by **+11.4%** and Pass^3 by **+13.6%** over baseline — generalised strategic insight helps most on open-ended scenarios.
+- **Episodes as in-context examples** won on the airline domain's rule-based multi-step procedures (highest Pass^3, 43.0% vs 41.0% for reflection) — concrete step-by-step exemplars help on structured workflows.
+- Gains are largest at higher consistency thresholds (Pass^3), where memory prevents the intermittent mistakes that cause flaky failures.
+
+The lesson: match the retrieval mode to the task — reflections for open-ended judgement, exemplars for structured procedures (source: 2026-06-15-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md).
+
 ## Key Takeaways
 
 - Episodic memory = the agent learning from its own experience: goal → reasoning → actions → outcome → reflection, captured as a structured record and recalled later
@@ -61,4 +91,4 @@ Episodes are extracted at two granularities (source: 2026-06-02-Build agents to 
 
 - [[twelve-factor-agents|Twelve-Factor Agents]] — production-agent principles; episodic memory addresses the cross-session learning gap they assume away
 - [[pinecone-nexus-knowledge-engine|Pinecone Nexus — Knowledge Engine for Agents]] — the semantic/context layer for agents; episodic memory is the complementary experience layer
-- [[../knowledge-engineering/_index|Knowledge Engineering]] — the Atlas vault adopts this episodic/semantic split: buckets as semantic memory, an `_episodes/` zone for experiences recalled at run-start
+- [[../knowledge-engineering/index|Knowledge Engineering]] — the Atlas vault adopts this episodic/semantic split: buckets as semantic memory, an `_episodes/` zone for experiences recalled at run-start

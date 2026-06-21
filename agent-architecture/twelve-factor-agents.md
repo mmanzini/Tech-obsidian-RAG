@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Twelve-Factor Agents
+description: A set of 12 principles for building LLM-powered software reliable enough to put in front of production customers.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: https://github.com/humanlayer/12-factor-agents
+resource: https://github.com/humanlayer/12-factor-agents
+timestamp: 2026-04-29T21:24:51Z
+status: active
+related: []
+---
+
 # Twelve-Factor Agents
 
 **Source:** [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)

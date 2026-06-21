@@ -35,10 +35,10 @@ How to configure, design, and optimize the runtime environment ("harness") aroun
 
 ## Related Topics
 
-- [[claude-code-practice/_index|Claude Code Practice]] — Claude Code features, workflows, and practitioner interviews
-- [[knowledge-engineering/_index|Knowledge Engineering]] — PKM methodology and vault architecture (Atlas, autoresearch, Zettelkasten)
-- [[agent-workflows/_index|Agent Workflows]] — structured patterns (RPI, Quick Dev) that run inside a harness
-- [[agent-architecture/_index|Agent Architecture]] — 12-factor principles for production agent design
-- [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features (Kiro) that complement harness config
-- [[rpi-methodology/_index|RPI Methodology]] — structured workflow that runs inside these harnesses
-- [[ai-security/_index|AI Security]] — security scanning and CI hooks as harness-level defences
+- [[claude-code-practice/index|Claude Code Practice]] — Claude Code features, workflows, and practitioner interviews
+- [[knowledge-engineering/index|Knowledge Engineering]] — PKM methodology and vault architecture (Atlas, autoresearch, Zettelkasten)
+- [[agent-workflows/index|Agent Workflows]] — structured patterns (RPI, Quick Dev) that run inside a harness
+- [[agent-architecture/index|Agent Architecture]] — 12-factor principles for production agent design
+- [[ai-dev-tools/index|AI Dev Tools]] — IDE-level features (Kiro) that complement harness config
+- [[rpi-methodology/index|RPI Methodology]] — structured workflow that runs inside these harnesses
+- [[ai-security/index|AI Security]] — security scanning and CI hooks as harness-level defences

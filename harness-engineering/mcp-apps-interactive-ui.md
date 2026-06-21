@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: MCP Apps — Interactive UI Inside MCP Hosts
+description: MCP Apps extend the Model Context Protocol to allow servers to return interactive HTML interfaces — data visualisations, forms, dashboards — that render directly inside the chat conversation via a sandboxed iframe.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://modelcontextprotocol.io/extensions/apps/overview
+resource: https://modelcontextprotocol.io/extensions/apps/overview
+timestamp: 2026-05-25T00:17:36Z
+status: active
+related:
+  - ai-engineering/harness-engineering/browser-mcp-visual-feedback.md
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/claude-code-practice/claude-creative-connectors.md
+---
+
 # MCP Apps — Interactive UI Inside MCP Hosts
 
 **Source:** https://modelcontextprotocol.io/extensions/apps/overview
@@ -76,7 +93,7 @@ Currently supported by: Claude, Claude Desktop, VS Code GitHub Copilot, Goose, P
 
 ## Related
 
-- [[harness-engineering/_index|Harness Engineering]] — MCP server configuration and integration
+- [[harness-engineering/index|Harness Engineering]] — MCP server configuration and integration
 - [[browser-mcp-visual-feedback|Browser MCP — Visual Feedback Loops]] — browser-based visual feedback vs. MCP App embedded UI
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — MCP server setup in the harness
 - [[claude-creative-connectors|Claude for Creative Work — Connectors]] — MCP connectors for Ableton, Adobe, Blender, and other creative tools

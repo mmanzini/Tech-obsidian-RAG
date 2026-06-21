@@ -1,3 +1,23 @@
+---
+type: synthesis
+title: Design-First vs Requirements-First
+description: Requirements-first (requirements → design → tasks → implementation) suits greenfield features where intent is clear but structure is open; design-first (design → requirements → tasks → implementation) suits refactors and infrastructure work where the target architecture is already known.
+bucket: ai-engineering
+topic: design-in-ai
+tags: []
+source: synthesis — design-in-ai corpus
+resource:
+timestamp: 2026-05-09T07:33:19Z
+status: active
+related:
+  - ai-engineering/design-in-ai/design-in-ai-overview.md
+  - ai-engineering/design-in-ai/ai-design-tool-comparison.md
+  - ai-engineering/design-in-ai/emerging-practices-design.md
+  - ai-engineering/design-in-ai/competing-approaches-design.md
+  - ai-engineering/design-in-ai/design-in-ai-examples.md
+  - ai-engineering/design-in-ai/design-in-ai-glossary.md
+---
+
 # Design-First vs Requirements-First
 
 **Source:** (synthesis — design-in-ai corpus)

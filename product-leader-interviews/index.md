@@ -1,6 +1,6 @@
 # Product Leader Interviews
 
-Per-guest takeaway digests of podcast interviews (Lenny's Podcast) with product and AI leaders — each article captures one guest's operating principles, frameworks, and predictions for building and leading in the AI era. Org-design theses and adoption/market data live in the sibling [[../ai-organization/_index|AI & Organisation Design]] topic.
+Per-guest takeaway digests of podcast interviews (Lenny's Podcast) with product and AI leaders — each article captures one guest's operating principles, frameworks, and predictions for building and leading in the AI era. Org-design theses and adoption/market data live in the sibling [[../ai-organization/index|AI & Organisation Design]] topic.
 
 ## Articles
 
@@ -21,6 +21,6 @@ Per-guest takeaway digests of podcast interviews (Lenny's Podcast) with product 
 
 ## Related Topics
 
-- [[../ai-organization/_index|AI & Organisation Design]] — the org-design theses and adoption data these interviews echo and challenge
-- [[../ai-product-development/_index|AI Product Development]] — the frameworks many guests operate inside (evals, discovery, iteration)
-- [[../product-management/_index|Product Management (AI-bound)]] — the AI-accelerated PM craft the guests describe in practice
+- [[../ai-organization/index|AI & Organisation Design]] — the org-design theses and adoption data these interviews echo and challenge
+- [[../ai-product-development/index|AI Product Development]] — the frameworks many guests operate inside (evals, discovery, iteration)
+- [[../product-management/index|Product Management (AI-bound)]] — the AI-accelerated PM craft the guests describe in practice

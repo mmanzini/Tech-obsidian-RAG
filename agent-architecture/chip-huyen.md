@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Chip Huyen — Talk to Users, Not Benchmarks
+description: Chip Huyen (Nvidia, Stanford, author of *AI Engineering*) argues that teams systematically invest in the wrong layer — new frameworks and model debates — while the real gains come from talking to users, preparing data well, and writing better prompts.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: Lenny's Podcast, Chip Huyen (Nvidia, Stanford, ex-Netflix; author of *AI Engineering*
+resource:
+timestamp: 2026-05-09T06:59:45Z
+status: active
+related: []
+---
+
 # Chip Huyen — Talk to Users, Not Benchmarks
 
 **Source:** Lenny's Podcast, Chip Huyen (Nvidia, Stanford, ex-Netflix; author of *AI Engineering*)
@@ -64,6 +78,6 @@ Chip Huyen (Nvidia, Stanford, author of *AI Engineering*) argues that teams syst
 - Build micro-tools for your own frustrations — it's how you exit the idea crisis.
 
 ## Related
-- [[ai-product-development/_index|AI Product Development]] — RAG and evals
-- [[harness-engineering/_index|Harness Engineering]] — Cursor adoption, senior/junior split
-- [[ai-organization/_index|AI & Organisation Design]] — eval ownership across functions
+- [[ai-product-development/index|AI Product Development]] — RAG and evals
+- [[harness-engineering/index|Harness Engineering]] — Cursor adoption, senior/junior split
+- [[ai-organization/index|AI & Organisation Design]] — eval ownership across functions

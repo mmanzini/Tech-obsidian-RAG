@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Getting Started with Google Stitch and Design.md
+description: A practical hands-on guide to using Google Stitch and the Design.md convention.
+bucket: ai-engineering
+topic: design-in-ai
+tags: []
+source: ../../../Resources/documents/frameworks/Design in AI/Guides/Getting Started with Stitch.md
+resource:
+timestamp: 2026-04-30T05:44:00Z
+status: active
+related:
+  - ai-engineering/design-in-ai/google-stitch.md
+  - ai-engineering/design-in-ai/what-is-design-md.md
+  - ai-engineering/design-in-ai/integrating-design-with-specs.md
+  - ai-engineering/design-in-ai/design-principles.md
+---
+
 # Getting Started with Google Stitch and Design.md
 
 **Source:** [Getting Started with Stitch.md](../../../Resources/documents/frameworks/Design in AI/Guides/Getting Started with Stitch.md)

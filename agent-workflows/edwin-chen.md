@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Edwin Chen — Bootstrapped to $1B on Taste, Not Benchmarks (Surge)
+description: Edwin Chen (founder & CEO, Surge AI) built a bootstrapped $1B+ revenue AI data company with fewer than 100 employees by betting on quality-signal instrumentation per worker — thousands of signals like time-on-task and peer disagreement — rather than headcount scale.
+bucket: ai-engineering
+topic: agent-workflows
+tags: []
+source: Lenny's Podcast — Founder & CEO, Surge AI
+resource:
+timestamp: 2026-05-09T06:59:45Z
+status: active
+related: []
+---
+
 # Edwin Chen — Bootstrapped to $1B on Taste, Not Benchmarks (Surge)
 
 **Source:** Lenny's Podcast — Founder & CEO, Surge AI
@@ -62,6 +76,6 @@ Edwin Chen (founder & CEO, Surge AI) built a bootstrapped $1B+ revenue AI data c
 
 ## Related
 
-- [[ai-product-development/_index|AI Product Development]]
-- [[harness-engineering/_index|Harness Engineering]]
-- [[ai-organization/_index|AI & Organisation Design]]
+- [[ai-product-development/index|AI Product Development]]
+- [[harness-engineering/index|Harness Engineering]]
+- [[ai-organization/index|AI & Organisation Design]]

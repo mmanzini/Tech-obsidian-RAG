@@ -1,3 +1,23 @@
+---
+type: synthesis
+title: Karpathy's LLM Knowledge Bases — Personal Workflow
+description: Karpathy describes his personal workflow for building LLM-powered knowledge bases: raw source documents are fed into a `raw/` directory, an LLM incrementally "compiles" a wiki of markdown articles with summaries and backlinks, and Obsidian serves as the human-readable frontend.
+bucket: ai-engineering
+topic: knowledge-engineering
+tags: []
+source: https://x.com/karpathy/status/2039805659525644595
+resource: https://x.com/karpathy/status/2039805659525644595
+timestamp: 2026-06-20T21:43:14Z
+status: active
+related:
+  - ai-engineering/knowledge-engineering/autoresearch-methodology.md
+  - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+  - ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
+  - ai-engineering/knowledge-engineering/zettelkasten-pkm.md
+  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+  - ai-engineering/knowledge-engineering/open-knowledge-format.md
+---
+
 # Karpathy's LLM Knowledge Bases — Personal Workflow
 
 **Source:** [Thread by @karpathy](https://x.com/karpathy/status/2039805659525644595)
@@ -59,3 +79,4 @@ Karpathy flags synthetic data generation and finetuning as the next frontier: on
 - [[llm-wiki-schema-template]] — the minimal flat wiki template (raw/ + wiki/) that Atlas extends
 - [[zettelkasten-pkm]] — foundational PKM methodology underlying the linked-article pattern
 - [[atlas-sync-architecture]] — Atlas's concrete implementation of this pattern across multiple repos
+- [[open-knowledge-format]] · [Open Knowledge Format (OKF)](open-knowledge-format.md) — the vendor-neutral standard that formalises this LLM-wiki pattern for interoperability

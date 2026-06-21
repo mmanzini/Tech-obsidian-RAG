@@ -1,3 +1,23 @@
+---
+type: synthesis
+title: AI Prototyping for Product Managers
+description: Colin Matthews' guide for non-technical PMs covers how to turn PRDs into working prototypes in minutes using cloud dev environments (v0, Bolt, Replit, Lovable), with tool selection matched to use case: v0 for polished UI, Bolt for speed, Replit for data/internal tools, Lovable for productionisable integrations.
+bucket: ai-engineering
+topic: product-management
+tags: []
+source: https://www.lennysnewsletter.com/
+resource: https://www.lennysnewsletter.com/
+timestamp: 2026-05-29T15:24:58Z
+status: active
+related:
+  - ai-engineering/product-management/pm-guide-to-evals.md
+  - ai-engineering/ai-product-development/ai-product-development-framework.md
+  - ai-engineering/ai-product-development/vibe-coding-what-people-ship.md
+  - ai-engineering/ai-organization/an-ai-glossary.md
+  - ai-engineering/claude-code-practice/zevi-arnovitz.md
+  - ai-engineering/claude-code-practice/lazar-jovanovic.md
+---
+
 # AI Prototyping for Product Managers
 
 **Source:** Colin Matthews, guest post on [Lenny's Newsletter](https://www.lennysnewsletter.com/) — *A guide to AI prototyping for product managers* (2025-01-07)
@@ -50,7 +70,7 @@ Colin Matthews' guide for non-technical PMs covers how to turn PRDs into working
 - [[pm-guide-to-evals|PM guide to evals]] — once your prototype works, how do you measure if it's any good?
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]]
 - [[ai-product-development/vibe-coding-what-people-ship|What people are vibe-coding]] — 50 real examples built with these tools
-- [[harness-engineering/_index|Harness Engineering]] — for PMs graduating into local IDEs and agent harnesses
+- [[harness-engineering/index|Harness Engineering]] — for PMs graduating into local IDEs and agent harnesses
 - [[ai-organization/an-ai-glossary|AI glossary]] — definitions for the terms above (RAG, fine-tuning, MCP, etc.)
 - [[zevi-arnovitz|Zevi Arnovitz on Lenny's Podcast]] — non-technical PMs shipping real products with Cursor + Claude Code
 - [[lazar-jovanovic|Lazar Jovanovic on Lenny's Podcast]] — 80% planning / 20% building with a Markdown PRD stack

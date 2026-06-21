@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Product Management on the AI Exponential
+description: Cat Wu (Head of Product for Claude Code at Anthropic) argues that the 41× jump in model capability over 16 months has broken the traditional PM planning horizon, requiring teams to shift to short "side quest" sprints, prototype-first validation via demos and evals, and the discipline to do the simplest thing that works rather than engineering workarounds for model limitations.
+bucket: ai-engineering
+topic: ai-organization
+tags: []
+source: https://claude.com/blog/product-management-on-the-ai-exponential
+resource: https://claude.com/blog/product-management-on-the-ai-exponential
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Product Management on the AI Exponential
 
 **Source:** [claude.com/blog/product-management-on-the-ai-exponential](https://claude.com/blog/product-management-on-the-ai-exponential) (Cat Wu, Head of Product for Claude Code at Anthropic, 2026-04-11)
@@ -41,7 +55,7 @@ Documentation-first → prototype-first. No traditional stand-ups; share demos o
 - **Pro-tip:** after you write a spec, hand it to Claude Code and see if it can build it. Even a rough prototype changes the conversation.
 - **Evals for abstract features:** for agent teams, Conner hand-crafted evals to understand when the feature works, when it doesn't, and what to fix. Measuring lets you improve.
 
-See [[spec-driven-development/_index|Spec-Driven Development]] for the other end of this — the spec as the durable artifact.
+See [[spec-driven-development/index|Spec-Driven Development]] for the other end of this — the spec as the durable artifact.
 
 ### 3. Revisit features with every new model
 

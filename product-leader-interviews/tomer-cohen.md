@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Tomer Cohen — AI-First PMs Control the Pedals
+description: Tomer Cohen (CPO, LinkedIn) argues that AI-era PMs are still the drivers controlling the pedals — the failure mode is PMs who let the model dictate the roadmap rather than treating it as horsepower in service of a clear destination.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: Lenny's Podcast, Tomer Cohen (CPO, LinkedIn
+resource:
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Tomer Cohen — AI-First PMs Control the Pedals
 
 **Source:** Lenny's Podcast, Tomer Cohen (CPO, LinkedIn)
@@ -17,7 +31,7 @@ Tomer Cohen (CPO, LinkedIn) argues that AI-era PMs are still the drivers control
 - LinkedIn's feed was stuck. Tomer's fix: carve out a 2M-member segment and give a dedicated team end-to-end control over that segment's feed experience.
 - Small cohort, fast iteration, no cross-product dependencies — classic skunkworks played inside a platform.
 - Once the carve-out proved new patterns at scale, they rolled back out to 100%.
-- Connects to [[ai-organization/_index|AI & Organisation Design]] on segment-scoped teams.
+- Connects to [[ai-organization/index|AI & Organisation Design]] on segment-scoped teams.
 
 ## AI-first mindset — PMs control the pedals
 - The metaphor: AI is the car, the PM is the driver. The pedals (gas, brake, steering) are the same job they've always been — just responding to different machinery underneath.
@@ -53,5 +67,5 @@ Tomer Cohen (CPO, LinkedIn) argues that AI-era PMs are still the drivers control
 - Diverge broadly before converging on the 2–3 AI bets that actually move metrics.
 
 ## Related
-- [[ai-product-development/_index|AI Product Development]] — AI-first framing, diverge/converge
-- [[ai-organization/_index|AI & Organisation Design]] — segment carve-outs, AI Academy
+- [[ai-product-development/index|AI Product Development]] — AI-first framing, diverge/converge
+- [[ai-organization/index|AI & Organisation Design]] — segment carve-outs, AI Academy

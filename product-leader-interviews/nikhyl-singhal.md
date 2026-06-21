@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Nikhyl Singhal — Smiling exhaustion and the PM renaissance
+description: Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneously in a renaissance and a crisis depending on which half you're in: PMs who joined because they love building are having the best year of their careers, while those who joined for pay and prestige face existential risk as large companies lay off far more than they rehire (with rehires being entirely AI-native).
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: https://www.youtube.com/watch?v=yUohoaC8_Hs
+resource: https://www.youtube.com/watch?v=yUohoaC8_Hs
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Nikhyl Singhal — Smiling exhaustion and the PM renaissance
 
 **Source:** [Why half of product managers are in trouble](https://www.youtube.com/watch?v=yUohoaC8_Hs)
@@ -24,7 +38,7 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 - Two kinds of PMs: those who joined because they love building, those who joined because it pays well
 - Roughly half the industry is in the second bucket — facing existential risk
 - If sitting down and making something great doesn't energise you, the industry is moving away from you
-- See [[product-management/_index|product management]] and [[ai-organization/_index|AI & organisation]]
+- See [[product-management/index|product management]] and [[ai-organization/index|AI & organisation]]
 
 ## Tens of thousands out, thousands back in — all AI-first
 - Prediction: large companies lay off far more than they rehire (e.g., 30K out, 8K back)
@@ -41,7 +55,7 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 - Who leads the transformation? People with builder judgment — often PMs
 - Counter-flow: designers, data scientists, and engineers move into product roles
 - Titles will collapse; function lines blur
-- See [[ai-organization/_index|AI & organisation]] for structural implications (way-of-working bucket covers team rituals)
+- See [[ai-organization/index|AI & organisation]] for structural implications (way-of-working bucket covers team rituals)
 
 ## Compensation and opportunity at an all-time high (for the right PMs)
 - Strongest builders have more offers than ever
@@ -56,5 +70,5 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 - PMs will diffuse into every industry as agents of transformation
 
 ## Related
-- [[ai-organization/_index|AI & Organisation Design]]
-- [[ai-product-development/_index|AI Product Development]]
+- [[ai-organization/index|AI & Organisation Design]]
+- [[ai-product-development/index|AI Product Development]]

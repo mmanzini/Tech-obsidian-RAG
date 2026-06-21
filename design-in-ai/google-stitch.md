@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Google Stitch
+description: Google Stitch is an AI-native design canvas that generates high-fidelity UI from text, voice, or visual references in ~45 seconds per screen, with native Design.md integration as its most distinctive feature — encode a design system once and all subsequent generations inherit those constraints.
+bucket: ai-engineering
+topic: design-in-ai
+tags: []
+source: https://stitch.withgoogle.com
+resource: https://stitch.withgoogle.com
+timestamp: 2026-05-09T07:23:23Z
+status: active
+related: []
+---
+
 # Google Stitch
 
 **Source:** [stitch.withgoogle.com](https://stitch.withgoogle.com) (Google Labs, 2025–2026)

@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Best Practices for Claude Opus 4.7 with Claude Code
+description: Opus 4.7 is Anthropic's strongest generally available model for coding and agentic tasks.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code
+resource: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Best Practices for Claude Opus 4.7 with Claude Code
 
 **Source:** [Anthropic — Best practices for using Claude Opus 4.7 with Claude Code](https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code) (April 2026)

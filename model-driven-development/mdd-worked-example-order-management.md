@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: MDD — Worked Example: order-management (CIM → PIM → PSM → code)
+description: One small system — a minimal order-management service — modelled top to bottom and generated to a Java/Spring + PostgreSQL platform, to show the same meaning descending through every MDD layer.
+bucket: ai-engineering
+topic: model-driven-development
+tags: []
+source: ../../../Resources/documents/frameworks/Model-driven-development/Examples/order-management/
+resource:
+timestamp: 2026-06-02T18:26:22Z
+status: active
+related:
+  - ai-engineering/model-driven-development/mdd-authoring-workflow.md
+  - ai-engineering/model-driven-development/mdd-overview.md
+  - ai-engineering/model-driven-development/mdd-classic-vs-modern.md
+---
+
 # MDD — Worked Example: order-management (CIM → PIM → PSM → code)
 
 **Source:** [Model-Driven Development Standard — Examples/order-management](../../../Resources/documents/frameworks/Model-driven-development/Examples/order-management/)

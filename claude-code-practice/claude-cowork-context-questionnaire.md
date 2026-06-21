@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: Claude Cowork Context Questionnaire — Business & Personal Brain Dump
+description: A two-part structured questionnaire used during Claude Cowork onboarding to capture the rich context that makes the AI operating system effective.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: ../../../Resources/documents/templates/Business__Personal_Context_Questionnaire.md
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/claude-code-practice/claude-cowork-full-guide.md
+  - ai-engineering/claude-code-practice/claude-cowork-setup-guide.md
+  - ai-engineering/harness-engineering/harnessing-claude-intelligence.md
+---
+
 # Claude Cowork Context Questionnaire — Business & Personal Brain Dump
 
 **Source:** [Business__Personal_Context_Questionnaire.md](../../../Resources/documents/templates/Business__Personal_Context_Questionnaire.md)

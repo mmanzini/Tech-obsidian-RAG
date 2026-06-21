@@ -10,5 +10,5 @@ IDE-level features and configuration surfaces for AI-assisted development — fo
 
 ## Related Topics
 
-- [[harness-engineering/_index|Harness Engineering]] — broader harness configuration (CLAUDE.md, MCP, skills, sub-agents) that overlaps with steering and hooks
-- [[agent-workflows/_index|Agent Workflows]] — structured patterns like RPI that Kiro Specs partially automates
+- [[harness-engineering/index|Harness Engineering]] — broader harness configuration (CLAUDE.md, MCP, skills, sub-agents) that overlaps with steering and hooks
+- [[agent-workflows/index|Agent Workflows]] — structured patterns like RPI that Kiro Specs partially automates

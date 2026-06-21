@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Bret Taylor — The agent is the new app
+description: Bret Taylor (co-founder Sierra, inventor of the Like button, ex-OpenAI chair) argues that agents are replacing apps as the primary interface layer, and that most founders should build in the applied-AI tier rather than competing with frontier labs.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: https://www.youtube.com/watch?v=qImgGtnNbx0
+resource: https://www.youtube.com/watch?v=qImgGtnNbx0
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Bret Taylor — The agent is the new app
 
 **Source:** [He saved OpenAI, invented the "Like" button, and built Google Maps](https://www.youtube.com/watch?v=qImgGtnNbx0)
@@ -44,7 +58,7 @@ Bret Taylor (co-founder Sierra, inventor of the Like button, ex-OpenAI chair) ar
 - Taylor's career heuristic: ask "most impactful thing *today*", compress complex actions into one affordance
 
 ## Related
-- [[ai-product-development/_index|AI Product Development]]
-- [[agent-architecture/_index|Agent Architecture]]
-- [[agent-workflows/_index|Agent Workflows]]
-- [[ai-organization/_index|AI & Organisation Design]]
+- [[ai-product-development/index|AI Product Development]]
+- [[agent-architecture/index|Agent Architecture]]
+- [[agent-workflows/index|Agent Workflows]]
+- [[ai-organization/index|AI & Organisation Design]]

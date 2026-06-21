@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: LeCun: JEPA and World Models — The Case Against LLMs for Agentic AI
+description: Yann LeCun has raised approximately $1B to pursue JEPA (Joint Embedding Predictive Architecture) as an alternative to large language models.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: https://www.youtube.com/watch?v=kYkIdXwW2AE
+resource: https://www.youtube.com/watch?v=kYkIdXwW2AE
+timestamp: 2026-06-02T13:33:31Z
+status: active
+related:
+  - ai-engineering/agent-architecture/pinecone-nexus-knowledge-engine.md
+  - ai-engineering/agent-architecture/twelve-factor-agents.md
+  - ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
+---
+
 # LeCun: JEPA and World Models — The Case Against LLMs for Agentic AI
 
 **Source:** [Yann LeCun's $1B Bet Against LLMs](https://www.youtube.com/watch?v=kYkIdXwW2AE) (Part 1) · [Part 2](https://www.youtube.com/watch?v=v_jDvpEGTIg)

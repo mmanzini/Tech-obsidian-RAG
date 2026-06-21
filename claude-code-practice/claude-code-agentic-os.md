@@ -1,3 +1,26 @@
+---
+type: synthesis
+title: Claude Code Agentic OS — Three-Gap Framework
+description: The "Agentic OS" is a mental model and folder structure layered around Claude Code that closes three gaps preventing most setups from reaching their potential: memory (no cross-session recall), consistency (skills that produce different outcomes each time), and access (terminal intimidates non-technical users).
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: YouTube — Chase AI, "Claude Code Agentic OS = UNSTOPPABLE"
+resource:
+timestamp: 2026-05-25T00:17:36Z
+status: active
+related:
+  - ai-engineering/claude-code-practice/claude-cowork-full-guide.md
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/harness-engineering/skill-creator-evals.md
+  - ai-engineering/claude-code-practice/claude-code-routines.md
+  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+  - ai-engineering/harness-engineering/nlh-meta-harness-harness-science.md
+  - ai-engineering/claude-code-practice/claude-code-structured-memory.md
+  - ai-engineering/harness-engineering/agentic-os-eight-components.md
+  - ai-engineering/claude-code-practice/claude-code-large-codebases.md
+---
+
 # Claude Code Agentic OS — Three-Gap Framework
 
 **Source:** YouTube — Chase AI, "Claude Code Agentic OS = UNSTOPPABLE"

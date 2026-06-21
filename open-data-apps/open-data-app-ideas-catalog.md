@@ -1,3 +1,18 @@
+---
+type: synthesis
+title: Open Data App Ideas Catalog
+description: A prioritised catalog of 20 open-data app opportunities scored by feasibility × revenue potential, with the top tier dominated by NL-specific apps (Kenteken Checker, WOZ Value Checker, BAG Address Info) where the Dutch open-data ecosystem is unusually mature and paid incumbents exist as proof of demand.
+bucket: ai-engineering
+topic: open-data-apps
+tags: []
+source: synthesis — open-data-apps corpus
+resource:
+timestamp: 2026-05-09T07:23:23Z
+status: active
+related:
+  - ai-engineering/open-data-apps/open-data-app-business-overview.md
+---
+
 # Open Data App Ideas Catalog
 
 **Source:** (synthesis — open-data-apps corpus)

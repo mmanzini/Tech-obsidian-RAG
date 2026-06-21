@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: HumanLayer and Human-in-the-Loop
+description: HumanLayer is the originator of RPI and the ACE (Advanced Context Engineering) framework, founded by Dexter Horthy in 2024 (YC X25).
+bucket: ai-engineering
+topic: rpi-methodology
+tags: []
+source: self-authored
+resource:
+timestamp: 2026-04-29T21:54:50Z
+status: active
+related: []
+---
+
 # HumanLayer and Human-in-the-Loop
 
 **Source:** (self-authored)

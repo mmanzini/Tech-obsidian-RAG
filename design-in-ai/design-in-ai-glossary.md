@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Glossary
+description: A reference glossary defining the key terms used across the Design in AI topic, including Design.md, Design Tokens, Greybox Module, SDD, MCP, SKILL.md, and related tools (TypeUI, Kiro, Stitch, Style Dictionary).
+bucket: ai-engineering
+topic: design-in-ai
+tags: []
+source: self-authored
+resource:
+timestamp: 2026-05-09T07:03:05Z
+status: active
+related: []
+---
+
 # Glossary
 
 **Source:** (self-authored)

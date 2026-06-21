@@ -1,3 +1,19 @@
+---
+type: synthesis
+title: Product Manager Is an Unfair Role — So Work Unfairly
+description: Tal Raviv argues that the PM role is structurally unfair — PMs must ship without hiring/firing authority while absorbing org dysfunction — and that AI's "great flattening" makes this worse, requiring PMs to build private operating systems to survive.
+bucket: ai-engineering
+topic: product-management
+tags: []
+source: https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role-so-work-unfairly
+resource: https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role-so-work-unfairly
+timestamp: 2026-05-25T00:17:36Z
+status: active
+related:
+  - ai-engineering/product-management/pm-second-brain-chatgpt.md
+  - product-management/pm-craft/essential-reading-part-1.md
+---
+
 # Product Manager Is an Unfair Role — So Work Unfairly
 
 **Source:** Tal Raviv (early PM at Patreon, Riverside, Wix, AppsFlyer), guest post on [Lenny's Newsletter](https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role-so-work-unfairly) (2024-11-12)
@@ -73,6 +89,6 @@ Gloria Mark ("Attention Span"): "*When you can't psychologically detach from wor
 ## Related
 
 - [[pm-second-brain-chatgpt|PM second brain with ChatGPT]] — the AI copilot end of Tal's advice
-- [[essential-reading-part-1|Essential reading for product builders]] — includes Paul Graham's *Maker's/Manager's schedule*
-- [[_index|Product Management]]
-- [[_index|Product Management (AI-bound)]] — AI-accelerated PM craft
+- [Essential reading for product builders](../../product-management/pm-craft/essential-reading-part-1.md) — includes Paul Graham's *Maker's/Manager's schedule* (cross-bucket: relative link only)
+- [[index|Product Management]]
+- [[index|Product Management (AI-bound)]] — AI-accelerated PM craft

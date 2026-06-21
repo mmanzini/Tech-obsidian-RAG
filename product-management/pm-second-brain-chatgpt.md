@@ -1,3 +1,24 @@
+---
+type: synthesis
+title: Build Your PM Second Brain with ChatGPT
+description: Amir Klein describes how loading a ChatGPT Project with all the context fragments a PM carries (PRDs, Slack exports, research transcripts, decks as PDFs) transforms it into an instantaneous librarian plus associate PM — surfacing key insights and generating tailored communications across five audiences from a single word-dump.
+bucket: ai-engineering
+topic: product-management
+tags: []
+source: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
+resource: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
+timestamp: 2026-05-29T15:24:58Z
+status: active
+related:
+  - ai-engineering/product-management/ai-prototyping-for-pms.md
+  - ai-engineering/product-management/pm-guide-to-evals.md
+  - ai-engineering/product-management/unfair-pm-role.md
+  - ai-engineering/ai-organization/ai-fluency-curriculum.md
+  - ai-engineering/claude-code-practice/use-claude-code-more.md
+  - ai-engineering/claude-code-practice/zevi-arnovitz.md
+  - ai-engineering/claude-code-practice/lazar-jovanovic.md
+---
+
 # Build Your PM Second Brain with ChatGPT
 
 **Source:** Amir Klein (PM, monday.com), guest post on [Lenny's Newsletter](https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt) (2025-12-16)
@@ -32,7 +53,7 @@ Example Klein used: "*sharp, smart, fun, not always agreeing... pro at product m
 ### 3. Let it cook
 Three recurring workflows Klein uses:
 - **Sign-up forms / surveys.** Project knows the initiative; it drafts 2–3 concise questions that gauge expectation alignment.
-- **Prototypes.** "Write me a [[ai-product-development/_index|Lovable]] prompt for this." Drop in Figma screenshots. Copy the output into Lovable. Working prototype in 10 minutes.
+- **Prototypes.** "Write me a [[ai-product-development/index|Lovable]] prompt for this." Drop in Figma screenshots. Copy the output into Lovable. Working prototype in 10 minutes.
 - **Tailored comms.** One initiative, five audiences (marketing blurb, QBR 3-sentence, sales enablement deck, user-research script, leadership update). The "mental reload tax" disappears — word-dump once, generate all five.
 
 ## The mental model — context is the new interface
@@ -68,4 +89,4 @@ Principles are tool-agnostic: instructions, files, iterate.
 - [[use-claude-code-more|Everyone should be using Claude Code more]]
 - [[zevi-arnovitz|Zevi Arnovitz]] — non-technical PMs shipping real products; multi-model peer review
 - [[lazar-jovanovic|Lazar Jovanovic]] — Markdown PRD stack as externalised context
-- [[_index|Product Management]]
+- [[index|Product Management]]

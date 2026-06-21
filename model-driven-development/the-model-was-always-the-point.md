@@ -1,3 +1,19 @@
+---
+type: synthesis
+title: The Model Was Always the Point — MDD in the Age of AI
+description: Max's opinion essay arguing that AI rehabilitates model-driven development by fixing the failure that sank it, while leaving intact the part worth keeping.
+bucket: ai-engineering
+topic: model-driven-development
+tags: []
+source: ../../../Resources/Projects/articles-and-essays/002-model-driven-development-in-the-age-of-ai/002-model-driven-development-in-the-age-of-ai.md
+resource:
+timestamp: 2026-06-02T13:33:31Z
+status: active
+related:
+  - ai-engineering/model-driven-development/mdd-overview.md
+  - ai-engineering/model-driven-development/mdd-classic-vs-modern.md
+---
+
 # The Model Was Always the Point — MDD in the Age of AI
 
 **Source:** [002-model-driven-development-in-the-age-of-ai.md](../../../Resources/Projects/articles-and-essays/002-model-driven-development-in-the-age-of-ai/002-model-driven-development-in-the-age-of-ai.md)
@@ -55,4 +71,4 @@ Splitting the layers this way *resolves* the trust problem rather than ducking i
 
 - [[mdd-overview|MDD — Principles, Abstraction Layers, and Workflow]] — the Standard this essay is a companion to: CIM/PIM/PSM stack, the ten principles, model-to-code workflow
 - [[mdd-classic-vs-modern|MDD — Classic MDA vs Modern Practice]] — the classic-to-modern spectrum the essay builds its argument on
-- [[../spec-driven-development/_index|Spec-Driven Development]] — the SDD cousin the essay distinguishes MDD from
+- [[../spec-driven-development/index|Spec-Driven Development]] — the SDD cousin the essay distinguishes MDD from

@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Claude Code Routines
+description: Routines are saved Claude Code configurations that run autonomously on Anthropic-managed cloud infrastructure — no local machine required.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://code.claude.com/docs/en/routines
+resource: https://code.claude.com/docs/en/routines
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Claude Code Routines
 
 **Source:** [Anthropic — Automate work with routines](https://code.claude.com/docs/en/routines) (2026, research preview)

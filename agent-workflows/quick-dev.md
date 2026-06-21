@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Quick Dev
+description: Quick Dev is a BMad workflow designed to **minimize human-in-the-loop turns** without sacrificing output quality.
+bucket: ai-engineering
+topic: agent-workflows
+tags: []
+source: https://docs.bmad-method.org/explanation/quick-dev/
+resource: https://docs.bmad-method.org/explanation/quick-dev/
+timestamp: 2026-04-29T21:24:51Z
+status: active
+related: []
+---
+
 # Quick Dev
 
 **Source:** [BMad Method docs](https://docs.bmad-method.org/explanation/quick-dev/)

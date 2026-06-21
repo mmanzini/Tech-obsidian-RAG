@@ -1,3 +1,22 @@
+---
+type: synthesis
+title: Claude Code in Large Codebases — Best Practices for Enterprise Scale
+description: Anthropic's "Claude Code at scale" series, based on observed patterns from deployments in multi-million-line monorepos, legacy systems, and distributed microservice architectures.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
+resource: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
+timestamp: 2026-05-25T00:17:36Z
+status: active
+related:
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
+  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+  - ai-engineering/harness-engineering/deep-modules-codebase-for-ai.md
+  - ai-engineering/harness-engineering/agent-view-multi-agent-management.md
+---
+
 # Claude Code in Large Codebases — Best Practices for Enterprise Scale
 
 **Source:** [How Claude Code works in large codebases: Best practices and where to start](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)

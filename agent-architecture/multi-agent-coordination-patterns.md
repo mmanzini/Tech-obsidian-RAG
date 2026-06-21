@@ -1,3 +1,22 @@
+---
+type: synthesis
+title: Multi-Agent Coordination Patterns
+description: Anthropic identifies five canonical multi-agent coordination patterns — Generator-Verifier, Orchestrator-Subagent, Agent Teams, Message Bus, and Shared State — each suited to different problem structures.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: https://claude.com/blog/multi-agent-coordination-patterns
+resource: https://claude.com/blog/multi-agent-coordination-patterns
+timestamp: 2026-05-09T07:03:05Z
+status: active
+related:
+  - ai-engineering/agent-architecture/twelve-factor-agents.md
+  - ai-engineering/agent-architecture/seeing-like-an-agent.md
+  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
+  - ai-engineering/agent-workflows/agentic-engineering-approaches-compared.md
+  - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+---
+
 # Multi-Agent Coordination Patterns
 
 Five canonical coordination patterns for multi-agent systems, with decision criteria for choosing between them.

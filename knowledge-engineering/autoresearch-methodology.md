@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Autoresearch — Autonomous AI Research Methodology
+description: Autoresearch is an Andrej Karpathy project that turns a single-GPU LLM training setup into an autonomous research organism: an AI agent iterates on `train.py` overnight — modifying architecture, hyperparameters, and optimizer, running a fixed 5-minute training budget, measuring `val_bpb`, and keeping or discarding each experiment.
+bucket: ai-engineering
+topic: knowledge-engineering
+tags: []
+source: ../../../Resources/documents/frameworks/autoresearch-master/README.md
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/harness-engineering/nlh-meta-harness-harness-science.md
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+  - ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
+---
+
 # Autoresearch — Autonomous AI Research Methodology
 
 **Source:** [autoresearch README](../../../Resources/documents/frameworks/autoresearch-master/README.md), [program.md](../../../Resources/documents/frameworks/autoresearch-master/program.md)

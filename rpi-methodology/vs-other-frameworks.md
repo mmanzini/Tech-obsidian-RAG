@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: RPI vs Other Frameworks
+description: RPI is the accessible entry point to structured agentic workflows — low adoption cost, tool-agnostic, optimised for brownfield refactoring on solo or small teams.
+bucket: ai-engineering
+topic: rpi-methodology
+tags: []
+source: self-authored
+resource:
+timestamp: 2026-04-29T21:54:50Z
+status: active
+related: []
+---
+
 # RPI vs Other Frameworks
 
 **Source:** (self-authored)
@@ -18,7 +32,7 @@ RPI is **a lightweight, immediate entry point** to structured agentic workflows.
 | **Quick Dev** | Velocity with safety | 4 | High-switching teams | Fast iteration on trusted work |
 | **Vibe Coding** | Exploration | Unstructured | Individuals prototyping | Learning, ideation, throwaway |
 
-## RPI vs [[spec-driven-development/_index|SDD]]
+## RPI vs [[spec-driven-development/index|SDD]]
 
 | Dimension | RPI | SDD |
 |---|---|---|
@@ -187,7 +201,7 @@ RPI trades comprehensiveness for accessibility. If you need immediate results on
 
 ## See Also
 
-- [[spec-driven-development/_index|SDD topic folder]] — the broader standard
+- [[spec-driven-development/index|SDD topic folder]] — the broader standard
 - [[quick-dev|Quick Dev]] — velocity-optimised alternative
 - [[adversarial-review|Adversarial Review]] — verification technique complementary to RPI
 - [[effective-harnesses-long-running|Effective Harnesses for Long-Running Agents]] — two-agent pattern

@@ -1,3 +1,24 @@
+---
+type: synthesis
+title: Claude Cowork — Full Practical Guide
+description: Claude Cowork is Claude's desktop agent interface for non-technical knowledge workers, providing the same underlying capabilities as Claude Code but with a more accessible UI, built-in connectors, and collaboration features for Pro/Team/Enterprise accounts.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: YouTube — Ben AI, "Claude Cowork Full Course (2+ Hours)"
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/harness-engineering/skill-creator-evals.md
+  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
+  - ai-engineering/claude-code-practice/claude-code-routines.md
+  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+  - ai-engineering/claude-code-practice/claude-cowork-context-questionnaire.md
+  - ai-engineering/claude-code-practice/claude-cowork-setup-guide.md
+---
+
 # Claude Cowork — Full Practical Guide
 
 **Source:** YouTube — Ben AI, "Claude Cowork Full Course (2+ Hours)"
@@ -188,7 +209,7 @@ Scaling context across a team:
 
 ## Related
 
-- [[harness-engineering/_index|Harness Engineering]] — broader harness design
+- [[harness-engineering/index|Harness Engineering]] — broader harness design
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — Claude Code skill building patterns
 - [[skill-creator-evals|Improving Skill-Creator — Test, Measure, Refine Skills]] — eval methodology deep-dive
 - [[subagents-in-claude-code|How and When to Use Subagents in Claude Code]] — sub-agent decision framework

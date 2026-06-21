@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: Anthropic Growth — Amol Avasare Takeaways
+description: Amol Avasare, Head of Growth at Anthropic, describes how Claude Code has created a 3–4x engineering productivity multiplier that has outpaced PM and design capacity — forcing Anthropic to hire more PMs and deputise product-minded engineers for short-cycle work.
+bucket: ai-engineering
+topic: ai-organization
+tags: []
+source: https://www.lennysnewsletter.com/
+resource: https://www.lennysnewsletter.com/
+timestamp: 2026-05-09T07:23:23Z
+status: active
+related:
+  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+  - ai-engineering/ai-organization/product-job-market-2026.md
+---
+
 # Anthropic Growth — Amol Avasare Takeaways
 
 **Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (April 2026) — conversation with Amol Avasare, Head of Growth at Anthropic

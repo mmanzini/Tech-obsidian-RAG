@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Getting Started
+description: Minimal setup for RPI requires only an AI assistant, a `thoughts/` folder in the project root, and basic codebase familiarity.
+bucket: ai-engineering
+topic: rpi-methodology
+tags: []
+source: self-authored
+resource:
+timestamp: 2026-04-29T21:54:50Z
+status: active
+related: []
+---
+
 # Getting Started
 
 **Source:** (self-authored)

@@ -1,3 +1,18 @@
+---
+type: synthesis
+title: Constitutional AI — Overview
+description: CAI addresses the core tension in RLHF-based alignment — that optimising for harmlessness produces evasive models and requires expensive human labelling — by replacing human harmlessness annotations with AI feedback guided by explicit natural-language principles.
+bucket: ai-engineering
+topic: constitutional-ai
+tags: []
+source: https://arxiv.org/abs/2212.08073
+resource: https://arxiv.org/abs/2212.08073
+timestamp: 2026-05-09T07:03:05Z
+status: active
+related:
+  - ai-engineering/constitutional-ai/claude-constitution-2026.md
+---
+
 # Constitutional AI — Overview
 
 The Constitutional AI (CAI) method trains harmless-but-helpful AI assistants using AI feedback instead of human harmlessness labels. A small set of natural-language principles (the "constitution") replaces tens of thousands of human preference annotations.
@@ -60,5 +75,5 @@ Result: "RL from AI Feedback" (RLAIF) — harmlessness training with zero human 
 ## Related
 
 - [[claude-constitution-2026|Claude's Constitution (2026)]] — how the constitutional approach evolved from principles list to holistic document
-- [[agent-architecture/_index|Agent Architecture]] — patterns for building agents grounded in these values
-- [[ai-security/_index|AI Security]] — defensive strategies relevant to safely deploying AI systems
+- [[agent-architecture/index|Agent Architecture]] — patterns for building agents grounded in these values
+- [[ai-security/index|AI Security]] — defensive strategies relevant to safely deploying AI systems

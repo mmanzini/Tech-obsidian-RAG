@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: Execution contracts for headless skill runs
+description: Patterns from making the Atlas dashboard-refresh pipeline run reliably as a scheduled headless Claude Code job: project hooks interfere with automation, and the fix is an inline "execution contract" in the skill itself rather than hook configuration (source: session-2026-06-11-1300.md).
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: session capture 2026-06-11 (Dashboard AI News / dashboard-refresh work
+resource:
+timestamp: 2026-06-11T20:51:27Z
+status: active
+related:
+  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/harness-engineering/excalidraw-plugin-external-edit-gotcha.md
+---
+
 # Execution contracts for headless skill runs
 
 **Source:** session capture 2026-06-11 (Dashboard AI News / dashboard-refresh work)

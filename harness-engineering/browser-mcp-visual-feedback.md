@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Browser MCP — Visual Feedback Loops for Frontend AI
+description: AI agents excel at backend development because the feedback loop is fully textual, but struggle with frontend work because they cannot see the UI they produce.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://www.youtube.com/watch?v=pSritFeoYFo
+resource: https://www.youtube.com/watch?v=pSritFeoYFo
+timestamp: 2026-05-09T07:03:05Z
+status: active
+related: []
+---
+
 # Browser MCP — Visual Feedback Loops for Frontend AI
 
 AI coding agents are better at backend than frontend because backend feedback loops are entirely text-based (tests, linting, type checking), while frontend development requires visual feedback. Browser MCP servers close this gap by giving agents eyes.
@@ -70,7 +84,7 @@ Visual feedback loops make autonomous ("AFK") AI coding dramatically more effect
 - **[[skill-issue-harness-engineering|Harness Engineering]]** — Browser MCP is one more tool in the harness alongside CLAUDE.md, skills, hooks
 - **[[hooks-for-deterministic-cli-enforcement|Hooks]]** — Pre-commit hooks provide text-based frontend checks; browser MCP adds the visual layer
 - **[[deep-modules-codebase-for-ai|Deep Modules]]** — Well-structured components are easier for agents to modify and visually verify
-- **[[design-in-ai/_index|Design in AI]]** — Design.md provides visual constraints; browser MCP lets agents verify they followed them
+- **[[design-in-ai/index|Design in AI]]** — Design.md provides visual constraints; browser MCP lets agents verify they followed them
 
 ## Key Takeaways
 

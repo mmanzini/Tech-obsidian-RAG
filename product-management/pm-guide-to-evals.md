@@ -1,3 +1,24 @@
+---
+type: synthesis
+title: A PM's Complete Guide to Evals
+description: Aman Khan's guide positions evals — structured quality measurement of AI systems — as the defining skill for AI PMs, arguing that prompts make headlines but evals decide whether a product thrives or dies.
+bucket: ai-engineering
+topic: product-management
+tags: []
+source: https://www.lennysnewsletter.com/
+resource: https://www.lennysnewsletter.com/
+timestamp: 2026-05-09T06:59:45Z
+status: active
+related:
+  - ai-engineering/product-management/ai-prototyping-for-pms.md
+  - ai-engineering/ai-organization/an-ai-glossary.md
+  - ai-engineering/harness-engineering/skill-creator-evals.md
+  - ai-engineering/ai-product-development/ai-product-development-framework.md
+  - ai-engineering/agent-workflows/hamel-husain-shreya-shankar.md
+  - ai-engineering/agent-workflows/brendan-foody.md
+  - ai-engineering/agent-architecture/aishwarya-reganti-kiriti-badam.md
+---
+
 # A PM's Complete Guide to Evals
 
 **Source:** Aman Khan (Director of Product at Arize AI), guest post on [Lenny's Newsletter](https://www.lennysnewsletter.com/) — *Beyond vibe checks* (2025-04-08)

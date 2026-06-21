@@ -1,3 +1,26 @@
+---
+type: synthesis
+title: Cat Wu — Shipping Faster than Anyone Else at Anthropic
+description: Cat Wu (Head of Product, Claude Code & Cowork, Anthropic) argues that AI has compressed feature timelines from six months to one week, fundamentally reframing the PM's job as minimizing the distance from idea to user rather than coordinating multi-quarter roadmaps.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: Lenny's Podcast, Cat Wu (Head of Product, Claude Code & Cowork, Anthropic
+resource:
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related:
+  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+  - ai-engineering/ai-organization/product-management-ai-exponential.md
+  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
+  - ai-engineering/ai-organization/openclaw-personal-agent-team.md
+  - ai-engineering/claude-code-practice/sherwin-wu.md
+  - ai-engineering/agent-workflows/hamel-husain-shreya-shankar.md
+  - ai-engineering/product-leader-interviews/nikhyl-singhal.md
+  - ai-engineering/product-leader-interviews/nick-turley.md
+  - ai-engineering/agent-architecture/chip-huyen.md
+---
+
 # Cat Wu — Shipping Faster than Anyone Else at Anthropic
 
 **Source:** Lenny's Podcast, Cat Wu (Head of Product, Claude Code & Cowork, Anthropic)
@@ -54,7 +77,7 @@ What replaces the PRD:
 - Identify your **top-five trusted taste-testers.** Not all feedback is equally qualified; find the people who can articulate what makes a model+harness combo good.
 - **Evals are underappreciated.** You don't need hundreds — 10 great evals quantify the goal and surface gaps. Cat sees this as "the future of PM work" because evals concretely define success.
 - Internally Amanda (Claude's character) is the role model — she molds character despite the task being even more ambiguous than coding.
-- See [[hamel-husain-shreya-shankar|Hamel Husain & Shreya Shankar]] for the discipline of eval/trace-driven PM work and [[ai-product-development/_index|AI Product Development]] for the frameworks.
+- See [[hamel-husain-shreya-shankar|Hamel Husain & Shreya Shankar]] for the discipline of eval/trace-driven PM work and [[ai-product-development/index|AI Product Development]] for the frameworks.
 
 ## Mission > product line
 
@@ -102,7 +125,7 @@ What replaces the PRD:
 - Building block = **single task done well** (clear prompt → consistent acceptable output).
 - 2025 saw multi-coding (6 tasks at a time); the extrapolation is 50–100+ agents per user.
 - Implications: agents will run remotely (laptop RAM is the limit), the interface becomes "which tasks need my attention," verification becomes the bottleneck, and feedback must compound (the model never makes the same mistake twice).
-- Connects to [[harness-engineering/_index|Harness Engineering]] (multi-agent runtime) and [[scott-wu|Scott Wu]] / [[bret-taylor|Bret Taylor]] on the agent-as-teammate progression.
+- Connects to [[harness-engineering/index|Harness Engineering]] (multi-agent runtime) and [[scott-wu|Scott Wu]] / [[bret-taylor|Bret Taylor]] on the agent-as-teammate progression.
 
 ## Advice to PMs entering the AI era
 
@@ -128,7 +151,7 @@ What replaces the PRD:
 
 ## Related
 
-- [[ai-organization/claude-code-productivity-takeaways|Boris Cherny]] (in [[ai-organization/_index|AI & Organisation Design]]) — Cat's tech-lead counterpart on the same team
+- [[ai-organization/claude-code-productivity-takeaways|Boris Cherny]] (in [[ai-organization/index|AI & Organisation Design]]) — Cat's tech-lead counterpart on the same team
 - [[ai-organization/product-management-ai-exponential|Product Management on the AI Exponential]] — Cat Wu's companion Anthropic blog post covering the same themes
 - [[ai-organization/anthropic-growth-takeaways|Amol Avasare]] — opposite lever (more PMs vs more product-minded engineers)
 - [[ai-organization/openclaw-personal-agent-team|Claire Vo]] — third-party-tool perspective on the OpenClaude shift
@@ -137,5 +160,5 @@ What replaces the PRD:
 - [[nikhyl-singhal|Nikhyl Singhal]] — PM in renaissance and crisis; "how modern are you?"
 - [[nick-turley|Nick Turley]] — leader's resting heart rate; the model is the product
 - [[chip-huyen|Chip Huyen]] — what actually improves AI apps (users, data prep, prompts)
-- [[ai-product-development/_index|AI Product Development]] — Sandbox Discovery, Modular Context, the frameworks Cat operates inside
-- [[harness-engineering/_index|Harness Engineering]] — system-prompt pruning, multi-agent runtime
+- [[ai-product-development/index|AI Product Development]] — Sandbox Discovery, Modular Context, the frameworks Cat operates inside
+- [[harness-engineering/index|Harness Engineering]] — system-prompt pruning, multi-agent runtime

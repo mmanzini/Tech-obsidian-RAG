@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Claude Code Session Management and 1M Context
+description: How you manage sessions, context, and compaction in Claude Code shapes results more than most users expect.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://claude.com/blog/using-claude-code-session-management-and-1m-context
+resource: https://claude.com/blog/using-claude-code-session-management-and-1m-context
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
+  - ai-engineering/harness-engineering/scaling-managed-agents.md
+  - ai-engineering/claude-code-practice/claude-code-quality-postmortem.md
+  - ai-engineering/harness-engineering/effective-harnesses-long-running.md
+---
+
 # Claude Code Session Management and 1M Context
 
 **Source:** [Using Claude Code: session management and 1M context](https://claude.com/blog/using-claude-code-session-management-and-1m-context)

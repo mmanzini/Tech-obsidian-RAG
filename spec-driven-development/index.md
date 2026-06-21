@@ -14,6 +14,6 @@ A tool-agnostic standard for building software with AI agents by treating the **
 
 - [[ai-dev-tools/kiro-specs|Kiro Specs]] — SDD's spec format is intentionally Kiro-compatible
 - [[agent-workflows/research-plan-implement|Research-Plan-Implement]] — Sibling phased workflow
-- [[rpi-methodology/_index|RPI Methodology]] — deep RPI reference, including the SDD vs RPI orthogonality discussion
+- [[rpi-methodology/index|RPI Methodology]] — deep RPI reference, including the SDD vs RPI orthogonality discussion
 - [[agent-architecture/twelve-factor-agents|Twelve-Factor Agents]] — Shares the "own your prompts and context" principle
 - [[harness-engineering/skill-issue-harness-engineering|Skill Issue: Harness Engineering]] — Steering documents map to SDD's persistent context

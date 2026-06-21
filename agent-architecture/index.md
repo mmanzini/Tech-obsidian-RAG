@@ -14,11 +14,12 @@ Foundational principles and design patterns for building reliable, production-gr
 - [[aishwarya-reganti-kiriti-badam|Aishwarya Reganti & Kiriti Badam on Lenny's Podcast]] — AI products are non-deterministic in input, output AND process; the CCCD loop
 - [[pinecone-nexus-knowledge-engine|Pinecone Nexus — Knowledge Engine for Agents]] — most agent failures are data failures; Knowledge Engine pre-compiles typed artifacts so agents query in one step; KRAFTBench: Nexus 68% accuracy at 22s vs RAG 41% at 38s (Pinecone, 2026)
 - [[lecun-jepa-world-models|LeCun: JEPA and World Models]] — LLMs lack world models and can't predict action consequences; JEPA (joint embedding + temporal prediction) is the right agentic AI foundation; Barlow Twins → DINO → V-JEPA 2 → VL-JEPA → LeWorldModel arc; "VLAs are doomed" (Welch Labs, 2026)
-- [[episodic-memory-agentcore|Episodic Memory for Agents — AWS Bedrock AgentCore]] — agents learn from experience (goal→actions→outcome→reflection); two-stage turn/episode extraction; intent-indexed vector store; retrieve_exemplars vs retrieve_reflections (AWS, 2026)
+- [[episodic-memory-agentcore|Episodic Memory for Agents — AWS Bedrock AgentCore]] — agents learn from experience (goal→actions→outcome→reflection); two-stage turn/episode extraction; intent-indexed vector store; retrieve_exemplars vs retrieve_reflections; τ2-bench benchmarks (AWS, 2026)
+- [[deployment-simulation|Deployment Simulation — predicting model behaviour before release]] — OpenAI forecasts deployment-time misbehaviour by regenerating real past conversations with a candidate model; 1.5× median error, sharply lower eval-awareness, extends to agentic tool settings (OpenAI, 2026)
 
 ## Related Topics
 
-- [[harness-engineering/_index|Harness Engineering]] — applying these principles to coding agent configuration
-- [[agent-workflows/_index|Agent Workflows]] — structured task patterns (RPI, Quick Dev) that embody these principles
-- [[ai-organization/_index|AI & Organisation Design]] — how agent architecture enables org-level AI coordination
-- [[rpi-methodology/_index|RPI Methodology]] — applied workflow that embodies twelve-factor principles
+- [[harness-engineering/index|Harness Engineering]] — applying these principles to coding agent configuration
+- [[agent-workflows/index|Agent Workflows]] — structured task patterns (RPI, Quick Dev) that embody these principles
+- [[ai-organization/index|AI & Organisation Design]] — how agent architecture enables org-level AI coordination
+- [[rpi-methodology/index|RPI Methodology]] — applied workflow that embodies twelve-factor principles

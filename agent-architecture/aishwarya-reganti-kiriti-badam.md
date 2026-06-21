@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Aishwarya Naresh Reganti & Kiriti Badam — Building AI Products When the System Is Non-Deterministic
+description: Aishwarya Reganti (ex-AWS) and Kiriti Badam (ex-Meta) argue that AI product development fails when teams apply deterministic-era playbooks to non-deterministic systems.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: Lenny's Podcast — AI product leaders (ex-AWS, ex-Meta
+resource:
+timestamp: 2026-05-09T06:59:45Z
+status: active
+related: []
+---
+
 # Aishwarya Naresh Reganti & Kiriti Badam — Building AI Products When the System Is Non-Deterministic
 
 **Source:** Lenny's Podcast — AI product leaders (ex-AWS, ex-Meta)
@@ -70,6 +84,6 @@ Aishwarya Reganti (ex-AWS) and Kiriti Badam (ex-Meta) argue that AI product deve
 
 ## Related
 
-- [[ai-product-development/_index|AI Product Development]]
-- [[harness-engineering/_index|Harness Engineering]]
-- [[agent-architecture/_index|Agent Architecture]]
+- [[ai-product-development/index|AI Product Development]]
+- [[harness-engineering/index|Harness Engineering]]
+- [[agent-architecture/index|Agent Architecture]]

@@ -1,3 +1,18 @@
+---
+type: synthesis
+title: Claude's Constitution (2026)
+description: Anthropic's 2026 constitution replaces a list of standalone principles with an explanatory document written primarily *for Claude*, betting that cultivating good judgment generalises to novel situations better than mechanical rule-following.
+bucket: ai-engineering
+topic: constitutional-ai
+tags: []
+source: https://www.anthropic.com/news/claude-new-constitution
+resource: https://www.anthropic.com/news/claude-new-constitution
+timestamp: 2026-05-09T07:25:39Z
+status: active
+related:
+  - ai-engineering/constitutional-ai/constitutional-ai-overview.md
+---
+
 # Claude's Constitution (2026)
 
 Anthropic's new constitution is a holistic document explaining who Claude should be, replacing the prior list of standalone principles. It is written primarily for Claude, released under CC0, and serves as the final authority on intended behaviour.
@@ -76,4 +91,4 @@ Priority is holistic, not strict: higher priorities generally dominate, but Clau
 ## Related
 
 - [[constitutional-ai-overview|Constitutional AI — Overview]] — the original CAI training method this constitution evolved from
-- [[harness-engineering/_index|Harness Engineering]] — how constitutional values translate into practical agent configuration
+- [[harness-engineering/index|Harness Engineering]] — how constitutional values translate into practical agent configuration

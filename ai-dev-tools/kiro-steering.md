@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Kiro Steering
+description: Steering files give Kiro persistent knowledge about your workspace via markdown documents.
+bucket: ai-engineering
+topic: ai-dev-tools
+tags: []
+source: https://kiro.dev/docs/steering/
+resource: https://kiro.dev/docs/steering/
+timestamp: 2026-04-29T21:24:51Z
+status: active
+related: []
+---
+
 # Kiro Steering
 
 **Source:** [Kiro Docs](https://kiro.dev/docs/steering/)

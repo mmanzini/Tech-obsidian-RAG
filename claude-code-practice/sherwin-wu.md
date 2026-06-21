@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Sherwin Wu — 100% of PRs Reviewed by Codex
+description: Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers use Codex, 100% of PRs are reviewed by Codex, and Codex users open 70% more PRs at comparable quality — the internal baseline OpenAI is using to size the shift.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: Lenny's Podcast, Sherwin Wu (Head of Engineering, OpenAI API
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Sherwin Wu — 100% of PRs Reviewed by Codex
 
 **Source:** Lenny's Podcast, Sherwin Wu (Head of Engineering, OpenAI API)
@@ -22,7 +36,7 @@ Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers u
 ## 100%-Codex code-base experiment team
 - OpenAI ran an internal team that committed to **no human-typed production code** for a period.
 - Findings: feasible for some codebases, catastrophic for others; the difference was the quality of specs/tests/conventions the agent could lean on.
-- Connects to [[spec-driven-development/_index|Spec-Driven Development]] and [[harness-engineering/_index|Harness Engineering]].
+- Connects to [[spec-driven-development/index|Spec-Driven Development]] and [[harness-engineering/index|Harness Engineering]].
 
 ## Context engineering via .md and skills files
 - The single highest-leverage activity for a team using Codex: maintain and iterate on markdown context files (CLAUDE.md / AGENTS.md equivalents) and custom skills.
@@ -38,7 +52,7 @@ Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers u
 - Sherwin revives Brooks's *surgeon team*: one principal programmer, everyone else in support roles.
 - Updated for 2026: one senior engineer + a surgical team of agents.
 - A 3-person human team running 10 agents each > a 30-person traditional team for most product work.
-- See [[ai-organization/_index|AI & Organisation Design]].
+- See [[ai-organization/index|AI & Organisation Design]].
 
 ## One-person billion-dollar startup — 2nd/3rd order effects
 - Sherwin takes seriously the one-person $1B company thesis — but the **2nd/3rd order effects** are the story.
@@ -61,9 +75,9 @@ Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers u
 - Enterprise AI has a negative-ROI problem; fix requires top-down + bottoms-up together.
 
 ## Related
-- [[harness-engineering/_index|Harness Engineering]] — .md files, skills, context engineering
-- [[agent-architecture/_index|Agent Architecture]] — Codex as reviewer, surgeon-team pattern
-- [[agent-workflows/_index|Agent Workflows]] — 100% PR review as a workflow gate
-- [[spec-driven-development/_index|Spec-Driven Development]] — what made 100%-Codex possible
-- [[ai-organization/_index|AI & Organisation Design]] — surgeon team, time allocation, top-down+bottoms-up
-- [[ai-product-development/_index|AI Product Development]] — one-person unicorn, 2nd-order effects
+- [[harness-engineering/index|Harness Engineering]] — .md files, skills, context engineering
+- [[agent-architecture/index|Agent Architecture]] — Codex as reviewer, surgeon-team pattern
+- [[agent-workflows/index|Agent Workflows]] — 100% PR review as a workflow gate
+- [[spec-driven-development/index|Spec-Driven Development]] — what made 100%-Codex possible
+- [[ai-organization/index|AI & Organisation Design]] — surgeon team, time allocation, top-down+bottoms-up
+- [[ai-product-development/index|AI Product Development]] — one-person unicorn, 2nd-order effects

@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Max Schoening — Agency, Malleable Software, and the Tiny Core
+description: Max Schoening argues that agency — not skills — is the thing that separates people who thrive in the AI era from those who fall behind.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more
+resource: https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related:
+  - ai-engineering/product-leader-interviews/cat-wu.md
+  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+  - ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
+  - ai-engineering/ai-organization/product-management-ai-exponential.md
+---
+
 # Max Schoening — Agency, Malleable Software, and the Tiny Core
 
 **Source:** [Lenny's Podcast — "AI era skills: Why cultivating agency matters more than job titles"](https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more)

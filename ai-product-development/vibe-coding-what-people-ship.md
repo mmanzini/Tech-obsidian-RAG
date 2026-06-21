@@ -1,3 +1,23 @@
+---
+type: synthesis
+title: What People Are Vibe-Coding (and Actually Using)
+description: Lenny Rachitsky's crowdsourced survey of 1,000+ people reveals that non-technical builders are shipping hyper-personalised, daily-used tools solo with AI coding tools (Cursor, Claude Code, Replit, Lovable leading) — often in a day or weekend.
+bucket: ai-engineering
+topic: ai-product-development
+tags: []
+source: https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually
+resource: https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually
+timestamp: 2026-05-29T15:24:58Z
+status: active
+related:
+  - ai-engineering/product-management/ai-prototyping-for-pms.md
+  - ai-engineering/claude-code-practice/use-claude-code-more.md
+  - ai-engineering/ai-organization/ai-fluency-curriculum.md
+  - ai-engineering/claude-code-practice/zevi-arnovitz.md
+  - ai-engineering/claude-code-practice/lazar-jovanovic.md
+  - ai-engineering/agent-architecture/simon-willison.md
+---
+
 # What People Are Vibe-Coding (and Actually Using)
 
 **Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually) (2025-07-08) — 50+ examples crowdsourced from 1,000+ replies on X / LinkedIn / Slack.
@@ -84,7 +104,7 @@ See [[ai-prototyping-for-pms|AI prototyping for PMs]] for how to pick between th
 ## Related
 
 - [[ai-prototyping-for-pms|AI prototyping for PMs]] — tool selection framework
-- [[ai-product-development/_index|AI Product Development]]
+- [[ai-product-development/index|AI Product Development]]
 - [[use-claude-code-more|Everyone should be using Claude Code more]]
 - [[ai-organization/ai-fluency-curriculum|AI fluency curriculum]]
 - [[zevi-arnovitz|Zevi Arnovitz]] — non-technical PM vibe-coding workflow (Cursor + Claude Code + /commands)

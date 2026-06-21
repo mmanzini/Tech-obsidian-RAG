@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Integrating Design with Specs — The Multi-File Ecosystem
+description: How Design.md fits alongside REQUIREMENTS.md, TASKS.md, AGENTS.md, and other specification artefacts in a multi-file AI-assisted workflow.
+bucket: ai-engineering
+topic: design-in-ai
+tags: []
+source: ../../../Resources/documents/frameworks/Design in AI/Guides/Integrating Design with Specs.md
+resource:
+timestamp: 2026-04-30T05:44:00Z
+status: active
+related:
+  - ai-engineering/design-in-ai/design-first-vs-requirements-first.md
+  - ai-engineering/design-in-ai/writing-effective-design-docs.md
+  - ai-engineering/design-in-ai/design-principles.md
+  - ai-engineering/design-in-ai/historical-context-design-tokens.md
+---
+
 # Integrating Design with Specs — The Multi-File Ecosystem
 
 **Source:** [Integrating Design with Specs.md](../../../Resources/documents/frameworks/Design in AI/Guides/Integrating Design with Specs.md)

@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: MDD — The Authoring Workflow (Adoption, Modelling, Transformations)
+description: The practitioner workflow for doing model-driven development, distilled from the Standard's eight Guides: how to adopt MDD incrementally, how to get from domain knowledge to a precise model, how to keep the PIM portable, how to generate the PSM and code, and how to build transformations that earn trust.
+bucket: ai-engineering
+topic: model-driven-development
+tags: []
+source: ../../../Resources/documents/frameworks/Model-driven-development/Guides/
+resource:
+timestamp: 2026-06-02T18:26:22Z
+status: active
+related:
+  - ai-engineering/model-driven-development/mdd-overview.md
+  - ai-engineering/model-driven-development/mdd-worked-example-order-management.md
+  - ai-engineering/model-driven-development/the-model-was-always-the-point.md
+---
+
 # MDD — The Authoring Workflow (Adoption, Modelling, Transformations)
 
 **Source:** [Model-Driven Development Standard — Guides](../../../Resources/documents/frameworks/Model-driven-development/Guides/) (8 practitioner guides)
@@ -57,4 +74,4 @@ Across every guide the invariant is the same: the generator owns its output file
 - [[mdd-overview|MDD — Principles, Abstraction Layers, and Workflow]] — the concepts this workflow operationalises
 - [[mdd-worked-example-order-management|MDD — Worked Example: order-management]] — the workflow shown end-to-end
 - [[the-model-was-always-the-point|The Model Was Always the Point]] — where AI fits (LLM for authoring, deterministic generator for execution)
-- [[../spec-driven-development/_index|Spec-Driven Development]] — sibling methodology; AI as executor, not decision-maker
+- [[../spec-driven-development/index|Spec-Driven Development]] — sibling methodology; AI as executor, not decision-maker

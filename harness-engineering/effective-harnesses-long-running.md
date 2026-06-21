@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Effective Harnesses for Long-Running Agents
+description: Long-running AI agents must work across multiple context windows, but each new session starts with no memory.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+resource: https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+timestamp: 2026-04-29T21:24:51Z
+status: active
+related: []
+---
+
 # Effective Harnesses for Long-Running Agents
 
 **Source:** [Anthropic Engineering](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) (2026)

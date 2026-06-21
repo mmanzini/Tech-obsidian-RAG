@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: An AI Glossary
+description: A concise reference covering ~20 foundational AI terms — from tokens, transformers, and LLMs through training methods (pre-training, fine-tuning, RLHF), working concepts (prompt engineering, RAG, evals, MCP), and frontier concepts (agents, vibe coding, AGI).
+bucket: ai-engineering
+topic: ai-organization
+tags: []
+source: https://www.lennysnewsletter.com/p/an-ai-glossary
+resource: https://www.lennysnewsletter.com/p/an-ai-glossary
+timestamp: 2026-04-30T06:41:32Z
+status: active
+related:
+  - ai-engineering/product-management/pm-guide-to-evals.md
+  - ai-engineering/product-management/ai-prototyping-for-pms.md
+  - ai-engineering/ai-organization/small-team-shipping.md
+---
+
 # An AI Glossary
 
 **Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/p/an-ai-glossary) (2025-06-24) — "explain-it-like-I'm-5" definitions of the ~20 most common AI terms.
@@ -63,6 +80,6 @@ A concise reference covering ~20 foundational AI terms — from tokens, transfor
 
 - [[pm-guide-to-evals|PM guide to evals]]
 - [[ai-prototyping-for-pms|AI prototyping for PMs]]
-- [[agent-architecture/_index|Agent Architecture]]
-- [[harness-engineering/_index|Harness Engineering]]
+- [[agent-architecture/index|Agent Architecture]]
+- [[harness-engineering/index|Harness Engineering]]
 - [[small-team-shipping|Small Team Shipping]] — practical implications for team size in an AI-augmented context

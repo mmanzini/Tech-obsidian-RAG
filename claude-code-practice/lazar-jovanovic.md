@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Lazar Jovanovic — The Professional Vibe Coder
+description: Lazar Jovanovic (professional vibe coder, Lovable) has never written more than a console.log but ships real products full-time — a living demonstration that the technical bottleneck in software creation has shifted from code-writing to taste, judgment, and context clarity.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: Lenny's Podcast — First official vibe-coding engineer at Lovable
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Lazar Jovanovic — The Professional Vibe Coder
 
 **Source:** Lenny's Podcast — First official vibe-coding engineer at Lovable
@@ -81,6 +95,6 @@ Then his prompts become trivial: *"Proceed with the next task."* Context lives i
 
 ## Related
 
-- [[spec-driven-development/_index|Spec-Driven Development]]
-- [[harness-engineering/_index|Harness Engineering]]
-- [[ai-product-development/_index|AI Product Development]]
+- [[spec-driven-development/index|Spec-Driven Development]]
+- [[harness-engineering/index|Harness Engineering]]
+- [[ai-product-development/index|AI Product Development]]

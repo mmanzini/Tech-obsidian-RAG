@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Claude Code /goal — Autonomous Multi-Turn Completion
+description: The `/goal` command sets a completion condition and keeps Claude working across turns automatically until a separate evaluator model confirms the condition is met.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://code.claude.com/docs/en/goal
+resource: https://code.claude.com/docs/en/goal
+timestamp: 2026-05-24T23:31:22Z
+status: active
+related:
+  - ai-engineering/claude-code-practice/claude-code-session-management.md
+  - ai-engineering/claude-code-practice/claude-code-routines.md
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/claude-code-practice/claude-code-agent-view.md
+---
+
 # Claude Code /goal — Autonomous Multi-Turn Completion
 
 **Source:** [Keep Claude working toward a goal](https://code.claude.com/docs/en/goal)

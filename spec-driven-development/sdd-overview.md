@@ -1,3 +1,22 @@
+---
+type: synthesis
+title: SDD Overview
+description: SDD inverts the traditional development relationship: the spec — not the code — is the artifact that endures and is maintained under version control.
+bucket: ai-engineering
+topic: spec-driven-development
+tags: []
+source: synthesis — spec-driven-development corpus
+resource:
+timestamp: 2026-05-09T07:23:23Z
+status: active
+related:
+  - ai-engineering/spec-driven-development/sdd-workflow.md
+  - ai-engineering/spec-driven-development/sdd-roles-and-boundaries.md
+  - ai-engineering/ai-dev-tools/kiro-specs.md
+  - ai-engineering/agent-workflows/research-plan-implement.md
+  - ai-engineering/rpi-methodology/vs-other-frameworks.md
+---
+
 # SDD Overview
 
 **Source:** (synthesis — spec-driven-development corpus)

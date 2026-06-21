@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Glossary
+description: A reference for the key terms used throughout the RPI methodology documentation, covering foundational concepts (context engineering, instruction budget, context rot), RPI-specific constructs (FAR/FACTS scales, validation gates, checkpoint recovery, thoughts directory), and related frameworks (SDD, CRISPY/QRSPI, Ralph Loop, 12 Factor Agents).
+bucket: ai-engineering
+topic: rpi-methodology
+tags: []
+source: self-authored
+resource:
+timestamp: 2026-05-29T14:58:08Z
+status: active
+related: []
+---
+
 # Glossary
 
 **Source:** (self-authored)
@@ -38,7 +52,7 @@ Key terms used throughout the RPI methodology documentation.
 
 **RPI** — Research → Plan → Implement. Three-phase structured framework for AI-assisted development. Each phase in a fresh context. Originally HumanLayer; adopted by Block (Goose) and Kilo.
 
-**SDD** — Specification-Driven Development. Broader framework than RPI, 6 phases: Brief → Specify → Design → Task → Implement → Validate. Emphasises durable, version-controlled specs as contracts between humans and agents. See [[vs-other-frameworks|RPI vs Other Frameworks]] and [[spec-driven-development/_index|Spec-Driven Development]].
+**SDD** — Specification-Driven Development. Broader framework than RPI, 6 phases: Brief → Specify → Design → Task → Implement → Validate. Emphasises durable, version-controlled specs as contracts between humans and agents. See [[vs-other-frameworks|RPI vs Other Frameworks]] and [[spec-driven-development/index|Spec-Driven Development]].
 
 **Session Isolation** — Running each phase (or subtask) in a separate session with a fresh context window. RPI's phase separation is session isolation applied to the workflow layer.
 

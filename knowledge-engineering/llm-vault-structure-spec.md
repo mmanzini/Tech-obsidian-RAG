@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: LLM Vault Structure Spec — Bucket/Topic/Article Architecture
+description: The design document that specified the Atlas vault's two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **buckets** as macro groups and agent-curated **topics** as clusters within buckets.
+bucket: ai-engineering
+topic: knowledge-engineering
+tags: []
+source: ../../../Resources/documents/templates/LLM Vault structure.md
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/knowledge-engineering/autoresearch-methodology.md
+  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
+---
+
 # LLM Vault Structure Spec — Bucket/Topic/Article Architecture
 
 **Source:** [LLM Vault structure.md](../../../Resources/documents/templates/LLM Vault structure.md)

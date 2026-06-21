@@ -28,7 +28,7 @@ This topic is the **deep reference** for RPI. For the one-page overview see [[ag
 
 ## Related Topics
 
-- [[agent-workflows/_index|Agent Workflows]] — lightweight workflow overviews (RPI, Quick Dev, Adversarial Review)
-- [[harness-engineering/_index|Harness Engineering]] — runtime configuration RPI operates within
-- [[spec-driven-development/_index|Spec-Driven Development]] — the alternative/complementary spec-first approach
-- [[agent-architecture/_index|Agent Architecture]] — twelve-factor agents, foundational design principles
+- [[agent-workflows/index|Agent Workflows]] — lightweight workflow overviews (RPI, Quick Dev, Adversarial Review)
+- [[harness-engineering/index|Harness Engineering]] — runtime configuration RPI operates within
+- [[spec-driven-development/index|Spec-Driven Development]] — the alternative/complementary spec-first approach
+- [[agent-architecture/index|Agent Architecture]] — twelve-factor agents, foundational design principles

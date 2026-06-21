@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Dan Shipper — The AI Paradox: More Automation, More Humans, More Work
+description: Dan Shipper offers a dense set of 12 predictions about how work, roles, and products will change in the next year.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper
+resource: https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related:
+  - ai-engineering/product-leader-interviews/max-schoening-agency-ai-era.md
+  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+  - ai-engineering/product-leader-interviews/howie-liu.md
+---
+
 # Dan Shipper — The AI Paradox: More Automation, More Humans, More Work
 
 **Source:** [Lenny's Podcast — "The AI paradox: More automation, more humans, more work"](https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper)

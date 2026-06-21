@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Dr. Fei-Fei Li — Spatial intelligence and the humanist AI: past the cave, into the world
+description: Dr.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: https://www.youtube.com/watch?v=Ctjiatnd6Xk
+resource: https://www.youtube.com/watch?v=Ctjiatnd6Xk
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Dr. Fei-Fei Li — Spatial intelligence and the humanist AI: past the cave, into the world
 
 **Source:** [The Godmother of AI on jobs, robots & why world models are next](https://www.youtube.com/watch?v=Ctjiatnd6Xk)
@@ -54,6 +68,6 @@ Dr. Fei-Fei Li (Stanford, World Labs) argues that today's LLMs are Plato's cave 
 - Intellectual fearlessness: pick the problem that scares you; ImageNet was dismissed before it became foundational.
 
 ## Related
-- [[ai-product-development/_index|AI product development]]
-- [[ai-organization/_index|AI & Organisation Design]]
-- [[harness-engineering/_index|Harness engineering]]
+- [[ai-product-development/index|AI product development]]
+- [[ai-organization/index|AI & Organisation Design]]
+- [[harness-engineering/index|Harness engineering]]

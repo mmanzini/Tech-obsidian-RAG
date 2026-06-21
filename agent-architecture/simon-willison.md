@@ -1,3 +1,18 @@
+---
+type: synthesis
+title: Simon Willison — We've Passed the Inflection Point
+description: Simon Willison (co-creator Django, coined "prompt injection") marks November 2025 as the inflection point when coding agents crossed from "mostly works" to "almost always does what you told it," with 95% of his own code now untyped by him.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: Lenny's Podcast, Simon Willison (co-creator of Django, creator of Datasette, coined "prompt injection," AI commentator at simonwillison.net
+resource:
+timestamp: 2026-05-09T06:59:45Z
+status: active
+related:
+  - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+---
+
 # Simon Willison — We've Passed the Inflection Point
 
 **Source:** Lenny's Podcast, Simon Willison (co-creator of Django, creator of Datasette, coined "prompt injection," AI commentator at simonwillison.net)
@@ -19,7 +34,7 @@ Simon Willison (co-creator Django, coined "prompt injection") marks November 202
 - StrongDM (an actual security-software company, not a hobbyist) ran a swarm of AI-simulated employees 24/7 inside a simulated Slack/Jira/Okta stack, spending ~$10,000/day on tokens as a living QA team.
 - They even had coding agents build fake versions of Slack/Jira/Okta from public API docs so they could bypass rate limits.
 - Simon's framing: a QA team that never sleeps is a *different product* from chat-based agent coding — it's the shape of the "dark factory" (fully automated, lights-off software production).
-- See also [[harness-engineering/_index|Harness Engineering]] for review-less workflows.
+- See also [[harness-engineering/index|Harness Engineering]] for review-less workflows.
 
 ## The new middle problem
 - AI is eating the *middle* of every hierarchy: middle of the build process, middle-career engineers.
@@ -44,7 +59,7 @@ Simon Willison (co-creator Django, coined "prompt injection") marks November 202
 - Agent security is fundamentally unsolved whenever an agent has: **(1)** access to private data, **(2)** exposure to untrusted content (emails, web pages), **(3)** the ability to exfiltrate externally (send email, call APIs).
 - Prompt injection cannot be reliably prevented — it's not a patch, it's a design constraint.
 - Simon has predicted an AI "Challenger disaster" every six months for three years. Hasn't happened; every near-miss institutionally reinforces overconfidence (the O-ring analogy).
-- See [[ai-security/_index|AI Security]].
+- See [[ai-security/index|AI Security]].
 
 ## Lenny's LinkedIn takeaways
 Lenny's post-episode summary distilled six points — the headline framing was: *AI reduces execution effort but increases cognitive load. We're not removing work, we're shifting it upstream into supervision, orchestration, and judgment.*
@@ -64,9 +79,9 @@ Lenny's post-episode summary distilled six points — the headline framing was: 
 - The lethal trifecta (private data + untrusted content + exfiltration) makes a Challenger-style AI disaster a matter of when, not if.
 
 ## Related
-- [[harness-engineering/_index|Harness Engineering]] — templates, skills, review-less workflows
-- [[agent-workflows/_index|Agent Workflows]] — TDD patterns, prototyping-in-threes
-- [[ai-security/_index|AI Security]] — lethal trifecta and prompt injection
-- [[ai-organization/_index|AI & Organisation Design]] — dark factories and the new middle
-- [[ai-product-development/_index|AI Product Development]] — prototyping is free, ideas are the bottleneck
+- [[harness-engineering/index|Harness Engineering]] — templates, skills, review-less workflows
+- [[agent-workflows/index|Agent Workflows]] — TDD patterns, prototyping-in-threes
+- [[ai-security/index|AI Security]] — lethal trifecta and prompt injection
+- [[ai-organization/index|AI & Organisation Design]] — dark factories and the new middle
+- [[ai-product-development/index|AI Product Development]] — prototyping is free, ideas are the bottleneck
 - [[agent-architecture/lethal-trifecta-and-agentic-patterns|Lethal Trifecta and Agentic Patterns]] — Lenny's takeaways article on the same trifecta framework

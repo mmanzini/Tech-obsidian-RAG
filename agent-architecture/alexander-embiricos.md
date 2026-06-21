@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Alexander Embiricos — Codex Is a Teammate, Not a Tool
+description: Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from tools you invoke to teammates you delegate to asynchronously — a shift that drove a 20x usage jump after GPT-5 and allowed the Sora Android app to ship in 28 days with 2–3 engineers.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: Lenny's Podcast, Alexander Embiricos (Product lead, OpenAI Codex; previously built Atlas browser at OpenAI
+resource:
+timestamp: 2026-05-09T06:59:45Z
+status: active
+related: []
+---
+
 # Alexander Embiricos — Codex Is a Teammate, Not a Tool
 
 **Source:** Lenny's Podcast, Alexander Embiricos (Product lead, OpenAI Codex; previously built Atlas browser at OpenAI)
@@ -18,17 +32,17 @@ Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from too
 - **Model** — raw capability, trained for long-horizon coding RL.
 - **API / orchestration** — tool use, sandboxing, parallelism.
 - **Harness** — the part most teams undervalue: memory, compaction, context assembly, the rules the agent follows day-to-day.
-- Codex's competitive wedge lives mostly in the harness layer, not the model. See [[harness-engineering/_index|Harness Engineering]].
+- Codex's competitive wedge lives mostly in the harness layer, not the model. See [[harness-engineering/index|Harness Engineering]].
 
 ## Compaction as a first-class feature
 - Long-running agents hit context limits. Compaction = summarize-and-restart without losing the thread of what's been decided.
 - Exposed as a user-visible feature so engineers can *steer* what survives compaction (specs, decisions) vs. what gets dropped (dead-end exploration).
-- Related discipline in [[spec-driven-development/_index|Spec-Driven Development]]: the spec is the durable artifact across compactions.
+- Related discipline in [[spec-driven-development/index|Spec-Driven Development]]: the spec is the durable artifact across compactions.
 
 ## Sora Android: 28 days, 2–3 engineers
 - The Sora Android app shipped in 28 days with 2–3 humans plus Codex doing most of the implementation.
 - Their claim is not "AI writes 100% of code" but "small spiky teams are now viable for products that used to need a 20-person org."
-- Connects to [[ai-organization/_index|AI & Organisation Design]] surgeon-team thesis: one principal plus a swarm of agents.
+- Connects to [[ai-organization/index|AI & Organisation Design]] surgeon-team thesis: one principal plus a swarm of agents.
 
 ## Chatter-driven development
 - The team's mode: constant async updates in Slack/threads about what agents are doing, what changed, what broke — chatter is the coordination layer.
@@ -53,8 +67,8 @@ Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from too
 - The next bottleneck to AGI is how fast humans can express intent — not raw model intelligence.
 
 ## Related
-- [[harness-engineering/_index|Harness Engineering]] — compaction, memory, context assembly
-- [[agent-architecture/_index|Agent Architecture]] — three-layer stack, parallel agents
-- [[ai-organization/_index|AI & Organisation Design]] — small spiky teams, surgeon model
-- [[spec-driven-development/_index|Spec-Driven Development]] — specs survive compaction
-- [[ai-product-development/_index|AI Product Development]] — contextual actions, chatter-driven workflow
+- [[harness-engineering/index|Harness Engineering]] — compaction, memory, context assembly
+- [[agent-architecture/index|Agent Architecture]] — three-layer stack, parallel agents
+- [[ai-organization/index|AI & Organisation Design]] — small spiky teams, surgeon model
+- [[spec-driven-development/index|Spec-Driven Development]] — specs survive compaction
+- [[ai-product-development/index|AI Product Development]] — contextual actions, chatter-driven workflow

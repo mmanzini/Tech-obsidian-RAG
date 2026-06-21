@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: AI Product Development Framework
+description: A three-component framework for building better products with AI.
+bucket: ai-engineering
+topic: ai-product-development
+tags: []
+source: Personal transcript (Massimiliano Manzini, 2026-04-16
+resource:
+timestamp: 2026-05-09T07:33:19Z
+status: active
+related: []
+---
+
 # AI Product Development Framework
 
 **Source:** Personal transcript (Massimiliano Manzini, 2026-04-16)
@@ -8,7 +22,7 @@
 
 A three-component framework for building better products with AI. The core premise: AI has accelerated production speed but has not improved product thinking. Most teams now skip Discovery → Prototyping → Validation and jump from idea to code. This framework reintroduces those phases without surrendering velocity.
 
-The framework applies engineering-level patterns (already documented in [[agent-workflows/_index|Agent Workflows]] and [[harness-engineering/_index|Harness Engineering]]) one level up — to product decisions, prototyping, and architectural exploration.
+The framework applies engineering-level patterns (already documented in [[agent-workflows/index|Agent Workflows]] and [[harness-engineering/index|Harness Engineering]]) one level up — to product decisions, prototyping, and architectural exploration.
 
 ---
 
@@ -128,7 +142,7 @@ Without structured context: reasoning degrades as the system grows.
 
 ## See Also
 
-- [[agent-workflows/_index|Agent Workflows]] — the engineering-level counterparts to each component
+- [[agent-workflows/index|Agent Workflows]] — the engineering-level counterparts to each component
 - [[research-plan-implement]] — RPI's Research phase as Sandbox Discovery for codebases
 - [[adversarial-review]] — formal Critic mandate and human filtering rules
 - [[agentic-engineering-approaches-compared]] — context ownership and sub-agent firewalls

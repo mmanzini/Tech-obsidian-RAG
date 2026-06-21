@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Zevi Arnovitz — The non-technical PM who ships code
+description: Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing code by combining Cursor + Claude Code with a disciplined /command library (create-issue, exploration-phase, create-plan, execute-plan, review, peer-review, update-docs, learning-opportunity) and a CTO persona configured via Claude.md.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://www.youtube.com/watch?v=1em64iUFt3U
+resource: https://www.youtube.com/watch?v=1em64iUFt3U
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Zevi Arnovitz — The non-technical PM who ships code
 
 **Source:** [How a Meta PM ships products without ever writing code](https://www.youtube.com/watch?v=1em64iUFt3U)
@@ -55,6 +69,6 @@ Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing c
 - For interviews or new skills, AI-first is now the default move, not a shortcut
 
 ## Related
-- [[ai-dev-tools/_index|AI Dev Tools]]
-- [[agent-workflows/_index|Agent Workflows]]
-- [[spec-driven-development/_index|Spec-Driven Development]]
+- [[ai-dev-tools/index|AI Dev Tools]]
+- [[agent-workflows/index|Agent Workflows]]
+- [[spec-driven-development/index|Spec-Driven Development]]

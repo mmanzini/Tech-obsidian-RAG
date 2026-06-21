@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Dhanji Prasanna — rm -rf and Rebuild Every Release
+description: Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product org was an industrial-era fit and needed Apple-style functional leadership to ship AI-native experiences — Conway's Law in reverse.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: Lenny's Podcast, Dhanji R. Prasanna (CTO, Block; previously Google; creator of Goose open-source agent
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Dhanji Prasanna — rm -rf and Rebuild Every Release
 
 **Source:** Lenny's Podcast, Dhanji R. Prasanna (CTO, Block; previously Google; creator of Goose open-source agent)
@@ -12,7 +26,7 @@ Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product o
 - Dhanji's argument to Dorsey: a GM org (one GM per product line) is an industrial-era fit; AI-native companies need **functional depth** like Apple's single-P&L model.
 - Conway's Law in reverse: if you want AI-native products, your org chart has to stop mirroring 2010-era product silos.
 - Block's re-org followed — functional leaders for design, engineering, AI — not GM-per-product.
-- See [[ai-organization/_index|AI & Organisation Design]].
+- See [[ai-organization/index|AI & Organisation Design]].
 
 ## Goose — the wingman agent
 - Goose is Block's open-source MCP-based agent; name is deliberately Top Gun (Maverick's wingman, not a replacement pilot).
@@ -33,13 +47,13 @@ Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product o
 ## "rm -rf and rebuild every release"
 - Dhanji's provocation: in an AI-native world you should be able to regenerate most of a product from scratch each release from specs + agents.
 - The durable artifact is the spec and the test suite, not the codebase.
-- Connects to the [[spec-driven-development/_index|Spec-Driven Development]] thesis and Simon Willison's "code is cheap now."
+- Connects to the [[spec-driven-development/index|Spec-Driven Development]] thesis and Simon Willison's "code is cheap now."
 - Anti-pattern: treating the codebase as the crown jewels when agents can regenerate it faithfully from spec.
 
 ## MCP-native from day one
 - Goose is built on the Model Context Protocol rather than bespoke plugins so every new integration extends every agent.
 - Block's internal MCP catalogue includes everything from Square admin tools to Slack/Jira — all accessible from the same Goose.
-- See [[harness-engineering/_index|Harness Engineering]] on MCP as the right abstraction layer.
+- See [[harness-engineering/index|Harness Engineering]] on MCP as the right abstraction layer.
 
 ## Open source as talent + signal strategy
 - Goose is intentionally open-source to (a) attract AI-native engineers, (b) force Block's internal tools to meet public-quality bars, and (c) get external contributors to harden the agent faster than a closed team could.
@@ -53,7 +67,7 @@ Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product o
 - MCP is the right abstraction layer; open-source is a talent magnet and quality-forcing function.
 
 ## Related
-- [[ai-organization/_index|AI & Organisation Design]] — functional vs. GM structure, Conway's Law
-- [[harness-engineering/_index|Harness Engineering]] — MCP, Goose
-- [[agent-architecture/_index|Agent Architecture]] — screen-watching agents
-- [[spec-driven-development/_index|Spec-Driven Development]] — specs as the durable artifact
+- [[ai-organization/index|AI & Organisation Design]] — functional vs. GM structure, Conway's Law
+- [[harness-engineering/index|Harness Engineering]] — MCP, Goose
+- [[agent-architecture/index|Agent Architecture]] — screen-watching agents
+- [[spec-driven-development/index|Spec-Driven Development]] — specs as the durable artifact

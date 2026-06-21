@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Scott Wu — Devin Is a Named Junior Engineer
+description: Scott Wu (CEO, Cognition) built Devin — a named autonomous junior engineer rather than a copilot feature — after 8 pivots, arguing that the wedge is ownership of a task end-to-end, not assistance with a step.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: Lenny's Podcast, Scott Wu (co-founder and CEO, Cognition / Devin
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related: []
+---
+
 # Scott Wu — Devin Is a Named Junior Engineer
 
 **Source:** Lenny's Podcast, Scott Wu (co-founder and CEO, Cognition / Devin)
@@ -17,7 +31,7 @@ Scott Wu (CEO, Cognition) built Devin — a named autonomous junior engineer rat
 - Devin (and all agents) are *jagged* — superhuman at some subtasks, confidently wrong at others.
 - Managing jagged intelligence is the core skill: know which tasks to delegate vs. which to babysit.
 - This is why the senior-engineer role persists — someone has to read the jagged edges of what agents produce.
-- See [[agent-workflows/_index|Agent Workflows]] on adversarial review.
+- See [[agent-workflows/index|Agent Workflows]] on adversarial review.
 
 ## 25%→50%+ PRs written by Devin
 - Cognition's internal team of ~15 engineers operates each with 5 Devins running in parallel.
@@ -53,8 +67,8 @@ Scott Wu (CEO, Cognition) built Devin — a named autonomous junior engineer rat
 - Human role compresses from bricklayer to architect — the bricklayer tier is the one that goes away.
 
 ## Related
-- [[agent-architecture/_index|Agent Architecture]] — autonomous engineer pattern, ownership
-- [[agent-workflows/_index|Agent Workflows]] — reviewing jagged output
-- [[ai-organization/_index|AI & Organisation Design]] — 15 engineers × 5 agents, bricklayer→architect
-- [[harness-engineering/_index|Harness Engineering]] — the substrate under the persona
-- [[ai-product-development/_index|AI Product Development]] — Jevons Paradox, rising ambition
+- [[agent-architecture/index|Agent Architecture]] — autonomous engineer pattern, ownership
+- [[agent-workflows/index|Agent Workflows]] — reviewing jagged output
+- [[ai-organization/index|AI & Organisation Design]] — 15 engineers × 5 agents, bricklayer→architect
+- [[harness-engineering/index|Harness Engineering]] — the substrate under the persona
+- [[ai-product-development/index|AI Product Development]] — Jevons Paradox, rising ambition

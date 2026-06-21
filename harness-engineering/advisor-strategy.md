@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: The Advisor Strategy — Give Sonnet an Intelligence Boost with Opus
+description: Pair **Opus as advisor** with **Sonnet or Haiku as executor** to get near-Opus intelligence at near-executor cost.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://claude.com/blog/the-advisor-strategy
+resource: https://claude.com/blog/the-advisor-strategy
+timestamp: 2026-04-29T21:24:51Z
+status: active
+related: []
+---
+
 # The Advisor Strategy — Give Sonnet an Intelligence Boost with Opus
 
 **Source:** [claude.com/blog/the-advisor-strategy](https://claude.com/blog/the-advisor-strategy)

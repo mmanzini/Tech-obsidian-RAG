@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Ravi Mehta — The Product Strategy Stack
+description: Ravi Mehta (ex-Tinder CPO, Facebook) offers a five-layer Product Strategy Stack — Mission → Strategy → Product Strategy → Roadmap → Goals — and the contrarian rule that the roadmap should come before goals, not after, because most orgs set OKRs disconnected from capacity and then back into a feature list disconnected from outcomes.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: Lenny's Podcast, Ravi Mehta (Outpace, ex-Tinder CPO, Facebook, TripAdvisor
+resource:
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Ravi Mehta — The Product Strategy Stack
 
 **Source:** Lenny's Podcast, Ravi Mehta (Outpace, ex-Tinder CPO, Facebook, TripAdvisor)
@@ -71,4 +85,4 @@ Ravi Mehta (ex-Tinder CPO, Facebook) offers a five-layer Product Strategy Stack 
 - Put wireframes in the strategy doc.
 
 ## Related
-- [[ai-organization/_index|AI & Organisation Design]] — PM competencies in AI era
+- [[ai-organization/index|AI & Organisation Design]] — PM competencies in AI era

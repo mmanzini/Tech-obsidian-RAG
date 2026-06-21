@@ -1,6 +1,6 @@
 # AI & Organisation Design
 
-How AI changes the way companies are structured, coordinate, and make decisions — org-design theses (hierarchy-as-information-routing replaced by AI-as-coordination-layer), adoption and economic evidence (Anthropic Economic Index, job-market data, team-size data), AI fluency, and reference material. Per-guest podcast interview digests live in the sibling [[../product-leader-interviews/_index|Product Leader Interviews]] topic.
+How AI changes the way companies are structured, coordinate, and make decisions — org-design theses (hierarchy-as-information-routing replaced by AI-as-coordination-layer), adoption and economic evidence (Anthropic Economic Index, job-market data, team-size data), AI fluency, and reference material. Per-guest podcast interview digests live in the sibling [[../product-leader-interviews/index|Product Leader Interviews]] topic.
 
 ## Articles
 
@@ -19,8 +19,8 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 
 ## Related Topics
 
-- [[../product-leader-interviews/_index|Product Leader Interviews]] — per-guest podcast digests of product/AI leaders on building in the AI era
-- [[../agent-architecture/_index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
-- [[../constitutional-ai/_index|Constitutional AI]] — values and training behind the models whose adoption these articles study
+- [[../product-leader-interviews/index|Product Leader Interviews]] — per-guest podcast digests of product/AI leaders on building in the AI era
+- [[../agent-architecture/index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
+- [[../constitutional-ai/index|Constitutional AI]] — values and training behind the models whose adoption these articles study
 - See also: Way of Working bucket — team structures and frameworks for AI-native organisations
 - Product Management — strategy, discovery, and the PM role in the AI era

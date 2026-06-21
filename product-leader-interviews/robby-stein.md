@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Robby Stein — Search Is Expansionary, Not Zero-Sum
+description: Robby Stein (VP of Product, Google Search) argues that AI makes search expansionary rather than cannibalizing it — users with access to AI Overviews and AI Mode ask more questions, not fewer, because curiosity is elastic when answers get easier.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: Lenny's Podcast, Robby Stein (VP of Product, Google Search
+resource:
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Robby Stein — Search Is Expansionary, Not Zero-Sum
 
 **Source:** Lenny's Podcast, Robby Stein (VP of Product, Google Search)
@@ -18,13 +32,13 @@ Robby Stein (VP of Product, Google Search) argues that AI makes search expansion
 - A single user question now triggers *dozens* of background searches Google runs in parallel to assemble an answer.
 - The user sees one answer; the system searched a graph of subqueries behind it.
 - This is why "AI cannibalizes search" is a category error — under the hood, AI *multiplies* the number of searches per user intent.
-- Connects to [[agent-architecture/_index|Agent Architecture]] subagent patterns.
+- Connects to [[agent-architecture/index|Agent Architecture]] subagent patterns.
 
 ## AI is expansionary, not cannibalizing
 - Robby's data: users with access to AI Overviews and AI Mode ask *more* questions, not fewer.
 - Curiosity is elastic — when answering gets easier, people ask more of the things they used to not bother asking.
 - Implication: search volume grows alongside AI answers; the business risk is share of intent, not volume of queries.
-- Parallel to [[ai-product-development/_index|AI Product Development]]'s Jevons-style findings.
+- Parallel to [[ai-product-development/index|AI Product Development]]'s Jevons-style findings.
 
 ## Relentless improvement — "dissatisfied"
 - His wife describes him in one word: *dissatisfied*.
@@ -56,6 +70,6 @@ Robby Stein (VP of Product, Google Search) argues that AI makes search expansion
 - Fight over *formats*, not features; expect a J-curve on any new format.
 
 ## Related
-- [[ai-product-development/_index|AI Product Development]] — AI-as-expansion, format bets
-- [[agent-architecture/_index|Agent Architecture]] — query fan-out, subagent composition
-- [[ai-organization/_index|AI & Organisation Design]] — three-pillar product strategy at scale
+- [[ai-product-development/index|AI Product Development]] — AI-as-expansion, format bets
+- [[agent-architecture/index|Agent Architecture]] — query fan-out, subagent composition
+- [[ai-organization/index|AI & Organisation Design]] — three-pillar product strategy at scale

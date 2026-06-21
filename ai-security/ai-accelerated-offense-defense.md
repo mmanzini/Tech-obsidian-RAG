@@ -1,3 +1,18 @@
+---
+type: synthesis
+title: Preparing for AI-Accelerated Offense
+description: Anthropic's Project Glasswing demonstrates that sub-frontier AI models are already finding serious vulnerabilities that traditional reviews missed for years, collapsing the patch-to-exploit window to hours and making friction-based defences (rate limits, SMS MFA) obsolete against AI adversaries with unlimited patience.
+bucket: ai-engineering
+topic: ai-security
+tags: []
+source: https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense
+resource: https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense
+timestamp: 2026-05-09T07:03:05Z
+status: active
+related:
+  - ai-engineering/ai-security/secret-rotation-interview.md
+---
+
 # Preparing for AI-Accelerated Offense
 
 A seven-point defensive playbook from Anthropic's security teams, based on findings from Project Glasswing — using frontier models to find vulnerabilities in real codebases. The core thesis: within 24 months, AI will surface vast numbers of previously-unnoticed bugs, so defenders must adopt AI tools at the same pace as attackers.
@@ -105,7 +120,7 @@ When submitting reports upstream (especially to open-source maintainers receivin
 
 ## Related
 
-- [[ci-integrations/_index|CI Integrations]] — AI-powered code review as a pre-ship security layer
-- [[constitutional-ai/_index|Constitutional AI]] — hard constraints on Claude's security-related behaviour
-- [[agent-architecture/_index|Agent Architecture]] — foundational patterns for building secure, reliable agents
+- [[ci-integrations/index|CI Integrations]] — AI-powered code review as a pre-ship security layer
+- [[constitutional-ai/index|Constitutional AI]] — hard constraints on Claude's security-related behaviour
+- [[agent-architecture/index|Agent Architecture]] — foundational patterns for building secure, reliable agents
 - [[secret-rotation-interview|Secret Rotation: The Political Blocker]] — practitioner account of why credential rotation stalls on organisational politics, not tooling; directly relevant to the "Design for Breach" playbook point on short-lived secrets

@@ -1,6 +1,20 @@
+---
+type: synthesis
+title: Research → Plan → Implement (RPI)
+description: RPI is a three-phase framework that replaces direct prompting ("just refactor this") with structured phases: **research what exists, plan the change, implement mechanically**.
+bucket: ai-engineering
+topic: agent-workflows
+tags: []
+source: https://block.github.io/goose/docs/tutorials/rpi/
+resource: https://block.github.io/goose/docs/tutorials/rpi/
+timestamp: 2026-05-09T07:25:39Z
+status: active
+related: []
+---
+
 # Research → Plan → Implement (RPI)
 
-> **Deep reference:** see [[rpi-methodology/_index|RPI Methodology]] topic for principles, FAR/FACTS gates, context engineering, tool-agnosticism, team adoption, CRISPY/QRSPI evolution, and industry landscape. This page is the one-page overview.
+> **Deep reference:** see [[rpi-methodology/index|RPI Methodology]] topic for principles, FAR/FACTS gates, context engineering, tool-agnosticism, team adoption, CRISPY/QRSPI evolution, and industry landscape. This page is the one-page overview.
 
 **Source:**
 - [Block Goose tutorial](https://block.github.io/goose/docs/tutorials/rpi/)

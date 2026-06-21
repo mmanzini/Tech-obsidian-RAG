@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: When to Use RPI
+description: RPI is optimised for deterministic, multi-file changes (4+ files, complex dependencies, high error cost) and works poorly for exploratory, greenfield, or trivial work.
+bucket: ai-engineering
+topic: rpi-methodology
+tags: []
+source: self-authored
+resource:
+timestamp: 2026-04-29T21:54:50Z
+status: active
+related: []
+---
+
 # When to Use RPI
 
 **Source:** (self-authored)
@@ -89,7 +103,7 @@ New systems from scratch, no existing patterns.
 
 **Why:** the Research phase has nothing to research. Skip Research → RPI becomes just "Plan and Implement," which isn't RPI.
 
-**Use instead:** [[spec-driven-development/_index|SDD]] or loop-based execution. Spec-first.
+**Use instead:** [[spec-driven-development/index|SDD]] or loop-based execution. Spec-first.
 
 ### Trivial Changes
 

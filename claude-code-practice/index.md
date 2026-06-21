@@ -31,7 +31,7 @@ How to use Claude Code effectively — features, workflows, session management, 
 
 ## Related Topics
 
-- [[harness-engineering/_index|Harness Engineering]] — design theory and runtime patterns that underpin Claude Code configuration
-- [[knowledge-engineering/_index|Knowledge Engineering]] — PKM methodology and vault architecture (Atlas, autoresearch, Zettelkasten)
-- [[rpi-methodology/_index|RPI Methodology]] — structured workflow commonly run inside Claude Code
-- [[agent-architecture/_index|Agent Architecture]] — 12-factor agent design principles
+- [[harness-engineering/index|Harness Engineering]] — design theory and runtime patterns that underpin Claude Code configuration
+- [[knowledge-engineering/index|Knowledge Engineering]] — PKM methodology and vault architecture (Atlas, autoresearch, Zettelkasten)
+- [[rpi-methodology/index|RPI Methodology]] — structured workflow commonly run inside Claude Code
+- [[agent-architecture/index|Agent Architecture]] — 12-factor agent design principles

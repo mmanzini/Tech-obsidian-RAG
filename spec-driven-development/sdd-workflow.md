@@ -1,3 +1,22 @@
+---
+type: synthesis
+title: SDD Workflow
+description: The SDD workflow moves through six phases — Brief, Specify, Design, Task, Implement, Validate — each producing a concrete artifact and ending with a human checkpoint, where looping back is the correct behaviour when reality diverges from the spec.
+bucket: ai-engineering
+topic: spec-driven-development
+tags: []
+source: synthesis — spec-driven-development corpus
+resource:
+timestamp: 2026-05-09T07:23:23Z
+status: active
+related:
+  - ai-engineering/spec-driven-development/sdd-overview.md
+  - ai-engineering/spec-driven-development/sdd-roles-and-boundaries.md
+  - ai-engineering/ai-dev-tools/kiro-specs.md
+  - ai-engineering/agent-workflows/research-plan-implement.md
+  - ai-engineering/agent-workflows/quick-dev.md
+---
+
 # SDD Workflow
 
 **Source:** (synthesis — spec-driven-development corpus)

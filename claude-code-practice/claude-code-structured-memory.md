@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: Claude Code Structured Memory — ~/.claude/memory/ Architecture
+description: A practical guide to giving Claude Code persistent, structured memory via a `~/.claude/memory/` directory hierarchy — eliminating the bloated flat-CLAUDE.md anti-pattern and enabling on-demand context loading.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: ../../../Resources/web-clippings/2026-05-03-How%20I%20Finally%20Sorted%20My%20Claude%20Code%20Memory%201.md
+resource:
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/claude-code-practice/claude-code-agentic-os.md
+  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+---
+
 # Claude Code Structured Memory — ~/.claude/memory/ Architecture
 
 **Source:** [2026-05-03-How I Finally Sorted My Claude Code Memory 1.md](../../../Resources/web-clippings/2026-05-03-How%20I%20Finally%20Sorted%20My%20Claude%20Code%20Memory%201.md)

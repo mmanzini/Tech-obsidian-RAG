@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Nick Turley — The Resting Heart Rate of the Team
+description: Nick Turley (Head of ChatGPT, OpenAI) argues that there is no distinction between model and product — improving the model is product work — and that the leader's primary job is setting the team's resting heart rate so the pace is sustainable over a multi-year marathon.
+bucket: ai-engineering
+topic: product-leader-interviews
+tags: []
+source: Lenny's Podcast, Nick Turley (Head of ChatGPT, OpenAI
+resource:
+timestamp: 2026-06-09T20:51:26Z
+status: active
+related: []
+---
+
 # Nick Turley — The Resting Heart Rate of the Team
 
 **Source:** Lenny's Podcast, Nick Turley (Head of ChatGPT, OpenAI)
@@ -74,5 +88,5 @@ Nick Turley (Head of ChatGPT, OpenAI) argues that there is no distinction betwee
 - Ship raw, learn in public, polish in the next iteration.
 
 ## Related
-- [[ai-product-development/_index|AI Product Development]] — model-as-product, evals, iteration
-- [[ai-organization/_index|AI & Organisation Design]] — hiring barrels, research + product
+- [[ai-product-development/index|AI Product Development]] — model-as-product, evals, iteration
+- [[ai-organization/index|AI & Organisation Design]] — hiring barrels, research + product

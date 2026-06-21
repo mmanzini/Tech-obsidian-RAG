@@ -1,3 +1,27 @@
+---
+type: synthesis
+title: Lethal Trifecta and Agentic Engineering Patterns
+description: The lethal trifecta is a structural security problem for AI agents: whenever an agent simultaneously holds private data, processes untrusted content, and can externalise data, prompt injection cannot be reliably prevented.
+bucket: ai-engineering
+topic: agent-architecture
+tags: []
+source: https://www.lennysnewsletter.com/
+resource: https://www.lennysnewsletter.com/
+timestamp: 2026-06-20T21:43:14Z
+status: active
+related:
+  - ai-engineering/agent-architecture/twelve-factor-agents.md
+  - ai-engineering/agent-workflows/research-plan-implement.md
+  - ai-engineering/agent-workflows/adversarial-review.md
+  - ai-engineering/ai-organization/openclaw-personal-agent-team.md
+  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+  - ai-engineering/agent-architecture/simon-willison.md
+  - ai-engineering/agent-architecture/deployment-simulation.md
+  - ai-engineering/agent-architecture/alexander-embiricos.md
+  - ai-engineering/agent-architecture/aishwarya-reganti-kiriti-badam.md
+  - ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
+---
+
 # Lethal Trifecta and Agentic Engineering Patterns
 
 **Source:** Lenny Rachitsky, [Lenny's Newsletter](https://www.lennysnewsletter.com/) (April 2026) — takeaways from Simon Willison
@@ -63,6 +87,7 @@ Simon runs four coding agents in parallel and is mentally wiped out by 11 a.m. T
 - [[openclaw-personal-agent-team|OpenClaw — A Personal Team of AI Agents]] — real-world security cautions derived from the trifecta
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — the productivity claims this article tempers
 - [[agent-architecture/simon-willison|Simon Willison — We've Passed the Inflection Point]] — primary source for the trifecta and agentic patterns in this article
+- [[deployment-simulation]] · [Deployment Simulation](deployment-simulation.md) — pre-release forecasting of undesired model behaviour, including agentic tool-use settings; complements trifecta-era safety practice
 - [[agent-architecture/alexander-embiricos|Alexander Embiricos]] — practitioner view on agentic patterns and operator experience
 - [[agent-architecture/aishwarya-reganti-kiriti-badam|Aishwarya Reganti & Kiriti Badam]] — multi-agent system design perspectives referenced alongside these patterns
 - [[agent-architecture/multi-agent-coordination-patterns|Multi-Agent Coordination Patterns]] — coordination primitives that sit on top of the trifecta security model

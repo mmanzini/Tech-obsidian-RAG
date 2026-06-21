@@ -1,3 +1,25 @@
+---
+type: synthesis
+title: NLH, Meta Harness, and the Science of Harness Engineering
+description: Two 2026 research systems — Tingua's Natural Language Harness (NLH) and Stanford's Meta Harness — formalise harness engineering as a distinct discipline, backed by empirical evidence of a 6× performance gap on the same model driven entirely by orchestration code.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: YouTube — PY channel, "Rethinking AI Agents: The Rise of Harness Engineering"
+resource:
+timestamp: 2026-05-09T07:33:19Z
+status: active
+related:
+  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+  - ai-engineering/harness-engineering/effective-harnesses-long-running.md
+  - ai-engineering/knowledge-engineering/zettelkasten-pkm.md
+  - ai-engineering/claude-code-practice/dhanji-prasanna.md
+  - ai-engineering/claude-code-practice/use-claude-code-more.md
+  - ai-engineering/claude-code-practice/zevi-arnovitz.md
+  - ai-engineering/claude-code-practice/lazar-jovanovic.md
+  - ai-engineering/harness-engineering/mcp-apps-interactive-ui.md
+---
+
 # NLH, Meta Harness, and the Science of Harness Engineering
 
 **Source:** YouTube — PY channel, "Rethinking AI Agents: The Rise of Harness Engineering"
@@ -103,8 +125,8 @@ Harness engineering is a craft of **subtraction as much as addition**:
 
 ## Related
 
-- [[harness-engineering/_index|Harness Engineering]] — practical harness configuration
-- [[agent-architecture/_index|Agent Architecture]] — 12-factor and multi-agent patterns
+- [[harness-engineering/index|Harness Engineering]] — practical harness configuration
+- [[agent-architecture/index|Agent Architecture]] — 12-factor and multi-agent patterns
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering for Coding Agents]] — practical CLAUDE.md and MCP guide
 - [[effective-harnesses-long-running|Effective Harnesses for Long-Running Agents]] — Anthropic's two-agent pattern
 - [[zettelkasten-pkm|Zettelkasten — Foundational PKM Methodology]] — the historical note-linking system that underlies the Atlas vault's wiki design

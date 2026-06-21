@@ -1,3 +1,20 @@
+---
+type: synthesis
+title: Atlas Model Applied to Codebase Intelligence
+description: A vision for applying the Atlas external intelligence layer model to software codebases.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: ../../../Resources/Projects/ai-driven-product-management/Ideas to include.md
+resource:
+timestamp: 2026-05-26T18:38:22Z
+status: active
+related:
+  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+  - ai-engineering/claude-code-practice/claude-code-large-codebases.md
+  - ai-engineering/knowledge-engineering/zettelkasten-pkm.md
+---
+
 # Atlas Model Applied to Codebase Intelligence
 
 **Source:** [Projects/ai-driven-product-management/Ideas to include.md](../../../Resources/Projects/ai-driven-product-management/Ideas to include.md)

@@ -19,6 +19,6 @@ bucket.
 
 ## Related Topics
 
-- [[../ai-product-development/_index|AI Product Development]] — applying structured thinking to AI-assisted product building
-- [[../ai-organization/_index|AI & Organisation Design]] — how AI changes company structure and the PM role (org-level and economic lens)
-- [[../spec-driven-development/_index|Spec-Driven Development]] — the strategy-to-spec pipeline connecting product intent to implementation
+- [[../ai-product-development/index|AI Product Development]] — applying structured thinking to AI-assisted product building
+- [[../ai-organization/index|AI & Organisation Design]] — how AI changes company structure and the PM role (org-level and economic lens)
+- [[../spec-driven-development/index|Spec-Driven Development]] — the strategy-to-spec pipeline connecting product intent to implementation

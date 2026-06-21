@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: AI and Product Strategy
+description: AI accelerates strategy work but does not replace strategic thinking.
+bucket: ai-engineering
+topic: product-management
+tags: []
+source: https://www.linkedin.com/pulse/how-use-ai-create-winning-product-strategy-roman-pichler-3qfme/
+resource: https://www.linkedin.com/pulse/how-use-ai-create-winning-product-strategy-roman-pichler-3qfme/
+timestamp: 2026-06-09T21:01:35Z
+status: active
+related: []
+---
+
 # AI and Product Strategy
 
 **Source:** Roman Pichler — [How to Use AI to Create a Winning Product Strategy](https://www.linkedin.com/pulse/how-use-ai-create-winning-product-strategy-roman-pichler-3qfme/) (2024)
@@ -74,4 +88,4 @@ Four hard limits:
 - [[product-manager-as-builder]] — AI enabling PMs to build prototypes as part of strategy validation
 - [[three-diamonds-framework]] — Max's three-diamond model: AI collapses the cost of being wrong in strategy and discovery, not just delivery
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — engineering-level counterpart: AI as a thinking partner, not just a coding engine
-- [[constitutional-ai/_index|Constitutional AI]] — Anthropic's approach to the ethical and values constraints that address AI's bias, privacy, and behavioural risks at the model level
+- [[constitutional-ai/index|Constitutional AI]] — Anthropic's approach to the ethical and values constraints that address AI's bias, privacy, and behavioural risks at the model level

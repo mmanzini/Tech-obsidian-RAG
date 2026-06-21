@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Harnessing Claude's Intelligence — 3 Key Patterns for Building Apps
+description: Harnesses encode assumptions about what Claude *can't* do on its own — and those assumptions go stale as models improve.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://claude.com/blog/harnessing-claudes-intelligence
+resource: https://claude.com/blog/harnessing-claudes-intelligence
+timestamp: 2026-04-29T21:24:51Z
+status: active
+related: []
+---
+
 # Harnessing Claude's Intelligence — 3 Key Patterns for Building Apps
 
 **Source:** [claude.com/blog/harnessing-claudes-intelligence](https://claude.com/blog/harnessing-claudes-intelligence)

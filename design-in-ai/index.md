@@ -31,6 +31,6 @@ Encoding design intent into structured, version-controlled artefacts that AI cod
 
 ## Related Topics
 
-- [[spec-driven-development/_index|Spec-Driven Development]] — The broader SDD standard that Design.md plugs into
-- [[ai-dev-tools/_index|AI Dev Tools]] — IDE-level features (Kiro specs) that complement Design.md
-- [[harness-engineering/_index|Harness Engineering]] — Runtime configuration and agent steering documents
+- [[spec-driven-development/index|Spec-Driven Development]] — The broader SDD standard that Design.md plugs into
+- [[ai-dev-tools/index|AI Dev Tools]] — IDE-level features (Kiro specs) that complement Design.md
+- [[harness-engineering/index|Harness Engineering]] — Runtime configuration and agent steering documents

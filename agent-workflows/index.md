@@ -15,7 +15,7 @@ Structured patterns for directing AI agents through complex tasks — trading sp
 
 ## Related Topics
 
-- [[harness-engineering/_index|Harness Engineering]] — the runtime environment these workflows operate within
-- [[agent-architecture/_index|Agent Architecture]] — design principles that inform workflow choices
-- [[ai-dev-tools/_index|AI Dev Tools]] — IDE features (specs, hooks) that can automate parts of these workflows
-- [[rpi-methodology/_index|RPI Methodology]] — deep reference for the RPI framework (FAR/FACTS gates, CRISPY evolution, team adoption)
+- [[harness-engineering/index|Harness Engineering]] — the runtime environment these workflows operate within
+- [[agent-architecture/index|Agent Architecture]] — design principles that inform workflow choices
+- [[ai-dev-tools/index|AI Dev Tools]] — IDE features (specs, hooks) that can automate parts of these workflows
+- [[rpi-methodology/index|RPI Methodology]] — deep reference for the RPI framework (FAR/FACTS gates, CRISPY evolution, team adoption)

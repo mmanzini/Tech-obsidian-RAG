@@ -1,3 +1,21 @@
+---
+type: synthesis
+title: Claude Code Quality Postmortem — April 2026
+description: Over March–April 2026, three separate changes to Claude Code caused a wave of quality-degradation reports affecting Sonnet 4.6, Opus 4.6, and Opus 4.7.
+bucket: ai-engineering
+topic: claude-code-practice
+tags: []
+source: https://www.anthropic.com/engineering/april-23-postmortem
+resource: https://www.anthropic.com/engineering/april-23-postmortem
+timestamp: 2026-05-17T08:21:13Z
+status: active
+related:
+  - ai-engineering/claude-code-practice/opus-4-7-best-practices.md
+  - ai-engineering/claude-code-practice/claude-code-session-management.md
+  - ai-engineering/harness-engineering/scaling-managed-agents.md
+  - ai-engineering/harness-engineering/skill-creator-evals.md
+---
+
 # Claude Code Quality Postmortem — April 2026
 
 **Source:** [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)

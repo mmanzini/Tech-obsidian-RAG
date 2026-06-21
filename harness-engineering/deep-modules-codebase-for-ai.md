@@ -1,3 +1,17 @@
+---
+type: synthesis
+title: Deep Modules — Designing Your Codebase for AI
+description: Codebase structure is a larger determinant of AI agent output quality than prompts or instruction files, because agents land cold on a repo with no mental map and can only navigate the literal import graph.
+bucket: ai-engineering
+topic: harness-engineering
+tags: []
+source: https://www.youtube.com/watch?v=uC44zFz7JSM
+resource: https://www.youtube.com/watch?v=uC44zFz7JSM
+timestamp: 2026-04-30T06:41:32Z
+status: active
+related: []
+---
+
 # Deep Modules — Designing Your Codebase for AI
 
 **Source:** [Your codebase is NOT ready for AI (here's how to fix it)](https://www.youtube.com/watch?v=uC44zFz7JSM) — Matt Pocock (YouTube)
