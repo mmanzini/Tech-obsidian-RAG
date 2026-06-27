@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Lethal Trifecta and Agentic Engineering Patterns
-description: The lethal trifecta is a structural security problem for AI agents: whenever an agent simultaneously holds private data, processes untrusted content, and can externalise data, prompt injection cannot be reliably prevented.
+description: "The lethal trifecta is a structural security problem for AI agents: whenever an agent simultaneously holds private data, processes untrusted content, and can externalise data, prompt injection cannot be reliably prevented."
 bucket: ai-engineering
 topic: agent-architecture
-tags: []
+tags: [ai-security, agent-architecture, agent-workflows, harness-engineering, practitioner-interview]
 source: https://www.lennysnewsletter.com/
 resource: https://www.lennysnewsletter.com/
 timestamp: 2026-06-20T21:43:14Z

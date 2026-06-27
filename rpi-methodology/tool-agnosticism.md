@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Tool Agnosticism
-description: RPI is theoretically tool-agnostic but practically Goose-optimised: only Goose has native slash commands (`/research_codebase`, `/create_plan`, `/implement_plan`) that automate sub-agent orchestration and enforce validation gates.
+description: "RPI is theoretically tool-agnostic but practically Goose-optimised: only Goose has native slash commands (`/research_codebase`, `/create_plan`, `/implement_plan`) that automate sub-agent orchestration and enforce validation gates."
 bucket: ai-engineering
 topic: rpi-methodology
-tags: []
+tags: [agent-workflows, harness-engineering, skills-and-hooks, multi-agent]
 source: self-authored
 resource:
 timestamp: 2026-04-29T21:54:50Z

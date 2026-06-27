@@ -1,10 +1,10 @@
 ---
 type: synthesis
-title: Anthropic Economic Index: Learning Curves
-description: Anthropic's third Economic Index report (March 2026) tracks how Claude usage evolved over four months and identifies a strong learning-curve effect: users with 6+ months of tenure show a 10% higher conversation success rate and tackle more complex, work-focused tasks compared to newer users.
+title: "Anthropic Economic Index: Learning Curves"
+description: "Anthropic's third Economic Index report (March 2026) tracks how Claude usage evolved over four months and identifies a strong learning-curve effect: users with 6+ months of tenure show a 10% higher conversation success rate and tackle more complex, work-focused tasks compared to newer users."
 bucket: ai-engineering
 topic: ai-organization
-tags: []
+tags: [ai-org-design, ai-native-business, claude-code, product-management]
 source: https://www.anthropic.com/research/economic-index-march-2026-report
 resource: https://www.anthropic.com/research/economic-index-march-2026-report
 timestamp: 2026-05-09T07:03:05Z

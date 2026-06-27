@@ -4,7 +4,7 @@ title: AI Product Development Framework
 description: A three-component framework for building better products with AI.
 bucket: ai-engineering
 topic: ai-product-development
-tags: []
+tags: [product-management, agent-workflows, context-engineering, multi-agent, spec-driven-development]
 source: Personal transcript (Massimiliano Manzini, 2026-04-16
 resource:
 timestamp: 2026-05-09T07:33:19Z

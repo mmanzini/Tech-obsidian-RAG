@@ -4,7 +4,7 @@ title: Seeing Like an Agent — How We Design Tools in Claude Code
 description: Effective agent tool design requires shaping the tool surface to the model's current capabilities — not what's cleanest on paper.
 bucket: ai-engineering
 topic: agent-architecture
-tags: []
+tags: [agent-architecture, claude-code, harness-engineering, skills-and-hooks, context-engineering, multi-agent]
 source: https://claude.com/blog/seeing-like-an-agent
 resource: https://claude.com/blog/seeing-like-an-agent
 timestamp: 2026-05-29T15:24:58Z

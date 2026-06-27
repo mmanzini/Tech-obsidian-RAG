@@ -4,7 +4,7 @@ title: Managed Agents Dreams — Async Memory Curation via Session Reflection
 description: Dreams is a research preview feature in the Managed Agents API that lets Claude clean up and reorganize agent memory stores asynchronously.
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
+tags: [agent-memory, harness-engineering, long-running-agents, context-engineering]
 source: https://platform.claude.com/docs/en/managed-agents/dreams
 resource: https://platform.claude.com/docs/en/managed-agents/dreams
 timestamp: 2026-05-25T00:17:36Z

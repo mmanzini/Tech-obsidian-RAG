@@ -4,7 +4,7 @@ title: Examples and Resources
 description: A reference article pointing to real-world Design.md files, tutorials, case studies, and research on AI-assisted design.
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, spec-driven-development, knowledge-management, context-engineering]
 source: synthesis — design-in-ai corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

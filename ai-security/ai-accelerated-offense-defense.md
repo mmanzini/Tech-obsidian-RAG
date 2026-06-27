@@ -4,7 +4,7 @@ title: Preparing for AI-Accelerated Offense
 description: Anthropic's Project Glasswing demonstrates that sub-frontier AI models are already finding serious vulnerabilities that traditional reviews missed for years, collapsing the patch-to-exploit window to hours and making friction-based defences (rate limits, SMS MFA) obsolete against AI adversaries with unlimited patience.
 bucket: ai-engineering
 topic: ai-security
-tags: []
+tags: [ai-security, agent-workflows, evals, long-running-agents]
 source: https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense
 resource: https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense
 timestamp: 2026-05-09T07:03:05Z

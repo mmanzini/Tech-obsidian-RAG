@@ -4,7 +4,7 @@ title: Browser MCP — Visual Feedback Loops for Frontend AI
 description: AI agents excel at backend development because the feedback loop is fully textual, but struggle with frontend work because they cannot see the UI they produce.
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
+tags: [harness-engineering, mcp, agent-workflows, agent-architecture]
 source: https://www.youtube.com/watch?v=pSritFeoYFo
 resource: https://www.youtube.com/watch?v=pSritFeoYFo
 timestamp: 2026-05-09T07:03:05Z

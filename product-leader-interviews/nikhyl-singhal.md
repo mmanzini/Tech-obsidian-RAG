@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Nikhyl Singhal — Smiling exhaustion and the PM renaissance
-description: Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneously in a renaissance and a crisis depending on which half you're in: PMs who joined because they love building are having the best year of their careers, while those who joined for pay and prestige face existential risk as large companies lay off far more than they rehire (with rehires being entirely AI-native).
+description: "Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneously in a renaissance and a crisis depending on which half you're in: PMs who joined because they love building are having the best year of their careers, while those who joined for pay and prestige face existential risk as large companies lay off far more than they rehire (with rehires being entirely AI-native)."
 bucket: ai-engineering
 topic: product-leader-interviews
-tags: []
+tags: [practitioner-interview, product-management, ai-org-design, ai-native-business]
 source: https://www.youtube.com/watch?v=yUohoaC8_Hs
 resource: https://www.youtube.com/watch?v=yUohoaC8_Hs
 timestamp: 2026-06-09T20:51:26Z

@@ -4,7 +4,7 @@ title: Kiro Hooks
 description: Agent hooks in Kiro are event-driven automation triggers that execute predefined agent actions (prompts or shell commands) when specific IDE events occur.
 bucket: ai-engineering
 topic: ai-dev-tools
-tags: []
+tags: [skills-and-hooks, harness-engineering, agent-workflows, claude-code]
 source: https://kiro.dev/docs/hooks/
 resource: https://kiro.dev/docs/hooks/
 timestamp: 2026-04-29T21:24:51Z

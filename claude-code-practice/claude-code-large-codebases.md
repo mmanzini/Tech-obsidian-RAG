@@ -4,7 +4,7 @@ title: Claude Code in Large Codebases — Best Practices for Enterprise Scale
 description: Anthropic's "Claude Code at scale" series, based on observed patterns from deployments in multi-million-line monorepos, legacy systems, and distributed microservice architectures.
 bucket: ai-engineering
 topic: claude-code-practice
-tags: []
+tags: [claude-code, harness-engineering, skills-and-hooks, mcp, context-engineering, ai-org-design]
 source: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
 resource: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
 timestamp: 2026-05-25T00:17:36Z

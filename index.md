@@ -23,3 +23,26 @@
 - [[ai-product-development/index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
 - [[product-management/index|Product Management (AI-bound)]] — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket
 - [[model-driven-development/index|Model-Driven Development]] — formal models as the primary artefact; CIM/PIM/PSM abstraction stack; transformations; classic OMG MDA vs modern DSLs/low-code/executable models/AI assistance; companion to Spec-Driven Development
+
+## Tag vocabulary
+
+- `agent-architecture` — design principles for reliable agents
+- `harness-engineering` — runtime config around coding agents
+- `claude-code` — Claude Code features and workflows
+- `agent-workflows` — structured task patterns (RPI, SDD)
+- `spec-driven-development` — spec/model as durable artefact
+- `context-engineering` — instruction budget and context management
+- `agent-memory` — episodic memory, session recall, persistence
+- `multi-agent` — orchestration and coordination of agents
+- `evals` — eval design, benchmarks, quality measurement
+- `knowledge-management` — PKM, vaults, knowledge bases, RAG
+- `mcp` — Model Context Protocol and connectors
+- `skills-and-hooks` — skills, hooks, deterministic enforcement
+- `design-in-ai` — encoding design intent for AI agents
+- `ai-security` — defensive security and prompt-injection
+- `constitutional-ai` — AI values, alignment, training
+- `ai-org-design` — org structure and team shape with AI
+- `product-management` — AI-bound PM craft and role
+- `ai-native-business` — AI-native verticals and business models
+- `practitioner-interview` — leader/builder operating principles
+- `long-running-agents` — autonomous multi-session agent patterns

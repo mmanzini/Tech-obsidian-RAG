@@ -4,7 +4,7 @@ title: Aishwarya Naresh Reganti & Kiriti Badam — Building AI Products When the
 description: Aishwarya Reganti (ex-AWS) and Kiriti Badam (ex-Meta) argue that AI product development fails when teams apply deterministic-era playbooks to non-deterministic systems.
 bucket: ai-engineering
 topic: agent-architecture
-tags: []
+tags: [agent-architecture, product-management, evals, agent-workflows, practitioner-interview]
 source: Lenny's Podcast — AI product leaders (ex-AWS, ex-Meta
 resource:
 timestamp: 2026-05-09T06:59:45Z

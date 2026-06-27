@@ -4,7 +4,7 @@ title: Agentic Engineering — Brendan O'Leary (Kilo Code)
 description: Brendan O'Leary (Kilo Code) frames agentic engineering as directing a tireless but judgment-free junior developer — where the primary constraint is context quality, not model capability.
 bucket: ai-engineering
 topic: agent-workflows
-tags: []
+tags: [agent-workflows, context-engineering, harness-engineering, mcp, skills-and-hooks]
 source: https://www.youtube.com/watch?v=BEKc4P87XKo
 resource: https://www.youtube.com/watch?v=BEKc4P87XKo
 timestamp: 2026-05-09T07:03:05Z

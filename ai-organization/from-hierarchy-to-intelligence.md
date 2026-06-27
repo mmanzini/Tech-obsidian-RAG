@@ -4,7 +4,7 @@ title: From Hierarchy to Intelligence
 description: For 2,000 years, organizations have used hierarchy as an information-routing protocol to overcome the limit that one human can effectively manage 3-8 others.
 bucket: ai-engineering
 topic: ai-organization
-tags: []
+tags: [ai-org-design, ai-native-business, multi-agent]
 source: https://sequoiacap.com/article/from-hierarchy-to-intelligence/
 resource: https://sequoiacap.com/article/from-hierarchy-to-intelligence/
 timestamp: 2026-05-09T07:33:19Z

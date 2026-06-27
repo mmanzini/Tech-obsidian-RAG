@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: SDD Overview
-description: SDD inverts the traditional development relationship: the spec — not the code — is the artifact that endures and is maintained under version control.
+description: "SDD inverts the traditional development relationship: the spec — not the code — is the artifact that endures and is maintained under version control."
 bucket: ai-engineering
 topic: spec-driven-development
-tags: []
+tags: [spec-driven-development, agent-workflows, knowledge-management]
 source: synthesis — spec-driven-development corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

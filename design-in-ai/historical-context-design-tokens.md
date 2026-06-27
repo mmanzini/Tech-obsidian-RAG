@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Historical Context — Design Tokens
-description: Design.md sits at the end of a 15-year lineage: living style guides (2010s) → Atomic Design → design tokens (Salesforce 2017, Style Dictionary) → W3C Design Tokens spec (stable October 2025) → Design.md.
+description: "Design.md sits at the end of a 15-year lineage: living style guides (2010s) → Atomic Design → design tokens (Salesforce 2017, Style Dictionary) → W3C Design Tokens spec (stable October 2025) → Design.md."
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, knowledge-management, context-engineering, design-tokens]
 source: synthesis — design-in-ai corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

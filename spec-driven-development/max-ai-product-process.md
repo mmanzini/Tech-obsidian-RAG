@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Max's AI-First Product Development Process
-description: This is Max's opinionated end-to-end process for building AI-first products, covering five phases: Investigation, Product Definition, Product Refinement, Product Development, and Iteration.
+description: "This is Max's opinionated end-to-end process for building AI-first products, covering five phases: Investigation, Product Definition, Product Refinement, Product Development, and Iteration."
 bucket: ai-engineering
 topic: spec-driven-development
-tags: []
+tags: [spec-driven-development, agent-workflows, product-management, agent-architecture]
 source: self-authored — Massimiliano Manzini
 resource:
 timestamp: 2026-05-09T07:23:23Z

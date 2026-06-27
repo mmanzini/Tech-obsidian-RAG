@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: AI Prototyping for Product Managers
-description: Colin Matthews' guide for non-technical PMs covers how to turn PRDs into working prototypes in minutes using cloud dev environments (v0, Bolt, Replit, Lovable), with tool selection matched to use case: v0 for polished UI, Bolt for speed, Replit for data/internal tools, Lovable for productionisable integrations.
+description: "Colin Matthews' guide for non-technical PMs covers how to turn PRDs into working prototypes in minutes using cloud dev environments (v0, Bolt, Replit, Lovable), with tool selection matched to use case: v0 for polished UI, Bolt for speed, Replit for data/internal tools, Lovable for productionisable integrations."
 bucket: ai-engineering
 topic: product-management
-tags: []
+tags: [product-management, design-in-ai, agent-workflows, ai-native-business]
 source: https://www.lennysnewsletter.com/
 resource: https://www.lennysnewsletter.com/
 timestamp: 2026-05-29T15:24:58Z

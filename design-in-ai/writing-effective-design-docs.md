@@ -4,7 +4,7 @@ title: Writing Effective Design Docs
 description: Effective Design.md authoring requires specific values over descriptive language (hex codes over "a trustworthy blue"), semantic naming, structured formatting, discrete value lists to reduce hallucination, and explicit negative constraints (guardrails).
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, context-engineering, spec-driven-development]
 source: synthesis — design-in-ai corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

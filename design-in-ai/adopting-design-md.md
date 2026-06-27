@@ -4,7 +4,7 @@ title: Adopting Design.md
 description: Design.md adoption follows a four-level spectrum from no design context (Level 0) through full spec-driven workflow (Level 3), and most teams should start at Level 1 — a single Design.md file — and graduate only when the pain of skipping a level becomes obvious.
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, spec-driven-development, agent-workflows, product-management]
 source: synthesis — design-in-ai corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

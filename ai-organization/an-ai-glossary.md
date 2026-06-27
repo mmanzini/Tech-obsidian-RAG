@@ -4,7 +4,7 @@ title: An AI Glossary
 description: A concise reference covering ~20 foundational AI terms — from tokens, transformers, and LLMs through training methods (pre-training, fine-tuning, RLHF), working concepts (prompt engineering, RAG, evals, MCP), and frontier concepts (agents, vibe coding, AGI).
 bucket: ai-engineering
 topic: ai-organization
-tags: []
+tags: [knowledge-management, agent-architecture, mcp, evals, product-management]
 source: https://www.lennysnewsletter.com/p/an-ai-glossary
 resource: https://www.lennysnewsletter.com/p/an-ai-glossary
 timestamp: 2026-04-30T06:41:32Z

@@ -4,7 +4,7 @@ title: Coding Agent Model Comparison 2026 — DeepSeek V4 vs Opus 4.7 vs GPT 5.5
 description: A head-to-head benchmark of three frontier coding agents — GPT 5.5 in Codex, Opus 4.7 in Claude Code, and DeepSeek V4 in OpenCode — across standardised benchmarks and real-world creative coding tasks.
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
+tags: [claude-code, evals, agent-architecture, model-comparison]
 source: https://www.youtube.com/watch?v=uT2m7VD99qA
 resource: https://www.youtube.com/watch?v=uT2m7VD99qA
 timestamp: 2026-05-03T12:59:31Z

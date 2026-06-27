@@ -4,7 +4,7 @@ title: Accessibility and AI Design
 description: No current AI design tool — including Stitch, Figma AI, Framer AI, and Builder.io — produces WCAG-compliant output without manual review, failing consistently on colour contrast, touch targets, semantic HTML, ARIA attributes, and keyboard navigation.
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, evals, agent-workflows, accessibility]
 source: synthesis — design-in-ai corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

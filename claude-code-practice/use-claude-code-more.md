@@ -4,7 +4,7 @@ title: Everyone Should Be Using Claude Code More
 description: Crowdsourced from 500+ readers, this article reframes Claude Code as "Claude Agent" — a local, long-running agent with filesystem and CLI access — and documents 50 non-technical use cases spanning file admin, knowledge work, sales research, product ops, media production, and personal tasks.
 bucket: ai-engineering
 topic: claude-code-practice
-tags: []
+tags: [claude-code, agent-workflows, context-engineering, skills-and-hooks, mcp]
 source: https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code
 resource: https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code
 timestamp: 2026-05-29T15:24:58Z

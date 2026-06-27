@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Karpathy's LLM Knowledge Bases — Personal Workflow
-description: Karpathy describes his personal workflow for building LLM-powered knowledge bases: raw source documents are fed into a `raw/` directory, an LLM incrementally "compiles" a wiki of markdown articles with summaries and backlinks, and Obsidian serves as the human-readable frontend.
+description: "Karpathy describes his personal workflow for building LLM-powered knowledge bases: raw source documents are fed into a `raw/` directory, an LLM incrementally \"compiles\" a wiki of markdown articles with summaries and backlinks, and Obsidian serves as the human-readable frontend."
 bucket: ai-engineering
 topic: knowledge-engineering
-tags: []
+tags: [knowledge-management, agent-memory, claude-code, agent-workflows]
 source: https://x.com/karpathy/status/2039805659525644595
 resource: https://x.com/karpathy/status/2039805659525644595
 timestamp: 2026-06-20T21:43:14Z

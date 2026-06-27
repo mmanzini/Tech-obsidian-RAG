@@ -4,7 +4,7 @@ title: Cat Wu — Shipping Faster than Anyone Else at Anthropic
 description: Cat Wu (Head of Product, Claude Code & Cowork, Anthropic) argues that AI has compressed feature timelines from six months to one week, fundamentally reframing the PM's job as minimizing the distance from idea to user rather than coordinating multi-quarter roadmaps.
 bucket: ai-engineering
 topic: product-leader-interviews
-tags: []
+tags: [practitioner-interview, claude-code, product-management, ai-org-design, ai-native-business]
 source: Lenny's Podcast, Cat Wu (Head of Product, Claude Code & Cowork, Anthropic
 resource:
 timestamp: 2026-06-09T20:51:26Z

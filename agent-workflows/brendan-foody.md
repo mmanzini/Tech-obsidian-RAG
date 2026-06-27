@@ -4,7 +4,7 @@ title: Brendan Foody — The era of evals
 description: Brendan Foody (CEO, Mercor) grew his expert-data marketplace from $1 to $400M ARR in 16 months by recognizing that frontier AI labs need credentialed expert raters — doctors, lawyers, senior engineers — not generalist crowds, and are willing to pay $500/hr for them.
 bucket: ai-engineering
 topic: agent-workflows
-tags: []
+tags: [evals, practitioner-interview, ai-native-business, product-management, ai-org-design]
 source: https://www.youtube.com/watch?v=ja6fWTDPQl4
 resource: https://www.youtube.com/watch?v=ja6fWTDPQl4
 timestamp: 2026-05-09T06:59:45Z

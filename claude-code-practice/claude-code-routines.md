@@ -4,7 +4,7 @@ title: Claude Code Routines
 description: Routines are saved Claude Code configurations that run autonomously on Anthropic-managed cloud infrastructure — no local machine required.
 bucket: ai-engineering
 topic: claude-code-practice
-tags: []
+tags: [claude-code, long-running-agents, skills-and-hooks, mcp, agent-workflows]
 source: https://code.claude.com/docs/en/routines
 resource: https://code.claude.com/docs/en/routines
 timestamp: 2026-05-17T08:21:13Z

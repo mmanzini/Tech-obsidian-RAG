@@ -4,7 +4,7 @@ title: MCP Apps — Interactive UI Inside MCP Hosts
 description: MCP Apps extend the Model Context Protocol to allow servers to return interactive HTML interfaces — data visualisations, forms, dashboards — that render directly inside the chat conversation via a sandboxed iframe.
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
+tags: [mcp, design-in-ai, harness-engineering, agent-architecture]
 source: https://modelcontextprotocol.io/extensions/apps/overview
 resource: https://modelcontextprotocol.io/extensions/apps/overview
 timestamp: 2026-05-25T00:17:36Z

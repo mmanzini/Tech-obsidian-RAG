@@ -4,7 +4,7 @@ title: SDD Roles and Boundaries
 description: SDD defines three roles — Product Owner (owns intent and acceptance criteria), Developer (owns design and validation), and AI Agent (drafts and implements within declared boundaries) — and governs agent behaviour through a per-spec Always/Ask/Never framework.
 bucket: ai-engineering
 topic: spec-driven-development
-tags: []
+tags: [spec-driven-development, agent-workflows, ai-org-design, agent-architecture]
 source: synthesis — spec-driven-development corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

@@ -4,7 +4,7 @@ title: Emerging Practices
 description: The AI-assisted design documentation landscape is converging on a multi-file approach (DESIGN.md + AGENTS.md + SDD specs) rather than a single standard, with MCP becoming the universal integration layer between agents and design tools — potentially reducing Design.md's standalone role if agents can read directly from Figma.
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, spec-driven-development, mcp, agent-workflows]
 source: synthesis — design-in-ai corpus
 resource:
 timestamp: 2026-05-09T07:23:23Z

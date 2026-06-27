@@ -4,7 +4,7 @@ title: Alexander Embiricos — Codex Is a Teammate, Not a Tool
 description: Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from tools you invoke to teammates you delegate to asynchronously — a shift that drove a 20x usage jump after GPT-5 and allowed the Sora Android app to ship in 28 days with 2–3 engineers.
 bucket: ai-engineering
 topic: agent-architecture
-tags: []
+tags: [agent-architecture, harness-engineering, practitioner-interview, long-running-agents, ai-org-design]
 source: Lenny's Podcast, Alexander Embiricos (Product lead, OpenAI Codex; previously built Atlas browser at OpenAI
 resource:
 timestamp: 2026-05-09T06:59:45Z

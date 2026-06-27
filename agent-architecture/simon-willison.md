@@ -4,7 +4,7 @@ title: Simon Willison — We've Passed the Inflection Point
 description: Simon Willison (co-creator Django, coined "prompt injection") marks November 2025 as the inflection point when coding agents crossed from "mostly works" to "almost always does what you told it," with 95% of his own code now untyped by him.
 bucket: ai-engineering
 topic: agent-architecture
-tags: []
+tags: [agent-architecture, agent-workflows, ai-security, harness-engineering, practitioner-interview, ai-org-design]
 source: Lenny's Podcast, Simon Willison (co-creator of Django, creator of Datasette, coined "prompt injection," AI commentator at simonwillison.net
 resource:
 timestamp: 2026-05-09T06:59:45Z

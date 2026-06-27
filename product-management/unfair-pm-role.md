@@ -4,7 +4,7 @@ title: Product Manager Is an Unfair Role — So Work Unfairly
 description: Tal Raviv argues that the PM role is structurally unfair — PMs must ship without hiring/firing authority while absorbing org dysfunction — and that AI's "great flattening" makes this worse, requiring PMs to build private operating systems to survive.
 bucket: ai-engineering
 topic: product-management
-tags: []
+tags: [product-management, ai-org-design, knowledge-management, ai-native-business]
 source: https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role-so-work-unfairly
 resource: https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role-so-work-unfairly
 timestamp: 2026-05-25T00:17:36Z

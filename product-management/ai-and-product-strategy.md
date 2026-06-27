@@ -4,7 +4,7 @@ title: AI and Product Strategy
 description: AI accelerates strategy work but does not replace strategic thinking.
 bucket: ai-engineering
 topic: product-management
-tags: []
+tags: [product-management, ai-native-business, ai-org-design, constitutional-ai]
 source: https://www.linkedin.com/pulse/how-use-ai-create-winning-product-strategy-roman-pichler-3qfme/
 resource: https://www.linkedin.com/pulse/how-use-ai-create-winning-product-strategy-roman-pichler-3qfme/
 timestamp: 2026-06-09T21:01:35Z

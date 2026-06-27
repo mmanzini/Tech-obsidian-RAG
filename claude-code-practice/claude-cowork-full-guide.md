@@ -4,7 +4,7 @@ title: Claude Cowork — Full Practical Guide
 description: Claude Cowork is Claude's desktop agent interface for non-technical knowledge workers, providing the same underlying capabilities as Claude Code but with a more accessible UI, built-in connectors, and collaboration features for Pro/Team/Enterprise accounts.
 bucket: ai-engineering
 topic: claude-code-practice
-tags: []
+tags: [claude-code, skills-and-hooks, multi-agent, mcp, context-engineering, agent-workflows]
 source: YouTube — Ben AI, "Claude Cowork Full Course (2+ Hours)"
 resource:
 timestamp: 2026-05-17T08:21:13Z

@@ -4,7 +4,7 @@ title: Hamel Husain & Shreya Shankar — Error Analysis Is the Whole Eval Game
 description: Hamel Husain (ex-Airbnb, GitHub) and Shreya Shankar (Berkeley PhD) argue that 90% of eval value comes from systematic error analysis — open coding → axial coding — rather than benchmark scores, importing a grounded-theory methodology from social science into LLM trace review.
 bucket: ai-engineering
 topic: agent-workflows
-tags: []
+tags: [evals, agent-workflows, practitioner-interview, product-management, error-analysis]
 source: Lenny's Podcast — AI eval practitioners / course instructors
 resource:
 timestamp: 2026-05-09T06:59:45Z

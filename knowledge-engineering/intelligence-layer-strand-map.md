@@ -4,7 +4,7 @@ title: Intelligence-layer strand map
 description: The evergreen relationship narrative between Max's intelligence-layer / AI-PM project strands — seven independent projects, different targets, not stages of one project.
 bucket: ai-engineering
 topic: knowledge-engineering
-tags: []
+tags: [knowledge-management, harness-engineering, agent-memory, product-management, mcp]
 source: ../../../Resources/Projects/ai-driven-product-management/strand-map.md
 resource:
 timestamp: 2026-06-11T14:50:18Z

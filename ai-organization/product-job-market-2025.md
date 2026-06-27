@@ -4,7 +4,7 @@ title: State of the Product Job Market — 2025
 description: Lenny Rachitsky's mid-2025 hiring snapshot shows 6,000+ open PM roles globally — 53% above the 2023 low — alongside exploding AI-specific PM demand (688 explicitly AI PM roles) and continued geographic concentration in the Bay Area (~33% of AI roles).
 bucket: ai-engineering
 topic: ai-organization
-tags: []
+tags: [product-management, ai-org-design, ai-native-business]
 source: https://trueup.io/
 resource: https://trueup.io/
 timestamp: 2026-04-30T06:41:32Z

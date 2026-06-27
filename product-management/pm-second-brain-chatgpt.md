@@ -4,7 +4,7 @@ title: Build Your PM Second Brain with ChatGPT
 description: Amir Klein describes how loading a ChatGPT Project with all the context fragments a PM carries (PRDs, Slack exports, research transcripts, decks as PDFs) transforms it into an instantaneous librarian plus associate PM — surfacing key insights and generating tailored communications across five audiences from a single word-dump.
 bucket: ai-engineering
 topic: product-management
-tags: []
+tags: [product-management, knowledge-management, context-engineering, ai-native-business]
 source: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
 resource: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
 timestamp: 2026-05-29T15:24:58Z

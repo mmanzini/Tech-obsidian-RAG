@@ -4,7 +4,7 @@ title: Lazar Jovanovic — The Professional Vibe Coder
 description: Lazar Jovanovic (professional vibe coder, Lovable) has never written more than a console.log but ships real products full-time — a living demonstration that the technical bottleneck in software creation has shifted from code-writing to taste, judgment, and context clarity.
 bucket: ai-engineering
 topic: claude-code-practice
-tags: []
+tags: [practitioner-interview, context-engineering, spec-driven-development, agent-workflows, design-in-ai]
 source: Lenny's Podcast — First official vibe-coding engineer at Lovable
 resource:
 timestamp: 2026-05-17T08:21:13Z

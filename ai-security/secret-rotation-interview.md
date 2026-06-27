@@ -1,10 +1,10 @@
 ---
 type: synthesis
-title: Secret Rotation: The Political Blocker
-description: A platform engineer interview on the state of credential and secret rotation reveals that the real blocker is not technical capability but organisational politics: legacy contractor consumers with no clean rollover story, and the absence of executive cover to deliberately break things.
+title: "Secret Rotation: The Political Blocker"
+description: "A platform engineer interview on the state of credential and secret rotation reveals that the real blocker is not technical capability but organisational politics: legacy contractor consumers with no clean rollover story, and the absence of executive cover to deliberately break things."
 bucket: ai-engineering
 topic: ai-security
-tags: []
+tags: [ai-security, practitioner-interview, ai-org-design]
 source: Resources/transcriptions/sample-transcription.md
 resource:
 timestamp: 2026-04-29T21:24:51Z

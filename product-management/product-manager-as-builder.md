@@ -4,7 +4,7 @@ title: Product Manager as Builder
 description: A *product builder* is a PM who actively co-creates the product — making prototypes, generating code, building mock-ups — rather than solely directing others.
 bucket: ai-engineering
 topic: product-management
-tags: []
+tags: [product-management, ai-org-design, agent-workflows, ai-native-business]
 source: https://www.romanpichler.com/blog/product-managers-product-builders/
 resource: https://www.romanpichler.com/blog/product-managers-product-builders/
 timestamp: 2026-05-29T15:24:58Z

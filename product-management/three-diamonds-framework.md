@@ -1,10 +1,11 @@
 ---
 type: synthesis
-title: The Three-Diamond Framework: Strategy, Discovery, and Delivery
-description: The AI product discourse is fixated on the third diamond — how to go from spec to code.
+title: |-
+  The Three-Diamond Framework: Strategy, Discovery, and Delivery
+  description: The AI product discourse is fixated on the third diamond — how to go from spec to code.
 bucket: ai-engineering
 topic: product-management
-tags: []
+tags: [product-management, agent-workflows, ai-native-business, spec-driven-development]
 source: ../../../Resources/Projects/articles-and-essays/001-the-last-third-of-product-development/001-the-last-third-of-product-development.md
 resource:
 timestamp: 2026-05-31T23:20:23Z

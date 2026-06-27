@@ -4,7 +4,7 @@ title: Sandcastle — AFK Software Factory
 description: Sandcastle is a TypeScript library for orchestrating AI coding agents inside isolated sandboxes.
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
+tags: [harness-engineering, long-running-agents, agent-workflows, multi-agent, claude-code]
 source: https://www.youtube.com/watch?v=E5-QK3CDVQM
 resource: https://www.youtube.com/watch?v=E5-QK3CDVQM
 timestamp: 2026-05-03T12:59:31Z

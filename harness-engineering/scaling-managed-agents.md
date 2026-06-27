@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Scaling Managed Agents — Decoupling Brain from Hands
-description: Anthropic's Managed Agents service solves a long-standing infrastructure problem: how to build a system for "programs as yet unthought of." By virtualizing the three components of an agent — harness (brain), sandbox (hands), and session (log) — into independent interfaces, each can fail or be replaced without disturbing the others.
+description: "Anthropic's Managed Agents service solves a long-standing infrastructure problem: how to build a system for \"programs as yet unthought of.\" By virtualizing the three components of an agent — harness (brain), sandbox (hands), and session (log) — into independent interfaces, each can fail or be replaced without disturbing the others."
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
+tags: [agent-architecture, harness-engineering, long-running-agents, agent-memory]
 source: https://www.anthropic.com/engineering/managed-agents
 resource: https://www.anthropic.com/engineering/managed-agents
 timestamp: 2026-04-29T21:24:51Z

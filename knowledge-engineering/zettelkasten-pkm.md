@@ -1,10 +1,10 @@
 ---
 type: synthesis
 title: Zettelkasten — Foundational PKM Methodology
-description: A Zettelkasten (German: "slipbox") is a system of atomic notes on small cards or slips, linked to each other through subject headings, sequential numbering, tags, and cross-references.
+description: "A Zettelkasten (German: \"slipbox\") is a system of atomic notes on small cards or slips, linked to each other through subject headings, sequential numbering, tags, and cross-references."
 bucket: ai-engineering
 topic: knowledge-engineering
-tags: []
+tags: [knowledge-management, agent-memory, context-engineering, agent-architecture]
 source: ../../../Resources/web-clippings/2026-04-22-Zettelkasten%20-%20Wikipedia.md
 resource:
 timestamp: 2026-05-17T08:21:13Z

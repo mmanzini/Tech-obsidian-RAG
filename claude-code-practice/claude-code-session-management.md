@@ -4,7 +4,7 @@ title: Claude Code Session Management and 1M Context
 description: How you manage sessions, context, and compaction in Claude Code shapes results more than most users expect.
 bucket: ai-engineering
 topic: claude-code-practice
-tags: []
+tags: [claude-code, context-engineering, multi-agent, long-running-agents, agent-workflows]
 source: https://claude.com/blog/using-claude-code-session-management-and-1m-context
 resource: https://claude.com/blog/using-claude-code-session-management-and-1m-context
 timestamp: 2026-05-17T08:21:13Z

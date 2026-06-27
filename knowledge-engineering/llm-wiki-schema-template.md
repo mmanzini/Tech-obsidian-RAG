@@ -4,7 +4,7 @@ title: LLM Wiki Schema Template — Simple Single-Vault CLAUDE.md
 description: A minimal CLAUDE.md template for a single-topic LLM wiki maintained by Claude Code, based on Andrej Karpathy's LLM Wiki pattern.
 bucket: ai-engineering
 topic: knowledge-engineering
-tags: []
+tags: [knowledge-management, claude-code, agent-workflows, harness-engineering]
 source: ../../../Resources/documents/templates/LLM_wiki_schema_template_CLAUDE.md
 resource:
 timestamp: 2026-05-17T08:21:13Z

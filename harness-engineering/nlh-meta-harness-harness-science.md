@@ -4,8 +4,8 @@ title: NLH, Meta Harness, and the Science of Harness Engineering
 description: Two 2026 research systems — Tingua's Natural Language Harness (NLH) and Stanford's Meta Harness — formalise harness engineering as a distinct discipline, backed by empirical evidence of a 6× performance gap on the same model driven entirely by orchestration code.
 bucket: ai-engineering
 topic: harness-engineering
-tags: []
-source: YouTube — PY channel, "Rethinking AI Agents: The Rise of Harness Engineering"
+tags: [harness-engineering, agent-architecture, evals, agent-workflows]
+source: "YouTube — PY channel, \"Rethinking AI Agents: The Rise of Harness Engineering\""
 resource:
 timestamp: 2026-05-09T07:33:19Z
 status: active

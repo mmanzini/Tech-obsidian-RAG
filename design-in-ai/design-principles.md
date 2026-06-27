@@ -4,7 +4,7 @@ title: Design Principles for AI-Assisted Development
 description: Ten cross-cutting principles that emerge from the convergence of SDD, Kiro, RPI, Design.md and industry research.
 bucket: ai-engineering
 topic: design-in-ai
-tags: []
+tags: [design-in-ai, spec-driven-development, agent-workflows, context-engineering]
 source: ../../../Resources/documents/frameworks/Design in AI/Core Concepts/Principles.md
 resource:
 timestamp: 2026-04-30T06:41:32Z
