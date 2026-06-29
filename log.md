@@ -1,5 +1,12 @@
 # Change log — ai-engineering
 
+## 2026-06-27
+- consolidate knowledge-engineering/ — updated open-knowledge-format (mirror-README auto-gen + T042); source deleted
+- consolidate knowledge-engineering/ — dup of 06-22 mirror-README; folded; source deleted
+- consolidate knowledge-engineering/ — new okf-type-tags-and-obsidian-bases; source deleted
+- consolidate knowledge-engineering/ — dup of 06-27-1531; folded; source deleted
+- consolidate knowledge-engineering/ — new agentic-knowledge-engine-overview (essay synthesis); context-pack read for context; source kept
+
 ## 2026-06-21
 - consolidate knowledge-engineering/ — new reference article okf-spec-v0-1 (normative OKF v0.1 spec)
 - consolidate knowledge-engineering/ — updated open-knowledge-format with bucket-as-bundle decision; source deleted

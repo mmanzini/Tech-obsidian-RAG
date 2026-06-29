@@ -11,6 +11,8 @@ timestamp: 2026-06-21T22:30:00Z
 status: active
 related:
   - ai-engineering/knowledge-engineering/okf-spec-v0-1.md
+  - ai-engineering/knowledge-engineering/agentic-knowledge-engine-overview.md
+  - ai-engineering/knowledge-engineering/okf-type-tags-and-obsidian-bases.md
   - ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
   - ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
   - ai-engineering/knowledge-engineering/zettelkasten-pkm.md
@@ -65,6 +67,10 @@ When aligning Atlas to OKF, Max rejected a manual `export` step in favour of mak
 
 Concrete direction taken: remove the `_export/` folder and verb entirely; make each `Intelligence/<bucket>/` an in-place OKF bundle; rename routers to `index.md` **natively** (chosen over a derived-dual or frontmatter-only option despite the larger blast radius); fold the retained conformance check and per-bucket `log.md` generation into the consolidate auto-chain (now `Intelligence/_search/okf_tools.py`); apply to all buckets and refresh automatically. The payoff: a bucket's existing GitHub mirror is itself a clean OKF bundle with no separate export step (source: 2026-06-21-buckets-as-okf-surface.md). The same change was propagated to the public `agentic-knowledge-engine` boilerplate and its mirror on the `okf-alignment` branch (source: session-2026-06-21-1122.md). For the spec rules this conformance is measured against, see [[okf-spec-v0-1]].
 
+## Mirror READMEs generated from the wiki (no hand-maintenance)
+
+The same single-source-of-truth instinct closed the last drift gap: the public mirror READMEs. Rather than hand-writing or syncing them, they are auto-generated from Atlas via `okf_tools.py --readme <bucket>` — the shared OKF section is a centralised constant in the tool, and the per-bucket specifics are parsed live from that bucket's `index.md`. This is wired into `sync-repo.sh`, so every sync regenerates the mirror README from the wiki and it cannot drift from the source (source: session-2026-06-22-0814.md, session-2026-06-23-1601.md). With that mechanism validated end-to-end, the two public mirrors — `ai-engineering-wiki` (171 articles) and `political-economy-wiki` (69 articles) — were verified OKF-conformant on `main` with current auto-generated READMEs, completing the mirror catch-up (board T042). A side clarification settled during this work: the `<concept>.md` in the Google spec is a metavariable (every article is a concept file), so Atlas already conforms with no structural gap (source: session-2026-06-22-0814.md). The remaining open item is the `okf-alignment` → `main` merge in the Atlas and engine repos, which is a deliberate human decision still pending (source: session-2026-06-22-0814.md).
+
 ## Key Takeaways
 
 - OKF = the LLM-wiki pattern (markdown + YAML frontmatter + cross-links + `index.md`) standardised as a portable, vendor-neutral interoperability format — a format, not a platform.
@@ -74,6 +80,8 @@ Concrete direction taken: remove the `_export/` folder and verb entirely; make e
 
 ## Related
 
+- [[agentic-knowledge-engine-overview]] · [The agentic knowledge engine — overview](agentic-knowledge-engine-overview.md) — the end-to-end engine narrative this portability layer plugs into
+- [[okf-type-tags-and-obsidian-bases]] · [Type vs tags, content-tag backfill, and Obsidian Bases](okf-type-tags-and-obsidian-bases.md) — how the required `type` field and content `tags` are used and consumed downstream
 - [[okf-spec-v0-1]] · [OKF v0.1 — normative specification](okf-spec-v0-1.md) — the exact bundle/concept/conformance rules behind this overview
 - [[karpathy-llm-knowledge-bases]] · [Karpathy's LLM Knowledge Bases](karpathy-llm-knowledge-bases.md) — the upstream LLM-wiki pattern OKF formalises
 - [[llm-wiki-schema-template]] · [LLM Wiki Schema Template](llm-wiki-schema-template.md) — the minimal markdown-wiki template OKF generalises into a standard
