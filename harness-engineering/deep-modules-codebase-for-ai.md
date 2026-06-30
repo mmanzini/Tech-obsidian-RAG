@@ -2,7 +2,7 @@
 type: synthesis
 title: Deep Modules — Designing Your Codebase for AI
 description: Codebase structure is a larger determinant of AI agent output quality than prompts or instruction files, because agents land cold on a repo with no mental map and can only navigate the literal import graph.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [harness-engineering, agent-architecture, context-engineering, agent-workflows]
 source: https://www.youtube.com/watch?v=uC44zFz7JSM

@@ -2,7 +2,7 @@
 type: synthesis
 title: Garrett Lord — Audience is the only moat
 description: Garrett Lord (CEO, Handshake) grew Handshake AI from $0 to $50M ARR in four months by leveraging his pre-existing warm access to 500K PhDs and ~3M Master's students — an audience no competitor could replicate — as the wedge into the frontier AI expert-data market.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-leader-interviews
 tags: [practitioner-interview, ai-native-business, product-management]
 source: https://www.youtube.com/watch?v=0qdR-XwHJ9o

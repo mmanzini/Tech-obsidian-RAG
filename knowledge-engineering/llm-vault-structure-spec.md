@@ -1,8 +1,8 @@
 ---
 type: synthesis
-title: LLM Vault Structure Spec — Bucket/Topic/Article Architecture
-description: "The design document that specified the Atlas vault's two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **buckets** as macro groups and agent-curated **topics** as clusters within buckets."
-bucket: ai-engineering
+title: LLM Vault Structure Spec — Bundle/Topic/Article Architecture
+description: "The design document that specified the Atlas vault's two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **bundles** as macro groups and agent-curated **topics** as clusters within bundles."
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, harness-engineering, agent-workflows, spec-driven-development]
 source: ../../../Resources/documents/templates/LLM Vault structure.md
@@ -16,7 +16,7 @@ related:
   - ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
 ---
 
-# LLM Vault Structure Spec — Bucket/Topic/Article Architecture
+# LLM Vault Structure Spec — Bundle/Topic/Article Architecture
 
 **Source:** [LLM Vault structure.md](../../../Resources/documents/templates/LLM Vault structure.md)
 
@@ -24,7 +24,7 @@ related:
 
 ## Summary
 
-The design document that specified the Atlas vault's two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **buckets** as macro groups and agent-curated **topics** as clusters within buckets. This spec defines the folder schemas, README flags, `_master-index.md` and `_index.md` conventions, wiki article format, image handling, and the consolidate/refine verbs — the precursor to the current `schema.md` and `CLAUDE.md`.
+The design document that specified the Atlas vault's two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **bundles** as macro groups and agent-curated **topics** as clusters within bundles. This spec defines the folder schemas, README flags, `_master-index.md` and `_index.md` conventions, wiki article format, image handling, and the consolidate/refine verbs — the precursor to the current `schema.md` and `CLAUDE.md`.
 
 ## The Design Intent
 
@@ -32,9 +32,9 @@ Extending Karpathy's Obsidian RAG pattern into a single vault-wide pipeline (sou
 
 ## Two-Layer Hierarchy
 
-**Buckets** (top-level inside `Intelligence/`, e.g. `tech-research/`, `political-economy/`) — user-created macro groups. Each has a `_master-index.md` declaring scope and listing topics. The agent never invents new buckets (source: LLM Vault structure.md).
+**Bundles** (top-level inside `Intelligence/`, e.g. `tech-research/`, `political-economy/`) — user-created macro groups. Each has a `_master-index.md` declaring scope and listing topics. The agent never invents new bundles (source: LLM Vault structure.md).
 
-**Topics** (one level deeper, e.g. `tech-research/agent-workflows/`) — agent-created clusters during `consolidate`. Topic creation is the agent's job; bucket creation is the human's (source: LLM Vault structure.md).
+**Topics** (one level deeper, e.g. `tech-research/agent-workflows/`) — agent-created clusters during `consolidate`. Topic creation is the agent's job; bundle creation is the human's (source: LLM Vault structure.md).
 
 ## Resources Subfolder README Flags
 
@@ -52,9 +52,9 @@ delete_after_consolidation: true # false → sources stay after consolidation
 
 ## Index Schemas
 
-**`_master-index.md`** (bucket level): scope paragraph + topics list with one-line descriptions (source: LLM Vault structure.md).
+**`_master-index.md`** (bundle level): scope paragraph + topics list with one-line descriptions (source: LLM Vault structure.md).
 
-**`_index.md`** (topic level): cluster description + articles list + `Related Topics` block. Related Topics may link within the same bucket only (source: LLM Vault structure.md).
+**`_index.md`** (topic level): cluster description + articles list + `Related Topics` block. Related Topics may link within the same bundle only (source: LLM Vault structure.md).
 
 ## Article Schema
 
@@ -72,8 +72,8 @@ When a source references an image (source: LLM Vault structure.md):
 
 The spec's consolidate algorithm (source: LLM Vault structure.md):
 1. Walk `Resources/`, skip `include_in_consolidation: false` folders.
-2. Assign each source to the best-fit bucket(s) by comparing content against `_master-index.md` scope paragraphs. No fit → quarantine to `_unsorted/`.
-3. Within the bucket, pick the best-fit topic. No fit → create a new topic with `_index.md`, register in `_master-index.md`.
+2. Assign each source to the best-fit bundle(s) by comparing content against `_master-index.md` scope paragraphs. No fit → quarantine to `_unsorted/`.
+3. Within the bundle, pick the best-fit topic. No fit → create a new topic with `_index.md`, register in `_master-index.md`.
 4. Write/update the article using the schema.
 5. Update `_index.md`, `_master-index.md`, `Intelligence/index.md` as needed.
 6. Append to `Intelligence/log.md`.
@@ -82,16 +82,16 @@ The spec's consolidate algorithm (source: LLM Vault structure.md):
 ## Scope and Limitations Surfaced
 
 The spec explicitly asks two open questions before generating the starter vault (source: LLM Vault structure.md):
-- Which domain to seed the example buckets with.
-- Whether duplicated articles across buckets should track each other (e.g. shared front-matter ID) or stay fully independent copies.
+- Which domain to seed the example bundles with.
+- Whether duplicated articles across bundles should track each other (e.g. shared front-matter ID) or stay fully independent copies.
 
-The current Atlas implementation chose: fully independent copies with no cross-bucket tracking.
+The current Atlas implementation chose: fully independent copies with no cross-bundle tracking.
 
 ## Key Takeaways
 
-- The two-zone, two-layer design separates human curation (buckets) from agent curation (topics and articles).
+- The two-zone, two-layer design separates human curation (bundles) from agent curation (topics and articles).
 - README flags (`include_in_consolidation`, `delete_after_consolidation`) are the orchestration control surface for each input folder.
-- The same article can live in multiple buckets — copying is preferred over cross-bucket linking.
+- The same article can live in multiple bundles — copying is preferred over cross-bundle linking.
 - `_master-index.md` scope paragraphs are the routing signal; they must be precise enough to route new sources correctly.
 - This spec is the direct precursor to the current `schema.md` and `CLAUDE.md`.
 

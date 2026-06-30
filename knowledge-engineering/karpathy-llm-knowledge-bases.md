@@ -2,7 +2,7 @@
 type: synthesis
 title: Karpathy's LLM Knowledge Bases — Personal Workflow
 description: "Karpathy describes his personal workflow for building LLM-powered knowledge bases: raw source documents are fed into a `raw/` directory, an LLM incrementally \"compiles\" a wiki of markdown articles with summaries and backlinks, and Obsidian serves as the human-readable frontend."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, agent-memory, claude-code, agent-workflows]
 source: https://x.com/karpathy/status/2039805659525644595
@@ -75,7 +75,7 @@ Karpathy flags synthetic data generation and finetuning as the next frontier: on
 ## Related
 
 - [[autoresearch-methodology]] — Karpathy's autoresearch pattern (overnight GPU loops, program.md steering); Atlas's direct precursor
-- [[llm-vault-structure-spec]] — the architectural spec that formalises bucket/topic/article layers derived from this workflow
+- [[llm-vault-structure-spec]] — the architectural spec that formalises bundle/topic/article layers derived from this workflow
 - [[llm-wiki-schema-template]] — the minimal flat wiki template (raw/ + wiki/) that Atlas extends
 - [[zettelkasten-pkm]] — foundational PKM methodology underlying the linked-article pattern
 - [[atlas-sync-architecture]] — Atlas's concrete implementation of this pattern across multiple repos

@@ -2,7 +2,7 @@
 type: synthesis
 title: Examples and Resources
 description: A reference article pointing to real-world Design.md files, tutorials, case studies, and research on AI-assisted design.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: design-in-ai
 tags: [design-in-ai, spec-driven-development, knowledge-management, context-engineering]
 source: synthesis — design-in-ai corpus

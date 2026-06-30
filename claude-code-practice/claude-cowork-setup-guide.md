@@ -2,7 +2,7 @@
 type: synthesis
 title: Claude Cowork Setup Guide — 7 Steps for Non-Technical Users
 description: A 7-step practical guide to setting up Claude Cowork (the Claude desktop app's agentic workspace) for non-technical users.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [claude-code, harness-engineering, context-engineering, agent-memory, skills-and-hooks, mcp]
 source: ../../../Resources/transcriptions/you-tube/transcript-set-up-claude-cowork-better-than-99-of-people.md

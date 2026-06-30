@@ -2,7 +2,7 @@
 type: synthesis
 title: AI Design Tool Comparison
 description: A structured comparison of AI design generation tools (Stitch, v0, Builder.io, Relume, Figma Make), design tools with AI features (Figma, Framer, Penpot), and the Design.md ecosystem tooling (TypeUI, VoltAgent, DesignMD.ai).
-bucket: ai-engineering
+bundle: ai-engineering
 topic: design-in-ai
 tags: [design-in-ai, product-management, mcp, spec-driven-development]
 source: synthesis — design-in-ai corpus

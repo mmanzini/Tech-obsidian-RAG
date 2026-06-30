@@ -2,7 +2,7 @@
 type: synthesis
 title: Asha Sharma — The product-as-organism
 description: Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — they learn continuously between ships, so planning in 8–12 week "seasons" with a shared evaluation harness replaces annual roadmaps.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-leader-interviews
 tags: [practitioner-interview, product-management, ai-org-design, evals, ai-native-business]
 source: https://www.youtube.com/watch?v=J9UWaltU-7Q
@@ -42,7 +42,7 @@ Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — the
 ## Organisational implications
 - The work chart drives the org chart: if the loop is data → model → eval → ship, you need a squad that owns the whole loop
 - Traditional PM/engineer/designer lanes break; Sharma favours small closed-loop pods with shared eval ownership
-- Loop-not-lane operating models are the structural implication (see way-of-working bucket)
+- Loop-not-lane operating models are the structural implication (see way-of-working bundle)
 
 ## Satya's renewable optimism
 - Sharma quotes Nadella: "optimism is renewable" — leadership at this pace requires manufacturing belief every morning

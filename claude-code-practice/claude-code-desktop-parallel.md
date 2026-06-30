@@ -2,7 +2,7 @@
 type: synthesis
 title: Claude Code Desktop Redesign for Parallel Agents
 description: The Claude Code desktop app has been redesigned for parallel agentic work — multiple sessions running across different repos simultaneously, with the human acting as orchestrator rather than driver.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [claude-code, multi-agent, agent-workflows, context-engineering]
 source: https://claude.com/blog/claude-code-desktop-redesign

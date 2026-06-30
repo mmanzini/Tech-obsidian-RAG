@@ -2,7 +2,7 @@
 type: synthesis
 title: Memory's three jobs — storage, injection, recall — and Atlas's tier adoption
 description: "Simon Scrapes' video decomposes agent memory into three jobs — storage, injection, recall — and assembles a \"best of each framework\" system inside Claude Code from Hermes, Memarch/MemSearch and GBrain parts (source: transcript-i-built-the-best-claude-memory-system.md)."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [agent-memory, context-engineering, knowledge-management, claude-code]
 source: https://www.youtube.com/watch?v=H9BUkgDf5Y4

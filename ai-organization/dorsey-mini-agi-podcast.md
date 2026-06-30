@@ -2,7 +2,7 @@
 type: synthesis
 title: "Jack Dorsey: Every Company Can Now Be a Mini-AGI"
 description: Jack Dorsey explains Block's December 2025 decision to execute a 40% RIF in under three weeks, driven by the thesis that AI has crossed the threshold where it can replace what middle management does — making hierarchy structurally obsolete rather than merely augmentable.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: ai-organization
 tags: [ai-org-design, ai-native-business, practitioner-interview]
 source: Sequoia *Long Strange Trip* podcast (Brian Halligan host, April 2026) — with Jack Dorsey (Block CEO) and Roelof Botha (Sequoia

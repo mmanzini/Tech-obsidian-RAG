@@ -9,8 +9,8 @@
 
 ## 2026-06-21
 - consolidate knowledge-engineering/ — new reference article okf-spec-v0-1 (normative OKF v0.1 spec)
-- consolidate knowledge-engineering/ — updated open-knowledge-format with bucket-as-bundle decision; source deleted
-- consolidate knowledge-engineering/ — folded into open-knowledge-format update + signal-buckets-as-okf-surface; source deleted
+- consolidate knowledge-engineering/ — updated open-knowledge-format with bundle-as-bundle decision; source deleted
+- consolidate knowledge-engineering/ — folded into open-knowledge-format update + signal-bundles-as-okf-surface; source deleted
 
 ## 2026-06-20
 - consolidate knowledge-engineering/ — new: open-knowledge-format.md; OKF v0.1 spec; source deleted

@@ -2,7 +2,7 @@
 type: synthesis
 title: Deployment Simulation — predicting model behaviour before release
 description: OpenAI's method for forecasting undesired model behaviour pre-release by replaying real past conversations through a candidate model.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: agent-architecture
 tags: [evaluation, safety, alignment, deployment-simulation, openai, eval-awareness]
 source: Resources/web-clippings/2026-06-19-Predicting model behavior before release by simulating deployment.md

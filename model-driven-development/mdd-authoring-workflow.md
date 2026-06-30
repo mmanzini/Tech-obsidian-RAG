@@ -2,7 +2,7 @@
 type: synthesis
 title: MDD — The Authoring Workflow (Adoption, Modelling, Transformations)
 description: "The practitioner workflow for doing model-driven development, distilled from the Standard's eight Guides: how to adopt MDD incrementally, how to get from domain knowledge to a precise model, how to keep the PIM portable, how to generate the PSM and code, and how to build transformations that earn trust."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: model-driven-development
 tags: [model-driven-development, spec-driven-development, agent-workflows]
 source: ../../../Resources/documents/frameworks/Model-driven-development/Guides/

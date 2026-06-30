@@ -5,7 +5,7 @@ AI-accelerated strategy, AI-prototyping workflows, eval design for AI
 products, the PM-as-builder role enabled by AI, and the AI-altered
 shape of the PM job itself. Evergreen PM craft (lifecycle, empowerment,
 discovery, team design) lives in the top-level `product-management`
-bucket.
+bundle.
 
 ## Articles
 

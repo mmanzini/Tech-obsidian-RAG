@@ -2,7 +2,7 @@
 type: synthesis
 title: Episodic Memory for Agents — Amazon Bedrock AgentCore
 description: How AgentCore turns raw agent conversations into structured episodes and reflections, recalled at inference, with τ2-bench benchmarks showing higher task success.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: agent-architecture
 tags: [episodic-memory, agent-memory, reflection, agentcore, aws, benchmarks]
 source: Resources/web-clippings/2026-06-02-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md
@@ -91,4 +91,4 @@ The lesson: match the retrieval mode to the task — reflections for open-ended 
 
 - [[twelve-factor-agents|Twelve-Factor Agents]] — production-agent principles; episodic memory addresses the cross-session learning gap they assume away
 - [[pinecone-nexus-knowledge-engine|Pinecone Nexus — Knowledge Engine for Agents]] — the semantic/context layer for agents; episodic memory is the complementary experience layer
-- [[../knowledge-engineering/index|Knowledge Engineering]] — the Atlas vault adopts this episodic/semantic split: buckets as semantic memory, an `_episodes/` zone for experiences recalled at run-start
+- [[../knowledge-engineering/index|Knowledge Engineering]] — the Atlas vault adopts this episodic/semantic split: bundles as semantic memory, an `_episodes/` zone for experiences recalled at run-start

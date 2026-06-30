@@ -2,7 +2,7 @@
 type: synthesis
 title: Validation Gates — FAR & FACTS
 description: FAR (Factual, Actionable, Relevant) gates the research-to-planning transition; FACTS (Feasible, Atomic, Clear, Testable, Scoped) gates the planning-to-implementation transition.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: rpi-methodology
 tags: [agent-workflows, evals, harness-engineering, spec-driven-development]
 source: self-authored

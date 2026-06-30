@@ -2,7 +2,7 @@
 type: synthesis
 title: Cache Diagnostics — Diagnosing Prompt Cache Misses
 description: Cache diagnostics is a beta Claude API feature that closes the gap between knowing a cache miss happened and knowing *why*.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [harness-engineering, context-engineering, prompt-caching]
 source: https://platform.claude.com/docs/en/build-with-claude/cache-diagnostics

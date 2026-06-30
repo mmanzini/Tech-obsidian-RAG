@@ -2,7 +2,7 @@
 type: synthesis
 title: Zettelkasten — Foundational PKM Methodology
 description: "A Zettelkasten (German: \"slipbox\") is a system of atomic notes on small cards or slips, linked to each other through subject headings, sequential numbering, tags, and cross-references."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, agent-memory, context-engineering, agent-architecture]
 source: ../../../Resources/web-clippings/2026-04-22-Zettelkasten%20-%20Wikipedia.md
@@ -87,9 +87,9 @@ Modern digital descendants include Obsidian, Roam Research, Logseq, and Notion �
 The Atlas vault implements a Zettelkasten-inspired architecture at every layer:
 
 - **Articles as Zetteln** — each article is atomic: one concept, one file. The article schema (Summary → Body sections → Key Takeaways → Related) mirrors the card structure of a Zettel.
-- **Wiki links as cross-references** — `[[article-name]]` links within a bucket are the digital equivalent of Luhmann's numbered references between cards. Hard rule 2 (no cross-bucket wiki links) enforces the same discipline that gave Luhmann's system its navigability.
-- **Topics as subject headings** — topic folders (`Intelligence/<bucket>/<topic>/`) correspond to the subject heading clusters that physically grouped related cards in a box.
-- **Buckets as separate Zettelkästen** — different research domains in separate boxes, each with its own internal coherence.
+- **Wiki links as cross-references** — `[[article-name]]` links within a bundle are the digital equivalent of Luhmann's numbered references between cards. Hard rule 2 (no cross-bundle wiki links) enforces the same discipline that gave Luhmann's system its navigability.
+- **Topics as subject headings** — topic folders (`Intelligence/<bundle>/<topic>/`) correspond to the subject heading clusters that physically grouped related cards in a box.
+- **Bundles as separate Zettelkästen** — different research domains in separate boxes, each with its own internal coherence.
 - **The `query` verb as retrieval** — walking `index.md` → `_master-index.md` → `_index.md` → article bodies replicates the Zettelkasten researcher's path: box → subject heading → individual card.
 - **The `consolidate` verb as ingestion** — converting raw sources into atomic articles replicates the act of writing a new Zettel from reading.
 

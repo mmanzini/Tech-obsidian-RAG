@@ -2,7 +2,7 @@
 type: synthesis
 title: Agentic OS — Eight-Component Architecture (Simon Scrapes)
 description: A practitioner's breakdown of an Agentic Operating System (Agentic OS) as eight interlocking components — structured context management under the AI tool rather than in it.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [agent-architecture, harness-engineering, context-engineering, knowledge-management]
 source: ../../../Resources/web-clippings/transcript-creating-your-own-agentic-os-is-easy.md

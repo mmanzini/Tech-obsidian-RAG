@@ -1,8 +1,8 @@
 # AI Engineering
 
-How to build with AI: agent architecture and workflows, the harness layer around coding agents (CLAUDE.md, MCP, skills, hooks, sub-agents, long-running patterns), structured methodologies (RPI, spec-driven development, adversarial review), AI-native verticals (banking, open-data apps), AI security, design tooling for agents, and the AI-bound PM craft (eval design for AI products, AI-prototyping, the AI-accelerated PM role). Belongs here: anything about *how to build well with AI* — tools, patterns, methodologies. Does **not** belong here: evergreen PM craft (that goes to top-level `product-management`); team/operating models that aren't AI-specific (that goes to top-level `way-of-working`); macro/geopolitical commentary on AI as market/policy (that goes to `political-economy`); raw GitHub trending repo writeups (`github-trends`). Boundary test for PM/WoW topics: *if I removed AI from the picture, would this article still make sense?* If yes, it belongs in the top-level bucket; if it is fundamentally about AI's effect on PM/team practice, it belongs here. Articles that fit both Scope paragraphs are duplicated per hard-rule 2.
+How to build with AI: agent architecture and workflows, the harness layer around coding agents (CLAUDE.md, MCP, skills, hooks, sub-agents, long-running patterns), structured methodologies (RPI, spec-driven development, adversarial review), AI-native verticals (banking, open-data apps), AI security, design tooling for agents, and the AI-bound PM craft (eval design for AI products, AI-prototyping, the AI-accelerated PM role). Belongs here: anything about *how to build well with AI* — tools, patterns, methodologies. Does **not** belong here: evergreen PM craft (that goes to top-level `product-management`); team/operating models that aren't AI-specific (that goes to top-level `way-of-working`); macro/geopolitical commentary on AI as market/policy (that goes to `political-economy`); raw GitHub trending repo writeups (`github-trends`). Boundary test for PM/WoW topics: *if I removed AI from the picture, would this article still make sense?* If yes, it belongs in the top-level bundle; if it is fundamentally about AI's effect on PM/team practice, it belongs here. Articles that fit both Scope paragraphs are duplicated per hard-rule 2.
 
-This repository is a public mirror of one bucket from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **173 articles across 19 topics**.
+This repository is a public mirror of one bundle from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **173 articles across 19 topics**.
 
 ## Topics
 
@@ -23,14 +23,14 @@ This repository is a public mirror of one bucket from a personal Obsidian RAG va
 - [Constitutional AI](constitutional-ai/) — Anthropic's approach to AI values: the CAI training method, Claude's 2026 constitution, and the shift from rules-list to explanatory document
 - [AI Security](ai-security/) — Defensive security strategies for AI-accelerated offense: patching, vulnerability management, zero trust, incident response
 - [AI Product Development](ai-product-development/) — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
-- [Product Management (AI-bound)](product-management/) — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bucket
+- [Product Management (AI-bound)](product-management/) — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bundle
 - [Model-Driven Development](model-driven-development/) — formal models as the primary artefact; CIM/PIM/PSM abstraction stack; transformations; classic OMG MDA vs modern DSLs/low-code/executable models/AI assistance; companion to Spec-Driven Development
 
 ## How this repository is structured (Open Knowledge Format)
 
 This repository is a conformant [**Open Knowledge Format (OKF) v0.1**](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. OKF is Google Cloud's vendor-neutral standard for agent-readable knowledge: a directory of markdown files, one concept per file, with YAML frontmatter and cross-links. No SDK, no database, no proprietary account — if you can `cat` a file you can read it; if you can `git clone` the repo you can ship it.
 
-A bucket of the parent vault *is* an OKF bundle in place — there is no separate export step. What that means here:
+Each bundle of the parent vault is OKF-conformant in place — there is no separate export step. What that means here:
 
 - **`index.md` routers** — `index.md` at the bundle root and in every topic folder is a directory listing for progressive disclosure: scan it to see what exists before opening articles.
 - **`<concept>.md` articles** — every other `.md` file is a concept document. Each opens with YAML frontmatter whose only required field is `type` (Atlas uses a small vocabulary: `synthesis`, `reference`, `analysis`, `digest`, …), followed by `title`, `description`, `tags`, `source`, `timestamp`, and a `related:` cross-link graph.
@@ -49,4 +49,4 @@ This repository syncs from the parent vault on a schedule; content is added or r
 
 ---
 
-<sub>README generated from Atlas (`okf_tools.py --readme ai-engineering`) — do not edit by hand; edit the bucket's `index.md` or the shared OKF section in the generator.</sub>
+<sub>README generated from Atlas (`okf_tools.py --readme ai-engineering`) — do not edit by hand; edit the bundle's `index.md` or the shared OKF section in the generator.</sub>

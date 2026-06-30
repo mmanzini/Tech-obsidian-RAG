@@ -2,7 +2,7 @@
 type: synthesis
 title: Built-in Memory for Claude Managed Agents
 description: Anthropic's Managed Agents memory feature lets agents persist and share knowledge across sessions as plain files — exportable, scoped, and fully auditable — without developers building custom memory infrastructure.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [agent-memory, long-running-agents, multi-agent, context-engineering, agent-architecture]
 source: https://claude.com/blog/claude-managed-agents-memory

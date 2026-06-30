@@ -2,7 +2,7 @@
 type: synthesis
 title: Getting Good at Claude — A Research-Backed Curriculum
 description: "Anthropic's research across 50,000+ conversations identifies two distinct tracks of AI fluency: description skills (how users shape Claude's output) grow naturally with exposure, while discernment skills (evaluating what Claude produces) must be explicitly taught."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: ai-organization
 tags: [ai-org-design, claude-code, knowledge-management, ai-fluency]
 source: https://claude.com/resources/tutorials/getting-good-at-claude-a-research-backed-curriculum

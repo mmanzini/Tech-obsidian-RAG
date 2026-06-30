@@ -2,7 +2,7 @@
 type: synthesis
 title: Getting Started with Google Stitch and Design.md
 description: A practical hands-on guide to using Google Stitch and the Design.md convention.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: design-in-ai
 tags: [design-in-ai, spec-driven-development, claude-code, knowledge-management]
 source: ../../../Resources/documents/frameworks/Design in AI/Guides/Getting Started with Stitch.md

@@ -2,7 +2,7 @@
 type: synthesis
 title: Claude Code GitHub Actions
 description: The Claude Code GitHub Action enables interactive Claude usage via `@claude` mentions in PR and issue comments, as well as headless automation when a `prompt:` parameter is provided — with mode auto-detected between these two paths as of v1.0.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: ci-integrations
 tags: [claude-code, agent-workflows, harness-engineering, skills-and-hooks]
 source: https://code.claude.com/docs/en/github-actions

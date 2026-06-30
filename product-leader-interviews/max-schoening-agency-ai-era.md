@@ -2,7 +2,7 @@
 type: synthesis
 title: Max Schoening — Agency, Malleable Software, and the Tiny Core
 description: Max Schoening argues that agency — not skills — is the thing that separates people who thrive in the AI era from those who fall behind.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-leader-interviews
 tags: [practitioner-interview, product-management, ai-native-business, agency]
 source: https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more

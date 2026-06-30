@@ -2,7 +2,7 @@
 type: synthesis
 title: Skill Issue — Harness Engineering for Coding Agents
 description: A comprehensive practitioner's guide to **harness engineering** — the art of leveraging a coding agent's configuration points (CLAUDE.md, MCP servers, skills, sub-agents, hooks, back-pressure) to improve output quality and task success rates.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [harness-engineering, claude-code, skills-and-hooks, context-engineering, multi-agent]
 source: https://www.hlyr.dev/blog/skill-issue-harness-engineering-for-coding-agents

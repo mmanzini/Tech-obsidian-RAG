@@ -2,7 +2,7 @@
 type: synthesis
 title: Adversarial Review
 description: Adversarial Review is a forced-reasoning technique where the reviewer **must** find issues — no "looks good" allowed.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: agent-workflows
 tags: [agent-workflows, evals, multi-agent, harness-engineering, ai-security]
 source: https://docs.bmad-method.org/explanation/adversarial-review/

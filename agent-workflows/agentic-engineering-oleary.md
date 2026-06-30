@@ -2,7 +2,7 @@
 type: synthesis
 title: Agentic Engineering — Brendan O'Leary (Kilo Code)
 description: Brendan O'Leary (Kilo Code) frames agentic engineering as directing a tireless but judgment-free junior developer — where the primary constraint is context quality, not model capability.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: agent-workflows
 tags: [agent-workflows, context-engineering, harness-engineering, mcp, skills-and-hooks]
 source: https://www.youtube.com/watch?v=BEKc4P87XKo
@@ -61,7 +61,7 @@ The talk's recommended workflow (see [[research-plan-implement|Research Plan Imp
 
 Highest-leverage human time is in research and planning, not implementation.
 
-## Agent Configuration — Three Buckets
+## Agent Configuration — Three Bundles
 
 - **Modes** — role-based behaviors (ask / architect / code).
 - **`agents.md`** — always-on project README for agents: conventions, build/test commands, requirements. Becoming the de facto standard file.

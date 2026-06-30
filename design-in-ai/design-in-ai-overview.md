@@ -2,7 +2,7 @@
 type: synthesis
 title: Design in AI — Overview
 description: Without explicit design context, AI agents produce functional but generic-looking interfaces that converge on the same default Tailwind components — because design intent has historically lived in Figma files and Slack conversations, none of which agents can read.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: design-in-ai
 tags: [design-in-ai, spec-driven-development, context-engineering, agent-workflows]
 source: synthesis — design-in-ai corpus

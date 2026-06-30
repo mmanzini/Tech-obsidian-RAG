@@ -2,7 +2,7 @@
 type: synthesis
 title: Scott Wu — Devin Is a Named Junior Engineer
 description: Scott Wu (CEO, Cognition) built Devin — a named autonomous junior engineer rather than a copilot feature — after 8 pivots, arguing that the wedge is ownership of a task end-to-end, not assistance with a step.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [practitioner-interview, agent-architecture, long-running-agents, ai-org-design, ai-native-business]
 source: Lenny's Podcast, Scott Wu (co-founder and CEO, Cognition / Devin

@@ -2,7 +2,7 @@
 type: synthesis
 title: "Dr. Fei-Fei Li — Spatial intelligence and the humanist AI: past the cave, into the world"
 description: Dr.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-leader-interviews
 tags: [practitioner-interview, ai-native-business, spatial-intelligence]
 source: https://www.youtube.com/watch?v=Ctjiatnd6Xk

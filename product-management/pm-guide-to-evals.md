@@ -2,7 +2,7 @@
 type: synthesis
 title: A PM's Complete Guide to Evals
 description: Aman Khan's guide positions evals — structured quality measurement of AI systems — as the defining skill for AI PMs, arguing that prompts make headlines but evals decide whether a product thrives or dies.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-management
 tags: [evals, product-management, constitutional-ai, agent-workflows]
 source: https://www.lennysnewsletter.com/

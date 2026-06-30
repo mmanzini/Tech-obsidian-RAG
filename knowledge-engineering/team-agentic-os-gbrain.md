@@ -2,7 +2,7 @@
 type: synthesis
 title: Team Agentic OS — the three-tier file model and GBrain lineage
 description: A blueprint for scaling a single-user agentic OS — a set of folders and files that inject the right context at the right moment — into a team system that is "shared where it should be, private where it shouldn't." It borrows from Garry Tan's GBrain and from software-architecture principles (separate what changes often from what stays stable), and rests on three tiers (human-edited / agent-edited / version control), access control across four systems, and a markdown-first substrate that avoids vendor lock-in.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, ai-org-design, agent-memory, context-engineering]
 source: ../../../Resources/transcriptions/you-tube/transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md

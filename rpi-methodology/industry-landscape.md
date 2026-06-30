@@ -2,7 +2,7 @@
 type: synthesis
 title: Industry Landscape
 description: RPI is the atomic unit of work within a broader 2026 ecosystem where major frameworks — Anthropic's two/three-agent harness, OpenAI Agents SDK, Google ADK, Microsoft Agent Framework, CrewAI, and AWS Kiro — provide multi-agent orchestration infrastructure around it.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: rpi-methodology
 tags: [agent-architecture, multi-agent, harness-engineering, agent-workflows, spec-driven-development, long-running-agents]
 source: self-authored

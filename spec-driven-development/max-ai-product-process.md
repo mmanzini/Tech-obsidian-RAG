@@ -2,7 +2,7 @@
 type: synthesis
 title: Max's AI-First Product Development Process
 description: "This is Max's opinionated end-to-end process for building AI-first products, covering five phases: Investigation, Product Definition, Product Refinement, Product Development, and Iteration."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: spec-driven-development
 tags: [spec-driven-development, agent-workflows, product-management, agent-architecture]
 source: self-authored — Massimiliano Manzini
@@ -21,7 +21,7 @@ related:
 
 **Source:** (self-authored — Massimiliano Manzini)
 
-A simplified, opinionated end-to-end process for building products with AI agents, distilled from extended personal research. Sits on top of [[sdd-overview|SDD]] and borrows from [[skill-issue-harness-engineering|harness engineering]] and the Heist way of working (see Way of Working bucket).
+A simplified, opinionated end-to-end process for building products with AI agents, distilled from extended personal research. Sits on top of [[sdd-overview|SDD]] and borrows from [[skill-issue-harness-engineering|harness engineering]] and the Heist way of working (see Way of Working bundle).
 
 ## Summary
 

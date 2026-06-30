@@ -13,5 +13,5 @@ Frameworks and thinking on how to build better products with AI — applying str
 
 - [[agent-workflows/index|Agent Workflows]] — engineering-level counterparts: RPI, Adversarial Review, Quick Dev
 - [[harness-engineering/index|Harness Engineering]] — runtime configuration for the agents doing the building
-- See also: Way of Working bucket — complementary lens on AI-native team structures
+- See also: Way of Working bundle — complementary lens on AI-native team structures
 - Product Management — the PM methodology layer: strategy, discovery, and team design that sits above the engineering framework

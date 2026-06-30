@@ -2,7 +2,7 @@
 type: reference
 title: OKF v0.1 — normative specification
 description: The structural rules of Open Knowledge Format v0.1 — bundle layout, reserved filenames, concept documents, cross-linking, and the three conformance requirements.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [okf, specification, conformance, knowledge-engineering, interoperability, markdown, frontmatter]
 source: Resources/web-clippings/2026-06-21-knowledge-catalogokfSPEC.md at main.md
@@ -95,14 +95,14 @@ Atlas is a conformant producer that *exceeds* the spec on governance. The mappin
 
 | OKF construct | Atlas |
 |---|---|
-| Bundle | each `Intelligence/<bucket>/` is an in-place bundle |
+| Bundle | each top-level `Intelligence/<bundle>/` directory, in place (no export step) |
 | `<concept>.md` | every `<topic>/<article>.md` |
-| Reserved `index.md` | bucket and topic routers |
-| Reserved `log.md` | per-bucket changelog derived from `log.tsv` |
+| Reserved `index.md` | bundle and topic routers |
+| Reserved `log.md` | per-bundle changelog derived from `log.tsv` |
 | Required `type` | present on every article (Atlas-defined vocabulary) |
-| Cross-link | the `related:` frontmatter array (may cross buckets) |
+| Cross-link | the `related:` frontmatter array (may cross bundles) |
 
-Atlas keeps Obsidian `[[ ]]` wikilinks as a same-bucket-only channel on top of the portable relative/`related:` graph — additional to the spec, not required by it. Governance Atlas adds beyond OKF: drift counting, episodic memory, and the eval harness (source: 2026-06-21-knowledge-catalogokfSPEC.md at main.md).
+Atlas keeps Obsidian `[[ ]]` wikilinks as a same-bundle-only channel on top of the portable relative/`related:` graph — additional to the spec, not required by it. Governance Atlas adds beyond OKF: drift counting, episodic memory, and the eval harness (source: 2026-06-21-knowledge-catalogokfSPEC.md at main.md).
 
 ## Versioning
 

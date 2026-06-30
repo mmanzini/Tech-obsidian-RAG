@@ -2,7 +2,7 @@
 type: synthesis
 title: Jeanne Grosser — World-Class GTM in 2026 (Vercel, Stripe, Google)
 description: Jeanne Grosser (COO, Vercel; built early Stripe sales) treats GTM as a product and argues that AI is collapsing 17 specialized GTM roles into a tighter lifecycle, with the GTM engineer — a sales engineer who can code — as the highest-leverage new hire.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: ai-product-development
 tags: [product-management, ai-org-design, ai-native-business, practitioner-interview]
 source: Lenny's Podcast — COO at Vercel; built early sales at Stripe

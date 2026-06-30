@@ -2,7 +2,7 @@
 type: synthesis
 title: Post-RPI Evolution
 description: RPI hit three critical failure modes at scale — silent instruction-budget overflow (85 of ~150 instructions consumed before core work), magic-words dependency, and the plan-reading illusion — driving HumanLayer to evolve it into CRISPY/QRSPI (7–8 stages, each <40 instructions).
-bucket: ai-engineering
+bundle: ai-engineering
 topic: rpi-methodology
 tags: [agent-workflows, harness-engineering, context-engineering, agent-architecture]
 source: self-authored

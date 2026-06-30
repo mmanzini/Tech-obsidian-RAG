@@ -2,7 +2,7 @@
 type: synthesis
 title: RPI vs Other Frameworks
 description: RPI is the accessible entry point to structured agentic workflows — low adoption cost, tool-agnostic, optimised for brownfield refactoring on solo or small teams.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: rpi-methodology
 tags: [agent-workflows, spec-driven-development, multi-agent, long-running-agents, harness-engineering]
 source: self-authored

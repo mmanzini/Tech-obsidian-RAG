@@ -2,7 +2,7 @@
 type: synthesis
 title: "Dan Shipper — The AI Paradox: More Automation, More Humans, More Work"
 description: Dan Shipper offers a dense set of 12 predictions about how work, roles, and products will change in the next year.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-leader-interviews
 tags: [practitioner-interview, ai-org-design, product-management, ai-native-business]
 source: https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper

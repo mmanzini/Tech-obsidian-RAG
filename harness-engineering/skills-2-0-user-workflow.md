@@ -2,7 +2,7 @@
 type: synthesis
 title: Skills 2.0 User Workflow — Evals, AB Tests, and Context Engineering
 description: Skills 2.0 adds built-in eval (testing) and AB test capabilities to the Claude skill creator.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [skills-and-hooks, evals, context-engineering, harness-engineering]
 source: https://www.youtube.com/watch?v=3cYusISFc9s

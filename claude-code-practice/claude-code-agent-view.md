@@ -2,7 +2,7 @@
 type: synthesis
 title: Claude Code Agent View — Managing Multiple Background Sessions
 description: Agent view (`claude agents`) is a full-terminal dashboard for dispatching and managing many Claude Code background sessions from one screen.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [claude-code, long-running-agents, multi-agent, harness-engineering, agent-workflows]
 source: https://code.claude.com/docs/en/agent-view

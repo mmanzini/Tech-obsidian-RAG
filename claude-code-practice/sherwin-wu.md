@@ -2,7 +2,7 @@
 type: synthesis
 title: Sherwin Wu — 100% of PRs Reviewed by Codex
 description: Sherwin Wu (Head of Engineering, OpenAI API) reports that 95% of his engineers use Codex, 100% of PRs are reviewed by Codex, and Codex users open 70% more PRs at comparable quality — the internal baseline OpenAI is using to size the shift.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [practitioner-interview, ai-org-design, context-engineering, agent-workflows, ai-native-business, multi-agent]
 source: Lenny's Podcast, Sherwin Wu (Head of Engineering, OpenAI API

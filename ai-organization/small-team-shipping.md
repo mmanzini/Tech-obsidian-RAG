@@ -2,7 +2,7 @@
 type: synthesis
 title: Small Teams Ship Faster
 description: Small teams consistently outship larger ones on product work because coordination overhead grows super-linearly with headcount.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: ai-organization
 tags: [ai-org-design, ai-native-business, product-management]
 source: https://example.com/small-teams-ship-faster

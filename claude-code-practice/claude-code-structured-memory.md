@@ -2,7 +2,7 @@
 type: synthesis
 title: Claude Code Structured Memory — ~/.claude/memory/ Architecture
 description: A practical guide to giving Claude Code persistent, structured memory via a `~/.claude/memory/` directory hierarchy — eliminating the bloated flat-CLAUDE.md anti-pattern and enabling on-demand context loading.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [claude-code, agent-memory, context-engineering, skills-and-hooks, knowledge-management]
 source: ../../../Resources/web-clippings/2026-05-03-How%20I%20Finally%20Sorted%20My%20Claude%20Code%20Memory%201.md

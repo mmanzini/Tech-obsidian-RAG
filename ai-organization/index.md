@@ -22,5 +22,5 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[../product-leader-interviews/index|Product Leader Interviews]] — per-guest podcast digests of product/AI leaders on building in the AI era
 - [[../agent-architecture/index|Agent Architecture]] — the technical principles behind the AI systems that enable this org shift
 - [[../constitutional-ai/index|Constitutional AI]] — values and training behind the models whose adoption these articles study
-- See also: Way of Working bucket — team structures and frameworks for AI-native organisations
+- See also: Way of Working bundle — team structures and frameworks for AI-native organisations
 - Product Management — strategy, discovery, and the PM role in the AI era

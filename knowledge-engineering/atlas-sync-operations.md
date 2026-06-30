@@ -2,7 +2,7 @@
 type: synthesis
 title: Atlas Sync Operations — Practical Command Reference
 description: Operational companion to [[atlas-sync-architecture|Atlas Sync Architecture]], providing the practical commands, procedures, and troubleshooting playbook for running, debugging, and extending the Atlas ↔ public-repos sync.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, harness-engineering, skills-and-hooks]
 source: ../../../Resources/documents/sync-operations.md
@@ -125,7 +125,7 @@ Seven steps (source: sync-operations.md):
 6. **Enable in `sync-all.sh`:** add `<name>` to the `REPOS=()` array.
 7. **Verify:** run `sync-all.sh` and confirm both repos appear in the log with `done`.
 
-Atlas-side path conventions: wiki buckets → `$ATLAS/Intelligence/<name>`; source folders → `$ATLAS/Resources/<name>`; top-level mirrors → `$ATLAS/<Name>`.
+Atlas-side path conventions: wiki bundles → `$ATLAS/Intelligence/<name>`; source folders → `$ATLAS/Resources/<name>`; top-level mirrors → `$ATLAS/<Name>`.
 
 ## README Handling
 

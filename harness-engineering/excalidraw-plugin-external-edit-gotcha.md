@@ -2,7 +2,7 @@
 type: synthesis
 title: Obsidian Excalidraw plugin — external-edit merge gotcha
 description: "The Obsidian Excalidraw plugin merges its in-memory cached scene over external file edits: rewriting an open `.excalidraw.md` file from a script or agent produces a corrupted union of old and new drawings on the plugin's next auto-save (source: 2026-06-11-excalidraw-plugin-merge-gotcha.md)."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [harness-engineering, skills-and-hooks, knowledge-management]
 source: auto-capture, 2026-06-11 (programmatic diagram generation into Atlas

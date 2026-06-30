@@ -2,7 +2,7 @@
 type: synthesis
 title: Intelligence-layer strand map
 description: The evergreen relationship narrative between Max's intelligence-layer / AI-PM project strands — seven independent projects, different targets, not stages of one project.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, harness-engineering, agent-memory, product-management, mcp]
 source: ../../../Resources/Projects/ai-driven-product-management/strand-map.md
@@ -65,7 +65,7 @@ Read strand 7 first for the operating model; the others are the parts. The Shipp
 ## Related
 
 - [[agentic-knowledge-engine-team-security|Agentic knowledge engine — team security & permissions]] — the T017 security design for scaling strand 2 to teams
-- [[llm-vault-structure-spec|LLM Vault Structure Spec]] — the bucket/topic/article architecture strand 2 runs on
+- [[llm-vault-structure-spec|LLM Vault Structure Spec]] — the bundle/topic/article architecture strand 2 runs on
 - [[atlas-sync-architecture|Atlas Sync Architecture]] — the hosted-sync layer behind strand 3
 - [[autoresearch-methodology|Autoresearch methodology]] — the program.md/harness lineage the pattern descends from
 - [[memory-three-jobs-and-atlas-tiers|Memory's three jobs and Atlas's tier adoption]] — the 2026-06-11 memory-tiers upgrade of strand 2's engine, benchmarked against external frameworks

@@ -2,7 +2,7 @@
 type: synthesis
 title: Claude's Constitution (2026)
 description: Anthropic's 2026 constitution replaces a list of standalone principles with an explanatory document written primarily *for Claude*, betting that cultivating good judgment generalises to novel situations better than mechanical rule-following.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: constitutional-ai
 tags: [constitutional-ai, ai-security, agent-architecture, harness-engineering]
 source: https://www.anthropic.com/news/claude-new-constitution

@@ -2,7 +2,7 @@
 type: synthesis
 title: Nikhyl Singhal — Smiling exhaustion and the PM renaissance
 description: "Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneously in a renaissance and a crisis depending on which half you're in: PMs who joined because they love building are having the best year of their careers, while those who joined for pay and prestige face existential risk as large companies lay off far more than they rehire (with rehires being entirely AI-native)."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-leader-interviews
 tags: [practitioner-interview, product-management, ai-org-design, ai-native-business]
 source: https://www.youtube.com/watch?v=yUohoaC8_Hs
@@ -36,7 +36,7 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 
 ## The bifurcation
 - Two kinds of PMs: those who joined because they love building, those who joined because it pays well
-- Roughly half the industry is in the second bucket — facing existential risk
+- Roughly half the industry is in the second bundle — facing existential risk
 - If sitting down and making something great doesn't energise you, the industry is moving away from you
 - See [[product-management/index|product management]] and [[ai-organization/index|AI & organisation]]
 
@@ -55,7 +55,7 @@ Nikhyl Singhal (ex-Facebook, Google) argues that the PM job market is simultaneo
 - Who leads the transformation? People with builder judgment — often PMs
 - Counter-flow: designers, data scientists, and engineers move into product roles
 - Titles will collapse; function lines blur
-- See [[ai-organization/index|AI & organisation]] for structural implications (way-of-working bucket covers team rituals)
+- See [[ai-organization/index|AI & organisation]] for structural implications (way-of-working bundle covers team rituals)
 
 ## Compensation and opportunity at an all-time high (for the right PMs)
 - Strongest builders have more offers than ever

@@ -2,7 +2,7 @@
 type: synthesis
 title: AI and Product Strategy
 description: AI accelerates strategy work but does not replace strategic thinking.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-management
 tags: [product-management, ai-native-business, ai-org-design, constitutional-ai]
 source: https://www.linkedin.com/pulse/how-use-ai-create-winning-product-strategy-roman-pichler-3qfme/
@@ -83,8 +83,8 @@ Four hard limits:
 
 ## See Also
 
-- strategy and discovery — strategy as the validated input for product discovery (see the `product-management` bucket)
-- the product strategy cycle — the workflow AI is being integrated into (see the `product-management` bucket)
+- strategy and discovery — strategy as the validated input for product discovery (see the `product-management` bundle)
+- the product strategy cycle — the workflow AI is being integrated into (see the `product-management` bundle)
 - [[product-manager-as-builder]] — AI enabling PMs to build prototypes as part of strategy validation
 - [[three-diamonds-framework]] — Max's three-diamond model: AI collapses the cost of being wrong in strategy and discovery, not just delivery
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — engineering-level counterpart: AI as a thinking partner, not just a coding engine

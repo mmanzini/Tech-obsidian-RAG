@@ -2,7 +2,7 @@
 type: synthesis
 title: Zevi Arnovitz — The non-technical PM who ships code
 description: Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing code by combining Cursor + Claude Code with a disciplined /command library (create-issue, exploration-phase, create-plan, execute-plan, review, peer-review, update-docs, learning-opportunity) and a CTO persona configured via Claude.md.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: claude-code-practice
 tags: [practitioner-interview, claude-code, agent-workflows, multi-agent, product-management, spec-driven-development]
 source: https://www.youtube.com/watch?v=1em64iUFt3U
@@ -54,7 +54,7 @@ Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing c
 - When the agent gets something wrong, ask it to introspect on what in its prompt/tooling caused the mistake
 - Update `/commands`, docs, or tooling so the error cannot recur
 - Compounding prompt quality is Arnovitz's core productivity hack
-- See the way-of-working bucket for loop-not-lane operating models
+- See the way-of-working bundle for loop-not-lane operating models
 
 ## Interview prep as an AI-native default
 - For the Meta interview: built a coach project in Claude, a segmentation quiz in Base44, ran Comet/Perplexity over a public question bank to prioritise mocks

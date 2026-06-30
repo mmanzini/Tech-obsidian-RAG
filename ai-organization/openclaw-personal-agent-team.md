@@ -2,7 +2,7 @@
 type: synthesis
 title: "OpenClaw: A Personal Team of AI Agents"
 description: Claire Vo's OpenClaw setup runs nine specialised AI agents (PA, family, marketing, sales, helpdesk, course ops, podcast, developer, kids' tutor) on owned hardware, each with its own Markdown-based identity files and workspace, reachable via Telegram, WhatsApp, or Slack.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: ai-organization
 tags: [multi-agent, agent-architecture, ai-org-design, agent-memory]
 source: https://www.lennysnewsletter.com/

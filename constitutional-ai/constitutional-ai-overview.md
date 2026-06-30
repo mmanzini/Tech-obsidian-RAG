@@ -2,7 +2,7 @@
 type: synthesis
 title: Constitutional AI — Overview
 description: CAI addresses the core tension in RLHF-based alignment — that optimising for harmlessness produces evasive models and requires expensive human labelling — by replacing human harmlessness annotations with AI feedback guided by explicit natural-language principles.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: constitutional-ai
 tags: [constitutional-ai, ai-security, evals, agent-architecture]
 source: https://arxiv.org/abs/2212.08073

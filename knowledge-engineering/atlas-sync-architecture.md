@@ -2,7 +2,7 @@
 type: synthesis
 title: Atlas Sync Architecture — Vault ↔ Public Repos via Unison
 description: Atlas is a private Obsidian vault whose content partially overlaps with five public GitHub repositories.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, harness-engineering, agent-workflows, unison]
 source: ../../../Resources/context/sync-architecture.md

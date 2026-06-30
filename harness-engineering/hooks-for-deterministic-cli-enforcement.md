@@ -2,7 +2,7 @@
 type: synthesis
 title: Hooks for Deterministic CLI Enforcement — Don't Use CLAUDE.md
 description: CLAUDE.md is the wrong place for CLI and command enforcement because it burns the instruction budget globally and is probabilistic, not deterministic.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [skills-and-hooks, claude-code, harness-engineering, context-engineering]
 source: https://www.youtube.com/watch?v=3CSi8QAoN-s

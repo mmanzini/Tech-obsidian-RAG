@@ -2,7 +2,7 @@
 type: synthesis
 title: Product Manager as Builder
 description: A *product builder* is a PM who actively co-creates the product — making prototypes, generating code, building mock-ups — rather than solely directing others.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: product-management
 tags: [product-management, ai-org-design, agent-workflows, ai-native-business]
 source: https://www.romanpichler.com/blog/product-managers-product-builders/
@@ -91,7 +91,7 @@ Building capability amplified by AI is dangerous without strategy discipline. AI
 ## See Also
 
 - [[ai-and-product-strategy]] — AI as co-pilot for strategic decisions, not just tactical execution
-- strategy and discovery — validated strategy as the prerequisite for effective discovery (and building) (see the `product-management` bucket)
-- empowerment levels — building skills alone don't make a PM effective without authority over discovery and strategy (see the `product-management` bucket)
+- strategy and discovery — validated strategy as the prerequisite for effective discovery (and building) (see the `product-management` bundle)
+- empowerment levels — building skills alone don't make a PM effective without authority over discovery and strategy (see the `product-management` bundle)
 - [[ai-product-development/ai-product-development-framework|AI Product Development Framework]] — engineering-level framework for structured AI-assisted building
 - [[harness-engineering/index|Harness Engineering]] — tooling depth behind Claude Code, MCP, and skills that PMs building with AI will rely on

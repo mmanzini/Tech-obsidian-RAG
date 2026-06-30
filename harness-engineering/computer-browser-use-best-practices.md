@@ -2,7 +2,7 @@
 type: synthesis
 title: Computer and Browser Use Best Practices
 description: Anthropic's comprehensive guide for developers building computer and browser use integrations with Claude 4.6/4.7.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: harness-engineering
 tags: [agent-architecture, harness-engineering, agent-workflows, computer-use]
 source: https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude

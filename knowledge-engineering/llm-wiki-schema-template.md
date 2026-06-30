@@ -2,7 +2,7 @@
 type: synthesis
 title: LLM Wiki Schema Template — Simple Single-Vault CLAUDE.md
 description: A minimal CLAUDE.md template for a single-topic LLM wiki maintained by Claude Code, based on Andrej Karpathy's LLM Wiki pattern.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: knowledge-engineering
 tags: [knowledge-management, claude-code, agent-workflows, harness-engineering]
 source: ../../../Resources/documents/templates/LLM_wiki_schema_template_CLAUDE.md
@@ -23,7 +23,7 @@ related:
 
 ## Summary
 
-A minimal CLAUDE.md template for a single-topic LLM wiki maintained by Claude Code, based on Andrej Karpathy's LLM Wiki pattern. Uses a flat `raw/` + `wiki/` two-folder structure with a simple ingest workflow: read source, discuss with user, write summary page, create/update concept pages, add wiki-links, update index and log. Simpler than the full bucket/topic/article Atlas architecture — intended for focused single-domain wikis (the template example is a Japan trip planner).
+A minimal CLAUDE.md template for a single-topic LLM wiki maintained by Claude Code, based on Andrej Karpathy's LLM Wiki pattern. Uses a flat `raw/` + `wiki/` two-folder structure with a simple ingest workflow: read source, discuss with user, write summary page, create/update concept pages, add wiki-links, update index and log. Simpler than the full bundle/topic/article Atlas architecture — intended for focused single-domain wikis (the template example is a Japan trip planner).
 
 ## Structure
 
@@ -96,28 +96,28 @@ When the user asks a question (source: LLM_wiki_schema_template_CLAUDE.md):
 
 ## Comparison with Atlas Architecture
 
-This template is the simpler predecessor to the full Atlas bucket/topic/article pattern (source: LLM_wiki_schema_template_CLAUDE.md). Key differences:
+This template is the simpler predecessor to the full Atlas bundle/topic/article pattern (source: LLM_wiki_schema_template_CLAUDE.md). Key differences:
 
 | Dimension | LLM Wiki Template | Atlas |
 |-----------|-------------------|-------|
-| Scope | Single domain | Multi-bucket, multi-domain |
-| Hierarchy | Flat (`wiki/`) | Bucket → Topic → Article |
+| Scope | Single domain | Multi-bundle, multi-domain |
+| Hierarchy | Flat (`wiki/`) | Bundle → Topic → Article |
 | Input zone | `raw/` (no subfolders) | `Resources/<folder>/` with README flags |
 | Log | `wiki/log.md` (prose) | `Intelligence/log.tsv` (TSV) |
-| Routing | Manual per-page creation | Agent-driven bucket/topic assignment |
-| Human-agent split | Human decides what to ingest | Agent decides bucket, topic, article |
+| Routing | Manual per-page creation | Agent-driven bundle/topic assignment |
+| Human-agent split | Human decides what to ingest | Agent decides bundle, topic, article |
 
 The template is appropriate for focused, single-topic use cases. The Atlas architecture is appropriate for persistent, multi-domain, long-running knowledge bases.
 
 ## Key Takeaways
 
 - The LLM Wiki template is Karpathy's original pattern: two folders, ingest-on-demand, discuss before writing.
-- Atlas extends this with multi-bucket routing, structured indexes, autonomous consolidation, and TSV logging.
+- Atlas extends this with multi-bundle routing, structured indexes, autonomous consolidation, and TSV logging.
 - The core invariant is the same: `raw/` (or `Resources/`) is immutable; the wiki is agent-maintained.
 - For small personal projects, the template's simplicity is a feature; for a growing knowledge base, the Atlas structure pays off.
 
 ## Related
 
 - [[autoresearch-methodology|Autoresearch Methodology]] — the Karpathy training experiment that established the `program.md` harness pattern
-- [[llm-vault-structure-spec|LLM Vault Structure Spec]] — the full spec extending this template to multi-bucket architecture
+- [[llm-vault-structure-spec|LLM Vault Structure Spec]] — the full spec extending this template to multi-bundle architecture
 - [[zettelkasten-pkm|Zettelkasten — Foundational PKM Methodology]] — the historical predecessor to wiki-linked knowledge bases

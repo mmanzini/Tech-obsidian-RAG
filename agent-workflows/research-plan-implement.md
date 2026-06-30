@@ -2,7 +2,7 @@
 type: synthesis
 title: Research → Plan → Implement (RPI)
 description: "RPI is a three-phase framework that replaces direct prompting (\"just refactor this\") with structured phases: **research what exists, plan the change, implement mechanically**."
-bucket: ai-engineering
+bundle: ai-engineering
 topic: agent-workflows
 tags: [agent-workflows, spec-driven-development, context-engineering, harness-engineering, multi-agent]
 source: https://block.github.io/goose/docs/tutorials/rpi/

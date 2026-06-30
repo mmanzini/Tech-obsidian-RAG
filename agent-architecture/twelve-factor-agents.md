@@ -2,7 +2,7 @@
 type: synthesis
 title: Twelve-Factor Agents
 description: A set of 12 principles for building LLM-powered software reliable enough to put in front of production customers.
-bucket: ai-engineering
+bundle: ai-engineering
 topic: agent-architecture
 tags: [agent-architecture, context-engineering, harness-engineering, agent-workflows, long-running-agents]
 source: https://github.com/humanlayer/12-factor-agents
