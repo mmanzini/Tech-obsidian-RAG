@@ -14,6 +14,8 @@ related:
   - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
   - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
   - ai-engineering/product-leader-interviews/howie-liu.md
+  - ai-engineering/ai-organization/symbiotic-enterprise.md
+  - ai-engineering/product-leader-interviews/andrew-ambrosino.md
 ---
 
 # Dan Shipper — The AI Paradox: More Automation, More Humans, More Work
@@ -130,3 +132,5 @@ The threshold: if it took less time to make it than it takes to read it, and the
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — 200% productivity claim; the Claude Code as OS thesis
 - [[from-hierarchy-to-intelligence|From Hierarchy to Intelligence]] — Block's org model: AI replacing middle-management coordination
 - [[howie-liu|Howie Liu on Lenny's Podcast]] — CEOs must become ICs again; fast-thinking / slow-thinking team design
+- [[symbiotic-enterprise|The Symbiotic Enterprise]] · [The Symbiotic Enterprise](../ai-organization/symbiotic-enterprise.md) — McKinsey's decoupling-growth-from-headcount thesis; the automation paradox is its counterweight
+- [[andrew-ambrosino|Andrew Ambrosino — The New Shape of Product Work]] · [Andrew Ambrosino](../product-leader-interviews/andrew-ambrosino.md) — the Codex desktop lead building the coding-OS surface Shipper predicts knowledge work will move into

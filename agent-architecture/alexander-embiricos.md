@@ -9,7 +9,8 @@ source: Lenny's Podcast, Alexander Embiricos (Product lead, OpenAI Codex; previo
 resource:
 timestamp: 2026-05-09T06:59:45Z
 status: active
-related: []
+related:
+  - ai-engineering/product-leader-interviews/andrew-ambrosino.md
 ---
 
 # Alexander Embiricos — Codex Is a Teammate, Not a Tool
@@ -67,6 +68,7 @@ Alexander Embiricos (product lead, OpenAI Codex) reframes coding agents from too
 - The next bottleneck to AGI is how fast humans can express intent — not raw model intelligence.
 
 ## Related
+- [[andrew-ambrosino|Andrew Ambrosino — The New Shape of Product Work]] · [Andrew Ambrosino](../product-leader-interviews/andrew-ambrosino.md) — the Codex desktop lead's companion episode: inverted product process, taste, zone-defense PM alongside Embiricos
 - [[harness-engineering/index|Harness Engineering]] — compaction, memory, context assembly
 - [[agent-architecture/index|Agent Architecture]] — three-layer stack, parallel agents
 - [[ai-organization/index|AI & Organisation Design]] — small spiky teams, surgeon model

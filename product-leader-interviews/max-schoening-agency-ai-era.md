@@ -14,6 +14,7 @@ related:
   - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
   - ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
   - ai-engineering/ai-organization/product-management-ai-exponential.md
+  - ai-engineering/product-leader-interviews/andrew-ambrosino.md
 ---
 
 # Max Schoening — Agency, Malleable Software, and the Tiny Core
@@ -103,3 +104,4 @@ The specialist risk: as roles merge (engineer/PM/designer), we risk losing deep 
 - [[claude-code-productivity-takeaways|Claude Code Productivity — Boris Cherny Takeaways]] — 200% engineer productivity claim and pushback
 - [[dan-shipper-ai-paradox|Dan Shipper — The AI Paradox]] — parallel predictions on PMs/designers as biggest AI-era winners
 - [[product-management-ai-exponential|Product Management on the AI Exponential]] — Cat Wu's side-quest model and demos-over-docs
+- [[andrew-ambrosino|Andrew Ambrosino — The New Shape of Product Work]] · [Andrew Ambrosino](../product-leader-interviews/andrew-ambrosino.md) — the Codex desktop lead's parallel case for taste as the expensive skill once implementation is cheap

@@ -1,5 +1,16 @@
 # Change log — ai-engineering
 
+## 2026-07-05
+- consolidate model-evaluation/ — dup of 2026-06-19 clipping (consolidated 06-20); new topic model-evaluation created, existing deployment-simulation article relocated + refreshed; source+images deleted
+- consolidate ai-organization/ — new symbiotic-enterprise (McKinsey QuantumBlack June 2026); companion PDF left in place; source kept
+- consolidate product-leader-interviews/ — new andrew-ambrosino (Lenny's Podcast per-guest digest); source kept
+- consolidate claude-code-practice/ — new claude-code-dynamic-workflows; nav boilerplate + svg assets not copied; source+images deleted
+- consolidate claude-code-practice/ — exact dup of 07-01 clipping (only created: date differs); folded; source deleted
+- consolidate knowledge-engineering/ — open-knowledge-format updated: bucket->bundle rename section; source deleted
+- consolidate knowledge-engineering/ — dup of 06-30-0824; folded; source deleted
+- consolidate knowledge-engineering/ — fully covered by okf-type-tags-and-obsidian-bases; folded; source deleted
+- consolidate knowledge-engineering/ — boilerplate scaffold (33 files); folded into agentic-knowledge-engine-overview as public-repo section; template code not article-per-file; sources kept
+
 ## 2026-06-27
 - consolidate knowledge-engineering/ — updated open-knowledge-format (mirror-README auto-gen + T042); source deleted
 - consolidate knowledge-engineering/ — dup of 06-22 mirror-README; folded; source deleted

@@ -28,6 +28,7 @@ How to use Claude Code effectively — features, workflows, session management, 
 - [[claude-code-large-codebases|Claude Code in Large Codebases — Best Practices at Scale]] — harness-first guide to deploying Claude Code in monorepos and enterprise environments: CLAUDE.md layering, LSP, plugins, ownership model (Anthropic)
 - [[claude-code-goal-command|Claude Code /goal — Autonomous Multi-Turn Completion]] — session-scoped command that keeps Claude working across turns until a separate evaluator model confirms the condition is met (Anthropic)
 - [[claude-code-agent-view|Claude Code Agent View — Managing Multiple Background Sessions]] — full-terminal dashboard for dispatching and managing many background sessions; supervisor process, git worktree isolation, peek/attach flow (Anthropic)
+- [[claude-code-dynamic-workflows|Claude Code Dynamic Workflows — Script-Driven Subagent Orchestration at Scale]] — rerunnable JavaScript scripts that orchestrate dozens-to-hundreds of subagents in the background; ultracode, /deep-research, saved workflow commands, 16-concurrent/1,000-agent limits (Anthropic)
 
 ## Related Topics
 

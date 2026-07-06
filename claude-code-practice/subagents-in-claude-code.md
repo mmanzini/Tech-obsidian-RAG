@@ -9,7 +9,8 @@ source: https://claude.com/blog/subagents-in-claude-code
 resource: https://claude.com/blog/subagents-in-claude-code
 timestamp: 2026-05-17T08:21:13Z
 status: active
-related: []
+related:
+  - ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
 ---
 
 # How and When to Use Subagents in Claude Code
@@ -156,3 +157,4 @@ Example Stop-hook that blocks ending the turn until tests pass (with `stop_hook_
 - [[research-plan-implement|Research Plan Implement]] — workflow that naturally maps to sub-agent pipelines
 - [[adversarial-review|Adversarial Review]] — fresh-perspective review as a first-class sub-agent use case
 - [[twelve-factor-agents|Twelve-Factor Agents]] — small focused agents principle
+- [[claude-code-dynamic-workflows|Claude Code Dynamic Workflows]] · [Claude Code Dynamic Workflows](../claude-code-practice/claude-code-dynamic-workflows.md) — when subagent counts outgrow one conversation, workflows move the orchestration into a rerunnable script

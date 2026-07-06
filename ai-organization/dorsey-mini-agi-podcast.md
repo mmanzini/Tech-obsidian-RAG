@@ -19,6 +19,7 @@ related:
   - ai-engineering/product-leader-interviews/robby-stein.md
   - ai-engineering/product-leader-interviews/dr-fei-fei-li.md
   - ai-engineering/ai-organization/product-management-ai-exponential.md
+  - ai-engineering/ai-organization/symbiotic-enterprise.md
 ---
 
 # Jack Dorsey: Every Company Can Now Be a Mini-AGI
@@ -128,3 +129,4 @@ Echoes Adam Smith's *Wealth of Nations*: with the right signals, self-interested
 - [[robby-stein|Robby Stein]] — search as expansionary and "dissatisfied" as an operating principle; parallel to Dorsey's customer-query thesis
 - [[dr-fei-fei-li|Dr. Fei-Fei Li]] — spatial intelligence and world models as the next ingredient in the AI stack Dorsey depends on
 - [[product-management-ai-exponential|Product Management on the AI Exponential]] — what the org shift means concretely for PM practice
+- [[symbiotic-enterprise|The Symbiotic Enterprise]] · [The Symbiotic Enterprise](../ai-organization/symbiotic-enterprise.md) — McKinsey's framework version of what Dorsey executed: reinvention over augmentation, flattening via agents, judgment as the durable human role

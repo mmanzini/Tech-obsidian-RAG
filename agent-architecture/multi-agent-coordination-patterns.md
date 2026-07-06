@@ -15,6 +15,7 @@ related:
   - ai-engineering/claude-code-practice/subagents-in-claude-code.md
   - ai-engineering/agent-workflows/agentic-engineering-approaches-compared.md
   - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+  - ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
 ---
 
 # Multi-Agent Coordination Patterns
@@ -92,3 +93,4 @@ Anthropic identifies five canonical multi-agent coordination patterns — Genera
 - [[subagents-in-claude-code|Subagents in Claude Code]] — practical application of orchestrator-subagent
 - [[agentic-engineering-approaches-compared|Agentic Engineering Approaches Compared]] — broader workflow classification
 - [[lethal-trifecta-and-agentic-patterns|Lethal Trifecta]] — trust and security constraints relevant to multi-agent coordination
+- [[claude-code-dynamic-workflows|Claude Code Dynamic Workflows]] · [Claude Code Dynamic Workflows](../claude-code-practice/claude-code-dynamic-workflows.md) — Claude Code's script-driven implementation of these patterns at dozens-to-hundreds-of-agents scale

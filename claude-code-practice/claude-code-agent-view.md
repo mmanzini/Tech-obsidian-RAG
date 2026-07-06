@@ -15,6 +15,7 @@ related:
   - ai-engineering/claude-code-practice/claude-code-desktop-parallel.md
   - ai-engineering/claude-code-practice/claude-code-routines.md
   - ai-engineering/claude-code-practice/claude-code-large-codebases.md
+  - ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
 ---
 
 # Claude Code Agent View — Managing Multiple Background Sessions
@@ -152,3 +153,4 @@ claude agents --permission-mode plan --model opus --effort high
 - [[claude-code-desktop-parallel|Claude Code Desktop Redesign for Parallel Agents]] — desktop-integrated approach to parallel session management
 - [[claude-code-routines|Claude Code Routines]] — scheduled tasks that run independent of any open session; complementary to background sessions
 - [[claude-code-large-codebases|Claude Code in Large Codebases]] — enterprise harness configuration and LSP integrations relevant when running multiple agents across a large repo
+- [[claude-code-dynamic-workflows|Claude Code Dynamic Workflows]] · [Claude Code Dynamic Workflows](../claude-code-practice/claude-code-dynamic-workflows.md) — script-driven orchestration of dozens-to-hundreds of subagents, one layer below the session dashboard

@@ -23,6 +23,7 @@
 - [[ai-product-development/index|AI Product Development]] — Frameworks for building better products with AI: Sandbox Discovery, Adversarial Iteration, Modular Context Navigation; plus field survey of what people are vibe-coding
 - [[product-management/index|Product Management (AI-bound)]] — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bundle
 - [[model-driven-development/index|Model-Driven Development]] — formal models as the primary artefact; CIM/PIM/PSM abstraction stack; transformations; classic OMG MDA vs modern DSLs/low-code/executable models/AI assistance; companion to Spec-Driven Development
+- [[model-evaluation/index|Model Evaluation]] — Methods for evaluating and predicting model behaviour: pre-release deployment simulation, eval design, behavioural testing
 
 ## Tag vocabulary
 

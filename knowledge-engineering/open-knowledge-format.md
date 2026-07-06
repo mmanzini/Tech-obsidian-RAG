@@ -7,7 +7,7 @@ topic: knowledge-engineering
 tags: [okf, knowledge-engineering, llm-wiki, interoperability, markdown, frontmatter]
 source: Resources/web-clippings/2026-06-19-How the Open Knowledge Format can improve data sharing.md
 resource: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
-timestamp: 2026-06-21T22:30:00Z
+timestamp: 2026-07-05T09:30:00Z
 status: active
 related:
   - ai-engineering/knowledge-engineering/okf-spec-v0-1.md
@@ -69,7 +69,15 @@ Concrete direction taken: remove the `_export/` folder and verb entirely; make e
 
 ## Mirror READMEs generated from the wiki (no hand-maintenance)
 
-The same single-source-of-truth instinct closed the last drift gap: the public mirror READMEs. Rather than hand-writing or syncing them, they are auto-generated from Atlas via `okf_tools.py --readme <bundle>` — the shared OKF section is a centralised constant in the tool, and the per-bundle specifics are parsed live from that bundle's `index.md`. This is wired into `sync-repo.sh`, so every sync regenerates the mirror README from the wiki and it cannot drift from the source (source: session-2026-06-22-0814.md, session-2026-06-23-1601.md). With that mechanism validated end-to-end, the two public mirrors — `ai-engineering-wiki` (171 articles) and `political-economy-wiki` (69 articles) — were verified OKF-conformant on `main` with current auto-generated READMEs, completing the mirror catch-up (board T042). A side clarification settled during this work: the `<concept>.md` in the Google spec is a metavariable (every article is a concept file), so Atlas already conforms with no structural gap (source: session-2026-06-22-0814.md). The remaining open item is the `okf-alignment` → `main` merge in the Atlas and engine repos, which is a deliberate human decision still pending (source: session-2026-06-22-0814.md).
+The same single-source-of-truth instinct closed the last drift gap: the public mirror READMEs. Rather than hand-writing or syncing them, they are auto-generated from Atlas via `okf_tools.py --readme <bundle>` — the shared OKF section is a centralised constant in the tool, and the per-bundle specifics are parsed live from that bundle's `index.md`. This is wired into `sync-repo.sh`, so every sync regenerates the mirror README from the wiki and it cannot drift from the source (source: session-2026-06-22-0814.md, session-2026-06-23-1601.md). With that mechanism validated end-to-end, the two public mirrors — `ai-engineering-wiki` (171 articles) and `political-economy-wiki` (69 articles) — were verified OKF-conformant on `main` with current auto-generated READMEs, completing the mirror catch-up (board T042). A side clarification settled during this work: the `<concept>.md` in the Google spec is a metavariable (every article is a concept file), so Atlas already conforms with no structural gap (source: session-2026-06-22-0814.md).
+
+## Bucket → Bundle: one term, vault-wide (June 2026)
+
+With the export step retired, the old two-term distinction — "bucket" as the curation unit, "bundle" as the OKF export artifact — no longer described anything real: the bucket IS the OKF bundle. On 2026-06-30 Max collapsed the vocabulary to a single term, renaming "bucket" → "bundle" across 648 articles, the code (`okf_tools`, `build_index`, `search`), `schema.md` (bedrock, explicitly authorised), prose and both mirror repos plus the `agentic-knowledge-engine` boilerplate (source: session-2026-06-30-0824.md, session-2026-06-30-0857.md). Two incidental uses were deliberately preserved (S3 buckets, team-segmentation "buckets") (source: session-2026-06-30-0857.md).
+
+The execution lesson is structural coupling: the frontmatter key ties tightly to the SQLite column in `build_index.py`, the `log.tsv` column header, code variable names and prose. Any similar rename must move **code → data → rebuild → prose → verify** in lockstep, or search and indexing silently break (source: session-2026-06-30-0824.md, session-2026-06-30-0857.md). Verified end-to-end afterwards: okf=conformant, search emits the `"bundle"` key, index rebuilt, residuals only the two intended incidentals (source: session-2026-06-30-0824.md).
+
+The sync architecture surfaced its recurring edge case: Unison mirrors Atlas Intelligence directories to the public GitHub repos, but each mirror's `README.md` is Unison-ignored (repo-only, regenerated via `okf_tools --readme`), so the engine repo's README had to be renamed separately by hand (source: session-2026-06-30-0824.md, session-2026-06-30-0857.md).
 
 ## Key Takeaways
 
@@ -77,6 +85,7 @@ The same single-source-of-truth instinct closed the last drift gap: the public m
 - The only required field is `type`; producers define their own type taxonomy. Everything else (fields, body sections) is open — the spec governs the interoperability surface only.
 - A bundle is just files: directory, tarball, or git repo; readable by humans and agents with no translation layer; portable across tools and organisations.
 - It directly formalises Karpathy's LLM-wiki and the CLAUDE.md/Obsidian-vault family — the same lineage Atlas sits in, which is why Atlas maps onto OKF with additive frontmatter and in-place bundle conformance rather than a rebuild.
+- June 2026: "bucket" was renamed to "bundle" vault-wide — one term for the curation unit that is also the OKF surface; coupled renames must move code → data → prose in lockstep.
 
 ## Related
 

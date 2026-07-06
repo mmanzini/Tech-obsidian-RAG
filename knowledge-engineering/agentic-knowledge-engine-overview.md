@@ -7,7 +7,7 @@ topic: knowledge-engineering
 tags: [knowledge-engineering, llm-wiki, agent-memory, autoresearch, okf]
 source: Resources/Projects/articles-and-essays/004-the-agentic-knowledge-engine/004-the-agentic-knowledge-engine.md
 resource:
-timestamp: 2026-06-27T20:00:00Z
+timestamp: 2026-07-05T09:30:00Z
 status: active
 related:
   - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
@@ -52,9 +52,14 @@ The essay positions the engine next to the popular self-curated-memory-file appr
 
 Stripped down, the engine answers five failures: the **black box** (retrieval is a readable walk; every answer cites its article), **context bloat** (flat startup cost by construction), **silent rot** (the audit runs on every write and reduces health to one comparable number), **the agent that forgets** (experience is stored, recalled and distilled — the autoresearch idea turned on the agent's own behaviour), and **lock-in** (articles conform to an open format; each bundle is already a portable bundle). The wager is that discipline beats cleverness: a knowledge base you can read, check and hand to another tool will outlast one you have to trust (source: 004-the-agentic-knowledge-engine.md).
 
+## The public boilerplate repo
+
+The engine ships as a public boilerplate: a clone-and-go vault scaffold kept as a vault copy under `Resources/Projects/agentic-knowledge-engine/` and synced to GitHub. It contains the operating contract (`CLAUDE.md`), the frozen harness (`schema.md`), placeholder `domain-a`/`domain-b` bundles with sample articles, the `_search` tooling (`build_index.py`, `search.py`, `okf_tools.py`), the `_episodes/` episodic-memory zone with seed examples, an `_eval/questions.md` benchmark stub, the auto-capture skill, and a getting-started guide (replace the placeholder bundles, fill in the prescriptive personal sources, drop material into `Resources/`, run `consolidate`) (source: Resources/Projects/agentic-knowledge-engine/README.md). The boilerplate's content stays in sync via the vault copy; its GitHub `README.md` is repo-only (Unison-ignored) and maintained separately (source: session-2026-06-30-0824.md).
+
 ## Key Takeaways
 
 - The essay is the engine's canonical narrative; the mechanisms are specified in this topic's other articles, which this overview ties together.
+- The engine is public as a clone-and-go boilerplate repo, mirrored from `Resources/Projects/agentic-knowledge-engine/`; its GitHub README is repo-only and synced by hand.
 - The load-bearing design decision is the frozen-harness / iterable-program split — it makes improvement measurable against a fixed yardstick.
 - Recall is tiered (snapshot → index walk → hybrid-search pointers) and the write path is an auditing, self-distilling loop; learning goes only to episodes, never to the contracts.
 - Two memories kept apart (semantic wiki, episodic record), and OKF portability achieved additively with conformance enforced in the audit loop.

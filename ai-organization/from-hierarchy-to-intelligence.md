@@ -9,7 +9,8 @@ source: https://sequoiacap.com/article/from-hierarchy-to-intelligence/
 resource: https://sequoiacap.com/article/from-hierarchy-to-intelligence/
 timestamp: 2026-05-09T07:33:19Z
 status: active
-related: []
+related:
+  - ai-engineering/ai-organization/symbiotic-enterprise.md
 ---
 
 # From Hierarchy to Intelligence
@@ -123,3 +124,4 @@ Block's answer is the **economic graph**: millions of merchants and consumers, b
 - [[jeetu-patel|Jeetu Patel]] — timing, stamina, and the layers of the AI stack
 - [[cat-wu|Cat Wu]] — timelines compressed; evals as the new PRD; product development inside Anthropic
 - [[product-job-market-2025|State of the Product Job Market 2025]] — mid-2025 predecessor snapshot; the baseline before the 2026 acceleration
+- [[symbiotic-enterprise|The Symbiotic Enterprise]] · [The Symbiotic Enterprise](../ai-organization/symbiotic-enterprise.md) — McKinsey's enterprise-wide version of the same thesis: agents replace coordination layers, orgs flatten, judgment becomes the human role

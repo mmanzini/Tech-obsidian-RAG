@@ -16,6 +16,7 @@ How AI changes the way companies are structured, coordinate, and make decisions 
 - [[ai-fluency-curriculum|Getting Good at Claude — Research-Backed Curriculum]] — Signature moves per product, Description spectrum, teaching Discernment (Anthropic AI Fluency Index)
 - [[anthropic-economic-index-learning-curves|Anthropic Economic Index: Learning Curves]] — Usage diversification, model selection by task value, tenure-success correlation, and learning-by-doing evidence (Anthropic, March 2026)
 - [[small-team-shipping|Small Team Shipping]] — Why teams of 4–6 produce 2× the merged-PR rate per engineer of teams of 12+, and when larger teams still win
+- [[symbiotic-enterprise|The Symbiotic Enterprise — AI as Workforce, Not Tool]] — McKinsey/QuantumBlack model: reinvention over augmentation, ~60% of work hours theoretically automatable, technology as dominant cost driver, cognitive tax, two failure modes, four success conditions (June 2026)
 
 ## Related Topics
 
