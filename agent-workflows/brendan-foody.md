@@ -26,13 +26,13 @@ Brendan Foody (CEO, Mercor) grew his expert-data marketplace from $1 to $400M AR
 - You can't spec an agent the way you speced a SaaS feature; you specify behaviour by example
 - A good eval set encodes taste, edge cases, and acceptance criteria — it IS the product definition
 - Teams that ship fastest treat eval authoring as the senior PM/engineer craft, not a QA afterthought
-- See [[ai-product-development]]
+- See [[../ai-product-development/index|AI Product Development]]
 
 ## Generalist → expert labelers
 - Early RLHF used cheap generalist raters; frontier quality now requires domain experts (doctors, lawyers, quants, senior engineers)
 - Mercor's marketplace median moved from ~$95/hr to ~$500/hr as lab demand shifted upmarket
 - RLAIF (AI-assisted rating) helps scale, but the top of the quality curve is still humans with real expertise
-- See [[ai-organization]] on expert-in-the-loop structures
+- See [[../ai-organization/index|AI & Organisation Design]] on expert-in-the-loop structures
 
 ## Elastic demand for expert time
 - Every marginal hour of PhD-level labelling moves a frontier metric — demand is effectively unbounded at the ceiling

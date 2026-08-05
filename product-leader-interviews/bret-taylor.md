@@ -32,7 +32,7 @@ Bret Taylor (co-founder Sierra, inventor of the Like button, ex-OpenAI chair) ar
 - Every enterprise will eventually have customer-facing agents the way they once had mobile apps
 - Sierra's thesis: branded voice + chat agents that actually resolve tickets end-to-end
 - Outcome pricing (Sierra charges ~99¢ per successful resolution) aligns incentives better than seat licences — buyers only pay when the agent actually did the job
-- See [[ai-product-development]] on outcome-based pricing and [[agent-architecture]]
+- See [[../ai-product-development/index|AI Product Development]] on outcome-based pricing and [[../agent-architecture/index|Agent Architecture]]
 
 ## Context engineering over prompt engineering
 - The hard part of agent quality is giving the model the right context, not clever wording
@@ -48,7 +48,7 @@ Bret Taylor (co-founder Sierra, inventor of the Like button, ex-OpenAI chair) ar
 ## Founder-leadership mode in the AI era
 - Distribution still decides winners; technical novelty decays fast
 - Small senior teams beat large junior ones when the problem space is changing weekly
-- See [[ai-organization]] on agent-era team shapes
+- See [[../ai-organization/index|AI & Organisation Design]] on agent-era team shapes
 
 ## Key Takeaways
 - The applied-AI layer is where most founders should build; leave frontier models to labs

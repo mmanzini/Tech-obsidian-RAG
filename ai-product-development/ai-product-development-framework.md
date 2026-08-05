@@ -149,3 +149,4 @@ Without structured context: reasoning degrades as the system grows.
 - [[jeanne-grosser|Jeanne Grosser]] — product leader perspectives on AI product development in practice
 - [[jason-droege|Jason Droege]] — operator and product builder view on the discovery → prototyping → validation pipeline
 - [[vibe-coding-what-people-ship|Vibe Coding — What People Actually Ship]] — survey of real outputs from AI-accelerated development teams; grounds the Problem section above
+- [[when-not-to-use-ai|Knowing When Not to Use AI]] — the upstream system-selection call (humans/rules/ML/generative AI) before this discovery-and-iteration framework applies

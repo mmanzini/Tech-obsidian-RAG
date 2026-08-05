@@ -159,6 +159,8 @@ What replaces the PRD:
 - [[hamel-husain-shreya-shankar|Hamel Husain & Shreya Shankar]] — eval/trace discipline that Cat calls "the future of PM"
 - [[nikhyl-singhal|Nikhyl Singhal]] — PM in renaissance and crisis; "how modern are you?"
 - [[nick-turley|Nick Turley]] — leader's resting heart rate; the model is the product
+- [[dianne-penn|Dianne Penn]] — the research-side twin at Anthropic: the fullest articulation of "evals are the new PRDs"
+- [[elizabeth-stone|Elizabeth Stone]] — the application-company counterpart: fluency overlays and systems thinking in a large consumer org
 - [[chip-huyen|Chip Huyen]] — what actually improves AI apps (users, data prep, prompts)
 - [[ai-product-development/index|AI Product Development]] — Sandbox Discovery, Modular Context, the frameworks Cat operates inside
 - [[harness-engineering/index|Harness Engineering]] — system-prompt pruning, multi-agent runtime

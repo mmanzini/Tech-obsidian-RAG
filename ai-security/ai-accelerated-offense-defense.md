@@ -124,3 +124,4 @@ When submitting reports upstream (especially to open-source maintainers receivin
 - [[constitutional-ai/index|Constitutional AI]] — hard constraints on Claude's security-related behaviour
 - [[agent-architecture/index|Agent Architecture]] — foundational patterns for building secure, reliable agents
 - [[secret-rotation-interview|Secret Rotation: The Political Blocker]] — practitioner account of why credential rotation stalls on organisational politics, not tooling; directly relevant to the "Design for Breach" playbook point on short-lived secrets
+- [[model-eval-cyber-incidents-2026|Model-Evaluation Cyber Incidents — July 2026]] — the July 2026 OpenAI/Hugging Face and Anthropic disclosures that make this playbook concrete: agentic attackers at machine speed, self-hosted models for incident response

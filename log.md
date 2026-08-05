@@ -1,5 +1,21 @@
 # Change log — ai-engineering
 
+## 2026-08-05
+- consolidate harness-engineering/ — graph-engineering-verification.md (source kept)
+- consolidate model-fundamentals/ — merged with part-2 into compression-is-intelligence.md; new topic model-fundamentals (source kept)
+- consolidate model-fundamentals/ — merged into compression-is-intelligence.md, dual-cited (source kept)
+- consolidate model-fundamentals/ — large-database-models.md (source kept)
+- consolidate ai-product-development/ — when-not-to-use-ai.md four-way system-selection framework (source kept)
+- consolidate product-leader-interviews/ — Lenny's per-guest digest elizabeth-stone.md (source kept)
+- consolidate product-leader-interviews/ — Lenny's per-guest digest dianne-penn.md (source kept)
+- consolidate claude-code-practice/ — claude-code-effort-and-model-selection.md; source deleted
+- consolidate harness-engineering/ — steering-claude-code-instruction-methods.md; source deleted
+- consolidate harness-engineering/ — verification-loops-in-claude-code.md; source deleted
+- consolidate ai-security/ — model-eval-cyber-incidents-2026.md (family article); source deleted
+- consolidate ai-security/ — duplicate re-clip of same URL (adds Jul-28 advisors update); deduped into model-eval-cyber-incidents-2026.md; source deleted
+- consolidate ai-security/ — HF disclosure merged into model-eval-cyber-incidents-2026.md; source deleted
+- consolidate ai-security/ — Anthropic three-incidents merged into model-eval-cyber-incidents-2026.md; source deleted
+
 ## 2026-07-05
 - consolidate model-evaluation/ — dup of 2026-06-19 clipping (consolidated 06-20); new topic model-evaluation created, existing deployment-simulation article relocated + refreshed; source+images deleted
 - consolidate ai-organization/ — new symbiotic-enterprise (McKinsey QuantumBlack June 2026); companion PDF left in place; source kept

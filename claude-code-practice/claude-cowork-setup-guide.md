@@ -18,7 +18,7 @@ related:
 
 # Claude Cowork Setup Guide — 7 Steps for Non-Technical Users
 
-**Source:** [transcript-set-up-claude-cowork-better-than-99-of-people.md](../../../Resources/transcriptions/you-tube/transcript-set-up-claude-cowork-better-than-99-of-people.md)
+**Source:** [transcript-set-up-claude-cowork-better-than-99-of-people.md](transcript-set-up-claude-cowork-better-than-99-of-people.md)
 **Channel:** Systems Made Better
 **Video:** https://www.youtube.com/watch?v=pl90LATQlHI
 

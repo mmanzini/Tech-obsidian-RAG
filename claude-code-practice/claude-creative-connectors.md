@@ -10,7 +10,7 @@ resource: https://www.anthropic.com/news/claude-for-creative-work
 timestamp: 2026-05-25T00:17:36Z
 status: active
 related:
-  - ai-engineering/harness-engineering/mcp-apps-interactive-ui.md
+  - ai-engineering/agent-infrastructure/mcp-apps-interactive-ui.md
   - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
   - ai-engineering/claude-code-practice/subagents-in-claude-code.md
 ---

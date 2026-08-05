@@ -29,6 +29,7 @@ How to use Claude Code effectively — features, workflows, session management, 
 - [[claude-code-goal-command|Claude Code /goal — Autonomous Multi-Turn Completion]] — session-scoped command that keeps Claude working across turns until a separate evaluator model confirms the condition is met (Anthropic)
 - [[claude-code-agent-view|Claude Code Agent View — Managing Multiple Background Sessions]] — full-terminal dashboard for dispatching and managing many background sessions; supervisor process, git worktree isolation, peek/attach flow (Anthropic)
 - [[claude-code-dynamic-workflows|Claude Code Dynamic Workflows — Script-Driven Subagent Orchestration at Scale]] — rerunnable JavaScript scripts that orchestrate dozens-to-hundreds of subagents in the background; ultracode, /deep-research, saved workflow commands, 16-concurrent/1,000-agent limits (Anthropic)
+- [[claude-code-effort-and-model-selection|Claude Code Effort Level and Model Selection]] — model = which frozen weights (capability), effort = how much work per turn (thoroughness); the "didn't know vs didn't try" diagnostic; Fable/Opus/Sonnet as specialist/expert/generalist (Anthropic)
 
 ## Related Topics
 

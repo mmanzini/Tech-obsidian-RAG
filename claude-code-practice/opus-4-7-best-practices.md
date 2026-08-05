@@ -117,3 +117,4 @@ Opus 4.7 outperforms prior models most noticeably on:
 - [[subagents-in-claude-code|How and When to Use Subagents in Claude Code]] — when Opus 4.7's reduced default spawning needs explicit override
 - [[advisor-strategy|The Advisor Strategy — Opus Boost for Sonnet/Haiku]] — complementary pattern for mixing model tiers
 - [[coding-agent-model-comparison-2026]] — head-to-head benchmark of Opus 4.7 vs GPT 5.5 vs DeepSeek V4 in real coding tasks; confirms Opus 4.7 quality advantage on complex creative work at the cost of token volume
+- [[claude-code-effort-and-model-selection|Claude Code Effort Level and Model Selection]] — the general mental model (capability vs thoroughness; "didn't know vs didn't try") this per-model effort ladder instantiates

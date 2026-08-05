@@ -5,7 +5,8 @@
 ## Topics
 
 - [[agent-architecture/index|Agent Architecture]] — Foundational principles and coordination patterns for building reliable production AI agents (12-factor agents, multi-agent patterns, lethal trifecta security patterns, agentic tool design)
-- [[harness-engineering/index|Harness Engineering]] — Designing and optimising the runtime around coding agents: long-running patterns, CLAUDE.md, MCP, skills, hooks, sub-agents, advisor strategy, codebase design for AI, browser MCP, NLH/Meta Harness science, scaling managed agents, MCP Apps interactive UI, model comparison
+- [[harness-engineering/index|Harness Engineering]] — Designing and optimising the runtime around coding agents: long-running patterns, NLH/Meta Harness science, advisor strategy, codebase design for AI, and the instruction mechanics that steer an agent (CLAUDE.md, skills, hooks, subagents, verification loops)
+- [[agent-infrastructure/index|Agent Infrastructure]] — The execution substrate beneath the harness: Managed Agents (scaling, self-hosted sandboxes, Dreams), multi-agent orchestration runtimes (Agent View, Sandcastle, graph engineering), and the tool surfaces agents reach through (computer/browser use, browser MCP, MCP Apps, cache diagnostics)
 - [[claude-code-practice/index|Claude Code Practice]] — Claude Code features, workflows, and practitioner interviews: routines, desktop parallel sessions, session management, Opus 4.7 tuning, structured memory, Cowork guides, Managed Agents memory, Agentic OS three-gap framework
 - [[knowledge-engineering/index|Knowledge Engineering]] — PKM methodology and vault architecture: Zettelkasten lineage, Karpathy's LLM Knowledge Bases, autoresearch methodology, Atlas sync architecture and schema design
 - [[agent-workflows/index|Agent Workflows]] — Structured patterns for directing agents through complex tasks (RPI, Quick Dev, Adversarial Review, Approaches Compared)
@@ -24,6 +25,7 @@
 - [[product-management/index|Product Management (AI-bound)]] — AI-accelerated PM craft: AI-augmented strategy, AI-prototyping workflows, evals, second-brain workflows, the AI-enabled builder role, the unfair AI-era PM role. Evergreen PM craft lives in the top-level `product-management` bundle
 - [[model-driven-development/index|Model-Driven Development]] — formal models as the primary artefact; CIM/PIM/PSM abstraction stack; transformations; classic OMG MDA vs modern DSLs/low-code/executable models/AI assistance; companion to Spec-Driven Development
 - [[model-evaluation/index|Model Evaluation]] — Methods for evaluating and predicting model behaviour: pre-release deployment simulation, eval design, behavioural testing
+- [[model-fundamentals/index|Model Fundamentals]] — How models learn and represent data from first principles: information theory and the compression⇄prediction equivalence behind cross-entropy pre-training; model families beyond LLMs (Large Database Models over relational data)
 
 ## Tag vocabulary
 

@@ -104,3 +104,5 @@ The eval framework is a step in that direction — evals already describe the "w
 
 - [[skill-issue-harness-engineering|Skill Issue — Harness Engineering]] — progressive disclosure and the cost of a crowded skill surface
 - [[skills-2-0-user-workflow|Skills 2.0 User Workflow — Evals, AB Tests, and Context Engineering]] — user-facing practical guide: how to set eval criteria, when to use AB tests, reference-file context engineering (Ben AI)
+- [[verification-loops-in-claude-code|Verification Loops in Claude Code]] — skills as verification loops; use skill-creator's evals to test the verification skills themselves
+- [[graph-engineering-verification|Graph Engineering and the Verification Problem]] — Skill Creator is the recommended path for building the per-angle review skills a multi-agent graph chains under an orchestrator

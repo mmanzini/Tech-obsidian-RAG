@@ -19,6 +19,8 @@ Per-guest takeaway digests of podcast interviews (Lenny's Podcast) with product 
 - [[max-schoening-agency-ai-era|Max Schoening — Agency, Malleable Software, and the Tiny Core]] — agency as the AI-era differentiator; tiny core theory; malleable software; SaaS bullish; taste as a trainable skill (Lenny's Podcast)
 - [[dan-shipper-ai-paradox|Dan Shipper — The AI Paradox: More Automation, More Humans, More Work]] — work bifurcation (super-agent + coding-OS); forward deployed engineer; SaaS token economics; PM/designer as biggest winners; automation paradox; Senior Engineer Benchmark (Lenny's Podcast)
 - [[andrew-ambrosino|Andrew Ambrosino — The New Shape of Product Work]] — Codex desktop lead: the inverted product process (implementation cheap, curation expensive); taste as top skill; launch timing bound to model capability; zone-defense PM; role collapse without elimination; Codex as home base (Lenny's Podcast)
+- [[elizabeth-stone|Elizabeth Stone — Systems Thinkers over Specialists in the AI Era]] — Netflix CPTO: role confusion as storming-before-forming; systems thinking as the rising skill; AI fluency as a ladder-wide overlay; excellence as an operating system (Lenny's Podcast)
+- [[dianne-penn|Dianne Penn — Why the People Building AI Can't Tell You What's Next]] — Anthropic Head of Product (Research & Labs): emergent-capability unpredictability; evals are the new PRDs; frontier-products-for-frontier-models; Claude's pushback as a feature (Lenny's Podcast)
 
 ## Related Topics
 

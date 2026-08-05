@@ -10,7 +10,7 @@ resource: https://code.claude.com/docs/en/goal
 timestamp: 2026-05-25T00:17:36Z
 status: active
 related:
-  - ai-engineering/harness-engineering/agent-view-multi-agent-management.md
+  - ai-engineering/agent-infrastructure/agent-view-multi-agent-management.md
   - ai-engineering/claude-code-practice/claude-code-routines.md
   - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
   - ai-engineering/claude-code-practice/subagents-in-claude-code.md

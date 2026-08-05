@@ -17,7 +17,7 @@ related:
   - ai-engineering/claude-code-practice/use-claude-code-more.md
   - ai-engineering/claude-code-practice/zevi-arnovitz.md
   - ai-engineering/claude-code-practice/lazar-jovanovic.md
-  - ai-engineering/harness-engineering/mcp-apps-interactive-ui.md
+  - ai-engineering/agent-infrastructure/mcp-apps-interactive-ui.md
 ---
 
 # NLH, Meta Harness, and the Science of Harness Engineering

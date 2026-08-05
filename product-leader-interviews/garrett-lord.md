@@ -34,7 +34,7 @@ Garrett Lord (CEO, Handshake) grew Handshake AI from $0 to $50M ARR in four mont
 - Volume = ability to staff 1000s of annotators on short notice
 - Speed = turnaround in days not weeks
 - Most competitors optimise for the wrong dimension first
-- See [[ai-product-development]] and [[agent-workflows]]
+- See [[../ai-product-development/index|AI Product Development]] and [[../agent-workflows/index|Agent Workflows]]
 
 ## Trajectories and rubrics over raw labels
 - Labs no longer buy "label this image"; they buy full agent trajectories (multi-step task completions) scored against rubrics
@@ -45,7 +45,7 @@ Garrett Lord (CEO, Handshake) grew Handshake AI from $0 to $50M ARR in four mont
 - Lord keeps the AI business operationally separate from the core careers business
 - Different hiring, different compensation bands, different KPIs
 - New S-curve businesses die when forced to inherit the parent's operating rhythm
-- See [[ai-organization]]
+- See [[../ai-organization/index|AI & Organisation Design]]
 
 ## "Leave nothing to chance" + the Princeton pool story
 - Lord's operating posture: rehearse, pre-wire, remove ambiguity before any high-stakes moment

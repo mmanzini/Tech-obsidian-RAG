@@ -14,7 +14,7 @@ related:
   - ai-engineering/claude-code-practice/subagents-in-claude-code.md
   - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
   - ai-engineering/harness-engineering/deep-modules-codebase-for-ai.md
-  - ai-engineering/harness-engineering/agent-view-multi-agent-management.md
+  - ai-engineering/agent-infrastructure/agent-view-multi-agent-management.md
 ---
 
 # Claude Code in Large Codebases — Best Practices for Enterprise Scale

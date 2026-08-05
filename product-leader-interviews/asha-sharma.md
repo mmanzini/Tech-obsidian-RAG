@@ -26,7 +26,7 @@ Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — the
 - Classic software was a frozen artifact shipped on cadence; AI products learn continuously between ships
 - "Seasons" planning replaces annual roadmaps — 8–12 week arcs with a theme and a shared evaluation harness
 - Work chart = org chart: how you build the product literally shapes the team topology
-- See [[ai-product-development]] and [[ai-organization]]
+- See [[../ai-product-development/index|AI Product Development]] and [[../ai-organization/index|AI & Organisation Design]]
 
 ## Post-training is where the product lives
 - Sharma cites Nathan Lambert's rule-of-thumb: above ~30B parameters, >50% of observable quality comes from post-training, not pre-training

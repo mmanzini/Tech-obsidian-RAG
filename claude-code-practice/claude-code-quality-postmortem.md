@@ -12,7 +12,7 @@ status: active
 related:
   - ai-engineering/claude-code-practice/opus-4-7-best-practices.md
   - ai-engineering/claude-code-practice/claude-code-session-management.md
-  - ai-engineering/harness-engineering/scaling-managed-agents.md
+  - ai-engineering/agent-infrastructure/scaling-managed-agents.md
   - ai-engineering/harness-engineering/skill-creator-evals.md
 ---
 

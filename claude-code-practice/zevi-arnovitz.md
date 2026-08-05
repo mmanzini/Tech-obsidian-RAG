@@ -27,7 +27,7 @@ Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing c
 - Bolt / Lovable (demo-grade UI prototyping)
 - Cursor + Claude Code (real shippable product)
 - Each step added rigor rather than replaced the prior one
-- See [[ai-dev-tools]]
+- See [[../ai-dev-tools/index|AI Dev Tools]]
 
 ## The CTO persona and Claude.md as system prompt
 - Configures Claude Code to behave as a senior dev lead, not a compliant junior
@@ -42,7 +42,7 @@ Zevi Arnovitz (Meta PM) ships real revenue-generating products without writing c
 - `/peer-review` — feed competing models' reviews back in as if from other team leads
 - `/update-docs` — document every change so future agents have context
 - `/learning-opportunity` — teach him something he doesn't understand (used continuously)
-- See [[agent-workflows]] and [[spec-driven-development]]
+- See [[../agent-workflows/index|Agent Workflows]] and [[../spec-driven-development/index|Spec-Driven Development]]
 
 ## Multi-model peer review
 - Runs the same change through Claude, Codex (GPT), and Composer/Gemini

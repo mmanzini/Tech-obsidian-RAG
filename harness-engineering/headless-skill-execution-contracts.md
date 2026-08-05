@@ -12,7 +12,7 @@ status: active
 related:
   - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
   - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/harness-engineering/excalidraw-plugin-external-edit-gotcha.md
+  - ai-engineering/agent-infrastructure/excalidraw-plugin-external-edit-gotcha.md
 ---
 
 # Execution contracts for headless skill runs

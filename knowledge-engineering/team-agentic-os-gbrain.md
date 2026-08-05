@@ -17,7 +17,7 @@ related:
 
 # Team Agentic OS — the three-tier file model and GBrain lineage
 
-**Source:** [transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md](../../../Resources/transcriptions/you-tube/transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md)
+**Source:** [transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md](transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md)
 **Author:** Simon Scrapes (YouTube)
 **Video:** https://www.youtube.com/watch?v=TE6zNesGcvY
 

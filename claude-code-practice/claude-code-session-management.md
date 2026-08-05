@@ -11,7 +11,7 @@ timestamp: 2026-05-17T08:21:13Z
 status: active
 related:
   - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/harness-engineering/scaling-managed-agents.md
+  - ai-engineering/agent-infrastructure/scaling-managed-agents.md
   - ai-engineering/claude-code-practice/claude-code-quality-postmortem.md
   - ai-engineering/harness-engineering/effective-harnesses-long-running.md
 ---

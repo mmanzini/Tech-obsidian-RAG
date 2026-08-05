@@ -128,3 +128,4 @@ It's a **subset of [[twelve-factor-agents|context engineering]]** — specifical
 - [[harness-design-long-running-apps|Harness Design for Long-Running App Development]] — GAN-inspired multi-agent harness
 - [[kiro-hooks|Kiro Hooks]] — IDE-level hook implementation in Kiro
 - [[kiro-steering|Kiro Steering]] — Kiro's approach to persistent agent context (similar to CLAUDE.md)
+- [[steering-claude-code-instruction-methods|Steering Claude Code]] — Anthropic's formal decision table for the same levers (CLAUDE.md, rules, skills, subagents, hooks) by load timing, compaction, and authority
