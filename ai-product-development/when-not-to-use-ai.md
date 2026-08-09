@@ -4,15 +4,22 @@ title: Knowing When Not to Use AI — Agents vs Rules vs ML vs Humans
 description: A four-way decision framework — humans for judgment and accountability, rules/code for stable deterministic logic, ML for patterns and predictions, generative AI for unstructured inputs and flexible reasoning — with tolerance for non-determinism as the deciding question.
 bundle: ai-engineering
 topic: ai-product-development
-tags: [agent-architecture, product-management, ai-native-business]
-source: Resources/transcriptions/transcript-knowing-when-not-to-use-ai-ai-agents-vs-rules-vs-ml.md
+tags:
+- agent-architecture
+- product-management
+- ai-native-business
 resource: https://www.youtube.com/watch?v=_ZqSFVi6UDY
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: transcript-knowing-when-not-to-use-ai-ai-agents-vs-rules-vs-ml
+  resource: Resources/transcriptions/transcript-knowing-when-not-to-use-ai-ai-agents-vs-rules-vs-ml.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/ai-product-development/ai-product-development-framework.md
-  - ai-engineering/model-fundamentals/large-database-models.md
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/ai-product-development/ai-product-development-framework.md
+- ai-engineering/model-fundamentals/large-database-models.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
 ---
 
 # Knowing When Not to Use AI — Agents vs Rules vs ML vs Humans

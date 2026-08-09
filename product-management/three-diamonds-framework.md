@@ -1,20 +1,27 @@
 ---
 type: synthesis
-title: |-
-  The Three-Diamond Framework: Strategy, Discovery, and Delivery
-  description: The AI product discourse is fixated on the third diamond — how to go from spec to code.
+title: 'The Three-Diamond Framework: Strategy, Discovery, and Delivery
+
+  description: The AI product discourse is fixated on the third diamond — how to go from spec to code.'
 bundle: ai-engineering
 topic: product-management
-tags: [product-management, agent-workflows, ai-native-business, spec-driven-development]
-source: ../../../Resources/Projects/articles-and-essays/001-the-last-third-of-product-development/001-the-last-third-of-product-development.md
-resource:
-timestamp: 2026-05-31T23:20:23Z
-status: active
+tags:
+- product-management
+- agent-workflows
+- ai-native-business
+- spec-driven-development
+sources:
+- id: 001-the-last-third-of-product-development
+  resource: ../../../Resources/Projects/articles-and-essays/001-the-last-third-of-product-development/001-the-last-third-of-product-development.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-31T23:20:23Z'
+status: stable
 related:
-  - ai-engineering/product-management/ai-and-product-strategy.md
-  - ai-engineering/product-management/ai-prototyping-for-pms.md
-  - ai-engineering/product-management/product-manager-as-builder.md
-  - ai-engineering/product-management/unfair-pm-role.md
+- ai-engineering/product-management/ai-and-product-strategy.md
+- ai-engineering/product-management/ai-prototyping-for-pms.md
+- ai-engineering/product-management/product-manager-as-builder.md
+- ai-engineering/product-management/unfair-pm-role.md
 ---
 
 # The Three-Diamond Framework: Strategy, Discovery, and Delivery

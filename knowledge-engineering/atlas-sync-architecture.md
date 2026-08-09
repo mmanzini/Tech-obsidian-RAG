@@ -4,17 +4,24 @@ title: Atlas Sync Architecture — Vault ↔ Public Repos via Unison
 description: Atlas is a private Obsidian vault whose content partially overlaps with five public GitHub repositories.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-management, harness-engineering, agent-workflows, unison]
-source: ../../../Resources/context/sync-architecture.md
-resource:
-timestamp: 2026-05-28T11:25:51Z
-status: active
+tags:
+- knowledge-management
+- harness-engineering
+- agent-workflows
+- unison
+sources:
+- id: sync-architecture
+  resource: ../../../Resources/context/sync-architecture.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-28T11:25:51Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/claude-code-agentic-os.md
-  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
-  - ai-engineering/claude-code-practice/claude-code-routines.md
-  - ai-engineering/knowledge-engineering/atlas-sync-operations.md
-  - ai-engineering/harness-engineering/atlas-codebase-intelligence-layer.md
+- ai-engineering/claude-code-practice/claude-code-agentic-os.md
+- ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+- ai-engineering/claude-code-practice/claude-code-routines.md
+- ai-engineering/knowledge-engineering/atlas-sync-operations.md
+- ai-engineering/harness-engineering/atlas-codebase-intelligence-layer.md
 ---
 
 # Atlas Sync Architecture — Vault ↔ Public Repos via Unison

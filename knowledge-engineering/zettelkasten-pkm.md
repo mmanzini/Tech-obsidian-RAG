@@ -1,19 +1,26 @@
 ---
 type: synthesis
 title: Zettelkasten — Foundational PKM Methodology
-description: "A Zettelkasten (German: \"slipbox\") is a system of atomic notes on small cards or slips, linked to each other through subject headings, sequential numbering, tags, and cross-references."
+description: 'A Zettelkasten (German: "slipbox") is a system of atomic notes on small cards or slips, linked to each other through subject headings, sequential numbering, tags, and cross-references.'
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-management, agent-memory, context-engineering, agent-architecture]
-source: ../../../Resources/web-clippings/2026-04-22-Zettelkasten%20-%20Wikipedia.md
-resource:
-timestamp: 2026-05-17T08:21:13Z
-status: active
+tags:
+- knowledge-management
+- agent-memory
+- context-engineering
+- agent-architecture
+sources:
+- id: 2026-04-22-zettelkasten-20-20wikipedia
+  resource: ../../../Resources/web-clippings/2026-04-22-Zettelkasten%20-%20Wikipedia.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/claude-cowork-full-guide.md
-  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
-  - ai-engineering/harness-engineering/nlh-meta-harness-harness-science.md
-  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+- ai-engineering/claude-code-practice/claude-cowork-full-guide.md
+- ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+- ai-engineering/harness-engineering/nlh-meta-harness-harness-science.md
+- ai-engineering/claude-code-practice/claude-managed-agents-memory.md
 ---
 
 # Zettelkasten — Foundational PKM Methodology

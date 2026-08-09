@@ -4,11 +4,19 @@ title: Claude Code — Code Review
 description: Claude Code's managed code review service runs parallel specialised agents against the full codebase on every PR push (or on demand via `@claude review`), posts findings as inline comments tagged Important/Nit/Pre-existing, and always completes with a neutral check conclusion — but exposes machine-readable severity counts via `gh api` that teams can use to gate merges in their own CI.
 bundle: ai-engineering
 topic: ci-integrations
-tags: [claude-code, agent-workflows, multi-agent, evals]
-source: https://code.claude.com/docs/en/code-review
+tags:
+- claude-code
+- agent-workflows
+- multi-agent
+- evals
 resource: https://code.claude.com/docs/en/code-review
-timestamp: 2026-04-30T06:41:32Z
-status: active
+sources:
+- id: code-review
+  resource: https://code.claude.com/docs/en/code-review
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-30T06:41:32Z'
+status: stable
 related: []
 ---
 

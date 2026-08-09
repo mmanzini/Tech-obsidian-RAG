@@ -4,15 +4,23 @@ title: Claude Code Productivity — Boris Cherny Takeaways
 description: Boris Cherny, Head of Claude Code, claims Anthropic has achieved ~200% engineer productivity gains and that he personally ships 10–30 PRs per day without writing a line of code by hand — supported by six operating principles including building for the model six months from now, underfunding headcount to drive creative agent use, and always using the most capable model.
 bundle: ai-engineering
 topic: ai-organization
-tags: [claude-code, ai-org-design, agent-workflows, ai-native-business]
-source: https://www.lennysnewsletter.com/
+tags:
+- claude-code
+- ai-org-design
+- agent-workflows
+- ai-native-business
 resource: https://www.lennysnewsletter.com/
-timestamp: 2026-05-09T07:23:23Z
-status: active
+sources:
+- id: www-lennysnewsletter
+  resource: https://www.lennysnewsletter.com/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
-  - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-organization/anthropic-growth-takeaways.md
+- ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
 ---
 
 # Claude Code Productivity — Boris Cherny Takeaways

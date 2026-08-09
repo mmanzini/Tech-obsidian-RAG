@@ -4,11 +4,20 @@ title: Agentic Engineering & Harnessing — Approaches Compared
 description: This article maps the agentic engineering landscape across two orthogonal dimensions — harness engineering (the runtime around the model) and agent workflows (the human process for directing it) — and introduces greenfield vs brownfield as the key axis for choosing between them.
 bundle: ai-engineering
 topic: agent-workflows
-tags: [agent-workflows, harness-engineering, spec-driven-development, multi-agent, context-engineering, long-running-agents]
-source: synthesis — ai-engineering corpus
-resource:
-timestamp: 2026-05-09T07:33:19Z
-status: active
+tags:
+- agent-workflows
+- harness-engineering
+- spec-driven-development
+- multi-agent
+- context-engineering
+- long-running-agents
+sources:
+- id: synthesis-ai-engineering-corpus
+  resource: synthesis — ai-engineering corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:33:19Z'
+status: stable
 related: []
 ---
 

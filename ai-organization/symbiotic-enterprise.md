@@ -4,15 +4,22 @@ title: The Symbiotic Enterprise — AI as Workforce, Not Tool
 description: McKinsey/QuantumBlack's June 2026 model of the enterprise where humans, AI agents, and intelligent robots each execute per their strengths — reinvention over augmentation, technology as the dominant cost driver, and a new "cognitive tax" dependency on AI providers.
 bundle: ai-engineering
 topic: ai-organization
-tags: [ai-org-design, ai-native-business, multi-agent]
-source: Resources/documents/McKinsey/the-symbiotic-enterprise-june-2026.md
+tags:
+- ai-org-design
+- ai-native-business
+- multi-agent
 resource: https://www.mckinsey.com
-timestamp: 2026-07-05T07:20:00Z
-status: active
+sources:
+- id: the-symbiotic-enterprise-june-2026
+  resource: Resources/documents/McKinsey/the-symbiotic-enterprise-june-2026.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T07:20:00Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/ai-organization/dorsey-mini-agi-podcast.md
-  - ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-organization/dorsey-mini-agi-podcast.md
+- ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
 ---
 
 # The Symbiotic Enterprise — AI as Workforce, Not Tool

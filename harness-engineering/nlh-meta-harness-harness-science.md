@@ -4,20 +4,27 @@ title: NLH, Meta Harness, and the Science of Harness Engineering
 description: Two 2026 research systems — Tingua's Natural Language Harness (NLH) and Stanford's Meta Harness — formalise harness engineering as a distinct discipline, backed by empirical evidence of a 6× performance gap on the same model driven entirely by orchestration code.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [harness-engineering, agent-architecture, evals, agent-workflows]
-source: "YouTube — PY channel, \"Rethinking AI Agents: The Rise of Harness Engineering\""
-resource:
-timestamp: 2026-05-09T07:33:19Z
-status: active
+tags:
+- harness-engineering
+- agent-architecture
+- evals
+- agent-workflows
+sources:
+- id: youtube-py-channel-rethinking-ai-agents-the-rise-of-harness-engineering
+  resource: 'YouTube — PY channel, "Rethinking AI Agents: The Rise of Harness Engineering"'
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:33:19Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/harness-engineering/effective-harnesses-long-running.md
-  - ai-engineering/knowledge-engineering/zettelkasten-pkm.md
-  - ai-engineering/claude-code-practice/dhanji-prasanna.md
-  - ai-engineering/claude-code-practice/use-claude-code-more.md
-  - ai-engineering/claude-code-practice/zevi-arnovitz.md
-  - ai-engineering/claude-code-practice/lazar-jovanovic.md
-  - ai-engineering/agent-infrastructure/mcp-apps-interactive-ui.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/harness-engineering/effective-harnesses-long-running.md
+- ai-engineering/knowledge-engineering/zettelkasten-pkm.md
+- ai-engineering/claude-code-practice/dhanji-prasanna.md
+- ai-engineering/claude-code-practice/use-claude-code-more.md
+- ai-engineering/claude-code-practice/zevi-arnovitz.md
+- ai-engineering/claude-code-practice/lazar-jovanovic.md
+- ai-engineering/agent-infrastructure/mcp-apps-interactive-ui.md
 ---
 
 # NLH, Meta Harness, and the Science of Harness Engineering

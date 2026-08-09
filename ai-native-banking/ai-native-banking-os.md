@@ -4,15 +4,23 @@ title: AI-Native Banking OS
 description: Backbase's AI-Native Banking OS concept proposes a four-fabric architecture (Semantic, Process, Frontline, Integration) with a cross-cutting Control Plane that enables AI agents and humans to operate together across all banking functions under unified governance.
 bundle: ai-engineering
 topic: ai-native-banking
-tags: [ai-native-business, agent-architecture, multi-agent, ai-org-design, ai-native-banking]
-source: "Backbase blog — \"AI-native banking OS: What it is and why it matters\" (2026)"
-resource:
-timestamp: 2026-05-09T07:23:23Z
-status: active
+tags:
+- ai-native-business
+- agent-architecture
+- multi-agent
+- ai-org-design
+- ai-native-banking
+sources:
+- id: backbase-blog-ai-native-banking-os-what-it-is-and-why-it-matters-2026
+  resource: 'Backbase blog — "AI-native banking OS: What it is and why it matters" (2026)'
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/ai-native-banking/banking-predictions-2026.md
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/spec-driven-development/mckinsey-agentic-workflows.md
+- ai-engineering/ai-native-banking/banking-predictions-2026.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/spec-driven-development/mckinsey-agentic-workflows.md
 ---
 
 # AI-Native Banking OS

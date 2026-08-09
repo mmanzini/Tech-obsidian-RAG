@@ -4,11 +4,18 @@ title: Jeetu Patel — Permission to Play vs. Right to Win
 description: Jeetu Patel (CPO, Cisco) offers a six-part framework for betting on opportunities — Timing > Market > Team > Product > Brand > Distribution — arguing that most leaders fatally over-index on product while the first three factors actually decide outcomes.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, product-management, ai-native-business, ai-org-design]
-source: Lenny's Podcast, Jeetu Patel (CPO, Cisco
-resource:
-timestamp: 2026-06-09T20:51:26Z
-status: active
+tags:
+- practitioner-interview
+- product-management
+- ai-native-business
+- ai-org-design
+sources:
+- id: lenny-s-podcast-jeetu-patel-cpo-cisco
+  resource: Lenny's Podcast, Jeetu Patel (CPO, Cisco
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

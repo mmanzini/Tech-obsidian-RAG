@@ -4,17 +4,26 @@ title: Everyone Should Be Using Claude Code More
 description: Crowdsourced from 500+ readers, this article reframes Claude Code as "Claude Agent" — a local, long-running agent with filesystem and CLI access — and documents 50 non-technical use cases spanning file admin, knowledge work, sales research, product ops, media production, and personal tasks.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, agent-workflows, context-engineering, skills-and-hooks, mcp]
-source: https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code
+tags:
+- claude-code
+- agent-workflows
+- context-engineering
+- skills-and-hooks
+- mcp
 resource: https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code
-timestamp: 2026-05-29T15:24:58Z
-status: active
+sources:
+- id: everyone-should-be-using-claude-code
+  resource: https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-29T15:24:58Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/opus-4-7-best-practices.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/claude-code-practice/claude-code-routines.md
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+- ai-engineering/claude-code-practice/opus-4-7-best-practices.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/claude-code-practice/claude-code-routines.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/ai-organization/claude-code-productivity-takeaways.md
 ---
 
 # Everyone Should Be Using Claude Code More

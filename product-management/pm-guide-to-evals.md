@@ -4,19 +4,27 @@ title: A PM's Complete Guide to Evals
 description: Aman Khan's guide positions evals — structured quality measurement of AI systems — as the defining skill for AI PMs, arguing that prompts make headlines but evals decide whether a product thrives or dies.
 bundle: ai-engineering
 topic: product-management
-tags: [evals, product-management, constitutional-ai, agent-workflows]
-source: https://www.lennysnewsletter.com/
+tags:
+- evals
+- product-management
+- constitutional-ai
+- agent-workflows
 resource: https://www.lennysnewsletter.com/
-timestamp: 2026-05-09T06:59:45Z
-status: active
+sources:
+- id: www-lennysnewsletter
+  resource: https://www.lennysnewsletter.com/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T06:59:45Z'
+status: stable
 related:
-  - ai-engineering/product-management/ai-prototyping-for-pms.md
-  - ai-engineering/ai-organization/an-ai-glossary.md
-  - ai-engineering/harness-engineering/skill-creator-evals.md
-  - ai-engineering/ai-product-development/ai-product-development-framework.md
-  - ai-engineering/agent-workflows/hamel-husain-shreya-shankar.md
-  - ai-engineering/agent-workflows/brendan-foody.md
-  - ai-engineering/agent-architecture/aishwarya-reganti-kiriti-badam.md
+- ai-engineering/product-management/ai-prototyping-for-pms.md
+- ai-engineering/ai-organization/an-ai-glossary.md
+- ai-engineering/harness-engineering/skill-creator-evals.md
+- ai-engineering/ai-product-development/ai-product-development-framework.md
+- ai-engineering/agent-workflows/hamel-husain-shreya-shankar.md
+- ai-engineering/agent-workflows/brendan-foody.md
+- ai-engineering/agent-architecture/aishwarya-reganti-kiriti-badam.md
 ---
 
 # A PM's Complete Guide to Evals

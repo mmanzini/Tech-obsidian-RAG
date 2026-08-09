@@ -4,13 +4,23 @@ title: How and When to Use Subagents in Claude Code
 description: A sub-agent is an **isolated Claude instance with its own context window**.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, multi-agent, context-engineering, skills-and-hooks, agent-workflows, harness-engineering]
-source: https://claude.com/blog/subagents-in-claude-code
+tags:
+- claude-code
+- multi-agent
+- context-engineering
+- skills-and-hooks
+- agent-workflows
+- harness-engineering
 resource: https://claude.com/blog/subagents-in-claude-code
-timestamp: 2026-05-17T08:21:13Z
-status: active
+sources:
+- id: subagents-in-claude-code
+  resource: https://claude.com/blog/subagents-in-claude-code
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
+- ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
 ---
 
 # How and When to Use Subagents in Claude Code

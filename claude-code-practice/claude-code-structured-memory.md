@@ -4,15 +4,23 @@ title: Claude Code Structured Memory — ~/.claude/memory/ Architecture
 description: A practical guide to giving Claude Code persistent, structured memory via a `~/.claude/memory/` directory hierarchy — eliminating the bloated flat-CLAUDE.md anti-pattern and enabling on-demand context loading.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, agent-memory, context-engineering, skills-and-hooks, knowledge-management]
-source: ../../../Resources/web-clippings/2026-05-03-How%20I%20Finally%20Sorted%20My%20Claude%20Code%20Memory%201.md
-resource:
-timestamp: 2026-05-17T08:21:13Z
-status: active
+tags:
+- claude-code
+- agent-memory
+- context-engineering
+- skills-and-hooks
+- knowledge-management
+sources:
+- id: 2026-05-03-how-20i-20finally-20sorted-20my-20claude-20code-20memory-201
+  resource: ../../../Resources/web-clippings/2026-05-03-How%20I%20Finally%20Sorted%20My%20Claude%20Code%20Memory%201.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/claude-code-practice/claude-code-agentic-os.md
-  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/claude-code-practice/claude-code-agentic-os.md
+- ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
 ---
 
 # Claude Code Structured Memory — ~/.claude/memory/ Architecture

@@ -4,11 +4,20 @@ title: Asha Sharma — The product-as-organism
 description: Asha Sharma (ex-Microsoft) argues that AI products behave like organisms — they learn continuously between ships, so planning in 8–12 week "seasons" with a shared evaluation harness replaces annual roadmaps.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, product-management, ai-org-design, evals, ai-native-business]
-source: https://www.youtube.com/watch?v=J9UWaltU-7Q
+tags:
+- practitioner-interview
+- product-management
+- ai-org-design
+- evals
+- ai-native-business
 resource: https://www.youtube.com/watch?v=J9UWaltU-7Q
-timestamp: 2026-06-09T20:51:26Z
-status: active
+sources:
+- id: watch-v-j9uwaltu-7q
+  resource: https://www.youtube.com/watch?v=J9UWaltU-7Q
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

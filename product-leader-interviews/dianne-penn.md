@@ -4,17 +4,25 @@ title: Dianne Penn — Why the People Building AI Can't Tell You What's Next
 description: Anthropic's Head of Product for AI Research and Labs on emerging-capability unpredictability ("evals are the new PRDs"), the coding bet behind Opus 3, frontier-products-for-frontier-models, hands-on leadership ("sweat the tokens"), and why Claude's willingness to push back makes it a better thinking partner.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, evals, product-management, constitutional-ai]
-source: Resources/transcriptions/transcript-why-the-people-building-ai-cant-tell-you-whats-next-dianne-penn-anthropic.md
+tags:
+- practitioner-interview
+- evals
+- product-management
+- constitutional-ai
 resource: https://www.youtube.com/watch?v=tivaWTTVRhY
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: transcript-why-the-people-building-ai-cant-tell-you-whats-next-dianne-penn-anthropic
+  resource: Resources/transcriptions/transcript-why-the-people-building-ai-cant-tell-you-whats-next-dianne-penn-anthropic.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/product-leader-interviews/cat-wu.md
-  - ai-engineering/product-leader-interviews/elizabeth-stone.md
-  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
-  - ai-engineering/model-fundamentals/compression-is-intelligence.md
-  - ai-engineering/model-evaluation/index.md
+- ai-engineering/product-leader-interviews/cat-wu.md
+- ai-engineering/product-leader-interviews/elizabeth-stone.md
+- ai-engineering/ai-organization/anthropic-growth-takeaways.md
+- ai-engineering/model-fundamentals/compression-is-intelligence.md
+- ai-engineering/model-evaluation/index.md
 ---
 
 # Dianne Penn — Why the People Building AI Can't Tell You What's Next

@@ -4,14 +4,22 @@ title: Improving Skill-Creator — Test, Measure, and Refine Agent Skills
 description: Anthropic's updated skill-creator brings software-engineering rigour to skill authoring by bundling eval authoring, benchmark mode, parallel multi-agent execution, blinded comparator agents, and description tuning — without requiring skill authors to write code.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [skills-and-hooks, evals, harness-engineering, multi-agent]
-source: https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills
+tags:
+- skills-and-hooks
+- evals
+- harness-engineering
+- multi-agent
 resource: https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills
-timestamp: 2026-04-30T06:41:32Z
-status: active
+sources:
+- id: improving-skill-creator-test-measure-and-refine-agent-skills
+  resource: https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-30T06:41:32Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/harness-engineering/skills-2-0-user-workflow.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/harness-engineering/skills-2-0-user-workflow.md
 ---
 
 # Improving Skill-Creator — Test, Measure, and Refine Agent Skills

@@ -4,16 +4,25 @@ title: Sandcastle — AFK Software Factory
 description: Sandcastle is a TypeScript library for orchestrating AI coding agents inside isolated sandboxes.
 bundle: ai-engineering
 topic: agent-infrastructure
-tags: [harness-engineering, long-running-agents, agent-workflows, multi-agent, claude-code]
-source: https://www.youtube.com/watch?v=E5-QK3CDVQM
+tags:
+- harness-engineering
+- long-running-agents
+- agent-workflows
+- multi-agent
+- claude-code
 resource: https://www.youtube.com/watch?v=E5-QK3CDVQM
-timestamp: 2026-05-03T12:59:31Z
-status: active
+sources:
+- id: watch-v-e5-qk3cdvqm
+  resource: https://www.youtube.com/watch?v=E5-QK3CDVQM
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-03T12:59:31Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
-  - ai-engineering/claude-code-practice/claude-code-desktop-parallel.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/harness-engineering/effective-harnesses-long-running.md
+- ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+- ai-engineering/claude-code-practice/claude-code-desktop-parallel.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/harness-engineering/effective-harnesses-long-running.md
 ---
 
 # Sandcastle — AFK Software Factory

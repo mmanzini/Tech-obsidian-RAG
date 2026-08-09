@@ -1,25 +1,34 @@
 ---
 type: synthesis
 title: Lethal Trifecta and Agentic Engineering Patterns
-description: "The lethal trifecta is a structural security problem for AI agents: whenever an agent simultaneously holds private data, processes untrusted content, and can externalise data, prompt injection cannot be reliably prevented."
+description: 'The lethal trifecta is a structural security problem for AI agents: whenever an agent simultaneously holds private data, processes untrusted content, and can externalise data, prompt injection cannot be reliably prevented.'
 bundle: ai-engineering
 topic: agent-architecture
-tags: [ai-security, agent-architecture, agent-workflows, harness-engineering, practitioner-interview]
-source: https://www.lennysnewsletter.com/
+tags:
+- ai-security
+- agent-architecture
+- agent-workflows
+- harness-engineering
+- practitioner-interview
 resource: https://www.lennysnewsletter.com/
-timestamp: 2026-06-20T21:43:14Z
-status: active
+sources:
+- id: www-lennysnewsletter
+  resource: https://www.lennysnewsletter.com/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-20T21:43:14Z'
+status: stable
 related:
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
-  - ai-engineering/agent-workflows/research-plan-implement.md
-  - ai-engineering/agent-workflows/adversarial-review.md
-  - ai-engineering/ai-organization/openclaw-personal-agent-team.md
-  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
-  - ai-engineering/agent-architecture/simon-willison.md
-  - ai-engineering/model-evaluation/deployment-simulation.md
-  - ai-engineering/agent-architecture/alexander-embiricos.md
-  - ai-engineering/agent-architecture/aishwarya-reganti-kiriti-badam.md
-  - ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/agent-workflows/research-plan-implement.md
+- ai-engineering/agent-workflows/adversarial-review.md
+- ai-engineering/ai-organization/openclaw-personal-agent-team.md
+- ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+- ai-engineering/agent-architecture/simon-willison.md
+- ai-engineering/model-evaluation/deployment-simulation.md
+- ai-engineering/agent-architecture/alexander-embiricos.md
+- ai-engineering/agent-architecture/aishwarya-reganti-kiriti-badam.md
+- ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
 ---
 
 # Lethal Trifecta and Agentic Engineering Patterns

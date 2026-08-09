@@ -4,11 +4,19 @@ title: Howie Liu — The IC CEO and the fast-thinking / slow-thinking org
 description: Howie Liu (CEO, Airtable) argues that every pre-GenAI company must be refounded — and the CEO must become an individual contributor again to lead it, using AI hourly and being the top inference-cost user of their own product.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, ai-org-design, product-management, ai-native-business]
-source: https://www.youtube.com/watch?v=GT0jtVjRy2E
+tags:
+- practitioner-interview
+- ai-org-design
+- product-management
+- ai-native-business
 resource: https://www.youtube.com/watch?v=GT0jtVjRy2E
-timestamp: 2026-06-09T20:51:26Z
-status: active
+sources:
+- id: watch-v-gt0jtvjry2e
+  resource: https://www.youtube.com/watch?v=GT0jtVjRy2E
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

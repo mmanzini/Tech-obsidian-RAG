@@ -1,19 +1,26 @@
 ---
 type: synthesis
 title: LLM Vault Structure Spec — Bundle/Topic/Article Architecture
-description: "The design document that specified the Atlas vault's two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **bundles** as macro groups and agent-curated **topics** as clusters within bundles."
+description: 'The design document that specified the Atlas vault''s two-zone, two-layer architecture: one immutable input zone (`Resources/`) feeds one wiki zone (`Intelligence/`), with user-curated **bundles** as macro groups and agent-curated **topics** as clusters within bundles.'
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-management, harness-engineering, agent-workflows, spec-driven-development]
-source: ../../../Resources/documents/templates/LLM Vault structure.md
-resource:
-timestamp: 2026-05-17T08:21:13Z
-status: active
+tags:
+- knowledge-management
+- harness-engineering
+- agent-workflows
+- spec-driven-development
+sources:
+- id: llm-vault-structure
+  resource: ../../../Resources/documents/templates/LLM Vault structure.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/autoresearch-methodology.md
-  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
+- ai-engineering/knowledge-engineering/autoresearch-methodology.md
+- ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
 ---
 
 # LLM Vault Structure Spec — Bundle/Topic/Article Architecture

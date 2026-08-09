@@ -4,16 +4,24 @@ title: /goal — Condition-Based Autonomous Completion in Claude Code
 description: The `/goal` command sets a completion condition and Claude keeps working toward it without the user prompting each step.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, long-running-agents, agent-workflows, skills-and-hooks]
-source: https://code.claude.com/docs/en/goal
+tags:
+- claude-code
+- long-running-agents
+- agent-workflows
+- skills-and-hooks
 resource: https://code.claude.com/docs/en/goal
-timestamp: 2026-05-25T00:17:36Z
-status: active
+sources:
+- id: goal
+  resource: https://code.claude.com/docs/en/goal
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-25T00:17:36Z'
+status: stable
 related:
-  - ai-engineering/agent-infrastructure/agent-view-multi-agent-management.md
-  - ai-engineering/claude-code-practice/claude-code-routines.md
-  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/agent-infrastructure/agent-view-multi-agent-management.md
+- ai-engineering/claude-code-practice/claude-code-routines.md
+- ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
 ---
 
 # /goal — Condition-Based Autonomous Completion in Claude Code

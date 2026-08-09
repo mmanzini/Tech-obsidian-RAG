@@ -4,16 +4,23 @@ title: Integrating Design with Specs — The Multi-File Ecosystem
 description: How Design.md fits alongside REQUIREMENTS.md, TASKS.md, AGENTS.md, and other specification artefacts in a multi-file AI-assisted workflow.
 bundle: ai-engineering
 topic: design-in-ai
-tags: [design-in-ai, spec-driven-development, agent-workflows, context-engineering]
-source: ../../../Resources/documents/frameworks/Design in AI/Guides/Integrating Design with Specs.md
-resource:
-timestamp: 2026-04-30T05:44:00Z
-status: active
+tags:
+- design-in-ai
+- spec-driven-development
+- agent-workflows
+- context-engineering
+sources:
+- id: integrating-design-with-specs
+  resource: ../../../Resources/documents/frameworks/Design in AI/Guides/Integrating Design with Specs.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-30T05:44:00Z'
+status: stable
 related:
-  - ai-engineering/design-in-ai/design-first-vs-requirements-first.md
-  - ai-engineering/design-in-ai/writing-effective-design-docs.md
-  - ai-engineering/design-in-ai/design-principles.md
-  - ai-engineering/design-in-ai/historical-context-design-tokens.md
+- ai-engineering/design-in-ai/design-first-vs-requirements-first.md
+- ai-engineering/design-in-ai/writing-effective-design-docs.md
+- ai-engineering/design-in-ai/design-principles.md
+- ai-engineering/design-in-ai/historical-context-design-tokens.md
 ---
 
 # Integrating Design with Specs — The Multi-File Ecosystem

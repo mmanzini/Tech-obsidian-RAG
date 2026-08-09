@@ -4,17 +4,25 @@ title: Max Schoening — Agency, Malleable Software, and the Tiny Core
 description: Max Schoening argues that agency — not skills — is the thing that separates people who thrive in the AI era from those who fall behind.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, product-management, ai-native-business, agency]
-source: https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more
+tags:
+- practitioner-interview
+- product-management
+- ai-native-business
+- agency
 resource: https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more
-timestamp: 2026-06-09T20:51:26Z
-status: active
+sources:
+- id: why-cultivating-agency-matters-more
+  resource: https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related:
-  - ai-engineering/product-leader-interviews/cat-wu.md
-  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
-  - ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
-  - ai-engineering/ai-organization/product-management-ai-exponential.md
-  - ai-engineering/product-leader-interviews/andrew-ambrosino.md
+- ai-engineering/product-leader-interviews/cat-wu.md
+- ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+- ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
+- ai-engineering/ai-organization/product-management-ai-exponential.md
+- ai-engineering/product-leader-interviews/andrew-ambrosino.md
 ---
 
 # Max Schoening — Agency, Malleable Software, and the Tiny Core

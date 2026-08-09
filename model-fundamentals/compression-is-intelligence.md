@@ -4,15 +4,22 @@ title: Compression is Intelligence — Entropy, Cross-Entropy, and LLM Pre-Train
 description: 3Blue1Brown's two-part derivation of information theory from the limits of compressing language — information, entropy, cross-entropy, KL divergence — and why prediction and compression are mathematically equivalent, making LLM pre-training reframable as building the most efficient text compressor.
 bundle: ai-engineering
 topic: model-fundamentals
-tags: [model-fundamentals, information-theory, evals]
-source: Resources/transcriptions/transcript-reinventing-entropy-compression-is-intelligence-part-1.md
+tags:
+- model-fundamentals
+- information-theory
+- evals
 resource: https://www.youtube.com/watch?v=l6DKRf-fAAM
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: transcript-reinventing-entropy-compression-is-intelligence-part-1
+  resource: Resources/transcriptions/transcript-reinventing-entropy-compression-is-intelligence-part-1.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/model-fundamentals/large-database-models.md
-  - ai-engineering/claude-code-practice/claude-code-effort-and-model-selection.md
-  - ai-engineering/product-leader-interviews/dianne-penn.md
+- ai-engineering/model-fundamentals/large-database-models.md
+- ai-engineering/claude-code-practice/claude-code-effort-and-model-selection.md
+- ai-engineering/product-leader-interviews/dianne-penn.md
 ---
 
 # Compression is Intelligence — Entropy, Cross-Entropy, and LLM Pre-Training

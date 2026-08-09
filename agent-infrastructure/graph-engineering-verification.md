@@ -4,16 +4,24 @@ title: Graph Engineering — Multi-Agent Graphs and the Verification Problem
 description: Graph engineering fans one task out across many agents (nodes and edges, diamond and fan-in-at-barrier shapes); its failure mode is that one broken node corrupts the whole output, which makes self-built verification skills — and the model doing the judging — the decisive design choice.
 bundle: ai-engineering
 topic: agent-infrastructure
-tags: [multi-agent, harness-engineering, skills-and-hooks, claude-code]
-source: Resources/transcriptions/transcript-anthropic-just-fixed-graph-engineerings-greatest-flaw.md
+tags:
+- multi-agent
+- harness-engineering
+- skills-and-hooks
+- claude-code
 resource: https://www.youtube.com/watch?v=H7t3uUp3HVw
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: transcript-anthropic-just-fixed-graph-engineerings-greatest-flaw
+  resource: Resources/transcriptions/transcript-anthropic-just-fixed-graph-engineerings-greatest-flaw.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/verification-loops-in-claude-code.md
-  - ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
-  - ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
-  - ai-engineering/harness-engineering/skill-creator-evals.md
+- ai-engineering/harness-engineering/verification-loops-in-claude-code.md
+- ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
+- ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
+- ai-engineering/harness-engineering/skill-creator-evals.md
 ---
 
 # Graph Engineering — Multi-Agent Graphs and the Verification Problem

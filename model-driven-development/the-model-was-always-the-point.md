@@ -4,14 +4,21 @@ title: The Model Was Always the Point — MDD in the Age of AI
 description: Max's opinion essay arguing that AI rehabilitates model-driven development by fixing the failure that sank it, while leaving intact the part worth keeping.
 bundle: ai-engineering
 topic: model-driven-development
-tags: [model-driven-development, spec-driven-development, ai-security, agent-architecture]
-source: ../../../Resources/Projects/articles-and-essays/002-model-driven-development-in-the-age-of-ai/002-model-driven-development-in-the-age-of-ai.md
-resource:
-timestamp: 2026-06-02T13:33:31Z
-status: active
+tags:
+- model-driven-development
+- spec-driven-development
+- ai-security
+- agent-architecture
+sources:
+- id: 002-model-driven-development-in-the-age-of-ai
+  resource: ../../../Resources/Projects/articles-and-essays/002-model-driven-development-in-the-age-of-ai/002-model-driven-development-in-the-age-of-ai.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-02T13:33:31Z'
+status: stable
 related:
-  - ai-engineering/model-driven-development/mdd-overview.md
-  - ai-engineering/model-driven-development/mdd-classic-vs-modern.md
+- ai-engineering/model-driven-development/mdd-overview.md
+- ai-engineering/model-driven-development/mdd-classic-vs-modern.md
 ---
 
 # The Model Was Always the Point — MDD in the Age of AI

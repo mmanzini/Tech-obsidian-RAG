@@ -4,11 +4,19 @@ title: Product Management on the AI Exponential
 description: Cat Wu (Head of Product for Claude Code at Anthropic) argues that the 41× jump in model capability over 16 months has broken the traditional PM planning horizon, requiring teams to shift to short "side quest" sprints, prototype-first validation via demos and evals, and the discipline to do the simplest thing that works rather than engineering workarounds for model limitations.
 bundle: ai-engineering
 topic: ai-organization
-tags: [product-management, claude-code, evals, ai-native-business]
-source: https://claude.com/blog/product-management-on-the-ai-exponential
+tags:
+- product-management
+- claude-code
+- evals
+- ai-native-business
 resource: https://claude.com/blog/product-management-on-the-ai-exponential
-timestamp: 2026-06-09T20:51:26Z
-status: active
+sources:
+- id: product-management-on-the-ai-exponential
+  resource: https://claude.com/blog/product-management-on-the-ai-exponential
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

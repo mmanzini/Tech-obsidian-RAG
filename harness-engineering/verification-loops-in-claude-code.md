@@ -4,17 +4,25 @@ title: Verification Loops in Claude Code — Encoding Manual Checks as Skills
 description: Anthropic's guide to verification loops — turn the manual checks you repeat after every agent change into skills (standalone, embedded, chained, or PR-wide) so Claude closes its own feedback loop.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [skills-and-hooks, claude-code, harness-engineering, agent-workflows]
-source: Resources/web-clippings/2026-08-04-Building verification loops in Claude Code with skills.md
+tags:
+- skills-and-hooks
+- claude-code
+- harness-engineering
+- agent-workflows
 resource: https://claude.com/blog/building-verification-loops-in-claude-code-with-skills
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-08-04-building-verification-loops-in-claude-code-with-skills
+  resource: Resources/web-clippings/2026-08-04-Building verification loops in Claude Code with skills.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/agent-infrastructure/graph-engineering-verification.md
-  - ai-engineering/harness-engineering/skill-creator-evals.md
-  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
-  - ai-engineering/harness-engineering/steering-claude-code-instruction-methods.md
-  - ai-engineering/ci-integrations/index.md
+- ai-engineering/agent-infrastructure/graph-engineering-verification.md
+- ai-engineering/harness-engineering/skill-creator-evals.md
+- ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+- ai-engineering/harness-engineering/steering-claude-code-instruction-methods.md
+- ai-engineering/ci-integrations/index.md
 ---
 
 # Verification Loops in Claude Code — Encoding Manual Checks as Skills

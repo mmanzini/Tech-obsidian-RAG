@@ -1,18 +1,26 @@
 ---
 type: synthesis
-title: "Banking Predictions 2026: AI & the Future of Banking"
+title: 'Banking Predictions 2026: AI & the Future of Banking'
 description: Backbase's 2026 Banking Predictions report argues that AI is moving from tactical pilots to enterprise-wide productivity across all five banking segments (retail, private, wealth, small business, commercial), with trust — against deepfakes, fraud, and regulatory scrutiny — emerging as the defining competitive edge.
 bundle: ai-engineering
 topic: ai-native-banking
-tags: [ai-native-business, multi-agent, ai-org-design, ai-security, ai-native-banking]
-source: Backbase Banking Predictions Report 2026 — "AI & the Future of Banking"
-resource:
-timestamp: 2026-05-09T09:03:44Z
-status: active
+tags:
+- ai-native-business
+- multi-agent
+- ai-org-design
+- ai-security
+- ai-native-banking
+sources:
+- id: backbase-banking-predictions-report-2026-ai-the-future-of-banking
+  resource: Backbase Banking Predictions Report 2026 — "AI & the Future of Banking"
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T09:03:44Z'
+status: stable
 related:
-  - ai-engineering/ai-native-banking/ai-native-banking-os.md
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/ai-native-banking/claude-agents-financial-services-2026.md
+- ai-engineering/ai-native-banking/ai-native-banking-os.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-native-banking/claude-agents-financial-services-2026.md
 ---
 
 # Banking Predictions 2026: AI & the Future of Banking

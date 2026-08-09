@@ -4,14 +4,21 @@ title: Large Database Models — AI for SQL Data
 description: LDMs train embeddings over selected tables in a relational database so semantic queries (similarity, anomaly, clustering, analogy) run as standard SQL where the data lives — reaching the ~99% of enterprise data that never gets in front of an LLM.
 bundle: ai-engineering
 topic: model-fundamentals
-tags: [model-fundamentals, knowledge-management, ai-native-business]
-source: Resources/transcriptions/transcript-what-are-large-database-models-ai-for-sql-data.md
+tags:
+- model-fundamentals
+- knowledge-management
+- ai-native-business
 resource: https://www.youtube.com/watch?v=uU1EP9_4qBU
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: transcript-what-are-large-database-models-ai-for-sql-data
+  resource: Resources/transcriptions/transcript-what-are-large-database-models-ai-for-sql-data.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/model-fundamentals/compression-is-intelligence.md
-  - ai-engineering/ai-product-development/when-not-to-use-ai.md
+- ai-engineering/model-fundamentals/compression-is-intelligence.md
+- ai-engineering/ai-product-development/when-not-to-use-ai.md
 ---
 
 # Large Database Models — AI for SQL Data

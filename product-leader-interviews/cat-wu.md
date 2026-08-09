@@ -4,21 +4,29 @@ title: Cat Wu — Shipping Faster than Anyone Else at Anthropic
 description: Cat Wu (Head of Product, Claude Code & Cowork, Anthropic) argues that AI has compressed feature timelines from six months to one week, fundamentally reframing the PM's job as minimizing the distance from idea to user rather than coordinating multi-quarter roadmaps.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, claude-code, product-management, ai-org-design, ai-native-business]
-source: Lenny's Podcast, Cat Wu (Head of Product, Claude Code & Cowork, Anthropic
-resource:
-timestamp: 2026-06-09T20:51:26Z
-status: active
+tags:
+- practitioner-interview
+- claude-code
+- product-management
+- ai-org-design
+- ai-native-business
+sources:
+- id: lenny-s-podcast-cat-wu-head-of-product-claude-code-cowork-anthropic
+  resource: Lenny's Podcast, Cat Wu (Head of Product, Claude Code & Cowork, Anthropic
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
-  - ai-engineering/ai-organization/product-management-ai-exponential.md
-  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
-  - ai-engineering/ai-organization/openclaw-personal-agent-team.md
-  - ai-engineering/claude-code-practice/sherwin-wu.md
-  - ai-engineering/agent-workflows/hamel-husain-shreya-shankar.md
-  - ai-engineering/product-leader-interviews/nikhyl-singhal.md
-  - ai-engineering/product-leader-interviews/nick-turley.md
-  - ai-engineering/agent-architecture/chip-huyen.md
+- ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+- ai-engineering/ai-organization/product-management-ai-exponential.md
+- ai-engineering/ai-organization/anthropic-growth-takeaways.md
+- ai-engineering/ai-organization/openclaw-personal-agent-team.md
+- ai-engineering/claude-code-practice/sherwin-wu.md
+- ai-engineering/agent-workflows/hamel-husain-shreya-shankar.md
+- ai-engineering/product-leader-interviews/nikhyl-singhal.md
+- ai-engineering/product-leader-interviews/nick-turley.md
+- ai-engineering/agent-architecture/chip-huyen.md
 ---
 
 # Cat Wu — Shipping Faster than Anyone Else at Anthropic

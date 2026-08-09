@@ -4,15 +4,23 @@ title: Self-Hosted Sandboxes — Bring-Your-Own Execution Environment for Manage
 description: Self-hosted sandboxes let you keep Managed Agents orchestration on Anthropic's side while moving tool execution into infrastructure you control.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [agent-architecture, harness-engineering, long-running-agents, ai-security]
-source: https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes
+tags:
+- agent-architecture
+- harness-engineering
+- long-running-agents
+- ai-security
 resource: https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes
-timestamp: 2026-05-25T00:17:36Z
-status: active
+sources:
+- id: self-hosted-sandboxes
+  resource: https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-25T00:17:36Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/scaling-managed-agents.md
-  - ai-engineering/harness-engineering/managed-agents-dreams.md
-  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+- ai-engineering/harness-engineering/scaling-managed-agents.md
+- ai-engineering/harness-engineering/managed-agents-dreams.md
+- ai-engineering/claude-code-practice/claude-managed-agents-memory.md
 ---
 
 # Self-Hosted Sandboxes — Bring-Your-Own Execution Environment for Managed Agents

@@ -4,11 +4,16 @@ title: Glossary
 description: A reference for the key terms used throughout the RPI methodology documentation, covering foundational concepts (context engineering, instruction budget, context rot), RPI-specific constructs (FAR/FACTS scales, validation gates, checkpoint recovery, thoughts directory), and related frameworks (SDD, CRISPY/QRSPI, Ralph Loop, 12 Factor Agents).
 bundle: ai-engineering
 topic: rpi-methodology
-tags: [agent-workflows, context-engineering, harness-engineering, spec-driven-development, knowledge-management]
-source: self-authored
-resource:
-timestamp: 2026-05-29T14:58:08Z
-status: active
+tags:
+- agent-workflows
+- context-engineering
+- harness-engineering
+- spec-driven-development
+- knowledge-management
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-29T14:58:08Z'
+status: stable
 related: []
 ---
 

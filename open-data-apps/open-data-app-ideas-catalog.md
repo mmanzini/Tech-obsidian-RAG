@@ -4,13 +4,20 @@ title: Open Data App Ideas Catalog
 description: A prioritised catalog of 20 open-data app opportunities scored by feasibility × revenue potential, with the top tier dominated by NL-specific apps (Kenteken Checker, WOZ Value Checker, BAG Address Info) where the Dutch open-data ecosystem is unusually mature and paid incumbents exist as proof of demand.
 bundle: ai-engineering
 topic: open-data-apps
-tags: [ai-native-business, product-management, agent-workflows, open-data]
-source: synthesis — open-data-apps corpus
-resource:
-timestamp: 2026-05-09T07:23:23Z
-status: active
+tags:
+- ai-native-business
+- product-management
+- agent-workflows
+- open-data
+sources:
+- id: synthesis-open-data-apps-corpus
+  resource: synthesis — open-data-apps corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/open-data-apps/open-data-app-business-overview.md
+- ai-engineering/open-data-apps/open-data-app-business-overview.md
 ---
 
 # Open Data App Ideas Catalog

@@ -4,11 +4,18 @@ title: Robby Stein — Search Is Expansionary, Not Zero-Sum
 description: Robby Stein (VP of Product, Google Search) argues that AI makes search expansionary rather than cannibalizing it — users with access to AI Overviews and AI Mode ask more questions, not fewer, because curiosity is elastic when answers get easier.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, product-management, ai-native-business, multi-agent]
-source: Lenny's Podcast, Robby Stein (VP of Product, Google Search
-resource:
-timestamp: 2026-06-09T20:51:26Z
-status: active
+tags:
+- practitioner-interview
+- product-management
+- ai-native-business
+- multi-agent
+sources:
+- id: lenny-s-podcast-robby-stein-vp-of-product-google-search
+  resource: Lenny's Podcast, Robby Stein (VP of Product, Google Search
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

@@ -2,7 +2,7 @@
 
 How to build with AI: agent architecture and workflows, the harness layer around coding agents (CLAUDE.md, MCP, skills, hooks, sub-agents, long-running patterns), structured methodologies (RPI, spec-driven development, adversarial review), AI-native verticals (banking, open-data apps), AI security, design tooling for agents, and the AI-bound PM craft (eval design for AI products, AI-prototyping, the AI-accelerated PM role). Belongs here: anything about *how to build well with AI* — tools, patterns, methodologies. Does **not** belong here: evergreen PM craft (that goes to top-level `product-management`); team/operating models that aren't AI-specific (that goes to top-level `way-of-working`); macro/geopolitical commentary on AI as market/policy (that goes to `political-economy`); raw GitHub trending repo writeups (`github-trends`). Boundary test for PM/WoW topics: *if I removed AI from the picture, would this article still make sense?* If yes, it belongs in the top-level bundle; if it is fundamentally about AI's effect on PM/team practice, it belongs here. Articles that fit both Scope paragraphs are duplicated per hard-rule 2.
 
-This repository is a public mirror of one bundle from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **196 articles across 22 topics**.
+This repository is a public mirror of one bundle from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **198 articles across 22 topics**.
 
 ## Topics
 
@@ -31,14 +31,14 @@ This repository is a public mirror of one bundle from a personal Obsidian RAG va
 
 ## How this repository is structured (Open Knowledge Format)
 
-This repository is a conformant [**Open Knowledge Format (OKF) v0.1**](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. OKF is Google Cloud's vendor-neutral standard for agent-readable knowledge: a directory of markdown files, one concept per file, with YAML frontmatter and cross-links. No SDK, no database, no proprietary account — if you can `cat` a file you can read it; if you can `git clone` the repo you can ship it.
+This repository is a conformant [**Open Knowledge Format (OKF) v0.2**](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. OKF is Google Cloud's vendor-neutral standard for agent-readable knowledge: a directory of markdown files, one concept per file, with YAML frontmatter and cross-links. No SDK, no database, no proprietary account — if you can `cat` a file you can read it; if you can `git clone` the repo you can ship it.
 
 Each bundle of the parent vault is OKF-conformant in place — there is no separate export step. What that means here:
 
-- **`index.md` routers** — `index.md` at the bundle root and in every topic folder is a directory listing for progressive disclosure: scan it to see what exists before opening articles.
-- **`<concept>.md` articles** — every other `.md` file is a concept document. Each opens with YAML frontmatter whose only required field is `type` (Atlas uses a small vocabulary: `synthesis`, `reference`, `analysis`, `digest`, …), followed by `title`, `description`, `tags`, `source`, `timestamp`, and a `related:` cross-link graph.
+- **`index.md` routers** — `index.md` at the bundle root and in every topic folder is a directory listing for progressive disclosure: scan it to see what exists before opening articles. The bundle-root `index.md` declares `okf_version: "0.2"`.
+- **`<concept>.md` articles** — every other `.md` file is a concept document. Each opens with YAML frontmatter whose only required field is `type` (Atlas uses a small vocabulary: `synthesis`, `reference`, `analysis`, `digest`, …), followed by `title`, `description`, `tags`, a `sources:` provenance list, `generated:`/`verified:` trust metadata (OKF v0.2 actor convention), `status`, and a `related:` cross-link graph.
 - **`log.md`** — a derived, date-grouped changelog of what changed at this level.
-- **Conformance** — every non-reserved `.md` file carries parseable frontmatter with a non-empty `type`; `index.md` / `log.md` are the only reserved filenames. Consumers tolerate unknown types and broken links by design, so the bundle stays useful as it grows.
+- **Conformance** — every non-reserved `.md` file carries strictly parseable frontmatter with a non-empty `type`; `index.md` / `log.md` are the only reserved filenames. Consumers tolerate unknown types and broken links by design, so the bundle stays useful as it grows.
 
 Because the format is just files, this repo is readable in any editor, renderable on GitHub, parseable by any agent, and portable across tools with no translation layer.
 

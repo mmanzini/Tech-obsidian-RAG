@@ -4,19 +4,30 @@ title: Open Knowledge Format (OKF) — the LLM-wiki as a portable standard
 description: Google Cloud's vendor-neutral spec that formalises the markdown-plus-frontmatter LLM-wiki pattern into a portable, interoperable knowledge bundle.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [okf, knowledge-engineering, llm-wiki, interoperability, markdown, frontmatter]
-source: Resources/web-clippings/2026-06-19-How the Open Knowledge Format can improve data sharing.md
+tags:
+- okf
+- knowledge-engineering
+- llm-wiki
+- interoperability
+- markdown
+- frontmatter
 resource: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
-timestamp: 2026-07-05T09:30:00Z
-status: active
+sources:
+- id: 2026-06-19-how-the-open-knowledge-format-can-improve-data-sharing
+  resource: Resources/web-clippings/2026-06-19-How the Open Knowledge Format can improve data sharing.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T09:30:00Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/okf-spec-v0-1.md
-  - ai-engineering/knowledge-engineering/agentic-knowledge-engine-overview.md
-  - ai-engineering/knowledge-engineering/okf-type-tags-and-obsidian-bases.md
-  - ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
-  - ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
-  - ai-engineering/knowledge-engineering/zettelkasten-pkm.md
-  - ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
+- ai-engineering/knowledge-engineering/okf-spec-v0-1.md
+- ai-engineering/knowledge-engineering/okf-spec-v0-2.md
+- ai-engineering/knowledge-engineering/agentic-knowledge-engine-overview.md
+- ai-engineering/knowledge-engineering/okf-type-tags-and-obsidian-bases.md
+- ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
+- ai-engineering/knowledge-engineering/llm-wiki-schema-template.md
+- ai-engineering/knowledge-engineering/zettelkasten-pkm.md
+- ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
 ---
 
 # Open Knowledge Format (OKF) — the LLM-wiki as a portable standard
@@ -29,7 +40,7 @@ related:
 
 ## Summary
 
-OKF (Open Knowledge Format) is a vendor-neutral specification, published by Google Cloud as **v0.1**, that formalises the LLM-wiki pattern into a portable, interoperable format: a directory of markdown files with YAML frontmatter and a small set of agreed-upon conventions, so wikis written by different producers can be consumed by different agents without translation (source: 2026-06-19-How the Open Knowledge Format can improve data sharing.md). It is explicitly a *format, not a platform* — no SDK, no runtime, no proprietary account required.
+OKF (Open Knowledge Format) is a vendor-neutral specification, published by Google Cloud (as **v0.1**, revised to **v0.2** in 2026 — see [[okf-spec-v0-2]]), that formalises the LLM-wiki pattern into a portable, interoperable format: a directory of markdown files with YAML frontmatter and a small set of agreed-upon conventions, so wikis written by different producers can be consumed by different agents without translation (source: 2026-06-19-How the Open Knowledge Format can improve data sharing.md). It is explicitly a *format, not a platform* — no SDK, no runtime, no proprietary account required.
 
 ## The problem: a fragmented context landscape
 
@@ -91,7 +102,8 @@ The sync architecture surfaced its recurring edge case: Unison mirrors Atlas Int
 
 - [[agentic-knowledge-engine-overview]] · [The agentic knowledge engine — overview](agentic-knowledge-engine-overview.md) — the end-to-end engine narrative this portability layer plugs into
 - [[okf-type-tags-and-obsidian-bases]] · [Type vs tags, content-tag backfill, and Obsidian Bases](okf-type-tags-and-obsidian-bases.md) — how the required `type` field and content `tags` are used and consumed downstream
-- [[okf-spec-v0-1]] · [OKF v0.1 — normative specification](okf-spec-v0-1.md) — the exact bundle/concept/conformance rules behind this overview
+- [[okf-spec-v0-1]] · [OKF v0.1 — normative specification](okf-spec-v0-1.md) — the exact bundle/concept/conformance rules behind this overview (superseded)
+- [[okf-spec-v0-2]] · [OKF v0.2 — normative specification](okf-spec-v0-2.md) — the current revision: trust and provenance as queryable frontmatter
 - [[karpathy-llm-knowledge-bases]] · [Karpathy's LLM Knowledge Bases](karpathy-llm-knowledge-bases.md) — the upstream LLM-wiki pattern OKF formalises
 - [[llm-wiki-schema-template]] · [LLM Wiki Schema Template](llm-wiki-schema-template.md) — the minimal markdown-wiki template OKF generalises into a standard
 - [[zettelkasten-pkm]] · [Zettelkasten](zettelkasten-pkm.md) — the PKM lineage of linked atomic notes behind the pattern

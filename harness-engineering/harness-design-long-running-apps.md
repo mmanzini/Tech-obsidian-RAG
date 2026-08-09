@@ -4,11 +4,19 @@ title: Harness Design for Long-Running App Development
 description: Building on Anthropic's earlier [[effective-harnesses-long-running|two-agent harness]], this work introduces a **GAN-inspired three-agent architecture** (planner, generator, evaluator) for autonomous full-stack app development.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [agent-architecture, harness-engineering, long-running-agents, multi-agent]
-source: https://www.anthropic.com/engineering/harness-design-long-running-apps
+tags:
+- agent-architecture
+- harness-engineering
+- long-running-agents
+- multi-agent
 resource: https://www.anthropic.com/engineering/harness-design-long-running-apps
-timestamp: 2026-04-29T21:24:51Z
-status: active
+sources:
+- id: harness-design-long-running-apps
+  resource: https://www.anthropic.com/engineering/harness-design-long-running-apps
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:24:51Z'
+status: stable
 related: []
 ---
 

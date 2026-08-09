@@ -4,17 +4,25 @@ title: Steering Claude Code — When to Use CLAUDE.md, Rules, Skills, Hooks, and
 description: Anthropic's decision framework for the seven instruction methods in Claude Code — CLAUDE.md, rules, skills, subagents, hooks, output styles, and system-prompt appends — compared by load timing, compaction behaviour, context cost, and authority.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [harness-engineering, claude-code, context-engineering, skills-and-hooks]
-source: Resources/web-clippings/2026-07-29-Steering Claude Code when to use CLAUDE.md, skills, hooks, and subagents.md
+tags:
+- harness-engineering
+- claude-code
+- context-engineering
+- skills-and-hooks
 resource: https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-29-steering-claude-code-when-to-use-claude-md-skills-hooks-and-subagents
+  resource: Resources/web-clippings/2026-07-29-Steering Claude Code when to use CLAUDE.md, skills, hooks, and subagents.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
-  - ai-engineering/claude-code-practice/claude-code-effort-and-model-selection.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/harness-engineering/verification-loops-in-claude-code.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/harness-engineering/hooks-for-deterministic-cli-enforcement.md
+- ai-engineering/claude-code-practice/claude-code-effort-and-model-selection.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/harness-engineering/verification-loops-in-claude-code.md
 ---
 
 # Steering Claude Code — When to Use CLAUDE.md, Rules, Skills, Hooks, and Subagents

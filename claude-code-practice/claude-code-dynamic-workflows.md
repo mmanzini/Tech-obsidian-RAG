@@ -4,15 +4,24 @@ title: Claude Code Dynamic Workflows — Script-Driven Subagent Orchestration at
 description: Dynamic workflows move the orchestration plan out of Claude's context and into a rerunnable JavaScript script that a runtime executes in the background — dozens to hundreds of subagents per run, with intermediate results in script variables and only the final answer landing in context.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, multi-agent, agent-workflows, long-running-agents, context-engineering]
-source: Resources/web-clippings/2026-07-01-Orchestrate subagents at scale with dynamic workflows.md
+tags:
+- claude-code
+- multi-agent
+- agent-workflows
+- long-running-agents
+- context-engineering
 resource: https://code.claude.com/docs/en/workflows
-timestamp: 2026-07-05T07:20:00Z
-status: active
+sources:
+- id: 2026-07-01-orchestrate-subagents-at-scale-with-dynamic-workflows
+  resource: Resources/web-clippings/2026-07-01-Orchestrate subagents at scale with dynamic workflows.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T07:20:00Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/claude-code-practice/claude-code-agent-view.md
-  - ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/claude-code-practice/claude-code-agent-view.md
+- ai-engineering/agent-architecture/multi-agent-coordination-patterns.md
 ---
 
 # Claude Code Dynamic Workflows — Script-Driven Subagent Orchestration at Scale

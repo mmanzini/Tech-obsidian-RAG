@@ -4,16 +4,25 @@ title: Claude Cowork Setup Guide — 7 Steps for Non-Technical Users
 description: A 7-step practical guide to setting up Claude Cowork (the Claude desktop app's agentic workspace) for non-technical users.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, harness-engineering, context-engineering, agent-memory, skills-and-hooks, mcp]
-source: ../../../Resources/transcriptions/you-tube/transcript-set-up-claude-cowork-better-than-99-of-people.md
-resource:
-timestamp: 2026-05-17T08:21:13Z
-status: active
+tags:
+- claude-code
+- harness-engineering
+- context-engineering
+- agent-memory
+- skills-and-hooks
+- mcp
+sources:
+- id: transcript-set-up-claude-cowork-better-than-99-of-people
+  resource: ../../../Resources/transcriptions/you-tube/transcript-set-up-claude-cowork-better-than-99-of-people.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/claude-cowork-full-guide.md
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
-  - ai-engineering/harness-engineering/nlh-meta-harness-harness-science.md
+- ai-engineering/claude-code-practice/claude-cowork-full-guide.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+- ai-engineering/harness-engineering/nlh-meta-harness-harness-science.md
 ---
 
 # Claude Cowork Setup Guide — 7 Steps for Non-Technical Users

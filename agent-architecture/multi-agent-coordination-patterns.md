@@ -4,18 +4,26 @@ title: Multi-Agent Coordination Patterns
 description: Anthropic identifies five canonical multi-agent coordination patterns — Generator-Verifier, Orchestrator-Subagent, Agent Teams, Message Bus, and Shared State — each suited to different problem structures.
 bundle: ai-engineering
 topic: agent-architecture
-tags: [multi-agent, agent-architecture, agent-workflows, claude-code]
-source: https://claude.com/blog/multi-agent-coordination-patterns
+tags:
+- multi-agent
+- agent-architecture
+- agent-workflows
+- claude-code
 resource: https://claude.com/blog/multi-agent-coordination-patterns
-timestamp: 2026-05-09T07:03:05Z
-status: active
+sources:
+- id: multi-agent-coordination-patterns
+  resource: https://claude.com/blog/multi-agent-coordination-patterns
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:03:05Z'
+status: stable
 related:
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
-  - ai-engineering/agent-architecture/seeing-like-an-agent.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/agent-workflows/agentic-engineering-approaches-compared.md
-  - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
-  - ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/agent-architecture/seeing-like-an-agent.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/agent-workflows/agentic-engineering-approaches-compared.md
+- ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+- ai-engineering/claude-code-practice/claude-code-dynamic-workflows.md
 ---
 
 # Multi-Agent Coordination Patterns

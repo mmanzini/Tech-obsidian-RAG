@@ -4,11 +4,15 @@ title: Workflow
 description: The full RPI lifecycle runs Research (5–15 min, fact-only, FAR-validated) → Plan (5–10 min, atomic tasks with success criteria, FACTS-validated) → Implement (mechanical execution with verification after each phase, checkboxes enabling recovery) → optional Iterate (surgical plan update without rebuild).
 bundle: ai-engineering
 topic: rpi-methodology
-tags: [agent-workflows, context-engineering, multi-agent, evals]
-source: self-authored
-resource:
-timestamp: 2026-04-29T21:54:50Z
-status: active
+tags:
+- agent-workflows
+- context-engineering
+- multi-agent
+- evals
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:54:50Z'
+status: stable
 related: []
 ---
 

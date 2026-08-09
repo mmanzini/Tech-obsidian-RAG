@@ -1,17 +1,24 @@
 ---
 type: synthesis
 title: Open Data App Business — Overview
-description: "The model arbitrages the gap between paid incumbents and free government/open APIs: build clean apps with Flutter and AI tooling in 2–5 days per app, undercut incumbents by 70–90%, and rely on portfolio averaging across 15–20 apps rather than any single hit."
+description: 'The model arbitrages the gap between paid incumbents and free government/open APIs: build clean apps with Flutter and AI tooling in 2–5 days per app, undercut incumbents by 70–90%, and rely on portfolio averaging across 15–20 apps rather than any single hit.'
 bundle: ai-engineering
 topic: open-data-apps
-tags: [ai-native-business, product-management, agent-workflows, open-data]
-source: synthesis — open-data-apps corpus
-resource:
-timestamp: 2026-05-09T07:23:23Z
-status: active
+tags:
+- ai-native-business
+- product-management
+- agent-workflows
+- open-data
+sources:
+- id: synthesis-open-data-apps-corpus
+  resource: synthesis — open-data-apps corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/open-data-apps/open-data-app-ideas-catalog.md
-  - ai-engineering/agent-workflows/quick-dev.md
+- ai-engineering/open-data-apps/open-data-app-ideas-catalog.md
+- ai-engineering/agent-workflows/quick-dev.md
 ---
 
 # Open Data App Business — Overview

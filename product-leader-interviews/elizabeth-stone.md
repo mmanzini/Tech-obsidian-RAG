@@ -4,16 +4,23 @@ title: Elizabeth Stone — Systems Thinkers over Specialists in the AI Era
 description: Netflix's CPTO argues AI's role confusion is a storming-before-forming phase; the rising skill in every function is systems thinking, AI fluency is a ladder-wide overlay rather than a level-specific criterion, and "excellence as an operating system" (talent density, risk-taking, no process reflex) is what the AI labs are now rediscovering.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, ai-org-design, product-management]
-source: Resources/transcriptions/transcript-why-netflix-is-betting-on-systems-thinkers-not-specialists-in-the-ai-era-elizabeth-stone-cpto.md
+tags:
+- practitioner-interview
+- ai-org-design
+- product-management
 resource: https://www.youtube.com/watch?v=t0GiTyz4syY
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: transcript-why-netflix-is-betting-on-systems-thinkers-not-specialists-in-the-ai-era-elizabeth-stone-cpto
+  resource: Resources/transcriptions/transcript-why-netflix-is-betting-on-systems-thinkers-not-specialists-in-the-ai-era-elizabeth-stone-cpto.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/product-leader-interviews/dianne-penn.md
-  - ai-engineering/product-leader-interviews/nikhyl-singhal.md
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/ai-organization/ai-fluency-curriculum.md
+- ai-engineering/product-leader-interviews/dianne-penn.md
+- ai-engineering/product-leader-interviews/nikhyl-singhal.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-organization/ai-fluency-curriculum.md
 ---
 
 # Elizabeth Stone — Systems Thinkers over Specialists in the AI Era

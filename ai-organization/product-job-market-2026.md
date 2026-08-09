@@ -4,16 +4,23 @@ title: State of the Product Job Market 2026
 description: The March 2026 hiring snapshot shows 7,300+ open PM roles (3-year highs) and 67,000+ engineering openings with accelerating growth — the most optimistic data edition yet, contradicting the "AI kills jobs" narrative.
 bundle: ai-engineering
 topic: ai-organization
-tags: [product-management, ai-org-design, ai-native-business]
-source: https://trueup.io/
+tags:
+- product-management
+- ai-org-design
+- ai-native-business
 resource: https://trueup.io/
-timestamp: 2026-05-09T07:23:23Z
-status: active
+sources:
+- id: trueup
+  resource: https://trueup.io/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/product-job-market-2025.md
-  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
-  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-organization/product-job-market-2025.md
+- ai-engineering/ai-organization/anthropic-growth-takeaways.md
+- ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
 ---
 
 # State of the Product Job Market 2026

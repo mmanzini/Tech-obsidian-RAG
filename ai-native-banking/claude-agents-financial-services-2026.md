@@ -4,15 +4,23 @@ title: Claude Agents for Financial Services — 2026 Launch
 description: Anthropic launched ten ready-to-run agent templates for financial services, Claude add-ins for Microsoft 365 (Excel, PowerPoint, Word; Outlook coming), and new data connectors for financial data providers.
 bundle: ai-engineering
 topic: ai-native-banking
-tags: [ai-native-business, multi-agent, claude-code, skills-and-hooks, long-running-agents]
-source: ../../../Resources/web-clippings/2026-05-06-Agents%20for%20financial%20services%20and%20insurance.md
-resource:
-timestamp: 2026-05-09T09:03:44Z
-status: active
+tags:
+- ai-native-business
+- multi-agent
+- claude-code
+- skills-and-hooks
+- long-running-agents
+sources:
+- id: 2026-05-06-agents-20for-20financial-20services-20and-20insurance
+  resource: ../../../Resources/web-clippings/2026-05-06-Agents%20for%20financial%20services%20and%20insurance.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T09:03:44Z'
+status: stable
 related:
-  - ai-engineering/ai-native-banking/ai-native-banking-os.md
-  - ai-engineering/ai-native-banking/banking-predictions-2026.md
-  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+- ai-engineering/ai-native-banking/ai-native-banking-os.md
+- ai-engineering/ai-native-banking/banking-predictions-2026.md
+- ai-engineering/claude-code-practice/claude-managed-agents-memory.md
 ---
 
 # Claude Agents for Financial Services — 2026 Launch

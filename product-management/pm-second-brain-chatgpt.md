@@ -4,19 +4,27 @@ title: Build Your PM Second Brain with ChatGPT
 description: Amir Klein describes how loading a ChatGPT Project with all the context fragments a PM carries (PRDs, Slack exports, research transcripts, decks as PDFs) transforms it into an instantaneous librarian plus associate PM — surfacing key insights and generating tailored communications across five audiences from a single word-dump.
 bundle: ai-engineering
 topic: product-management
-tags: [product-management, knowledge-management, context-engineering, ai-native-business]
-source: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
+tags:
+- product-management
+- knowledge-management
+- context-engineering
+- ai-native-business
 resource: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
-timestamp: 2026-05-29T15:24:58Z
-status: active
+sources:
+- id: how-to-build-your-pm-second-brain-with-chatgpt
+  resource: https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-29T15:24:58Z'
+status: stable
 related:
-  - ai-engineering/product-management/ai-prototyping-for-pms.md
-  - ai-engineering/product-management/pm-guide-to-evals.md
-  - ai-engineering/product-management/unfair-pm-role.md
-  - ai-engineering/ai-organization/ai-fluency-curriculum.md
-  - ai-engineering/claude-code-practice/use-claude-code-more.md
-  - ai-engineering/claude-code-practice/zevi-arnovitz.md
-  - ai-engineering/claude-code-practice/lazar-jovanovic.md
+- ai-engineering/product-management/ai-prototyping-for-pms.md
+- ai-engineering/product-management/pm-guide-to-evals.md
+- ai-engineering/product-management/unfair-pm-role.md
+- ai-engineering/ai-organization/ai-fluency-curriculum.md
+- ai-engineering/claude-code-practice/use-claude-code-more.md
+- ai-engineering/claude-code-practice/zevi-arnovitz.md
+- ai-engineering/claude-code-practice/lazar-jovanovic.md
 ---
 
 # Build Your PM Second Brain with ChatGPT

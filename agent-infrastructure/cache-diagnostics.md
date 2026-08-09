@@ -4,15 +4,22 @@ title: Cache Diagnostics — Diagnosing Prompt Cache Misses
 description: Cache diagnostics is a beta Claude API feature that closes the gap between knowing a cache miss happened and knowing *why*.
 bundle: ai-engineering
 topic: agent-infrastructure
-tags: [harness-engineering, context-engineering, prompt-caching]
-source: https://platform.claude.com/docs/en/build-with-claude/cache-diagnostics
+tags:
+- harness-engineering
+- context-engineering
+- prompt-caching
 resource: https://platform.claude.com/docs/en/build-with-claude/cache-diagnostics
-timestamp: 2026-05-25T00:17:36Z
-status: active
+sources:
+- id: cache-diagnostics
+  resource: https://platform.claude.com/docs/en/build-with-claude/cache-diagnostics
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-25T00:17:36Z'
+status: stable
 related:
-  - ai-engineering/agent-infrastructure/computer-browser-use-best-practices.md
-  - ai-engineering/agent-infrastructure/scaling-managed-agents.md
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/agent-infrastructure/computer-browser-use-best-practices.md
+- ai-engineering/agent-infrastructure/scaling-managed-agents.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
 ---
 
 # Cache Diagnostics — Diagnosing Prompt Cache Misses

@@ -4,18 +4,26 @@ title: What People Are Vibe-Coding (and Actually Using)
 description: Lenny Rachitsky's crowdsourced survey of 1,000+ people reveals that non-technical builders are shipping hyper-personalised, daily-used tools solo with AI coding tools (Cursor, Claude Code, Replit, Lovable leading) — often in a day or weekend.
 bundle: ai-engineering
 topic: ai-product-development
-tags: [claude-code, product-management, ai-native-business, vibe-coding]
-source: https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually
+tags:
+- claude-code
+- product-management
+- ai-native-business
+- vibe-coding
 resource: https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually
-timestamp: 2026-05-29T15:24:58Z
-status: active
+sources:
+- id: what-people-are-vibe-coding-and-actually
+  resource: https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-29T15:24:58Z'
+status: stable
 related:
-  - ai-engineering/product-management/ai-prototyping-for-pms.md
-  - ai-engineering/claude-code-practice/use-claude-code-more.md
-  - ai-engineering/ai-organization/ai-fluency-curriculum.md
-  - ai-engineering/claude-code-practice/zevi-arnovitz.md
-  - ai-engineering/claude-code-practice/lazar-jovanovic.md
-  - ai-engineering/agent-architecture/simon-willison.md
+- ai-engineering/product-management/ai-prototyping-for-pms.md
+- ai-engineering/claude-code-practice/use-claude-code-more.md
+- ai-engineering/ai-organization/ai-fluency-curriculum.md
+- ai-engineering/claude-code-practice/zevi-arnovitz.md
+- ai-engineering/claude-code-practice/lazar-jovanovic.md
+- ai-engineering/agent-architecture/simon-willison.md
 ---
 
 # What People Are Vibe-Coding (and Actually Using)

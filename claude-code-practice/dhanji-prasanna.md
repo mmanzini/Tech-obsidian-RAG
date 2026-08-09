@@ -4,11 +4,19 @@ title: Dhanji Prasanna — rm -rf and Rebuild Every Release
 description: Dhanji Prasanna (CTO, Block) convinced Jack Dorsey that Block's GM-per-product org was an industrial-era fit and needed Apple-style functional leadership to ship AI-native experiences — Conway's Law in reverse.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [practitioner-interview, ai-org-design, mcp, spec-driven-development, agent-architecture]
-source: Lenny's Podcast, Dhanji R. Prasanna (CTO, Block; previously Google; creator of Goose open-source agent
-resource:
-timestamp: 2026-05-17T08:21:13Z
-status: active
+tags:
+- practitioner-interview
+- ai-org-design
+- mcp
+- spec-driven-development
+- agent-architecture
+sources:
+- id: lenny-s-podcast-dhanji-r
+  resource: Lenny's Podcast, Dhanji R. Prasanna (CTO, Block; previously Google; creator of Goose open-source agent
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related: []
 ---
 

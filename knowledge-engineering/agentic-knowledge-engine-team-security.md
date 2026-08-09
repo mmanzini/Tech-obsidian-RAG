@@ -4,16 +4,23 @@ title: Agentic knowledge engine — team security & permissions
 description: A design note for taking the single-user Atlas pattern (frozen harness in `schema.md`, iterable program in `CLAUDE.md`, markdown bundles consolidated by Claude Code) and scaling it to a team **without leaking data across people, clients, or teams**.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-management, ai-org-design, ai-security, harness-engineering]
-source: ../../../Resources/Projects/ai-driven-product-management/team-knowledge-engine-security/README.md
-resource:
-timestamp: 2026-06-05T05:02:31Z
-status: active
+tags:
+- knowledge-management
+- ai-org-design
+- ai-security
+- harness-engineering
+sources:
+- id: readme
+  resource: ../../../Resources/Projects/ai-driven-product-management/team-knowledge-engine-security/README.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-05T05:02:31Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/team-agentic-os-gbrain.md
-  - ai-engineering/knowledge-engineering/intelligence-layer-strand-map.md
-  - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
-  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+- ai-engineering/knowledge-engineering/team-agentic-os-gbrain.md
+- ai-engineering/knowledge-engineering/intelligence-layer-strand-map.md
+- ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+- ai-engineering/knowledge-engineering/atlas-sync-architecture.md
 ---
 
 # Agentic knowledge engine — team security & permissions

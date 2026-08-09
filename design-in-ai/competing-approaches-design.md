@@ -4,11 +4,19 @@ title: Competing Approaches
 description: The AI-assisted design documentation landscape spans three distinct categories — SDD frameworks (Kiro, GitHub Spec Kit, OpenSpec), portable agent instruction files (AGENTS.md, SKILL.md), and IDE-native rule systems (Cursor Rules, Windsurf) — none of which directly compete with Design.md, which operates at the visual design layer the others omit.
 bundle: ai-engineering
 topic: design-in-ai
-tags: [design-in-ai, spec-driven-development, skills-and-hooks, agent-workflows, context-engineering]
-source: synthesis — design-in-ai corpus
-resource:
-timestamp: 2026-05-09T07:23:23Z
-status: active
+tags:
+- design-in-ai
+- spec-driven-development
+- skills-and-hooks
+- agent-workflows
+- context-engineering
+sources:
+- id: synthesis-design-in-ai-corpus
+  resource: synthesis — design-in-ai corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related: []
 ---
 

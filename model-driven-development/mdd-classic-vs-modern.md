@@ -1,18 +1,24 @@
 ---
 type: synthesis
 title: MDD — Classic MDA vs Modern Practice
-description: "\"Model-driven development\" names a spectrum, not a single method."
+description: '"Model-driven development" names a spectrum, not a single method.'
 bundle: ai-engineering
 topic: model-driven-development
-tags: [model-driven-development, spec-driven-development, agent-architecture]
-source: ../../../Resources/documents/frameworks/Model-driven-development/Standard/Classic vs Modern MDD.md
-resource:
-timestamp: 2026-06-02T13:33:31Z
-status: active
+tags:
+- model-driven-development
+- spec-driven-development
+- agent-architecture
+sources:
+- id: classic-vs-modern-mdd
+  resource: ../../../Resources/documents/frameworks/Model-driven-development/Standard/Classic vs Modern MDD.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-02T13:33:31Z'
+status: stable
 related:
-  - ai-engineering/model-driven-development/mdd-overview.md
-  - ai-engineering/spec-driven-development/sdd-overview.md
-  - ai-engineering/model-driven-development/the-model-was-always-the-point.md
+- ai-engineering/model-driven-development/mdd-overview.md
+- ai-engineering/spec-driven-development/sdd-overview.md
+- ai-engineering/model-driven-development/the-model-was-always-the-point.md
 ---
 
 # MDD — Classic MDA vs Modern Practice

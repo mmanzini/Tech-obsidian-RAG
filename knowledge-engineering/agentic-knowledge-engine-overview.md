@@ -4,17 +4,25 @@ title: The agentic knowledge engine — end-to-end overview
 description: The canonical narrative of the engine behind Atlas — a wiki an agent curates, a frozen harness plus an iterable program, tiered recall, a learning loop, two kinds of memory, and OKF portability — distilled from Max's essay "The knowledge base that curates itself".
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-engineering, llm-wiki, agent-memory, autoresearch, okf]
-source: Resources/Projects/articles-and-essays/004-the-agentic-knowledge-engine/004-the-agentic-knowledge-engine.md
-resource:
-timestamp: 2026-07-05T09:30:00Z
-status: active
+tags:
+- knowledge-engineering
+- llm-wiki
+- agent-memory
+- autoresearch
+- okf
+sources:
+- id: 004-the-agentic-knowledge-engine
+  resource: Resources/Projects/articles-and-essays/004-the-agentic-knowledge-engine/004-the-agentic-knowledge-engine.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T09:30:00Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
-  - ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
-  - ai-engineering/knowledge-engineering/autoresearch-methodology.md
-  - ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
-  - ai-engineering/knowledge-engineering/open-knowledge-format.md
+- ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+- ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
+- ai-engineering/knowledge-engineering/autoresearch-methodology.md
+- ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
+- ai-engineering/knowledge-engineering/open-knowledge-format.md
 ---
 
 # The agentic knowledge engine — end-to-end overview

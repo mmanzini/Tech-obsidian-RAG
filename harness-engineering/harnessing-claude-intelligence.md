@@ -4,11 +4,19 @@ title: Harnessing Claude's Intelligence — 3 Key Patterns for Building Apps
 description: Harnesses encode assumptions about what Claude *can't* do on its own — and those assumptions go stale as models improve.
 bundle: ai-engineering
 topic: harness-engineering
-tags: [harness-engineering, agent-architecture, context-engineering, agent-workflows]
-source: https://claude.com/blog/harnessing-claudes-intelligence
+tags:
+- harness-engineering
+- agent-architecture
+- context-engineering
+- agent-workflows
 resource: https://claude.com/blog/harnessing-claudes-intelligence
-timestamp: 2026-04-29T21:24:51Z
-status: active
+sources:
+- id: harnessing-claudes-intelligence
+  resource: https://claude.com/blog/harnessing-claudes-intelligence
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:24:51Z'
+status: stable
 related: []
 ---
 

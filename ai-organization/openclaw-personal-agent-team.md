@@ -1,18 +1,26 @@
 ---
 type: synthesis
-title: "OpenClaw: A Personal Team of AI Agents"
+title: 'OpenClaw: A Personal Team of AI Agents'
 description: Claire Vo's OpenClaw setup runs nine specialised AI agents (PA, family, marketing, sales, helpdesk, course ops, podcast, developer, kids' tutor) on owned hardware, each with its own Markdown-based identity files and workspace, reachable via Telegram, WhatsApp, or Slack.
 bundle: ai-engineering
 topic: ai-organization
-tags: [multi-agent, agent-architecture, ai-org-design, agent-memory]
-source: https://www.lennysnewsletter.com/
+tags:
+- multi-agent
+- agent-architecture
+- ai-org-design
+- agent-memory
 resource: https://www.lennysnewsletter.com/
-timestamp: 2026-05-09T07:23:23Z
-status: active
+sources:
+- id: www-lennysnewsletter
+  resource: https://www.lennysnewsletter.com/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
 ---
 
 # OpenClaw: A Personal Team of AI Agents

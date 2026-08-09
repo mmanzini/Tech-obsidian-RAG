@@ -4,11 +4,19 @@ title: Kiro Specs
 description: Specs are structured artifacts that formalize the development process for features and bug fixes.
 bundle: ai-engineering
 topic: ai-dev-tools
-tags: [spec-driven-development, agent-workflows, claude-code, harness-engineering]
-source: https://kiro.dev/docs/specs/
+tags:
+- spec-driven-development
+- agent-workflows
+- claude-code
+- harness-engineering
 resource: https://kiro.dev/docs/specs/
-timestamp: 2026-04-29T21:24:51Z
-status: active
+sources:
+- id: specs
+  resource: https://kiro.dev/docs/specs/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:24:51Z'
+status: stable
 related: []
 ---
 

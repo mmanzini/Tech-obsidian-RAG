@@ -4,14 +4,24 @@ title: Episodic Memory for Agents — Amazon Bedrock AgentCore
 description: How AgentCore turns raw agent conversations into structured episodes and reflections, recalled at inference, with τ2-bench benchmarks showing higher task success.
 bundle: ai-engineering
 topic: agent-architecture
-tags: [episodic-memory, agent-memory, reflection, agentcore, aws, benchmarks]
-source: Resources/web-clippings/2026-06-02-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md
+tags:
+- episodic-memory
+- agent-memory
+- reflection
+- agentcore
+- aws
+- benchmarks
 resource: https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/
-timestamp: 2026-06-20T12:00:00Z
-status: active
+sources:
+- id: 2026-06-02-build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory
+  resource: Resources/web-clippings/2026-06-02-Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-20T12:00:00Z'
+status: stable
 related:
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
-  - ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/knowledge-engineering/memory-three-jobs-and-atlas-tiers.md
 ---
 
 # Episodic Memory for Agents — Amazon Bedrock AgentCore

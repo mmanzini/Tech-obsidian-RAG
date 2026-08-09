@@ -4,13 +4,21 @@ title: Jason Droege — Data Labeling, Enterprise AI, and New Business Bets
 description: Jason Droege (CEO, Scale AI; founder of Uber Eats) took over after the $14B Meta deal and argues that data labeling has moved decisively to PhD/expert work — 80% of Scale's contributor network holds bachelor's degrees or higher — as the field shifts from models that know things to models that do things via RL environments.
 bundle: ai-engineering
 topic: ai-product-development
-tags: [practitioner-interview, ai-native-business, product-management, ai-org-design, evals]
-source: Lenny's Podcast — CEO of Scale AI (first interview post-Meta deal); founder of Uber Eats
-resource:
-timestamp: 2026-05-09T06:59:45Z
-status: active
+tags:
+- practitioner-interview
+- ai-native-business
+- product-management
+- ai-org-design
+- evals
+sources:
+- id: lenny-s-podcast-ceo-of-scale-ai-first-interview-post-meta-deal-founder-of-uber-eats
+  resource: Lenny's Podcast — CEO of Scale AI (first interview post-Meta deal); founder of Uber Eats
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T06:59:45Z'
+status: stable
 related:
-  - ai-engineering/ai-product-development/jeanne-grosser.md
+- ai-engineering/ai-product-development/jeanne-grosser.md
 ---
 
 # Jason Droege — Data Labeling, Enterprise AI, and New Business Bets

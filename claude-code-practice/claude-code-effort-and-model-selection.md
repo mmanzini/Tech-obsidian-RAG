@@ -4,17 +4,24 @@ title: Claude Code Effort Level and Model Selection
 description: Anthropic's mental model for the two "make it better" dials in Claude Code — model selection swaps which frozen weights answer (capability), effort level controls how much work Claude does per turn (thoroughness) — and the diagnostic question "did it not know enough, or not try hard enough?".
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, harness-engineering, context-engineering]
-source: Resources/web-clippings/2026-07-29-Claude Code effort level and model selection  Claude.md
+tags:
+- claude-code
+- harness-engineering
+- context-engineering
 resource: https://claude.com/blog/claude-model-and-effort-level-in-claude-code
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-29-claude-code-effort-level-and-model-selection-claude
+  resource: Resources/web-clippings/2026-07-29-Claude Code effort level and model selection  Claude.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - ai-engineering/claude-code-practice/opus-4-7-best-practices.md
-  - ai-engineering/claude-code-practice/claude-code-quality-postmortem.md
-  - ai-engineering/harness-engineering/steering-claude-code-instruction-methods.md
-  - ai-engineering/harness-engineering/advisor-strategy.md
-  - ai-engineering/model-fundamentals/compression-is-intelligence.md
+- ai-engineering/claude-code-practice/opus-4-7-best-practices.md
+- ai-engineering/claude-code-practice/claude-code-quality-postmortem.md
+- ai-engineering/harness-engineering/steering-claude-code-instruction-methods.md
+- ai-engineering/harness-engineering/advisor-strategy.md
+- ai-engineering/model-fundamentals/compression-is-intelligence.md
 ---
 
 # Claude Code Effort Level and Model Selection

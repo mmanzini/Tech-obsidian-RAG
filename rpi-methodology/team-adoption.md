@@ -4,11 +4,15 @@ title: Adopting RPI in Teams
 description: Team adoption of RPI requires genuine artifact review (not rubber-stamping), clear governance (single approver, SLAs), and ceremony discipline — the plan-reading illusion, where a coherent 1,000-line plan masks technical assumptions it doesn't actually validate, is the silent failure mode that most undermines the methodology.
 bundle: ai-engineering
 topic: rpi-methodology
-tags: [agent-workflows, ai-org-design, spec-driven-development, evals]
-source: self-authored
-resource:
-timestamp: 2026-04-29T21:54:50Z
-status: active
+tags:
+- agent-workflows
+- ai-org-design
+- spec-driven-development
+- evals
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:54:50Z'
+status: stable
 related: []
 ---
 

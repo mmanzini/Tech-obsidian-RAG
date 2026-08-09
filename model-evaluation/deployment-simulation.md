@@ -4,14 +4,24 @@ title: Deployment Simulation — predicting model behaviour before release
 description: OpenAI's method for forecasting undesired model behaviour pre-release by replaying real past conversations through a candidate model.
 bundle: ai-engineering
 topic: model-evaluation
-tags: [evaluation, safety, alignment, deployment-simulation, openai, eval-awareness]
-source: Resources/web-clippings/2026-06-27-Predicting model behavior before release by simulating deployment.md
+tags:
+- evaluation
+- safety
+- alignment
+- deployment-simulation
+- openai
+- eval-awareness
 resource: https://openai.com/index/deployment-simulation/
-timestamp: 2026-07-05T07:20:00Z
-status: active
+sources:
+- id: 2026-06-27-predicting-model-behavior-before-release-by-simulating-deployment
+  resource: Resources/web-clippings/2026-06-27-Predicting model behavior before release by simulating deployment.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T07:20:00Z'
+status: stable
 related:
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
-  - ai-engineering/constitutional-ai/index.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/constitutional-ai/index.md
 ---
 
 # Deployment Simulation — predicting model behaviour before release

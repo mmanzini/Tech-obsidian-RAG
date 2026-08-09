@@ -4,18 +4,25 @@ title: Design-First vs Requirements-First
 description: Requirements-first (requirements → design → tasks → implementation) suits greenfield features where intent is clear but structure is open; design-first (design → requirements → tasks → implementation) suits refactors and infrastructure work where the target architecture is already known.
 bundle: ai-engineering
 topic: design-in-ai
-tags: [design-in-ai, spec-driven-development, agent-workflows, harness-engineering]
-source: synthesis — design-in-ai corpus
-resource:
-timestamp: 2026-05-09T07:33:19Z
-status: active
+tags:
+- design-in-ai
+- spec-driven-development
+- agent-workflows
+- harness-engineering
+sources:
+- id: synthesis-design-in-ai-corpus
+  resource: synthesis — design-in-ai corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:33:19Z'
+status: stable
 related:
-  - ai-engineering/design-in-ai/design-in-ai-overview.md
-  - ai-engineering/design-in-ai/ai-design-tool-comparison.md
-  - ai-engineering/design-in-ai/emerging-practices-design.md
-  - ai-engineering/design-in-ai/competing-approaches-design.md
-  - ai-engineering/design-in-ai/design-in-ai-examples.md
-  - ai-engineering/design-in-ai/design-in-ai-glossary.md
+- ai-engineering/design-in-ai/design-in-ai-overview.md
+- ai-engineering/design-in-ai/ai-design-tool-comparison.md
+- ai-engineering/design-in-ai/emerging-practices-design.md
+- ai-engineering/design-in-ai/competing-approaches-design.md
+- ai-engineering/design-in-ai/design-in-ai-examples.md
+- ai-engineering/design-in-ai/design-in-ai-glossary.md
 ---
 
 # Design-First vs Requirements-First

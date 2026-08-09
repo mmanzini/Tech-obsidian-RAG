@@ -4,19 +4,28 @@ title: Claude Cowork — Full Practical Guide
 description: Claude Cowork is Claude's desktop agent interface for non-technical knowledge workers, providing the same underlying capabilities as Claude Code but with a more accessible UI, built-in connectors, and collaboration features for Pro/Team/Enterprise accounts.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, skills-and-hooks, multi-agent, mcp, context-engineering, agent-workflows]
-source: YouTube — Ben AI, "Claude Cowork Full Course (2+ Hours)"
-resource:
-timestamp: 2026-05-17T08:21:13Z
-status: active
+tags:
+- claude-code
+- skills-and-hooks
+- multi-agent
+- mcp
+- context-engineering
+- agent-workflows
+sources:
+- id: youtube-ben-ai-claude-cowork-full-course-2-hours
+  resource: YouTube — Ben AI, "Claude Cowork Full Course (2+ Hours)"
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related:
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/harness-engineering/skill-creator-evals.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
-  - ai-engineering/claude-code-practice/claude-code-routines.md
-  - ai-engineering/claude-code-practice/claude-managed-agents-memory.md
-  - ai-engineering/claude-code-practice/claude-cowork-context-questionnaire.md
-  - ai-engineering/claude-code-practice/claude-cowork-setup-guide.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/harness-engineering/skill-creator-evals.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/claude-code-practice/claude-code-routines.md
+- ai-engineering/claude-code-practice/claude-managed-agents-memory.md
+- ai-engineering/claude-code-practice/claude-cowork-context-questionnaire.md
+- ai-engineering/claude-code-practice/claude-cowork-setup-guide.md
 ---
 
 # Claude Cowork — Full Practical Guide

@@ -4,11 +4,19 @@ title: What is Design.md
 description: Design.md is a portable, tool-agnostic markdown convention for communicating design constraints — colours, typography, spacing, component patterns, guardrails — to AI coding agents, solving the specific problem that agents default to generic Tailwind output without explicit design context.
 bundle: ai-engineering
 topic: design-in-ai
-tags: [design-in-ai, context-engineering, spec-driven-development, skills-and-hooks, knowledge-management]
-source: synthesis — design-in-ai corpus
-resource:
-timestamp: 2026-05-09T07:23:23Z
-status: active
+tags:
+- design-in-ai
+- context-engineering
+- spec-driven-development
+- skills-and-hooks
+- knowledge-management
+sources:
+- id: synthesis-design-in-ai-corpus
+  resource: synthesis — design-in-ai corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related: []
 ---
 

@@ -1,21 +1,30 @@
 ---
 type: synthesis
 title: McKinsey — Agentic Workflows for Software Development
-description: "McKinsey QuantumBlack's field-tested pattern for AI-driven software development centres on a two-layer architecture: a deterministic orchestration engine that enforces phase transitions and dependency tracking, paired with bounded specialised agents (requirements, architecture, coding, knowledge, critic) that execute within each phase."
+description: 'McKinsey QuantumBlack''s field-tested pattern for AI-driven software development centres on a two-layer architecture: a deterministic orchestration engine that enforces phase transitions and dependency tracking, paired with bounded specialised agents (requirements, architecture, coding, knowledge, critic) that execute within each phase.'
 bundle: ai-engineering
 topic: spec-driven-development
-tags: [spec-driven-development, agent-workflows, agent-architecture, multi-agent, harness-engineering]
-source: QuantumBlack / AI by McKinsey — "Agentic workflows for software development" (Feb 2026)
+tags:
+- spec-driven-development
+- agent-workflows
+- agent-architecture
+- multi-agent
+- harness-engineering
 resource: https://www.mckinsey.com/capabilities/quantumblack/our-insights/agentic-workflows-for-software-development
-timestamp: 2026-05-09T07:23:23Z
-status: active
+sources:
+- id: ai-by-mckinsey-agentic-workflows-for-software-development-feb-2026
+  resource: QuantumBlack / AI by McKinsey — "Agentic workflows for software development" (Feb 2026)
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related:
-  - ai-engineering/spec-driven-development/sdd-overview.md
-  - ai-engineering/spec-driven-development/sdd-workflow.md
-  - ai-engineering/spec-driven-development/sdd-roles-and-boundaries.md
-  - ai-engineering/agent-workflows/research-plan-implement.md
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
-  - ai-engineering/ai-native-banking/ai-native-banking-os.md
+- ai-engineering/spec-driven-development/sdd-overview.md
+- ai-engineering/spec-driven-development/sdd-workflow.md
+- ai-engineering/spec-driven-development/sdd-roles-and-boundaries.md
+- ai-engineering/agent-workflows/research-plan-implement.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/ai-native-banking/ai-native-banking-os.md
 ---
 
 # McKinsey — Agentic Workflows for Software Development

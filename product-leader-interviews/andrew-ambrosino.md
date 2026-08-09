@@ -4,15 +4,24 @@ title: Andrew Ambrosino — The New Shape of Product Work
 description: Andrew Ambrosino (Codex desktop lead, OpenAI) on the inverted product process — implementation is cheap, curation is expensive — taste as the emerging top skill, launch timing bound to model capability, zone-defense PM, role collapse without role elimination, and Codex as a home base for all work.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, product-management, ai-org-design, design-in-ai, long-running-agents]
-source: Resources/transcriptions/transcript-openai-codex-lead-on-the-new-shape-of-product-work.md
+tags:
+- practitioner-interview
+- product-management
+- ai-org-design
+- design-in-ai
+- long-running-agents
 resource: https://www.youtube.com/watch?v=P3KDebPTUrw
-timestamp: 2026-07-05T07:20:00Z
-status: active
+sources:
+- id: transcript-openai-codex-lead-on-the-new-shape-of-product-work
+  resource: Resources/transcriptions/transcript-openai-codex-lead-on-the-new-shape-of-product-work.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T07:20:00Z'
+status: stable
 related:
-  - ai-engineering/agent-architecture/alexander-embiricos.md
-  - ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
-  - ai-engineering/product-leader-interviews/max-schoening-agency-ai-era.md
+- ai-engineering/agent-architecture/alexander-embiricos.md
+- ai-engineering/product-leader-interviews/dan-shipper-ai-paradox.md
+- ai-engineering/product-leader-interviews/max-schoening-agency-ai-era.md
 ---
 
 # Andrew Ambrosino — The New Shape of Product Work

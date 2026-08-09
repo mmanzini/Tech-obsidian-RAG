@@ -4,11 +4,20 @@ title: Kiro Steering
 description: Steering files give Kiro persistent knowledge about your workspace via markdown documents.
 bundle: ai-engineering
 topic: ai-dev-tools
-tags: [context-engineering, harness-engineering, skills-and-hooks, knowledge-management, claude-code]
-source: https://kiro.dev/docs/steering/
+tags:
+- context-engineering
+- harness-engineering
+- skills-and-hooks
+- knowledge-management
+- claude-code
 resource: https://kiro.dev/docs/steering/
-timestamp: 2026-04-29T21:24:51Z
-status: active
+sources:
+- id: steering
+  resource: https://kiro.dev/docs/steering/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:24:51Z'
+status: stable
 related: []
 ---
 

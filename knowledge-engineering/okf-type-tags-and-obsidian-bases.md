@@ -4,15 +4,23 @@ title: Type vs tags, content-tag backfill, and Obsidian Bases as the OKF consump
 description: How Atlas separates OKF type (the required conceptual kind) from tags (a per-bundle content facet), the 613-article content-tag backfill, Obsidian Bases as the consumption-time property view, and the silent-YAML-failure landmine that nearly broke all of it.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [okf, knowledge-engineering, frontmatter, metadata, interoperability]
-source: Resources/context/session-2026-06-27-1531.md
-resource:
-timestamp: 2026-06-27T20:00:00Z
-status: active
+tags:
+- okf
+- knowledge-engineering
+- frontmatter
+- metadata
+- interoperability
+sources:
+- id: session-2026-06-27-1531
+  resource: Resources/context/session-2026-06-27-1531.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-27T20:00:00Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/open-knowledge-format.md
-  - ai-engineering/knowledge-engineering/okf-spec-v0-1.md
-  - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+- ai-engineering/knowledge-engineering/open-knowledge-format.md
+- ai-engineering/knowledge-engineering/okf-spec-v0-1.md
+- ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
 ---
 
 # Type vs tags, content-tag backfill, and Obsidian Bases as the OKF consumption layer

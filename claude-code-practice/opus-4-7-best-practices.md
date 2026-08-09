@@ -4,11 +4,20 @@ title: Best Practices for Claude Opus 4.7 with Claude Code
 description: Opus 4.7 is Anthropic's strongest generally available model for coding and agentic tasks.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, harness-engineering, context-engineering, agent-workflows, multi-agent]
-source: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code
+tags:
+- claude-code
+- harness-engineering
+- context-engineering
+- agent-workflows
+- multi-agent
 resource: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code
-timestamp: 2026-05-17T08:21:13Z
-status: active
+sources:
+- id: best-practices-for-using-claude-opus-4-7-with-claude-code
+  resource: https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-17T08:21:13Z'
+status: stable
 related: []
 ---
 

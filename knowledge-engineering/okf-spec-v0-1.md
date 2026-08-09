@@ -4,14 +4,26 @@ title: OKF v0.1 — normative specification
 description: The structural rules of Open Knowledge Format v0.1 — bundle layout, reserved filenames, concept documents, cross-linking, and the three conformance requirements.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [okf, specification, conformance, knowledge-engineering, interoperability, markdown, frontmatter]
-source: Resources/web-clippings/2026-06-21-knowledge-catalogokfSPEC.md at main.md
+tags:
+- okf
+- specification
+- conformance
+- knowledge-engineering
+- interoperability
+- markdown
+- frontmatter
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
-timestamp: 2026-06-21T22:30:00Z
-status: active
+sources:
+- id: 2026-06-21-knowledge-catalogokfspec-md-at-main
+  resource: Resources/web-clippings/2026-06-21-knowledge-catalogokfSPEC.md at main.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-21T22:30:00Z'
+status: deprecated
 related:
-  - ai-engineering/knowledge-engineering/open-knowledge-format.md
-  - ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+- ai-engineering/knowledge-engineering/open-knowledge-format.md
+- ai-engineering/knowledge-engineering/llm-vault-structure-spec.md
+- ai-engineering/knowledge-engineering/okf-spec-v0-2.md
 ---
 
 # OKF v0.1 — normative specification
@@ -19,6 +31,11 @@ related:
 **Source:** [knowledge-catalog/okf/SPEC.md at main](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 **Author:** Google Cloud Platform (knowledge-catalog)
 **Version:** 0.1 — Draft
+
+> **Superseded.** OKF v0.2 (2026) replaces this revision — see
+> [[okf-spec-v0-2]] for the current normative reference. Kept for
+> lineage; the v0.1 structural core (bundle layout, reserved
+> filenames, `type`-only conformance) carries forward unchanged.
 
 ---
 
@@ -116,5 +133,6 @@ Future revisions use `<major>.<minor>`: minor bumps add backward-compatible opti
 
 ## Related
 
+- [[okf-spec-v0-2]] · [OKF v0.2 — normative specification](okf-spec-v0-2.md) — the current revision that supersedes this one
 - [[open-knowledge-format]] · [Open Knowledge Format (OKF)](open-knowledge-format.md) — the motivation, lineage, and Atlas alignment narrative this spec underpins
 - [[llm-vault-structure-spec]] · [LLM Vault Structure Spec](llm-vault-structure-spec.md) — Atlas's own architecture spec that OKF conformance layers onto

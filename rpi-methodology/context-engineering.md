@@ -4,11 +4,16 @@ title: Context Engineering
 description: Context quality — not context window size — is the only lever on LLM output.
 bundle: ai-engineering
 topic: rpi-methodology
-tags: [context-engineering, agent-workflows, multi-agent, harness-engineering, skills-and-hooks]
-source: self-authored
-resource:
-timestamp: 2026-04-29T21:54:50Z
-status: active
+tags:
+- context-engineering
+- agent-workflows
+- multi-agent
+- harness-engineering
+- skills-and-hooks
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:54:50Z'
+status: stable
 related: []
 ---
 

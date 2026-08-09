@@ -1,5 +1,8 @@
 # Change log — ai-engineering
 
+## 2026-08-07
+- consolidate knowledge-engineering/ — vlk-vault import; re-slugged okf-adoption-vlk-vault.md, retitled to disambiguate from Atlas own OKF migration
+
 ## 2026-08-05
 - consolidate harness-engineering/ — graph-engineering-verification.md (source kept)
 - consolidate model-fundamentals/ — merged with part-2 into compression-is-intelligence.md; new topic model-fundamentals (source kept)
@@ -15,6 +18,7 @@
 - consolidate ai-security/ — duplicate re-clip of same URL (adds Jul-28 advisors update); deduped into model-eval-cyber-incidents-2026.md; source deleted
 - consolidate ai-security/ — HF disclosure merged into model-eval-cyber-incidents-2026.md; source deleted
 - consolidate ai-security/ — Anthropic three-incidents merged into model-eval-cyber-incidents-2026.md; source deleted
+- consolidate agent-infrastructure/ — T-split resolved on human decision (3rd refine flag): 2-way split of harness-engineering (27 -> 16); new sibling topic agent-infrastructure (11 articles: scaling-managed-agents, managed-agents-self-hosted-sandboxes, managed-agents-dreams, agent-view-multi-agent-management, sandcastle-afk-agent-orchestration, graph-engineering-verification, computer-browser-use-best-practices, browser-mcp-visual-feedback, mcp-apps-interactive-ui, cache-diagnostics, excalidraw-plugin-external-edit-gotcha). Slugs preserved so [[ ]] survive; frontmatter topic: + related: repo-relative paths + body relative links rewritten across the bundle (14 files); both topic indexes rewritten (4 duplicate entries in the old index removed); bundle index updated with the new topic; 13 dangling in-bundle topic-name links repointed at topic indexes (brendan-foody, zevi-arnovitz, asha-sharma, bret-taylor, garrett-lord). okf=conformant; 0 orphans; both indexes in sync with disk.
 
 ## 2026-07-05
 - consolidate model-evaluation/ — dup of 2026-06-19 clipping (consolidated 06-20); new topic model-evaluation created, existing deployment-simulation article relocated + refreshed; source+images deleted

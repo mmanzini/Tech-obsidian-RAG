@@ -1,25 +1,31 @@
 ---
 type: synthesis
-title: "Jack Dorsey: Every Company Can Now Be a Mini-AGI"
+title: 'Jack Dorsey: Every Company Can Now Be a Mini-AGI'
 description: Jack Dorsey explains Block's December 2025 decision to execute a 40% RIF in under three weeks, driven by the thesis that AI has crossed the threshold where it can replace what middle management does — making hierarchy structurally obsolete rather than merely augmentable.
 bundle: ai-engineering
 topic: ai-organization
-tags: [ai-org-design, ai-native-business, practitioner-interview]
-source: Sequoia *Long Strange Trip* podcast (Brian Halligan host, April 2026) — with Jack Dorsey (Block CEO) and Roelof Botha (Sequoia
-resource:
-timestamp: 2026-05-09T07:33:19Z
-status: active
+tags:
+- ai-org-design
+- ai-native-business
+- practitioner-interview
+sources:
+- id: sequoia-long-strange-trip-podcast-brian-halligan-host-april-2026-with-jack-dorsey-block-ceo-and-roelof-botha-sequoia
+  resource: Sequoia *Long Strange Trip* podcast (Brian Halligan host, April 2026) — with Jack Dorsey (Block CEO) and Roelof Botha (Sequoia
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:33:19Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/ai-organization/openclaw-personal-agent-team.md
-  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
-  - ai-engineering/ai-organization/claude-code-productivity-takeaways.md
-  - ai-engineering/agent-architecture/twelve-factor-agents.md
-  - ai-engineering/product-leader-interviews/ravi-mehta.md
-  - ai-engineering/product-leader-interviews/robby-stein.md
-  - ai-engineering/product-leader-interviews/dr-fei-fei-li.md
-  - ai-engineering/ai-organization/product-management-ai-exponential.md
-  - ai-engineering/ai-organization/symbiotic-enterprise.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-organization/openclaw-personal-agent-team.md
+- ai-engineering/ai-organization/anthropic-growth-takeaways.md
+- ai-engineering/ai-organization/claude-code-productivity-takeaways.md
+- ai-engineering/agent-architecture/twelve-factor-agents.md
+- ai-engineering/product-leader-interviews/ravi-mehta.md
+- ai-engineering/product-leader-interviews/robby-stein.md
+- ai-engineering/product-leader-interviews/dr-fei-fei-li.md
+- ai-engineering/ai-organization/product-management-ai-exponential.md
+- ai-engineering/ai-organization/symbiotic-enterprise.md
 ---
 
 # Jack Dorsey: Every Company Can Now Be a Mini-AGI

@@ -1,14 +1,21 @@
 ---
 type: synthesis
-title: "Dr. Fei-Fei Li — Spatial intelligence and the humanist AI: past the cave, into the world"
+title: 'Dr. Fei-Fei Li — Spatial intelligence and the humanist AI: past the cave, into the world'
 description: Dr.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, ai-native-business, spatial-intelligence]
-source: https://www.youtube.com/watch?v=Ctjiatnd6Xk
+tags:
+- practitioner-interview
+- ai-native-business
+- spatial-intelligence
 resource: https://www.youtube.com/watch?v=Ctjiatnd6Xk
-timestamp: 2026-06-09T20:51:26Z
-status: active
+sources:
+- id: watch-v-ctjiatnd6xk
+  resource: https://www.youtube.com/watch?v=Ctjiatnd6Xk
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

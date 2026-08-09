@@ -4,11 +4,15 @@ title: When to Use RPI
 description: RPI is optimised for deterministic, multi-file changes (4+ files, complex dependencies, high error cost) and works poorly for exploratory, greenfield, or trivial work.
 bundle: ai-engineering
 topic: rpi-methodology
-tags: [agent-workflows, spec-driven-development, ai-org-design, context-engineering]
-source: self-authored
-resource:
-timestamp: 2026-04-29T21:54:50Z
-status: active
+tags:
+- agent-workflows
+- spec-driven-development
+- ai-org-design
+- context-engineering
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:54:50Z'
+status: stable
 related: []
 ---
 

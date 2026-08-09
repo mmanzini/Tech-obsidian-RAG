@@ -4,11 +4,18 @@ title: Tomer Cohen — AI-First PMs Control the Pedals
 description: Tomer Cohen (CPO, LinkedIn) argues that AI-era PMs are still the drivers controlling the pedals — the failure mode is PMs who let the model dictate the roadmap rather than treating it as horsepower in service of a clear destination.
 bundle: ai-engineering
 topic: product-leader-interviews
-tags: [practitioner-interview, product-management, ai-org-design, ai-native-business]
-source: Lenny's Podcast, Tomer Cohen (CPO, LinkedIn
-resource:
-timestamp: 2026-06-09T20:51:26Z
-status: active
+tags:
+- practitioner-interview
+- product-management
+- ai-org-design
+- ai-native-business
+sources:
+- id: lenny-s-podcast-tomer-cohen-cpo-linkedin
+  resource: Lenny's Podcast, Tomer Cohen (CPO, LinkedIn
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-09T20:51:26Z'
+status: stable
 related: []
 ---
 

@@ -4,11 +4,17 @@ title: Interaction Design Gap
 description: Design.md covers the visual layer (colours, typography, spacing, component appearance) but cannot represent state machines, animations, validation rules, event handlers, or responsive behaviour changes — the interaction design layer that sits between visual tokens and code implementation.
 bundle: ai-engineering
 topic: design-in-ai
-tags: [design-in-ai, spec-driven-development, context-engineering]
-source: synthesis — design-in-ai corpus
-resource:
-timestamp: 2026-05-09T07:23:23Z
-status: active
+tags:
+- design-in-ai
+- spec-driven-development
+- context-engineering
+sources:
+- id: synthesis-design-in-ai-corpus
+  resource: synthesis — design-in-ai corpus
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:23:23Z'
+status: stable
 related: []
 ---
 

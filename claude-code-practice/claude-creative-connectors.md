@@ -4,15 +4,23 @@ title: Claude for Creative Work — Connectors for the Creative Industry
 description: Anthropic released a set of MCP-based connectors that let Claude work alongside software creative professionals already rely on — Ableton, Adobe Creative Cloud, Affinity by Canva, Autodesk Fusion, Blender, Resolume, SketchUp, and Splice.
 bundle: ai-engineering
 topic: claude-code-practice
-tags: [claude-code, mcp, design-in-ai, skills-and-hooks]
-source: https://www.anthropic.com/news/claude-for-creative-work
+tags:
+- claude-code
+- mcp
+- design-in-ai
+- skills-and-hooks
 resource: https://www.anthropic.com/news/claude-for-creative-work
-timestamp: 2026-05-25T00:17:36Z
-status: active
+sources:
+- id: claude-for-creative-work
+  resource: https://www.anthropic.com/news/claude-for-creative-work
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-25T00:17:36Z'
+status: stable
 related:
-  - ai-engineering/agent-infrastructure/mcp-apps-interactive-ui.md
-  - ai-engineering/harness-engineering/skill-issue-harness-engineering.md
-  - ai-engineering/claude-code-practice/subagents-in-claude-code.md
+- ai-engineering/agent-infrastructure/mcp-apps-interactive-ui.md
+- ai-engineering/harness-engineering/skill-issue-harness-engineering.md
+- ai-engineering/claude-code-practice/subagents-in-claude-code.md
 ---
 
 # Claude for Creative Work — Connectors for the Creative Industry

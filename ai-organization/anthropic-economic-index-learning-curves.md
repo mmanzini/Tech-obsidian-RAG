@@ -1,19 +1,27 @@
 ---
 type: synthesis
-title: "Anthropic Economic Index: Learning Curves"
-description: "Anthropic's third Economic Index report (March 2026) tracks how Claude usage evolved over four months and identifies a strong learning-curve effect: users with 6+ months of tenure show a 10% higher conversation success rate and tackle more complex, work-focused tasks compared to newer users."
+title: 'Anthropic Economic Index: Learning Curves'
+description: 'Anthropic''s third Economic Index report (March 2026) tracks how Claude usage evolved over four months and identifies a strong learning-curve effect: users with 6+ months of tenure show a 10% higher conversation success rate and tackle more complex, work-focused tasks compared to newer users.'
 bundle: ai-engineering
 topic: ai-organization
-tags: [ai-org-design, ai-native-business, claude-code, product-management]
-source: https://www.anthropic.com/research/economic-index-march-2026-report
+tags:
+- ai-org-design
+- ai-native-business
+- claude-code
+- product-management
 resource: https://www.anthropic.com/research/economic-index-march-2026-report
-timestamp: 2026-05-09T07:03:05Z
-status: active
+sources:
+- id: economic-index-march-2026-report
+  resource: https://www.anthropic.com/research/economic-index-march-2026-report
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:03:05Z'
+status: stable
 related:
-  - ai-engineering/ai-organization/anthropic-growth-takeaways.md
-  - ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
-  - ai-engineering/ai-organization/ai-fluency-curriculum.md
-  - ai-engineering/ai-organization/product-job-market-2026.md
+- ai-engineering/ai-organization/anthropic-growth-takeaways.md
+- ai-engineering/ai-organization/from-hierarchy-to-intelligence.md
+- ai-engineering/ai-organization/ai-fluency-curriculum.md
+- ai-engineering/ai-organization/product-job-market-2026.md
 ---
 
 # Anthropic Economic Index: Learning Curves

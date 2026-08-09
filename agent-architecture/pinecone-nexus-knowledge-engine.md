@@ -4,16 +4,25 @@ title: Pinecone Nexus — Knowledge Engine for Agents
 description: Most agent failures are data failures, not model failures.
 bundle: ai-engineering
 topic: agent-architecture
-tags: [context-engineering, agent-architecture, knowledge-management, evals, harness-engineering]
-source: https://www.pinecone.io/blog/introducing-nexus-knowledge-engine/
+tags:
+- context-engineering
+- agent-architecture
+- knowledge-management
+- evals
+- harness-engineering
 resource: https://www.pinecone.io/blog/introducing-nexus-knowledge-engine/
-timestamp: 2026-06-02T13:33:31Z
-status: active
+sources:
+- id: introducing-nexus-knowledge-engine
+  resource: https://www.pinecone.io/blog/introducing-nexus-knowledge-engine/
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-02T13:33:31Z'
+status: stable
 related:
-  - ai-engineering/agent-architecture/chip-huyen.md
-  - ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
-  - ai-engineering/agent-architecture/lecun-jepa-world-models.md
-  - ai-engineering/agent-architecture/episodic-memory-agentcore.md
+- ai-engineering/agent-architecture/chip-huyen.md
+- ai-engineering/agent-architecture/lethal-trifecta-and-agentic-patterns.md
+- ai-engineering/agent-architecture/lecun-jepa-world-models.md
+- ai-engineering/agent-architecture/episodic-memory-agentcore.md
 ---
 
 # Pinecone Nexus — Knowledge Engine for Agents

@@ -4,15 +4,22 @@ title: Team Agentic OS — the three-tier file model and GBrain lineage
 description: A blueprint for scaling a single-user agentic OS — a set of folders and files that inject the right context at the right moment — into a team system that is "shared where it should be, private where it shouldn't." It borrows from Garry Tan's GBrain and from software-architecture principles (separate what changes often from what stays stable), and rests on three tiers (human-edited / agent-edited / version control), access control across four systems, and a markdown-first substrate that avoids vendor lock-in.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-management, ai-org-design, agent-memory, context-engineering]
-source: ../../../Resources/transcriptions/you-tube/transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md
-resource:
-timestamp: 2026-06-05T05:02:31Z
-status: active
+tags:
+- knowledge-management
+- ai-org-design
+- agent-memory
+- context-engineering
+sources:
+- id: transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use
+  resource: ../../../Resources/transcriptions/you-tube/transcript-how-to-build-an-agentic-os-your-whole-team-can-actually-use.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-05T05:02:31Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/agentic-knowledge-engine-team-security.md
-  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
-  - ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
+- ai-engineering/knowledge-engineering/agentic-knowledge-engine-team-security.md
+- ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+- ai-engineering/knowledge-engineering/karpathy-llm-knowledge-bases.md
 ---
 
 # Team Agentic OS — the three-tier file model and GBrain lineage

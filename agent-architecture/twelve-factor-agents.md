@@ -4,11 +4,20 @@ title: Twelve-Factor Agents
 description: A set of 12 principles for building LLM-powered software reliable enough to put in front of production customers.
 bundle: ai-engineering
 topic: agent-architecture
-tags: [agent-architecture, context-engineering, harness-engineering, agent-workflows, long-running-agents]
-source: https://github.com/humanlayer/12-factor-agents
+tags:
+- agent-architecture
+- context-engineering
+- harness-engineering
+- agent-workflows
+- long-running-agents
 resource: https://github.com/humanlayer/12-factor-agents
-timestamp: 2026-04-29T21:24:51Z
-status: active
+sources:
+- id: 12-factor-agents
+  resource: https://github.com/humanlayer/12-factor-agents
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-04-29T21:24:51Z'
+status: stable
 related: []
 ---
 

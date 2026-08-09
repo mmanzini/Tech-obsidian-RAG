@@ -4,14 +4,20 @@ title: Atlas Sync Operations — Practical Command Reference
 description: Operational companion to [[atlas-sync-architecture|Atlas Sync Architecture]], providing the practical commands, procedures, and troubleshooting playbook for running, debugging, and extending the Atlas ↔ public-repos sync.
 bundle: ai-engineering
 topic: knowledge-engineering
-tags: [knowledge-management, harness-engineering, skills-and-hooks]
-source: ../../../Resources/documents/sync-operations.md
-resource:
-timestamp: 2026-05-28T11:25:51Z
-status: active
+tags:
+- knowledge-management
+- harness-engineering
+- skills-and-hooks
+sources:
+- id: sync-operations
+  resource: ../../../Resources/documents/sync-operations.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-28T11:25:51Z'
+status: stable
 related:
-  - ai-engineering/knowledge-engineering/atlas-sync-architecture.md
-  - ai-engineering/claude-code-practice/claude-code-routines.md
+- ai-engineering/knowledge-engineering/atlas-sync-architecture.md
+- ai-engineering/claude-code-practice/claude-code-routines.md
 ---
 
 # Atlas Sync Operations — Practical Command Reference

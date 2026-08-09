@@ -1,3 +1,7 @@
+---
+okf_version: "0.2"
+---
+
 # AI Engineering
 
 **Scope**: How to build with AI: agent architecture and workflows, the harness layer around coding agents (CLAUDE.md, MCP, skills, hooks, sub-agents, long-running patterns), structured methodologies (RPI, spec-driven development, adversarial review), AI-native verticals (banking, open-data apps), AI security, design tooling for agents, and the AI-bound PM craft (eval design for AI products, AI-prototyping, the AI-accelerated PM role). Belongs here: anything about *how to build well with AI* — tools, patterns, methodologies. Does **not** belong here: evergreen PM craft (that goes to top-level `product-management`); team/operating models that aren't AI-specific (that goes to top-level `way-of-working`); macro/geopolitical commentary on AI as market/policy (that goes to `political-economy`); raw GitHub trending repo writeups (`github-trends`). Boundary test for PM/WoW topics: *if I removed AI from the picture, would this article still make sense?* If yes, it belongs in the top-level bundle; if it is fundamentally about AI's effect on PM/team practice, it belongs here. Articles that fit both Scope paragraphs are duplicated per hard-rule 2.
